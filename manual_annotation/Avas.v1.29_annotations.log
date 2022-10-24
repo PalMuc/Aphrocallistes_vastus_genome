@@ -1,0 +1,1476 @@
+# Getting manual annotations from -m
+# Reading GFF file manually_edited_genes_revised.gff
+# File contained:
+#exon	1397
+#CDS	1181
+#mRNA	270
+#gene	224
+#rRNA	22
+#transcript	3
+# Collected exons for 295 transcripts
+# Getting main gene annotation from -g
+# Reading GFF file BRAKER2_ONT-RNA.revised.sort.gff3
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g9644.t1, 4408681 4409142 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g10211.t1, 6262816 6263874 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g10310.t1, 6585268 6586629 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g10384.t1, 6816411 6816824 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g10457.t1, 7081544 7082272 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g10561.t1, 7702473 7703132 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g10586.t1, 7768721 7769350 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11896.t1, 381799 382176 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11915.t1, 460689 461027 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11946.t1, 557938 558789 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g12166.t1, 1315057 1316193 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g12303.t1, 1969977 1970300 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g12444.t1, 2644422 2644752 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g12444.t1, 2647189 2647241 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g12625.t1, 3569752 3570072 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11070.t1, 911835 912740 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11200.t1, 1256605 1257144 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11440.t1, 2388363 2388713 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11491.t1, 2824529 2824768 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11492.t1, 2825565 2826380 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11493.t1, 2828550 2828981 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11494.t1, 2832020 2832310 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11620.t1, 3858925 3860064 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11706.t1, 4139406 4139741 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11707.t1, 4143080 4143460 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g11709.t1, 4148210 4148635 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g7610.t1, 364663 365253 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g7611.t1, 366287 366928 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g7612.t1, 367524 368105 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g7619.t1, 381642 382739 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g7620.t1, 391899 393014 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g17661.t1, 1239404 1240504 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g17711.t1, 1376383 1376997 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g17712.t1, 1379103 1379819 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g17713.t1, 1382016 1382438 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g17785.t1, 1527755 1532215 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g17787.t1, 1538711 1539145 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g17788.t1, 1540257 1540634 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g18474.t1, 3464234 3465331 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g18536.t1, 3623132 3623524 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g5909.t1, 784198 784677 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g5910.t1, 785407 785871 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g6169.t1, 1587341 1588102 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g6331.t1, 2248442 2248837 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g6396.t1, 2517541 2517804 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g6644.t1, 3648242 3650692 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g15521.t1, 271023 271844 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g15523.t1, 286095 286724 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g16246.t1, 3617741 3619186 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g3525.t1, 373471 374625 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g3581.t1, 516330 516851 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g3584.t1, 523362 523853 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g12855.t1, 123756 125081 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g12858.t1, 158221 158502 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g12859.t1, 197235 197504 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g12876.t1, 268999 269384 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g12876.t1, 271059 271851 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g12880.t1, 309165 309860 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g13079.t1, 1394475 1394831 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g13120.t1, 1537242 1538078 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g13196.t1, 1850764 1852041 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g13455.t1, 2795726 2796076 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g13459.t1, 2833224 2833985 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g13491.t1, 2924696 2925022 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2756.t1, 992023 992340 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2766.t1, 1042420 1042665 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2767.t1, 1043256 1043468 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2774.t1, 1072290 1072505 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2774.t1, 1072576 1072665 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2833.t1, 1381580 1381774 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2833.t2, 1381762 1382445 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2833.t1, 1381831 1382337 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2979.t1, 2122279 2123784 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g3167.t1, 2843629 2844444 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g3168.t1, 2845265 2846623 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g3172.t1, 2880223 2880497 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g3172.t1, 2880571 2880655 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g3173.t1, 2880810 2881715 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g14829.t1, 306866 307684 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g14970.t1, 906929 907068 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g14970.t1, 907221 907386 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g14978.t1, 948875 949152 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g14978.t1, 949368 949593 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g14987.t1, 1045488 1045910 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g14995.t1, 1091129 1091398 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g14996.t1, 1091851 1092201 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g15042.t1, 1357695 1358012 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g15073.t1, 1663917 1664234 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g15074.t1, 1664845 1665297 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g18881.t1, 256548 257750 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g18881.t2, 256548 258584 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g18932.t1, 567735 568076 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g18933.t1, 568101 568538 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g18939.t1, 614436 615017 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g18947.t1, 643880 644188 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g18950.t1, 655306 655704 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g18966.t1, 751582 751918 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g18966.t1, 752135 752850 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g18971.t1, 819743 820138 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19066.t1, 1412080 1412163 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19066.t1, 1419751 1420083 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19068.t1, 1447415 1447723 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19087.t1, 1554007 1554336 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19089.t1, 1578407 1578410 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19089.t1, 1578555 1578787 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19123.t1, 1820386 1820607 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19124.t1, 1820646 1821026 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19192.t1, 2373376 2373664 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19192.t1, 2373724 2373899 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19192.t1, 2373970 2374333 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19192.t1, 2374401 2374576 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19234.t1, 2637341 2637414 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19234.t1, 2637474 2637759 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g19285.t1, 3080589 3081032 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g7064.t1, 1706158 1706830 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g7064.t1, 1707015 1707340 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1823.t1, 145482 146069 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2124.t1, 1120877 1121195 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2124.t1, 1122334 1122479 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2130.t1, 1160858 1161051 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2130.t1, 1161162 1161375 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2131.t1, 1164876 1165133 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2132.t1, 1175289 1175346 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2132.t1, 1175451 1175632 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2196.t1, 1659060 1659410 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g2472.t1, 2723706 2724686 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g16949.t1, 622995 623675 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g17373.t1, 2484436 2485030 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g17373.t1, 2485408 2486009 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g17398.t1, 2571025 2571585 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g5100.t1, 27197 27532 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g5226.t1, 427922 428464 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g5350.t1, 923788 924921 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g5383.t1, 1041901 1042593 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g5438.t1, 1231776 1233884 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g60.t1, 225938 227053 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g61.t1, 233169 234407 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g292.t1, 1478003 1478248 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g292.t1, 1478401 1478652 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1279.t1, 352598 352996 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1417.t1, 988900 989328 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1418.t1, 989558 989687 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1418.t1, 989782 990119 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1458.t1, 1182451 1182951 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1459.t1, 1183655 1184008 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1500.t1, 1494444 1494782 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1501.t1, 1505051 1505392 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1502.t1, 1505946 1506320 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1503.t1, 1508317 1508664 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g4670.t1, 702373 702687 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g4754.t1, 1044282 1044581 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g4871.t1, 1450672 1452255 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g13697.t1, 114321 114800 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g13789.t1, 414799 415287 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g925.t1, 996380 997024 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1065.t1, 1473772 1474203 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g467.t1, 388668 388760 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g467.t1, 388841 389083 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g476.t1, 473148 473882 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g479.t1, 489797 490183 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g483.t1, 514478 514954 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1632.t1, 48189 48407 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1649.t1, 154877 155359 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1650.t1, 161459 161800 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1678.t1, 380817 381047 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1680.t1, 381888 382142 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1697.t1, 461640 462620 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1714.t1, 592285 593247 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1716.t1, 601315 601598 , check GFF
+ERROR: identical bounds of subfeature exon within brakerONT.m1-g1716.t1, 601672 601969 , check GFF
+# File contained:
+#exon	53762
+#CDS	53592
+#intron	33079
+#mRNA	20513
+#gene	19317
+# Collected exons for 20513 transcripts
+# 170 errors detected
+# Getting alternate annotation from -a
+# Reading GFF file BRAKER2_ref_proteins_aln.gff3
+# File contained:
+#exon	41596
+#CDS	40762
+#five_prime_cis_splice_site	25225
+#three_prime_cis_splice_site	25225
+#mRNA	16371
+#gene	13966
+# Collected exons for 16371 transcripts
+# Reading GFF file BRAKER2_PE-RNA.gff3
+ERROR: identical bounds of subfeature exon within m1-g10988.t1, 1527755 1532215 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g7604.t1, 4408681 4409142 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g248.t1, 1381580 1381774 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g248.t1, 1381831 1382445 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g10991.t1, 1540257 1540634 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2078.t1, 989558 989672 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2078.t1, 989782 990119 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g1917.t1, 261029 261685 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5773.t1, 388668 388760 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5773.t1, 388841 389083 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8540.t1, 7768721 7769350 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g15596.t1, 1092507 1093016 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9843.t1, 1714336 1714926 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9848.t1, 1749302 1749817 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g17630.t1, 3648242 3650692 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13064.t1, 1706158 1706830 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13064.t1, 1707015 1707340 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g10032.t1, 2505452 2506735 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2118.t1, 1308271 1308339 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2118.t1, 1308459 1308723 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2118.t1, 1308786 1309693 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9849.t1, 1754528 1754842 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g12328.t1, 427922 428464 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g10025.t1, 2478051 2479337 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2504.t1, 373471 374625 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g12479.t1, 1041901 1042593 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g11733.t1, 3623132 3623524 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4494.t1, 1820386 1820565 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4494.t1, 1820637 1821026 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g16892.t1, 784198 784677 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4319.t1, 656233 656496 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g10990.t1, 1538711 1539145 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9468.t1, 145482 146069 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g15253.t1, 114321 114800 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4663.t1, 3059510 3059628 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4663.t1, 3059712 3059874 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g14718.t1, 368615 368935 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2184.t1, 1649284 1650066 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4269.t1, 388761 389255 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g3932.t1, 996380 997024 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9770.t1, 1164876 1165133 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13857.t1, 158221 158556 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4458.t1, 1554007 1554336 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4856.t1, 460689 461027 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8958.t1, 1091851 1092201 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5104.t1, 1315057 1316193 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5985.t1, 408124 408624 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8412.t1, 7081544 7082272 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2151.t1, 1505946 1506320 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13859.t1, 197235 197504 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g18489.t1, 2728573 2729469 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5784.t1, 473148 473882 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5793.t1, 514478 514954 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g10114.t1, 2723706 2724686 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g15885.t1, 286095 286724 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g173.t1, 991489 991581 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g173.t1, 992056 992340 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9840.t1, 1659060 1659410 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9842.t1, 1713484 1713840 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9769.t1, 1160858 1161051 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9769.t1, 1161162 1161375 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4265.t1, 372001 373617 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9040.t1, 1730293 1730692 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9040.t1, 1730878 1731104 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g14869.t1, 1044282 1044581 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13005.t1, 1403025 1403468 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g16346.t1, 2055277 2055615 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g16345.t1, 2050971 2051855 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4837.t1, 381799 382176 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g159.t1, 884191 884712 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5673.t1, 4016268 4016434 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5673.t1, 4018976 4019037 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5673.t1, 4019355 4019647 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9037.t1, 1664495 1664574 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9037.t1, 1664793 1665297 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g12533.t1, 1231776 1233884 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4483.t1, 1749501 1749800 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g18865.t1, 225938 227053 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13600.t1, 308486 309379 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g6439.t1, 2484436 2485158 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g6439.t2, 2484436 2484990 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g6439.t2, 2485428 2486009 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5576.t1, 3600902 3601306 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g17641.t1, 3686590 3687717 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2152.t1, 1508317 1508664 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g12319.t1, 391204 391560 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g18497.t1, 2828550 2828981 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g17152.t1, 1587341 1588102 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4570.t1, 2373376 2373664 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4570.t1, 2373724 2373899 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4570.t1, 2373970 2374333 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4570.t1, 2374401 2374576 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g580.t1, 2845265 2846623 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8265.t1, 6585268 6586629 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2116.t1, 1300696 1300980 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4886.t1, 557938 558789 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2112.t1, 1182451 1182853 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2112.t1, 1183255 1183461 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2112.t1, 1183650 1184008 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8164.t1, 6262816 6263874 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g585.t1, 2880810 2881715 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g11913.t1, 87925 88308 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5964.t1, 251532 251906 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g1941.t1, 352598 352996 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g10917.t1, 1379103 1379819 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g11923.t1, 161459 161800 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5786.t1, 489291 489674 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13858.t1, 189027 189413 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g17349.t1, 2446502 2447791 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8339.t1, 6816411 6816824 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g15341.t1, 414799 415287 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5980.t1, 358746 359246 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g894.t1, 381642 382739 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g17312.t1, 2248442 2248837 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g189.t1, 1072290 1072505 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g189.t1, 1072576 1072665 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5168.t1, 1620770 1621222 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8790.t1, 306866 307684 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g11977.t1, 592285 593247 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5788.t1, 490913 491227 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4263.t1, 352280 352690 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g14478.t1, 2924696 2925022 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13877.t1, 309165 309860 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g18449.t1, 2443800 2444048 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4315.t1, 643880 644188 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4624.t1, 2720767 2721537 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g6409.t1, 2332936 2333850 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4318.t1, 655306 655704 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g10916.t1, 1376383 1376997 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4437.t1, 1412080 1412163 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4437.t1, 1419751 1420083 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13611.t1, 362204 363388 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g6933.t1, 1837690 1837959 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g18496.t1, 2825565 2826380 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8956.t1, 1090487 1090843 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g10417.t1, 818761 819066 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4439.t1, 1447083 1447316 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g12446.t1, 923788 924921 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g584.t1, 2880223 2880507 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4299.t1, 567735 568076 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9041.t1, 1735071 1735442 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g391.t1, 2122279 2123784 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g6012.t1, 593962 594129 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g6012.t1, 595918 596211 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g14186.t1, 1850764 1852041 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g17313.t1, 2270821 2271005 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g17313.t1, 2271169 2271529 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9844.t1, 1719497 1719637 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9844.t1, 1720067 1720489 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g895.t1, 391899 393014 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g14786.t1, 702373 702687 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g11907.t1, 48189 48407 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g18210.t1, 1256605 1257144 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g16375.t1, 2393649 2394164 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8957.t1, 1091129 1091398 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g7426.t1, 3590421 3591629 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g18495.t1, 2824529 2824768 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4307.t1, 614436 615017 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4636.t1, 2832383 2832868 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13255.t1, 2476227 2477108 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g18445.t1, 2388363 2388713 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4336.t1, 751582 751918 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4336.t1, 752135 752850 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g14020.t1, 1161955 1162194 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g10918.t1, 1382016 1382438 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g11909.t1, 69688 69978 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g14984.t1, 1450672 1452255 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g3191.t1, 2667122 2668201 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g6829.t1, 1515246 1517159 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5578.t1, 3607830 3608036 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5578.t1, 3608597 3608887 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4248.t2, 256548 257750 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4248.t3, 256548 258584 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4248.t4, 256548 257132 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4248.t1, 256548 257477 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g11910.t1, 78876 79619 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5391.t1, 2644422 2644752 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5391.t1, 2647371 2647471 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4482.t1, 1743316 1743952 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4482.t1, 1744078 1744085 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13873.t1, 268999 269384 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13873.t1, 271059 271851 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g887.t1, 367524 368105 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g18488.t1, 2728173 2728505 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4644.t1, 2947240 2947469 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4644.t1, 2950452 2950620 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4644.t1, 2950687 2950725 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g7367.t1, 3324387 3325217 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9771.t1, 1175289 1175346 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9771.t1, 1175451 1175632 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8844.t1, 506843 507139 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5792.t1, 513858 514481 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4440.t1, 1447415 1447723 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8931.t1, 906929 907068 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8931.t1, 907221 907386 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g10867.t1, 1239404 1240504 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5968.t1, 265697 265987 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2562.t1, 523362 523853 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4073.t1, 1473772 1474203 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g11673.t1, 3464234 3465331 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g15328.t1, 362059 362550 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5676.t1, 4066606 4067190 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8515.t1, 7702473 7703132 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g579.t1, 2843629 2844444 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g14443.t1, 2795726 2796076 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g8948.t1, 1045488 1045910 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5787.t1, 489797 490183 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4664.t1, 3080589 3081032 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g885.t1, 364663 365253 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g10026.t1, 2481776 2482810 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g12597.t1, 1487436 1487741 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g6408.t1, 2332645 2332911 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g16027.t1, 776238 776604 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g16027.t1, 777320 777492 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4341.t1, 819743 820138 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5573.t1, 3569752 3570072 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g14112.t1, 1537242 1538078 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2077.t1, 988900 989328 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4300.t1, 568101 568538 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4460.t1, 1578407 1578410 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4460.t1, 1578555 1578787 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g6957.t1, 2022005 2022328 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g15572.t1, 1028736 1029974 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g886.t1, 366287 366928 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g16893.t1, 785407 785871 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9005.t1, 1357695 1358012 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2150.t1, 1505051 1505392 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g6017.t1, 622995 623675 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5986.t1, 408789 409115 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5831.t1, 774681 774715 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g5831.t1, 775670 776126 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g14447.t1, 2833224 2833985 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2559.t1, 516330 516851 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g11968.t1, 461640 462620 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13605.t1, 325518 327761 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4266.t1, 373650 373689 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4266.t1, 373837 374549 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g9866.t1, 1867162 1868019 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g18498.t1, 2832020 2832310 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g18866.t1, 233169 234407 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g11922.t1, 154877 155359 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13805.t1, 1157542 1157745 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13805.t1, 1158130 1158231 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2117.t1, 1307381 1307717 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2117.t1, 1307846 1308177 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4272.t1, 404710 405564 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g13006.t1, 1403911 1404186 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2114.t1, 1206586 1206915 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g18618.t1, 3858925 3860064 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g2149.t1, 1494444 1494782 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g4638.t1, 2844653 2845459 , check GFF
+ERROR: identical bounds of subfeature exon within m1-g14071.t1, 1394475 1394831 , check GFF
+# File contained:
+#exon	55839
+#CDS	55587
+#intron	35091
+#mRNA	20496
+#stop_codon	20459
+#start_codon	20456
+#gene	19266
+# Collected exons for 20496 transcripts
+# 252 errors detected
+# Reading GFF file PINFISH_stranded.gff
+# File contained:
+#exon	65808
+#transcript	29646
+# Collected exons for 29646 transcripts
+# Reading GFF file PINFISH_stepwise.gff
+# File contained:
+#exon	53778
+#transcript	31209
+# Collected exons for 31209 transcripts
+# Reading GFF file PINFISH_pipeline.gff
+# File contained:
+#exon	69542
+#transcript	41303
+# Collected exons for 41303 transcripts
+# Reading GFF file STRG_PE-RNA_stranded.gff
+# File contained:
+#exon	62931
+#transcript	34248
+# Collected exons for 34248 transcripts
+# Reading GFF file STRG_PE-RNA_hisat2.gff
+# File contained:
+#exon	98640
+#transcript	31605
+# Collected exons for 31605 transcripts
+# Reading GFF file STRG_ONT-RNA.gff
+# File contained:
+#exon	48400
+#transcript	20173
+# Collected exons for 20173 transcripts
+# Reading GFF file STRG_ONT-RNA_minimap2.gff
+# File contained:
+#exon	74186
+#transcript	27459
+# Collected exons for 27459 transcripts
+# Reading annotation table from Avas_manual_annotation_2022-02-11.fix.tsv
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.81.1 in Avas.s001.g59.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.90.1 in Avas.s001.g67.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.91.2 in Avas.s001.g68.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.96.1 in Avas.s001.g74.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg3409.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg3454.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg3455.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE125.t1 in Avas.s001.g269.i1
+REVERSE flag found: forcing reverse strand - for MSE126.t1 in Avas.s001.g271.i1
+REVERSE flag found: forcing reverse strand - for MSE127.t1 in Avas.s001.g273.i1
+REVERSE flag found: forcing reverse strand - for MSE128.t1 in Avas.s001.g274.i1
+FORWARD flag found: forcing forward strand + for MSE129.t1 in Avas.s001.g275.i1
+FORWARD flag found: forcing forward strand + for MSE130.t1 in Avas.s001.g276.i1
+FORWARD flag found: forcing forward strand + for MSE131.t1 in Avas.s001.g278.i1
+FORWARD flag found: forcing forward strand + for MSE132.t1 in Avas.s001.g280.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.275.1 in Avas.s001.g282.i1
+FORWARD flag found: forcing forward strand + for MSE133.t1 in Avas.s001.g283.i1
+REVERSE flag found: forcing reverse strand - for MSE134.t1 in Avas.s001.g286.i1
+REVERSE flag found: forcing reverse strand - for MSE135.t1 in Avas.s001.g287.i1
+REVERSE flag found: forcing reverse strand - for MSE136.t1 in Avas.s001.g289.i1
+FORWARD flag found: forcing forward strand + for MSE137.t1 in Avas.s001.g291.i1
+REVERSE flag found: forcing reverse strand - for MSE138.t1 in Avas.s001.g292.i1
+REVERSE flag found: forcing reverse strand - for MSE139.t1 in Avas.s001.g294.i1
+REVERSE flag found: forcing reverse strand - for MSE140.t1 in Avas.s001.g299.i1
+FORWARD flag found: forcing forward strand + for MSE141.t1 in Avas.s001.g301.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.60.1 in Avas.s001.g310.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.62.1 in Avas.s001.g311.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.300.1 in Avas.s001.g322.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.301.1 in Avas.s001.g324.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.305.1 in Avas.s001.g330.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.307.1 in Avas.s001.g332.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_c0c07465-0e8a-481d-8526-4d91a7e00bbb in Avas.s001.g395.i1
+REVERSE flag found: forcing reverse strand - for MSE231.t1 in Avas.s001.g450.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg3633.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.424.1 in Avas.s001.g483.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.441.1 in Avas.s001.g503.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg3682.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.445.1 in Avas.s001.g505.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.451.1 in Avas.s001.g511.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.458.1 in Avas.s001.g528.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.475.1 in Avas.s001.g545.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.486.1 in Avas.s001.g556.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_485cb50e-dc8a-42c6-8bf6-81e743bc86bf in Avas.s001.g563.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.524.1 in Avas.s001.g602.i1
+REVERSE flag found: forcing reverse strand - for PIN_pipeline_transcript_65605b85-78ad-49a4-aaa0-495556d44088 in Avas.s001.g611.i1
+FORWARD flag found: forcing forward strand + for MSE143.t1 in Avas.s001.g632.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.1743.1 in Avas.s001.g656.i1
+REVERSE flag found: forcing reverse strand - for fs_on_scaffold_001_1 in Avas.s001.g709.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.588.1 in Avas.s001.g722.i1
+REVERSE flag found: forcing reverse strand - for fs_on_scaffold_001_2 in Avas.s001.g724.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg3903.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for PIN_pipeline_transcript_3e886e67-f3b4-4320-8f76-d82d0e202e1b in Avas.s001.g753.i1
+REVERSE flag found: forcing reverse strand - for PIN_stepwise_transcript_b1e3fe57-284f-4e01-82a7-85023f03f34f in Avas.s001.g753.i2
+INFORMATION: cannot find alternate isoform brakerONT.jg3945.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg3966.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_1e781947-9c0e-4eed-8138-cece34022274 in Avas.s001.g815.i1
+FORWARD flag found: forcing forward strand + for PIN_stepwise_transcript_2cc40440-5628-4c3d-b428-0543233d70c9 in Avas.s001.g845.i1
+FORWARD flag found: forcing forward strand + for PIN_stepwise_transcript_b8b3d153-6036-4c7e-86c9-9818d679ccb0 in Avas.s001.g845.i2
+INFORMATION: cannot find alternate isoform brakerONT.jg4011.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4078.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4097.t6, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4137.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE001.t1 in Avas.s001.g1015.i1
+REVERSE flag found: forcing reverse strand - for MSE002.t1 in Avas.s001.g1038.i1
+REVERSE flag found: forcing reverse strand - for MSE003.t1 in Avas.s001.g1040.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg4245.t3, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4245.t4, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4245.t5, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE004.t1 in Avas.s001.g1103.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg4276.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4315.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4333.t3, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4335.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_7efe8d1e-e0e9-4746-a306-23362f8209b7 in Avas.s001.g1236.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_d4ef0b3f-3338-42c6-a1aa-b5fef3d70b32 in Avas.s001.g1237.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg4413.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4435.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4561.t3, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4566.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4629.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4700.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4710.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4729.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4738.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4743.t3, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4759.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4761.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4777.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4803.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.2390.1 in Avas.s001.g1642.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg4819.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4820.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4866.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4866.t3, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4877.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4895.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg4929.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg5165.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg5172.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg5177.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE005.t1 in Avas.s001.g2008.i1
+FORWARD flag found: forcing forward strand + for MSE006.t1 in Avas.s001.g2009.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg5218.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE007.t1 in Avas.s001.g2066.i1
+REVERSE flag found: forcing reverse strand - for MSE008.t1 in Avas.s001.g2070.i1
+REVERSE flag found: forcing reverse strand - for MSE009.t1 in Avas.s001.g2071.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg5293.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg5317.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg5326.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg5336.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg5342.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg5357.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg14735.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.1675.1 in Avas.s002.g158.i1
+REVERSE flag found: forcing reverse strand - for PIN_stepwise_transcript_2212aed8-32f9-4bc6-ae01-1ac87408a0af in Avas.s002.g178.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg14865.t3, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg14866.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.1770.1 in Avas.s002.g298.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.1781.1 in Avas.s002.g311.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_df7ff21e-5753-4cba-b842-e1c2a8dfc9e2 in Avas.s002.g340.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.1817.1 in Avas.s002.g350.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg15029.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg15031.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg15064.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.1852.1 in Avas.s002.g410.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.1893.1 in Avas.s002.g461.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.1897.1 in Avas.s002.g466.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.1937.1 in Avas.s002.g494.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.1939.1 in Avas.s002.g496.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.1947.1 in Avas.s002.g504.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg15158.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg15173.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_42a1eb4f-308c-4e1f-8b24-c0546a03ccc3 in Avas.s002.g859.i1
+REVERSE flag found: forcing reverse strand - for MSE010.t1 in Avas.s002.g901.i1
+FORWARD flag found: forcing forward strand + for MSE011.t1 in Avas.s002.g908.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.1297.1 in Avas.s002.g930.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.2275.1 in Avas.s003.g32.i1
+REVERSE flag found: forcing reverse strand - for PIN_pipeline_transcript_83499fda-e661-405d-89e7-bdf00b2edfca in Avas.s003.g43.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg9845.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9887.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9889.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.2354.1 in Avas.s003.g122.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg9916.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9930.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9931.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9939.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9952.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.2396.1 in Avas.s003.g170.i1
+REVERSE flag found: forcing reverse strand - for MSE012.t1 in Avas.s003.g171.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.2398.1 in Avas.s003.g175.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.2522.1 in Avas.s003.g319.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg10217.t3, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg10262.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg10382.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.2917.1 in Avas.s003.g651.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg10432.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg10572.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.3074.1 in Avas.s003.g812.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg10588.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg10592.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg10612.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE144.t1 in Avas.s003.g852.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg10634.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.3149.1 in Avas.s003.g871.i1
+FORWARD flag found: forcing forward strand + for MSE013.t1 in Avas.s003.g881.i1
+FORWARD flag found: forcing forward strand + for MSE014.t1 in Avas.s003.g886.i1
+FORWARD flag found: forcing forward strand + for MSE015.t1 in Avas.s003.g887.i1
+FORWARD flag found: forcing forward strand + for MSE016.t1 in Avas.s003.g888.i1
+FORWARD flag found: forcing forward strand + for MSE017.t1 in Avas.s003.g889.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.3181.1 in Avas.s003.g892.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.3212.1 in Avas.s003.g921.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.3213.1 in Avas.s003.g922.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.3215.1 in Avas.s003.g924.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.3251.1 in Avas.s003.g972.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.3304.1 in Avas.s004.g137.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg13776.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE018.t1 in Avas.s004.g172.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.4558.1 in Avas.s004.g291.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.3457.1 in Avas.s004.g319.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.3470.1 in Avas.s004.g328.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.3551.1 in Avas.s004.g435.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg14075.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.3605.1 in Avas.s004.g507.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg14148.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for PIN_pipeline_transcript_f229ae09-2e77-48f3-ac64-bb48b554762e in Avas.s004.g597.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.3707.1 in Avas.s004.g622.i1
+REVERSE flag found: forcing reverse strand - for fs_on_scaffold_004_3 in Avas.s004.g791.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg14400.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE145.t1 in Avas.s004.g841.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg14412.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.5511.1 in Avas.s004.g844.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.5520.1 in Avas.s004.g854.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.5532.1 in Avas.s004.g865.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.5549.1 in Avas.s004.g881.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.5618.1 in Avas.s004.g956.i1
+FORWARD flag found: forcing forward strand + for MSE146.t1 in Avas.s004.g964.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.5637.1 in Avas.s004.g976.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.5638.1 in Avas.s004.g977.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.5657.2 in Avas.s004.g998.i1
+FORWARD flag found: forcing forward strand + for MSE147.t1 in Avas.s004.g1011.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_3c00e890-68b1-45cc-b193-91352235b412 in Avas.s005.g8.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.3789.1 in Avas.s005.g18.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.3791.1 in Avas.s005.g20.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.5440.1 in Avas.s005.g21.i1
+FORWARD flag found: forcing forward strand + for s005.mRNA19 in Avas.s005.g24.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.3802.1 in Avas.s005.g26.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.3821.1 in Avas.s005.g37.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_89a03167-ecc4-47eb-9611-ec0c41922895 in Avas.s005.g43.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.3844.1 in Avas.s005.g54.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.3857.1 in Avas.s005.g72.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.3864.1 in Avas.s005.g80.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.5594.1 in Avas.s005.g100.i1
+REVERSE flag found: forcing reverse strand - for MSE150.t1 in Avas.s005.g101.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_d5aad5dd-9126-4864-b926-f972640703a1 in Avas.s005.g120.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.3925.1 in Avas.s005.g148.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_299a5db0-0824-4660-b172-67e0dc4cc163 in Avas.s005.g151.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg17144.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for PIN_pipeline_transcript_24af0b59-ebb0-40db-b9cd-ce03f83c32ba in Avas.s005.g255.i1
+FORWARD flag found: forcing forward strand + for PIN_pipeline_transcript_704fa25e-a7f9-41ec-9789-e9c36364f982 in Avas.s005.g256.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.4035.1 in Avas.s005.g267.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.4039.1 in Avas.s005.g275.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg17189.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.4083.1 in Avas.s005.g320.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.4084.1 in Avas.s005.g321.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.4089.1 in Avas.s005.g326.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.4090.1 in Avas.s005.g327.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.4091.1 in Avas.s005.g328.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.4092.1 in Avas.s005.g329.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_6bd4f982-edb8-4023-a06b-01d0a23c7dd6 in Avas.s005.g343.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.4107.1 in Avas.s005.g349.i1
+FORWARD flag found: forcing forward strand + for MSE019.t1 in Avas.s005.g364.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.4119.1 in Avas.s005.g367.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.4132.1 in Avas.s005.g386.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.3761.1 in Avas.s005.g395.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg17297.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE151.t1 in Avas.s005.g431.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg17335.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17349.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17354.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17457.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17491.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE020.t1 in Avas.s005.g594.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg17525.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.5939.1 in Avas.s005.g629.i1
+FORWARD flag found: forcing forward strand + for PIN_pipeline_transcript_42bab79d-a18e-4e00-9602-ce4cf181018e in Avas.s005.g638.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg17549.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17572.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17578.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE021.t1 in Avas.s005.g692.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.5233.1 in Avas.s005.g717.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg17613.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17623.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17639.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17645.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.4880.1 in Avas.s005.g774.i1
+FORWARD flag found: forcing forward strand + for PIN_stepwise_transcript_954e4822-dcfd-4a10-8068-967b27a6796b in Avas.s005.g853.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg17745.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17759.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17797.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17799.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17827.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17883.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17894.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17956.t3, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg17963.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_a908dca4-01ef-4eea-9bb0-bc4c17538101 in Avas.s005.g1074.i1
+FORWARD flag found: forcing forward strand + for MSE022.t1 in Avas.s005.g1117.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg18039.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg18100.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg18100.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for fs_on_scaffold_005_4 in Avas.s005.g1192.i1
+REVERSE flag found: forcing reverse strand - for MSE023.t1 in Avas.s005.g1195.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.5017.1 in Avas.s006.g19.i1
+REVERSE flag found: forcing reverse strand - for s006.mRNA20 in Avas.s006.g27.i1
+REVERSE flag found: forcing reverse strand - for MSE024.t1 in Avas.s006.g28.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.5047.1 in Avas.s006.g29.i1
+REVERSE flag found: forcing reverse strand - for fs_on_scaffold_006_5 in Avas.s006.g38.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg1109.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg1180.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.5325.1 in Avas.s006.g116.i1
+FORWARD flag found: forcing forward strand + for MSE025.t1 in Avas.s006.g117.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.5327.1 in Avas.s006.g121.i1
+FORWARD flag found: forcing forward strand + for MSE026.t1 in Avas.s006.g132.i1
+REVERSE flag found: forcing reverse strand - for MSE152.t1 in Avas.s006.g135.i1
+REVERSE flag found: forcing reverse strand - for MSE027.t1 in Avas.s006.g136.i1
+REVERSE flag found: forcing reverse strand - for MSE153.t1 in Avas.s006.g137.i1
+REVERSE flag found: forcing reverse strand - for MSE154.t1 in Avas.s006.g138.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.5344.1 in Avas.s006.g139.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg1233.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.5259.1 in Avas.s006.g167.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_ce9a6987-4cf4-486f-945b-2d0278ae26e9 in Avas.s006.g184.i1
+REVERSE flag found: forcing reverse strand - for MSE155.t1 in Avas.s006.g193.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg1270.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg1277.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE157.t1 in Avas.s006.g226.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_3260b925-f072-40f5-b3b8-53da98a24e9c in Avas.s006.g268.i1
+FORWARD flag found: forcing forward strand + for MSE028.t1 in Avas.s006.g268.i2
+FORWARD flag found: forcing forward strand + for MSE029.t1 in Avas.s006.g299.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.7362.1 in Avas.s006.g535.i1
+REVERSE flag found: forcing reverse strand - for brakerONT.jg1626.t1 in Avas.s006.g560.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7381.1 in Avas.s006.g560.i2
+FORWARD flag found: forcing forward strand + for brakerONT.jg1641.t1 in Avas.s006.g574.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_2eb20e22-09eb-4387-9a9f-f5c58e12cd53 in Avas.s006.g574.i2
+REVERSE flag found: forcing reverse strand - for MSE030.t1 in Avas.s006.g576.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7410.1 in Avas.s006.g592.i1
+REVERSE flag found: forcing reverse strand - for brakerONT.jg1687.t1 in Avas.s006.g619.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7433.1 in Avas.s006.g619.i2
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.7498.1 in Avas.s006.g676.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_bd4b1ddd-e7d0-4eba-955d-e02274076997 in Avas.s006.g818.i1
+REVERSE flag found: forcing reverse strand - for MSE031.t1 in Avas.s006.g819.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg1882.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg1885.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7625.1 in Avas.s006.g836.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7645.1 in Avas.s006.g857.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.7649.1 in Avas.s006.g861.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.7660.1 in Avas.s006.g868.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.7663.1 in Avas.s006.g872.i1
+FORWARD flag found: forcing forward strand + for s006.mRNA759 in Avas.s006.g876.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7666.1 in Avas.s006.g879.i1
+FORWARD flag found: forcing forward strand + for brakerONT.jg1926.t1 in Avas.s006.g887.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.7671.1 in Avas.s006.g887.i2
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7675.1 in Avas.s006.g898.i1
+REVERSE flag found: forcing reverse strand - for brakerONT.jg1937.t1 in Avas.s006.g899.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.7199.1 in Avas.s006.g899.i2
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.7686.1 in Avas.s006.g908.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7702.1 in Avas.s006.g922.i1
+FORWARD flag found: forcing forward strand + for MSE032.t1 in Avas.s006.g937.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg1967.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.7724.1 in Avas.s006.g944.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.7728.1 in Avas.s006.g946.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_0553049c-d562-4ae8-8a34-0d4c78fb3a03 in Avas.s006.g952.i1
+FORWARD flag found: forcing forward strand + for MSE033.t1 in Avas.s006.g979.i1
+REVERSE flag found: forcing reverse strand - for MSE034.t1 in Avas.s006.g982.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg2005.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE035.t1 in Avas.s006.g986.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg2008.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7771.1 in Avas.s006.g1000.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7781.1 in Avas.s006.g1006.i1
+REVERSE flag found: forcing reverse strand - for MSE036.t1 in Avas.s006.g1006.i2
+FORWARD flag found: forcing forward strand + for MSE156.t1 in Avas.s006.g1007.i1
+FORWARD flag found: forcing forward strand + for PIN_stepwise_transcript_3320b448-1585-4fc9-83b1-9a7c4e0ffadc in Avas.s006.g1014.i1
+FORWARD flag found: forcing forward strand + for MSE037.t1 in Avas.s006.g1036.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg2068.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg2105.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for PIN_pipeline_transcript_39df5ea2-1270-4f03-9cae-398998a6d59d in Avas.s006.g1115.i1
+REVERSE flag found: forcing reverse strand - for PIN_pipeline_transcript_621083e3-1a19-4190-8703-8a4ac9437098 in Avas.s006.g1118.i1
+REVERSE flag found: forcing reverse strand - for MSE158.t1 in Avas.s007.g30.i1
+REVERSE flag found: forcing reverse strand - for MSE159.t1 in Avas.s007.g31.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.6047.1 in Avas.s007.g62.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6048.1 in Avas.s007.g63.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6049.1 in Avas.s007.g64.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6050.1 in Avas.s007.g65.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6052.1 in Avas.s007.g66.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6053.1 in Avas.s007.g67.i1
+REVERSE flag found: forcing reverse strand - for MSE038.t1 in Avas.s007.g68.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6055.1 in Avas.s007.g69.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6056.1 in Avas.s007.g70.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6058.1 in Avas.s007.g71.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6059.1 in Avas.s007.g72.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.6060.1 in Avas.s007.g73.i1
+FORWARD flag found: forcing forward strand + for MSE039.t1 in Avas.s007.g74.i1
+FORWARD flag found: forcing forward strand + for MSE040.t1 in Avas.s007.g75.i1
+REVERSE flag found: forcing reverse strand - for MSE041.t1 in Avas.s007.g76.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6064.1 in Avas.s007.g77.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6065.1 in Avas.s007.g78.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6066.1 in Avas.s007.g79.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6067.1 in Avas.s007.g80.i1
+REVERSE flag found: forcing reverse strand - for MSE042.t1 in Avas.s007.g81.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6069.1 in Avas.s007.g82.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.6075.1 in Avas.s007.g85.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6076.1 in Avas.s007.g86.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.6093.1 in Avas.s007.g119.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.6127.1 in Avas.s007.g153.i1
+FORWARD flag found: forcing forward strand + for MSE160.t1 in Avas.s007.g196.i1
+FORWARD flag found: forcing forward strand + for MSE161.t1 in Avas.s007.g197.i1
+REVERSE flag found: forcing reverse strand - for MSE162.t1 in Avas.s007.g198.i1
+FORWARD flag found: forcing forward strand + for MSE163.t1 in Avas.s007.g199.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg16216.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE043.t1 in Avas.s007.g209.i1
+FORWARD flag found: forcing forward strand + for MSE044.t1 in Avas.s007.g210.i1
+REVERSE flag found: forcing reverse strand - for MSE045.t1 in Avas.s007.g211.i1
+FORWARD flag found: forcing forward strand + for MSE046.t1 in Avas.s007.g214.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.7624.1 in Avas.s007.g215.i1
+FORWARD flag found: forcing forward strand + for MSE047.t1 in Avas.s007.g225.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg16251.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg16252.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg16252.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg16266.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.6817.1 in Avas.s007.g308.i1
+FORWARD flag found: forcing forward strand + for fs_on_scaffold_007_6 in Avas.s007.g312.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg16335.t3, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg16348.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg16356.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg16358.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE048.t1 in Avas.s007.g365.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.6908.1 in Avas.s007.g411.i1
+REVERSE flag found: forcing reverse strand - for MSE164.t1 in Avas.s007.g423.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg16444.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg16448.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for fs_on_scaffold_007_8 in Avas.s007.g433.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6932.1 in Avas.s007.g434.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg16453.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg16477.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.7854.1 in Avas.s007.g482.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.6993.1 in Avas.s007.g499.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7014.1 in Avas.s007.g523.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7028.1 in Avas.s007.g541.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7029.1 in Avas.s007.g542.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.7044.1 in Avas.s007.g551.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.7045.1 in Avas.s007.g553.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.7962.1 in Avas.s007.g568.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.7964.1 in Avas.s007.g569.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_4e48e3d2-51ff-4199-a522-e75a9b7cf440 in Avas.s007.g576.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg16612.t3, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE165.t1 in Avas.s007.g607.i1
+REVERSE flag found: forcing reverse strand - for MSE166.t1 in Avas.s007.g608.i1
+REVERSE flag found: forcing reverse strand - for MSE167.t1 in Avas.s007.g609.i1
+REVERSE flag found: forcing reverse strand - for MSE050.t1 in Avas.s007.g624.i1
+REVERSE flag found: forcing reverse strand - for PIN_pipeline_transcript_829731bb-f976-4cab-b772-3449cdf8f211 in Avas.s007.g630.i1
+REVERSE flag found: forcing reverse strand - for MSE168.t1 in Avas.s007.g681.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_37d7921d-6eb6-48d9-8a99-92e0d09adda2 in Avas.s007.g704.i1
+REVERSE flag found: forcing reverse strand - for fs_on_scaffold_007_9 in Avas.s007.g708.i1
+FORWARD flag found: forcing forward strand + for MSE052.t1 in Avas.s007.g716.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.7229.1 in Avas.s007.g724.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.8155.1 in Avas.s007.g726.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.8161.1 in Avas.s007.g730.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg16727.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg16731.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.8207.1 in Avas.s007.g773.i1
+FORWARD flag found: forcing forward strand + for MSE053.t1 in Avas.s007.g778.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.7299.1 in Avas.s007.g785.i1
+FORWARD flag found: forcing forward strand + for MSE054.t1 in Avas.s007.g791.i1
+FORWARD flag found: forcing forward strand + for fs_on_scaffold_007_10 in Avas.s007.g792.i1
+FORWARD flag found: forcing forward strand + for PIN_pipeline_transcript_a692bfe9-43aa-4bae-9ffc-1006958ef1bb in Avas.s008.g5.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.6595.1 in Avas.s008.g34.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg8735.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8738.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8756.t3, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8801.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8809.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8818.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8826.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8898.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8903.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8920.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8924.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE148.t1 in Avas.s008.g261.i1
+REVERSE flag found: forcing reverse strand - for MSE056.t1 in Avas.s008.g280.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg8987.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9001.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9005.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.8016.1 in Avas.s008.g329.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.8497.1 in Avas.s008.g330.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.8036.1 in Avas.s008.g341.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg9045.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9049.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9056.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9101.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9106.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE149.t1 in Avas.s008.g429.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg9115.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9130.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9137.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9159.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.8208.1 in Avas.s008.g483.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg9179.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9181.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9198.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9212.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9227.t3, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.8268.1 in Avas.s008.g547.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg9236.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9236.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9236.t3, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9238.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9238.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for PIN_stepwise_transcript_015cfa02-392d-4fc5-abe6-6b8fd76f0b9f in Avas.s008.g561.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg9285.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9332.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9350.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9372.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9400.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9421.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9458.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9483.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.8425.1 in Avas.s008.g793.i1
+REVERSE flag found: forcing reverse strand - for brakerONT.jg9491.t2 in Avas.s008.g796.i1
+REVERSE flag found: forcing reverse strand - for brakerONT.jg9491.t1 in Avas.s008.g796.i2
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.8429.1 in Avas.s008.g796.i3
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.8431.1 in Avas.s008.g797.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg9494.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.8443.1 in Avas.s008.g810.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg9548.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE057.t1 in Avas.s008.g852.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg9586.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.8849.1 in Avas.s008.g882.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg9656.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9658.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9661.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9669.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9673.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg9674.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE058.t1 in Avas.s008.g1016.i1
+FORWARD flag found: forcing forward strand + for MSE059.t1 in Avas.s008.g1036.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg9763.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE060.t1 in Avas.s008.g1072.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.8445.1 in Avas.s009.g1.i1
+FORWARD flag found: forcing forward strand + for fs_on_scaffold_009_11 in Avas.s009.g43.i1
+FORWARD flag found: forcing forward strand + for MSE061.t1 in Avas.s009.g66.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.8546.1 in Avas.s009.g70.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.9220.1 in Avas.s009.g71.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.9223.1 in Avas.s009.g72.i1
+REVERSE flag found: forcing reverse strand - for MSE062.t1 in Avas.s009.g90.i1
+REVERSE flag found: forcing reverse strand - for MSE063.t1 in Avas.s009.g103.i1
+FORWARD flag found: forcing forward strand + for MSE064.t1 in Avas.s009.g108.i1
+FORWARD flag found: forcing forward strand + for MSE065.t1 in Avas.s009.g129.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.8624.1 in Avas.s009.g154.i1
+FORWARD flag found: forcing forward strand + for MSE169.t1 in Avas.s009.g174.i1
+REVERSE flag found: forcing reverse strand - for MSE170.t1 in Avas.s009.g175.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg6286.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg6307.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg6310.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg6315.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE171.t1 in Avas.s009.g224.i1
+FORWARD flag found: forcing forward strand + for MSE066.t1 in Avas.s009.g225.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg6323.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.8708.1 in Avas.s009.g240.i1
+FORWARD flag found: forcing forward strand + for MSE067.t1 in Avas.s009.g255.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg6353.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.9462.1 in Avas.s009.g260.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.8497.1 in Avas.s009.g261.i1
+FORWARD flag found: forcing forward strand + for MSE172.t1 in Avas.s009.g281.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg6372.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg6419.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg6436.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg6437.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for PIN_stepwise_transcript_d88d1598-fe4c-4fd2-91bf-d9c721a26145 in Avas.s009.g388.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg6502.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg6507.t3, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg6508.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg6528.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE068.t1 in Avas.s009.g445.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg6539.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg6610.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE069.t1 in Avas.s009.g553.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg6753.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg6756.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE070.t1 in Avas.s009.g663.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg6775.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE071.t1 in Avas.s009.g688.i1
+REVERSE flag found: forcing reverse strand - for fs_on_scaffold_009_14 in Avas.s009.g703.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg6815.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg6849.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE072.t1 in Avas.s010.g27.i1
+FORWARD flag found: forcing forward strand + for MSE073.t1 in Avas.s010.g28.i1
+FORWARD flag found: forcing forward strand + for MSE074.t1 in Avas.s010.g30.i1
+FORWARD flag found: forcing forward strand + for MSE124.t1 in Avas.s010.g31.i1
+REVERSE flag found: forcing reverse strand - for MSE173.t1 in Avas.s010.g55.i1
+FORWARD flag found: forcing forward strand + for fs_on_scaffold_010_15 in Avas.s010.g58.i1
+FORWARD flag found: forcing forward strand + for fs_on_scaffold_010_16 in Avas.s010.g59.i1
+FORWARD flag found: forcing forward strand + for MSE075.t1 in Avas.s010.g60.i1
+FORWARD flag found: forcing forward strand + for MSE076.t1 in Avas.s010.g61.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg12947.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for fs_on_scaffold_010_17 in Avas.s010.g69.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg12998.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12999.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg13001.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.9336.1 in Avas.s010.g138.i1
+FORWARD flag found: forcing forward strand + for MSE077.t1 in Avas.s010.g215.i1
+REVERSE flag found: forcing reverse strand - for MSE078.t1 in Avas.s010.g222.i1
+FORWARD flag found: forcing forward strand + for fs_on_scaffold_010_18 in Avas.s010.g437.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg13327.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg13360.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg13366.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg13379.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg13392.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg13416.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE175.t1 in Avas.s010.g622.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg13494.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.10089.1 in Avas.s010.g635.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg13534.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg13555.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg13588.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg7881.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg7889.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for brakerONT.jg7889.t1 in Avas.s011.g40.i1
+REVERSE flag found: forcing reverse strand - for PIN_stepwise_transcript_71f45c98-1fff-4709-90e8-06148f3a538c in Avas.s011.g40.i2
+INFORMATION: cannot find alternate isoform brakerONT.jg7898.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg7935.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg7952.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg7954.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg7971.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg7976.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE079.t1 in Avas.s011.g137.i1
+REVERSE flag found: forcing reverse strand - for MSE080.t1 in Avas.s011.g138.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg8001.t3, trying in main instead
+REVERSE flag found: forcing reverse strand - for fs_on_scaffold_011_19 in Avas.s011.g176.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg8043.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8057.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8082.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.10804.1 in Avas.s011.g289.i1
+FORWARD flag found: forcing forward strand + for MSE176.t1 in Avas.s011.g352.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg8295.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8307.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8310.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8319.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8320.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8350.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8352.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8360.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8381.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8391.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8396.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8401.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8445.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8464.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8471.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8484.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8500.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE177.t1 in Avas.s011.g658.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg8554.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8555.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8564.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg8566.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE178.t1 in Avas.s012.g67.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg355.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg359.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE179.t1 in Avas.s012.g243.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.11845.1 in Avas.s012.g249.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_17a839fe-8066-48e3-9672-4bc66249a3fa in Avas.s012.g289.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.10390.1 in Avas.s012.g300.i1
+FORWARD flag found: forcing forward strand + for MSE180.t1 in Avas.s012.g301.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg569.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.m1-g18881.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg2606.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.11269.1 in Avas.s013.g83.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.11270.1 in Avas.s013.g84.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.11271.1 in Avas.s013.g85.i1
+FORWARD flag found: forcing forward strand + for MSE181.t1 in Avas.s013.g90.i1
+FORWARD flag found: forcing forward strand + for MSE182.t1 in Avas.s013.g91.i1
+REVERSE flag found: forcing reverse strand - for MSE183.t1 in Avas.s013.g95.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg2707.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE184.t1 in Avas.s013.g126.i1
+REVERSE flag found: forcing reverse strand - for MSE081.t1 in Avas.s013.g130.i1
+REVERSE flag found: forcing reverse strand - for fs_on_scaffold_013_20 in Avas.s013.g131.i1
+REVERSE flag found: forcing reverse strand - for MSE082.t1 in Avas.s013.g132.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.11612.1 in Avas.s013.g237.i1
+REVERSE flag found: forcing reverse strand - for MSE185.t1 in Avas.s013.g241.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.12492.1 in Avas.s013.g246.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg2838.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg2866.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg2879.t5, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.11674.1 in Avas.s013.g299.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg2893.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE186.t1 in Avas.s013.g321.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg2932.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg2932.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg2970.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.11750.1 in Avas.s013.g393.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg2987.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg3029.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg3083.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg3083.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.12271.1 in Avas.s013.g495.i1
+REVERSE flag found: forcing reverse strand - for MSE187.t1 in Avas.s013.g504.i1
+REVERSE flag found: forcing reverse strand - for MSE188.t1 in Avas.s013.g505.i1
+REVERSE flag found: forcing reverse strand - for MSE189.t1 in Avas.s013.g506.i1
+REVERSE flag found: forcing reverse strand - for MSE190.t1 in Avas.s013.g507.i1
+FORWARD flag found: forcing forward strand + for MSE191.t1 in Avas.s013.g508.i1
+FORWARD flag found: forcing forward strand + for MSE192.t1 in Avas.s013.g509.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg3119.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg3122.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE193.t1 in Avas.s013.g532.i1
+FORWARD flag found: forcing forward strand + for MSE194.t1 in Avas.s013.g533.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg3133.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for fs_on_scaffold_013_23 in Avas.s013.g547.i1
+FORWARD flag found: forcing forward strand + for MSE195.t1 in Avas.s013.g548.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg3153.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg3157.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg3165.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg3202.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg3212.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg3220.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg11497.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE196.t1 in Avas.s014.g56.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg11513.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg11551.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg11584.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg11618.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE197.t1 in Avas.s014.g172.i1
+FORWARD flag found: forcing forward strand + for MSE198.t1 in Avas.s014.g173.i1
+FORWARD flag found: forcing forward strand + for MSE199.t1 in Avas.s014.g174.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg11623.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg11629.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for fs_on_scaffold_014_24 in Avas.s014.g198.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg11695.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE200.t1 in Avas.s014.g468.i1
+FORWARD flag found: forcing forward strand + for MSE201.t1 in Avas.s014.g469.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg11917.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.12122.1 in Avas.s014.g475.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg11932.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg11932.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.12149.1 in Avas.s014.g495.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg11991.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg11997.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12002.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12008.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12040.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12082.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12113.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12148.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12151.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12212.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12214.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12224.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE202.t1 in Avas.s014.g773.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_fa4e2c26-9b5a-43ed-a63c-6cdf0d8df720 in Avas.s014.g774.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg12440.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12448.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for TRINITY_DN7867_c0_g1_i3 in Avas.s015.g135.i1
+FORWARD flag found: forcing forward strand + for fs_on_scaffold_015_25 in Avas.s015.g158.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.12750.1 in Avas.s015.g202.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg12549.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.12786.1 in Avas.s015.g231.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg12575.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for s015.mRNA195 in Avas.s015.g265.i1
+FORWARD flag found: forcing forward strand + for MSE083.t1 in Avas.s015.g265.i2
+INFORMATION: cannot find alternate isoform brakerONT.jg12608.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.12839.1 in Avas.s015.g281.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg12631.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12650.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12667.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12667.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE203.t1 in Avas.s015.g338.i1
+FORWARD flag found: forcing forward strand + for MSE204.t1 in Avas.s015.g339.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.12566.1 in Avas.s015.g341.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.12568.1 in Avas.s015.g342.i1
+FORWARD flag found: forcing forward strand + for PIN_pipeline_transcript_648f4f17-d245-4091-a6c9-7bf832c36916 in Avas.s015.g343.i1
+FORWARD flag found: forcing forward strand + for fs_on_scaffold_015_26 in Avas.s015.g343.i2
+FORWARD flag found: forcing forward strand + for MSE205.t1 in Avas.s015.g347.i1
+FORWARD flag found: forcing forward strand + for MSE206.t1 in Avas.s015.g353.i1
+FORWARD flag found: forcing forward strand + for MSE084.t1 in Avas.s015.g360.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg12709.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12718.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE085.t1 in Avas.s015.g393.i1
+FORWARD flag found: forcing forward strand + for MSE086.t1 in Avas.s015.g394.i1
+REVERSE flag found: forcing reverse strand - for brakerPE.g13280.t1 in Avas.s015.g416.i1
+REVERSE flag found: forcing reverse strand - for MSE207.t1 in Avas.s015.g416.i2
+INFORMATION: cannot find alternate isoform brakerONT.jg12747.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE208.t1 in Avas.s015.g438.i1
+FORWARD flag found: forcing forward strand + for MSE209.t1 in Avas.s015.g439.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg12795.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg12813.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE210.t1 in Avas.s015.g495.i1
+REVERSE flag found: forcing reverse strand - for MSE087.t1 in Avas.s015.g505.i1
+REVERSE flag found: forcing reverse strand - for PIN_pipeline_transcript_9e31eb28-5280-40a2-a86a-001a76216e14 in Avas.s015.g512.i1
+REVERSE flag found: forcing reverse strand - for MSE088.t1 in Avas.s015.g513.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_a4f17339-ca31-426f-9836-7f58d753dd3f in Avas.s015.g514.i1
+REVERSE flag found: forcing reverse strand - for MSE211.t1 in Avas.s015.g515.i1
+REVERSE flag found: forcing reverse strand - for brakerONT.jg12843.t1 in Avas.s015.g517.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_57a0c05a-85ec-400a-9d03-263c3dede4b0 in Avas.s015.g517.i2
+FORWARD flag found: forcing forward strand + for MSE212.t1 in Avas.s015.g532.i1
+REVERSE flag found: forcing reverse strand - for MSE089.t1 in Avas.s015.g538.i1
+REVERSE flag found: forcing reverse strand - for MSE214.t1 in Avas.s016.g6.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg18417.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE215.t1 in Avas.s016.g50.i1
+REVERSE flag found: forcing reverse strand - for MSE216.t1 in Avas.s016.g63.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg18475.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE090.t1 in Avas.s016.g125.i1
+REVERSE flag found: forcing reverse strand - for MSE091.t1 in Avas.s016.g126.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg18523.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg18533.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg18534.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg18538.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg18539.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg18589.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.13205.1 in Avas.s016.g268.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg18663.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE217.t1 in Avas.s016.g341.i1
+FORWARD flag found: forcing forward strand + for MSE218.t1 in Avas.s016.g412.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg18810.t3, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE219.t1 in Avas.s016.g442.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.13439.1 in Avas.s016.g473.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg18908.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.13502.1 in Avas.s016.g526.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_8c37e5df-a0bc-4675-9a6f-95689e0f865c in Avas.s016.g527.i1
+REVERSE flag found: forcing reverse strand - for MSE220.t1 in Avas.s016.g528.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.14693.1 in Avas.s016.g532.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.13506.1 in Avas.s016.g533.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg18931.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg18943.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for brakerONT.jg627.t1 in Avas.s017.g10.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.13045.1 in Avas.s017.g10.i2
+REVERSE flag found: forcing reverse strand - for PIN_pipeline_transcript_e40d8bf7-222d-4aa8-820f-3a423dd38989 in Avas.s017.g13.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.13035.1 in Avas.s017.g15.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.13037.1 in Avas.s017.g16.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.13058.1 in Avas.s017.g28.i1
+FORWARD flag found: forcing forward strand + for PIN_pipeline_transcript_731d005e-0629-42f2-a0f2-0ad8746daf0c in Avas.s017.g29.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg670.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.13583.1 in Avas.s017.g72.i1
+REVERSE flag found: forcing reverse strand - for MSE221.t1 in Avas.s017.g78.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.14862.1 in Avas.s017.g91.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.13629.1 in Avas.s017.g105.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.13632.1 in Avas.s017.g110.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.13633.1 in Avas.s017.g111.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg714.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_9c0797f3-afba-4939-9b41-a54604fa026e in Avas.s017.g132.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.13694.1 in Avas.s017.g177.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.15016.1 in Avas.s017.g215.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_b819e2d1-97fe-4160-a66e-b4c075adc705 in Avas.s017.g218.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_1a4cae79-1204-4a73-aaa3-587e1f13a91d in Avas.s017.g227.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_a3fe32b9-30a1-4ec4-857a-a41e6ef920aa in Avas.s017.g234.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.15047.1 in Avas.s017.g242.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.15057.1 in Avas.s017.g249.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_3811190a-dc56-4765-b029-e8fec1245194 in Avas.s017.g276.i1
+REVERSE flag found: forcing reverse strand - for MSE092.t1 in Avas.s017.g362.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.15195.1 in Avas.s017.g367.i1
+FORWARD flag found: forcing forward strand + for MSE093.t1 in Avas.s017.g372.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg979.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.15236.1 in Avas.s017.g411.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg2155.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg2163.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg2195.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg2220.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg2227.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg2243.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE094.t1 in Avas.s018.g120.i1
+REVERSE flag found: forcing reverse strand - for MSE095.t1 in Avas.s018.g143.i1
+FORWARD flag found: forcing forward strand + for MSE096.t1 in Avas.s018.g149.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.14523.1 in Avas.s018.g420.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.14565.1 in Avas.s018.g470.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.14278.1 in Avas.s019.g67.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.16054.1 in Avas.s019.g83.i1
+FORWARD flag found: forcing forward strand + for MSE097.t1 in Avas.s019.g85.i1
+FORWARD flag found: forcing forward strand + for MSE098.t1 in Avas.s019.g86.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.16057.1 in Avas.s019.g87.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg7085.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.16278.1 in Avas.s019.g277.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg7182.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for fs_on_scaffold_019_29 in Avas.s019.g300.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.14824.1 in Avas.s019.g313.i1
+REVERSE flag found: forcing reverse strand - for MSE100.t1 in Avas.s019.g394.i1
+FORWARD flag found: forcing forward strand + for MSE101.t1 in Avas.s020.g47.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg10952.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg10954.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE102.t1 in Avas.s020.g246.i1
+FORWARD flag found: forcing forward strand + for MSE103.t1 in Avas.s020.g248.i1
+FORWARD flag found: forcing forward strand + for MSE104.t1 in Avas.s020.g249.i1
+REVERSE flag found: forcing reverse strand - for MSE105.t1 in Avas.s020.g250.i1
+REVERSE flag found: forcing reverse strand - for MSE106.t1 in Avas.s020.g251.i1
+FORWARD flag found: forcing forward strand + for MSE107.t1 in Avas.s020.g252.i1
+FORWARD flag found: forcing forward strand + for MSE108.t1 in Avas.s020.g253.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_05b98995-ca1e-4e80-819e-ce275474bf42 in Avas.s020.g256.i1
+REVERSE flag found: forcing reverse strand - for MSE109.t1 in Avas.s020.g272.i1
+REVERSE flag found: forcing reverse strand - for PIN_5TSL_stranded_transcript_21e05f04-eb17-43a1-8262-eae190b1a276 in Avas.s020.g399.i1
+FORWARD flag found: forcing forward strand + for MSE110.t1 in Avas.s020.g412.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.16729.1 in Avas.s020.g550.i1
+FORWARD flag found: forcing forward strand + for PIN_pipeline_transcript_03c0cd37-28b0-4f1c-8c43-3369c519c879 in Avas.s021.g22.i1
+REVERSE flag found: forcing reverse strand - for MSE111.t1 in Avas.s021.g361.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.15909.1 in Avas.s021.g505.i1
+FORWARD flag found: forcing forward strand + for MSE112.t1 in Avas.s021.g538.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.15849.1 in Avas.s022.g6.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg7320.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg7320.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg7609.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE113.t1 in Avas.s022.g415.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg15812.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.17115.1 in Avas.s023.g243.i1
+FORWARD flag found: forcing forward strand + for MSE114.t1 in Avas.s023.g322.i1
+FORWARD flag found: forcing forward strand + for MSE115.t1 in Avas.s024.g6.i1
+REVERSE flag found: forcing reverse strand - for MSE116.t1 in Avas.s024.g48.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_ab76c161-54ef-4953-85a8-c04e4714d7f0 in Avas.s024.g76.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.16647.1 in Avas.s024.g79.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_77abcf14-7eb0-4e64-b392-2558abef317c in Avas.s024.g81.i1
+FORWARD flag found: forcing forward strand + for MSE117.t1 in Avas.s024.g147.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.18079.1 in Avas.s025.g90.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.16794.1 in Avas.s025.g134.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.16796.1 in Avas.s025.g138.i1
+FORWARD flag found: forcing forward strand + for brakerONT.jg8595.t1 in Avas.s026.g31.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.18445.1 in Avas.s026.g89.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg12237.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.16989.1 in Avas.s028.g4.i1
+FORWARD flag found: forcing forward strand + for MSE118.t1 in Avas.s028.g5.i1
+FORWARD flag found: forcing forward strand + for MSE119.t1 in Avas.s028.g6.i1
+FORWARD flag found: forcing forward strand + for PIN_pipeline_transcript_0dd8f72e-a316-4a4f-ba06-2c11dd7d0af2 in Avas.s030.g3.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg141.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for MSE222.t1 in Avas.s033.g7.i1
+REVERSE flag found: forcing reverse strand - for MSE223.t1 in Avas.s033.g10.i1
+REVERSE flag found: forcing reverse strand - for MSE224.t1 in Avas.s033.g12.i1
+REVERSE flag found: forcing reverse strand - for MSE225.t1 in Avas.s033.g16.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.17236.1 in Avas.s034.g1.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg18170.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg18170.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.17267.1 in Avas.s036.g18.i1
+FORWARD flag found: forcing forward strand + for MSE226.t1 in Avas.s037.g7.i1
+FORWARD flag found: forcing forward strand + for s039.mRNA5 in Avas.s039.g4.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg10834.t2, trying in main instead
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.17319.1 in Avas.s044.g2.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg15669.t2, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg15669.t1, trying in main instead
+INFORMATION: cannot find alternate isoform brakerONT.jg83.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for MSE227.t1 in Avas.s054.g10.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.17405.1 in Avas.s058.g7.i1
+REVERSE flag found: forcing reverse strand - for MSE120.t1 in Avas.s061.g1.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.17425.1 in Avas.s064.g1.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.17433.1 in Avas.s065.g1.i1
+FORWARD flag found: forcing forward strand + for MSE121.t1 in Avas.s066.g2.i1
+FORWARD flag found: forcing forward strand + for MSE122.t1 in Avas.s066.g4.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg113.t1, trying in main instead
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.19100.1 in Avas.s072.g2.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg16009.t1, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.17492.1 in Avas.s077.g6.i1
+FORWARD flag found: forcing forward strand + for MSE228.t1 in Avas.s081.g1.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.19156.1 in Avas.s081.g9.i1
+REVERSE flag found: forcing reverse strand - for MSE229.t1 in Avas.s081.g10.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.17512.1 in Avas.s082.g9.i1
+FORWARD flag found: forcing forward strand + for PIN_5TSL_stranded_transcript_f8940d69-054d-4a0a-b75e-3caf53430c34 in Avas.s083.g2.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.19184.1 in Avas.s085.g1.i1
+REVERSE flag found: forcing reverse strand - for fs_on_scaffold_086_32 in Avas.s086.g3.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.17560.1 in Avas.s091.g4.i1
+INFORMATION: cannot find alternate isoform brakerONT.jg18381.t2, trying in main instead
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.17609.1 in Avas.s107.g5.i1
+REVERSE flag found: forcing reverse strand - for ONT-RNA_minimap2_tx.17614.1 in Avas.s108.g1.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.17616.1 in Avas.s108.g3.i1
+REVERSE flag found: forcing reverse strand - for MSE123.t1 in Avas.s126.g3.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.19464.1 in Avas.s129.g2.i1
+FORWARD flag found: forcing forward strand + for ONT-RNA_minimap2_tx.17659.1 in Avas.s138.g1.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.19544.1 in Avas.s153.g1.i1
+REVERSE flag found: forcing reverse strand - for PE-RNA_hisat2_NS_tx.19550.1 in Avas.s154.g1.i1
+FORWARD flag found: forcing forward strand + for PE-RNA_hisat2_NS_tx.19558.1 in Avas.s158.g1.i1
+# Counted 295 manual annotations, and 294 sequences
+WARNING: Curated seq  MSE142.t1  not found in annotation instructions (-i)
+# Read 20645 annotations from Avas_manual_annotation_2022-02-11.fix.tsv
+# 20645 total annotations, of these:
+#    189 genes were only given a description
+#    1318 genes were new
+#    71 genes were given additional isoforms
+#    3585 genes were flagged for removal
+#       of these, 2535 were replaced with another gene
+#       1050 were simply removed
+# 9746 genes are + strand
+# 9832 genes are - strand
+# Counted 0 exons used by 2 or more genes
+# User given reasons for correction included:
+#split	1362
+#wrong exons	511
+#fixed UTR	418
+#removed isoform	407
+#fused	332
+#FORWARD	290
+#REVERSE	266
+#missing exons	191
+#no RNA support	102
+#antisense RNA	57
+#repeat region	34
+#frameshift corrected	25
+#rRNA	24
+#removed isoforms	22
+#wrong start	19
+#incomplete	15
+#isoform removed	12
+#missing exon	10
+#replaced isoform	9
+#missassembled region	7
+#replaced isoforms	4
+#added isoforms	3
+#added isoform	3
+#junk	3
+#partial rRNA	2
+#wrong exon	1
+#wrong end	1
+#fixed order	1
+#wrong stop	1
+#no ORF	1
+# Wrote 20060 transcripts for 19578 genes
+# Writing gene correspondance table to Avas.v1.29_names.tab
+# Processed completed in 0.1 minutes
