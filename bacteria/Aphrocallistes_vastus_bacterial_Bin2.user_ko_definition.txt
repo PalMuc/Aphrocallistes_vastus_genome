@@ -1,0 +1,1591 @@
+Aphrocallistes_vastus_Bin2_1	K09883	cobT; cobaltochelatase CobT [EC:6.6.1.2]	156		
+Aphrocallistes_vastus_Bin2_2	K18928	lldE; L-lactate dehydrogenase complex protein LldE	115		
+Aphrocallistes_vastus_Bin2_3	K18929	lldF; L-lactate dehydrogenase complex protein LldF	184		
+Aphrocallistes_vastus_Bin2_4	K00782	lldG; L-lactate dehydrogenase complex protein LldG	14		
+Aphrocallistes_vastus_Bin2_5	K00019	BDH1, bdhA; 3-hydroxybutyrate dehydrogenase [EC:1.1.1.30]	119		
+Aphrocallistes_vastus_Bin2_6	K02234	cobW; cobalamin biosynthesis protein CobW	142		
+Aphrocallistes_vastus_Bin2_7	K02231	cobP, cobU; adenosylcobinamide kinase / adenosylcobinamide-phosphate guanylyltransferase [EC:2.7.1.156 2.7.7.62]	37		
+Aphrocallistes_vastus_Bin2_8	K02226	cobC, phpB; alpha-ribazole phosphatase [EC:3.1.3.73]	39		
+Aphrocallistes_vastus_Bin2_9	K00812	aspB; aspartate aminotransferase [EC:2.6.1.1]	215		
+Aphrocallistes_vastus_Bin2_10			20		
+Aphrocallistes_vastus_Bin2_11			47		
+Aphrocallistes_vastus_Bin2_12					
+Aphrocallistes_vastus_Bin2_13	K02412	fliI; flagellum-specific ATP synthase [EC:7.4.2.8]	207		
+Aphrocallistes_vastus_Bin2_14	K06180	rluD; 23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]	19		
+Aphrocallistes_vastus_Bin2_15	K02426	sufE; cysteine desulfuration protein SufE	60		
+Aphrocallistes_vastus_Bin2_16	K01907	AACS, acsA; acetoacetyl-CoA synthetase [EC:6.2.1.16]	253		
+Aphrocallistes_vastus_Bin2_17	K00228	CPOX, hemF; coproporphyrinogen III oxidase [EC:1.3.3.3]	128		
+Aphrocallistes_vastus_Bin2_18	K00330	nuoA; NADH-quinone oxidoreductase subunit A [EC:7.1.1.2]	74		
+Aphrocallistes_vastus_Bin2_19	K00331	nuoB; NADH-quinone oxidoreductase subunit B [EC:7.1.1.2]	162		
+Aphrocallistes_vastus_Bin2_20	K00332	nuoC; NADH-quinone oxidoreductase subunit C [EC:7.1.1.2]	105		
+Aphrocallistes_vastus_Bin2_21	K00333	nuoD; NADH-quinone oxidoreductase subunit D [EC:7.1.1.2]	397		
+Aphrocallistes_vastus_Bin2_22					
+Aphrocallistes_vastus_Bin2_23	K00335	nuoF; NADH-quinone oxidoreductase subunit F [EC:7.1.1.2]	442		
+Aphrocallistes_vastus_Bin2_24	K00336	nuoG; NADH-quinone oxidoreductase subunit G [EC:7.1.1.2]	351		
+Aphrocallistes_vastus_Bin2_25	K00337	nuoH; NADH-quinone oxidoreductase subunit H [EC:7.1.1.2]	262		
+Aphrocallistes_vastus_Bin2_26	K00338	nuoI; NADH-quinone oxidoreductase subunit I [EC:7.1.1.2]	129		
+Aphrocallistes_vastus_Bin2_27					
+Aphrocallistes_vastus_Bin2_28	K00340	nuoK; NADH-quinone oxidoreductase subunit K [EC:7.1.1.2]	51		
+Aphrocallistes_vastus_Bin2_29	K00341	nuoL; NADH-quinone oxidoreductase subunit L [EC:7.1.1.2]	340		
+Aphrocallistes_vastus_Bin2_30	K00342	nuoM; NADH-quinone oxidoreductase subunit M [EC:7.1.1.2]	264		
+Aphrocallistes_vastus_Bin2_31	K00343	nuoN; NADH-quinone oxidoreductase subunit N [EC:7.1.1.2]	164		
+Aphrocallistes_vastus_Bin2_32	K03524	birA; BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	59		
+Aphrocallistes_vastus_Bin2_33	K03525	coaX; type III pantothenate kinase [EC:2.7.1.33]	105		
+Aphrocallistes_vastus_Bin2_34	K12574	rnj; ribonuclease J [EC:3.1.-.-]	113		
+Aphrocallistes_vastus_Bin2_35	K09919	K09919; uncharacterized protein	127		
+Aphrocallistes_vastus_Bin2_36	K18587	COQ9; ubiquinone biosynthesis protein COQ9	38		
+Aphrocallistes_vastus_Bin2_37	K10773	NTH; endonuclease III [EC:4.2.99.18]	126		
+Aphrocallistes_vastus_Bin2_38	K02970	RP-S21, MRPS21, rpsU; small subunit ribosomal protein S21	44		
+Aphrocallistes_vastus_Bin2_39	K02518	infA; translation initiation factor IF-1	27		
+Aphrocallistes_vastus_Bin2_40	K02527	kdtA, waaA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]	102		
+Aphrocallistes_vastus_Bin2_41	K09948	K09948; uncharacterized protein	45		
+Aphrocallistes_vastus_Bin2_42	K04043	dnaK, HSPA9; molecular chaperone DnaK	445		
+Aphrocallistes_vastus_Bin2_43	K03686	dnaJ; molecular chaperone DnaJ	170		
+Aphrocallistes_vastus_Bin2_44	K03687	GRPE; molecular chaperone GrpE	31		
+Aphrocallistes_vastus_Bin2_45	K07317	K07317; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	17		
+Aphrocallistes_vastus_Bin2_46	K24451	zim; modification methylase	35		
+Aphrocallistes_vastus_Bin2_47	K05524	fdxA; ferredoxin	77		
+Aphrocallistes_vastus_Bin2_48			3	K11962	2
+Aphrocallistes_vastus_Bin2_49	K03545	tig; trigger factor	93		
+Aphrocallistes_vastus_Bin2_50	K01358	clpP, CLPP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	175		
+Aphrocallistes_vastus_Bin2_51	K03544	clpX, CLPX; ATP-dependent Clp protease ATP-binding subunit ClpX	256		
+Aphrocallistes_vastus_Bin2_52	K01338	lon; ATP-dependent Lon protease [EC:3.4.21.53]	398		
+Aphrocallistes_vastus_Bin2_53	K03530	hupB; DNA-binding protein HU-beta	53		
+Aphrocallistes_vastus_Bin2_54	K04066	priA; primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:5.6.2.4]	227		
+Aphrocallistes_vastus_Bin2_55	K00616	E2.2.1.2, talA, talB; transaldolase [EC:2.2.1.2]	188		
+Aphrocallistes_vastus_Bin2_56	K03733	xerC; integrase/recombinase XerC	106		
+Aphrocallistes_vastus_Bin2_57	K00647	fabB; 3-oxoacyl-[acyl-carrier-protein] synthase I [EC:2.3.1.41]	248		
+Aphrocallistes_vastus_Bin2_58	K01716	fabA; 3-hydroxyacyl-[acyl-carrier protein] dehydratase / trans-2-decenoyl-[acyl-carrier protein] isomerase [EC:4.2.1.59 5.3.3.14]	109		
+Aphrocallistes_vastus_Bin2_59			110		
+Aphrocallistes_vastus_Bin2_60	K01519	rdgB, ITPA; XTP/dITP diphosphohydrolase [EC:3.6.1.66]	101		
+Aphrocallistes_vastus_Bin2_61	K00989	rph; ribonuclease PH [EC:2.7.7.56]	136		
+Aphrocallistes_vastus_Bin2_62	K06999	K06999; phospholipase/carboxylesterase	34		
+Aphrocallistes_vastus_Bin2_63			11	K03939	1
+Aphrocallistes_vastus_Bin2_64	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	132		
+Aphrocallistes_vastus_Bin2_65			87		
+Aphrocallistes_vastus_Bin2_66	K02342	dnaQ; DNA polymerase III subunit epsilon [EC:2.7.7.7]	18		
+Aphrocallistes_vastus_Bin2_67	K03327	TC.MATE, SLC47A, norM, mdtK, dinF; multidrug resistance protein, MATE family	93		
+Aphrocallistes_vastus_Bin2_68	K03657	uvrD, pcrA; ATP-dependent DNA helicase UvrD/PcrA [EC:5.6.2.4]	299		
+Aphrocallistes_vastus_Bin2_69	K00674	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]	155		
+Aphrocallistes_vastus_Bin2_70	K01439	dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]	135		
+Aphrocallistes_vastus_Bin2_71	K02806	ptsN; nitrogen PTS system EIIA component [EC:2.7.1.-]	31		
+Aphrocallistes_vastus_Bin2_72	K02193	ccmA; heme exporter protein A [EC:7.6.2.5]	40		
+Aphrocallistes_vastus_Bin2_73					
+Aphrocallistes_vastus_Bin2_74	K02195	ccmC; heme exporter protein C	103		
+Aphrocallistes_vastus_Bin2_75	K02197	ccmE; cytochrome c-type biogenesis protein CcmE	31		
+Aphrocallistes_vastus_Bin2_76	K02198	ccmF; cytochrome c-type biogenesis protein CcmF	201		
+Aphrocallistes_vastus_Bin2_77	K02199	ccmG, dsbE; cytochrome c biogenesis protein CcmG, thiol:disulfide interchange protein DsbE	42		
+Aphrocallistes_vastus_Bin2_78	K02200	ccmH; cytochrome c-type biogenesis protein CcmH	31	K02198	1
+Aphrocallistes_vastus_Bin2_79					
+Aphrocallistes_vastus_Bin2_80			2	K07182	1
+Aphrocallistes_vastus_Bin2_81	K02502	hisZ; ATP phosphoribosyltransferase regulatory subunit	115		
+Aphrocallistes_vastus_Bin2_82	K01939	purA, ADSS; adenylosuccinate synthase [EC:6.3.4.4]	36		
+Aphrocallistes_vastus_Bin2_83	K01939	purA, ADSS; adenylosuccinate synthase [EC:6.3.4.4]	178		
+Aphrocallistes_vastus_Bin2_84	K06916	zapE; cell division protein ZapE	103		
+Aphrocallistes_vastus_Bin2_85	K01588	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	54		
+Aphrocallistes_vastus_Bin2_86	K01589	purK; 5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	126		
+Aphrocallistes_vastus_Bin2_87					
+Aphrocallistes_vastus_Bin2_88	K06178	rluB; 23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]	45		
+Aphrocallistes_vastus_Bin2_89	K08316	rsmD; 16S rRNA (guanine966-N2)-methyltransferase [EC:2.1.1.171]	23		
+Aphrocallistes_vastus_Bin2_90	K11175	purN; phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	85		
+Aphrocallistes_vastus_Bin2_91	K01933	purM; phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	133		
+Aphrocallistes_vastus_Bin2_92			8	K03771	1
+Aphrocallistes_vastus_Bin2_93			2	K07507	1
+Aphrocallistes_vastus_Bin2_94			100		
+Aphrocallistes_vastus_Bin2_95			38		
+Aphrocallistes_vastus_Bin2_96	K00525	E1.17.4.1A, nrdA, nrdE; ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	405		
+Aphrocallistes_vastus_Bin2_97	K00525	E1.17.4.1A, nrdA, nrdE; ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	34		
+Aphrocallistes_vastus_Bin2_98			15		
+Aphrocallistes_vastus_Bin2_99	K02067	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	21		
+Aphrocallistes_vastus_Bin2_100	K02067	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	35		
+Aphrocallistes_vastus_Bin2_101			28		
+Aphrocallistes_vastus_Bin2_102			39		
+Aphrocallistes_vastus_Bin2_103			8		
+Aphrocallistes_vastus_Bin2_104			13		
+Aphrocallistes_vastus_Bin2_105	K02276	coxC, ctaE; cytochrome c oxidase subunit III [EC:7.1.1.9]	151		
+Aphrocallistes_vastus_Bin2_106	K02258	COX11, ctaG; cytochrome c oxidase assembly protein subunit 11	84		
+Aphrocallistes_vastus_Bin2_107	K02257	COX10, ctaB, cyoE; heme o synthase [EC:2.5.1.141]	111		
+Aphrocallistes_vastus_Bin2_108	K02274	coxA, ctaD; cytochrome c oxidase subunit I [EC:7.1.1.9]	507		
+Aphrocallistes_vastus_Bin2_109	K02275	coxB, ctaC; cytochrome c oxidase subunit II [EC:7.1.1.9]	85		
+Aphrocallistes_vastus_Bin2_110					
+Aphrocallistes_vastus_Bin2_111			2	K02116	1
+Aphrocallistes_vastus_Bin2_112					
+Aphrocallistes_vastus_Bin2_113			1	K11071	1
+Aphrocallistes_vastus_Bin2_114			4		
+Aphrocallistes_vastus_Bin2_115			7		
+Aphrocallistes_vastus_Bin2_116			2		
+Aphrocallistes_vastus_Bin2_117			58	K16652	38
+Aphrocallistes_vastus_Bin2_118	K16653	dprE1; decaprenylphospho-beta-D-ribofuranose 2-oxidase [EC:1.1.98.3]	117		
+Aphrocallistes_vastus_Bin2_119			84	K14136	18
+Aphrocallistes_vastus_Bin2_120	K14652	ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]	57		
+Aphrocallistes_vastus_Bin2_121	K09815	znuA; zinc transport system substrate-binding protein	14		
+Aphrocallistes_vastus_Bin2_122					
+Aphrocallistes_vastus_Bin2_123	K09817	znuC; zinc transport system ATP-binding protein [EC:7.2.2.20]	89		
+Aphrocallistes_vastus_Bin2_124	K09816	znuB; zinc transport system permease protein	68		
+Aphrocallistes_vastus_Bin2_125	K22310	olsB; L-ornithine Nalpha-acyltransferase [EC:2.3.2.30]	103		
+Aphrocallistes_vastus_Bin2_126	K22617	olsA; lyso-ornithine lipid O-acyltransferase [EC:2.3.1.270]	53		
+Aphrocallistes_vastus_Bin2_127	K01246	tag; DNA-3-methyladenine glycosylase I [EC:3.2.2.20]	132		
+Aphrocallistes_vastus_Bin2_128			9	K08973	1
+Aphrocallistes_vastus_Bin2_129	K05606	MCEE, epi; methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1]	32		
+Aphrocallistes_vastus_Bin2_130			2	K02810	2
+Aphrocallistes_vastus_Bin2_131	K01507	ppa; inorganic pyrophosphatase [EC:3.6.1.1]	160		
+Aphrocallistes_vastus_Bin2_132			132		
+Aphrocallistes_vastus_Bin2_133	K01159	ruvC; crossover junction endodeoxyribonuclease RuvC [EC:3.1.21.10]	45		
+Aphrocallistes_vastus_Bin2_134	K03551	ruvB; holliday junction DNA helicase RuvB [EC:5.6.2.4]	59		
+Aphrocallistes_vastus_Bin2_135	K07107	ybgC; acyl-CoA thioester hydrolase [EC:3.1.2.-]	31		
+Aphrocallistes_vastus_Bin2_136	K03562	tolQ; biopolymer transport protein TolQ	89		
+Aphrocallistes_vastus_Bin2_137	K03560	tolR; biopolymer transport protein TolR	68		
+Aphrocallistes_vastus_Bin2_138			9	K03646	1
+Aphrocallistes_vastus_Bin2_139	K03641	tolB; TolB protein	161		
+Aphrocallistes_vastus_Bin2_140	K03650	mnmE, trmE, MSS1; tRNA modification GTPase [EC:3.6.-.-]	143		
+Aphrocallistes_vastus_Bin2_141	K06187	recR; recombination protein RecR	110		
+Aphrocallistes_vastus_Bin2_142	K12410	npdA; NAD-dependent deacetylase [EC:2.3.1.286]	107		
+Aphrocallistes_vastus_Bin2_143	K09005	K09005; uncharacterized protein	61		
+Aphrocallistes_vastus_Bin2_144			3	K02109	1
+Aphrocallistes_vastus_Bin2_145			3	K07126	1
+Aphrocallistes_vastus_Bin2_146					
+Aphrocallistes_vastus_Bin2_147			4		
+Aphrocallistes_vastus_Bin2_148			52	K18164	40
+Aphrocallistes_vastus_Bin2_149	K13292	lgt, umpA; phosphatidylglycerol---prolipoprotein diacylglyceryl transferase [EC:2.5.1.145]	137		
+Aphrocallistes_vastus_Bin2_150	K09826	irr; Fur family transcriptional regulator, iron response regulator	32		
+Aphrocallistes_vastus_Bin2_151					
+Aphrocallistes_vastus_Bin2_152	K02063	thiP; thiamine transport system permease protein	118		
+Aphrocallistes_vastus_Bin2_153	K02064	thiB, tbpA; thiamine transport system substrate-binding protein	118		
+Aphrocallistes_vastus_Bin2_154	K13583	gcrA; GcrA cell cycle regulator	35		
+Aphrocallistes_vastus_Bin2_155			4	K07289	1
+Aphrocallistes_vastus_Bin2_156	K00384	trxB, TRR; thioredoxin reductase (NADPH) [EC:1.8.1.9]	95		
+Aphrocallistes_vastus_Bin2_157	K03628	rho; transcription termination factor Rho	322		
+Aphrocallistes_vastus_Bin2_158	K00768	E2.4.2.21, cobU, cobT; nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase [EC:2.4.2.21]	129		
+Aphrocallistes_vastus_Bin2_159					
+Aphrocallistes_vastus_Bin2_160					
+Aphrocallistes_vastus_Bin2_161	K02233	E2.7.8.26, cobS, cobV; adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26]	16		
+Aphrocallistes_vastus_Bin2_162			14		
+Aphrocallistes_vastus_Bin2_163	K03495	gidA, mnmG, MTO1; tRNA uridine 5-carboxymethylaminomethyl modification enzyme	151		
+Aphrocallistes_vastus_Bin2_164	K03495	gidA, mnmG, MTO1; tRNA uridine 5-carboxymethylaminomethyl modification enzyme	35		
+Aphrocallistes_vastus_Bin2_165	K03501	gidB, rsmG; 16S rRNA (guanine527-N7)-methyltransferase [EC:2.1.1.170]	26		
+Aphrocallistes_vastus_Bin2_166	K03496	parA, soj; chromosome partitioning protein	129		
+Aphrocallistes_vastus_Bin2_167	K03497	parB, spo0J; ParB family transcriptional regulator, chromosome partitioning protein	98		
+Aphrocallistes_vastus_Bin2_168	K00859	coaE; dephospho-CoA kinase [EC:2.7.1.24]	22		
+Aphrocallistes_vastus_Bin2_169	K00014	aroE; shikimate dehydrogenase [EC:1.1.1.25]	76		
+Aphrocallistes_vastus_Bin2_170	K06287	yhdE; nucleoside triphosphate pyrophosphatase [EC:3.6.1.-]	69		
+Aphrocallistes_vastus_Bin2_171	K09773	ppsR; [pyruvate, water dikinase]-phosphate phosphotransferase / [pyruvate, water dikinase] kinase [EC:2.7.4.28 2.7.11.33]	94		
+Aphrocallistes_vastus_Bin2_172	K01599	hemE, UROD; uroporphyrinogen decarboxylase [EC:4.1.1.37]	170		
+Aphrocallistes_vastus_Bin2_173	K01772	hemH, FECH; protoporphyrin/coproporphyrin ferrochelatase [EC:4.98.1.1 4.99.1.9]	156		
+Aphrocallistes_vastus_Bin2_174	K08973	hemJ; protoporphyrinogen IX oxidase [EC:1.3.99.-]	61		
+Aphrocallistes_vastus_Bin2_175	K08151	tetA; MFS transporter, DHA1 family, tetracycline resistance protein	31		
+Aphrocallistes_vastus_Bin2_176	K03572	mutL; DNA mismatch repair protein MutL	209		
+Aphrocallistes_vastus_Bin2_177			60		
+Aphrocallistes_vastus_Bin2_178					
+Aphrocallistes_vastus_Bin2_179			70		
+Aphrocallistes_vastus_Bin2_180	K00254	DHODH, pyrD; dihydroorotate dehydrogenase [EC:1.3.5.2]	105		
+Aphrocallistes_vastus_Bin2_181	K07447	ruvX; putative pre-16S rRNA nuclease [EC:3.1.-.-]	53		
+Aphrocallistes_vastus_Bin2_182	K06941	rlmN; 23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]	177		
+Aphrocallistes_vastus_Bin2_183	K03596	lepA; GTP-binding protein LepA	372		
+Aphrocallistes_vastus_Bin2_184			139		
+Aphrocallistes_vastus_Bin2_185	K03790	rimJ; [ribosomal protein S5]-alanine N-acetyltransferase [EC:2.3.1.267]	71		
+Aphrocallistes_vastus_Bin2_186					
+Aphrocallistes_vastus_Bin2_187	K02879	RP-L17, MRPL17, rplQ; large subunit ribosomal protein L17	20		
+Aphrocallistes_vastus_Bin2_188	K03040	rpoA; DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]	200		
+Aphrocallistes_vastus_Bin2_189	K02948	RP-S11, MRPS11, rpsK; small subunit ribosomal protein S11	111		
+Aphrocallistes_vastus_Bin2_190	K02952	RP-S13, rpsM; small subunit ribosomal protein S13	84		
+Aphrocallistes_vastus_Bin2_191	K15633	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	26		
+Aphrocallistes_vastus_Bin2_192	K15633	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	13		
+Aphrocallistes_vastus_Bin2_193	K22719	envC; murein hydrolase activator	53		
+Aphrocallistes_vastus_Bin2_194	K03797	E3.4.21.102, prc, ctpA; carboxyl-terminal processing protease [EC:3.4.21.102]	172		
+Aphrocallistes_vastus_Bin2_195	K09798	K09798; uncharacterized protein	51		
+Aphrocallistes_vastus_Bin2_196	K08311	nudH; putative (di)nucleoside polyphosphate hydrolase [EC:3.6.1.-]	100		
+Aphrocallistes_vastus_Bin2_197	K03702	uvrB; excinuclease ABC subunit B	420		
+Aphrocallistes_vastus_Bin2_198			12		
+Aphrocallistes_vastus_Bin2_199			4	K13007	3
+Aphrocallistes_vastus_Bin2_200					
+Aphrocallistes_vastus_Bin2_201	K01989	K01989; putative tryptophan/tyrosine transport system substrate-binding protein	149		
+Aphrocallistes_vastus_Bin2_202	K05832	K05832; putative tryptophan/tyrosine transport system permease protein	126		
+Aphrocallistes_vastus_Bin2_203	K05833	K05833; putative tryptophan/tyrosine transport system ATP-binding protein	82		
+Aphrocallistes_vastus_Bin2_204					
+Aphrocallistes_vastus_Bin2_205			86		
+Aphrocallistes_vastus_Bin2_206			247		
+Aphrocallistes_vastus_Bin2_207			128		
+Aphrocallistes_vastus_Bin2_208	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	76		
+Aphrocallistes_vastus_Bin2_209	K02033	ABC.PE.P; peptide/nickel transport system permease protein	73		
+Aphrocallistes_vastus_Bin2_210	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	228		
+Aphrocallistes_vastus_Bin2_211			1		
+Aphrocallistes_vastus_Bin2_212			3	K02662	1
+Aphrocallistes_vastus_Bin2_213	K01940	argG, ASS1; argininosuccinate synthase [EC:6.3.4.5]	250		
+Aphrocallistes_vastus_Bin2_214	K12340	tolC, bepC, cyaE, raxC, sapF, rsaF, hasF; outer membrane protein	10	K12543	4
+Aphrocallistes_vastus_Bin2_215			149		
+Aphrocallistes_vastus_Bin2_216	K09667	OGT; protein O-GlcNAc transferase [EC:2.4.1.255]	10		
+Aphrocallistes_vastus_Bin2_217			28		
+Aphrocallistes_vastus_Bin2_218	K02114	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon	37		
+Aphrocallistes_vastus_Bin2_219	K02112	ATPF1B, atpD; F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1]	353		
+Aphrocallistes_vastus_Bin2_220	K02115	ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma	10		
+Aphrocallistes_vastus_Bin2_221	K02115	ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma	60		
+Aphrocallistes_vastus_Bin2_222	K02111	ATPF1A, atpA; F-type H+/Na+-transporting ATPase subunit alpha [EC:7.1.2.2 7.2.2.1]	347		
+Aphrocallistes_vastus_Bin2_223	K02113	ATPF1D, atpH; F-type H+-transporting ATPase subunit delta	30		
+Aphrocallistes_vastus_Bin2_224			20		
+Aphrocallistes_vastus_Bin2_225	K03498	trkH, trkG, ktrB, ktrD; trk/ktr system potassium uptake protein	134		
+Aphrocallistes_vastus_Bin2_226	K03498	trkH, trkG, ktrB, ktrD; trk/ktr system potassium uptake protein	15		
+Aphrocallistes_vastus_Bin2_227					
+Aphrocallistes_vastus_Bin2_228					
+Aphrocallistes_vastus_Bin2_229					
+Aphrocallistes_vastus_Bin2_230	K25706	tsaD; tRNA N6-adenosine threonylcarbamoyltransferase [EC:2.3.1.234]	118		
+Aphrocallistes_vastus_Bin2_231	K00057	gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]	120		
+Aphrocallistes_vastus_Bin2_232			13	K00014	1
+Aphrocallistes_vastus_Bin2_233					
+Aphrocallistes_vastus_Bin2_234			37		
+Aphrocallistes_vastus_Bin2_235	K14393	actP; cation/acetate symporter	336		
+Aphrocallistes_vastus_Bin2_236			24	K04073	1
+Aphrocallistes_vastus_Bin2_237			9	K03284	1
+Aphrocallistes_vastus_Bin2_238	K03555	mutS; DNA mismatch repair protein MutS	319		
+Aphrocallistes_vastus_Bin2_239	K03469	rnhA, RNASEH1; ribonuclease HI [EC:3.1.26.4]	53		
+Aphrocallistes_vastus_Bin2_240	K03527	ispH, lytB; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]	161		
+Aphrocallistes_vastus_Bin2_241			3	K08720	1
+Aphrocallistes_vastus_Bin2_242			2	K00127	1
+Aphrocallistes_vastus_Bin2_243	K24821	atm1, pexA; ATP-binding cassette, subfamily B, heavy metal transporter	244		
+Aphrocallistes_vastus_Bin2_244					
+Aphrocallistes_vastus_Bin2_245	K18930	dld; D-lactate dehydrogenase	264		
+Aphrocallistes_vastus_Bin2_246			104		
+Aphrocallistes_vastus_Bin2_247	K00798	MMAB, pduO; cob(I)alamin adenosyltransferase [EC:2.5.1.17]	113		
+Aphrocallistes_vastus_Bin2_248			17		
+Aphrocallistes_vastus_Bin2_249			2	K16422	1
+Aphrocallistes_vastus_Bin2_250	K15724	erpA; iron-sulfur cluster insertion protein	36		
+Aphrocallistes_vastus_Bin2_251	K01142	E3.1.11.2, xthA; exodeoxyribonuclease III [EC:3.1.11.2]	91		
+Aphrocallistes_vastus_Bin2_252			33		
+Aphrocallistes_vastus_Bin2_253	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.269]	97		
+Aphrocallistes_vastus_Bin2_254	K06189	corC, tlyC; hemolysin (HlyC) family protein	90		
+Aphrocallistes_vastus_Bin2_255	K07042	ybeY, yqfG; probable rRNA maturation factor	14		
+Aphrocallistes_vastus_Bin2_256	K06217	phoH, phoL; phosphate starvation-inducible protein PhoH and related proteins	61		
+Aphrocallistes_vastus_Bin2_257	K03407	cheA; two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]	153		
+Aphrocallistes_vastus_Bin2_258	K03413	cheY; two-component system, chemotaxis family, chemotaxis protein CheY	58		
+Aphrocallistes_vastus_Bin2_259	K00575	cheR; chemotaxis protein methyltransferase CheR [EC:2.1.1.80]	10		
+Aphrocallistes_vastus_Bin2_260	K00575	cheR; chemotaxis protein methyltransferase CheR [EC:2.1.1.80]	15		
+Aphrocallistes_vastus_Bin2_261	K09812	ftsE; cell division transport system ATP-binding protein	36		
+Aphrocallistes_vastus_Bin2_262	K09812	ftsE; cell division transport system ATP-binding protein	22		
+Aphrocallistes_vastus_Bin2_263	K09811	ftsX; cell division transport system permease protein	28		
+Aphrocallistes_vastus_Bin2_264			36		
+Aphrocallistes_vastus_Bin2_265	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	70		
+Aphrocallistes_vastus_Bin2_266	K01768	E4.6.1.1; adenylate cyclase [EC:4.6.1.1]	287		
+Aphrocallistes_vastus_Bin2_267	K12541	lapB; ATP-binding cassette, subfamily C, bacterial LapB	182		
+Aphrocallistes_vastus_Bin2_268	K12542	lapC; membrane fusion protein, adhesin transport system	42		
+Aphrocallistes_vastus_Bin2_269			89		
+Aphrocallistes_vastus_Bin2_270	K01495	GCH1, folE; GTP cyclohydrolase IA [EC:3.5.4.16]	104		
+Aphrocallistes_vastus_Bin2_271	K00643	E2.3.1.37, ALAS; 5-aminolevulinate synthase [EC:2.3.1.37]	217		
+Aphrocallistes_vastus_Bin2_272			19	K00014	1
+Aphrocallistes_vastus_Bin2_273	K07102	amgK; N-acetylmuramate 1-kinase [EC:2.7.1.221]	32		
+Aphrocallistes_vastus_Bin2_274	K03798	ftsH, hflB; cell division protease FtsH [EC:3.4.24.-]	392		
+Aphrocallistes_vastus_Bin2_275	K04075	tilS, mesJ; tRNA(Ile)-lysidine synthase [EC:6.3.4.19]	26		
+Aphrocallistes_vastus_Bin2_276			14		
+Aphrocallistes_vastus_Bin2_277					
+Aphrocallistes_vastus_Bin2_278	K03640	pal; peptidoglycan-associated lipoprotein	48		
+Aphrocallistes_vastus_Bin2_279					
+Aphrocallistes_vastus_Bin2_280	K02040	pstS; phosphate transport system substrate-binding protein	147		
+Aphrocallistes_vastus_Bin2_281	K02037	pstC; phosphate transport system permease protein	138		
+Aphrocallistes_vastus_Bin2_282	K02038	pstA; phosphate transport system permease protein	178		
+Aphrocallistes_vastus_Bin2_283	K02036	pstB; phosphate transport system ATP-binding protein [EC:7.3.2.1]	153		
+Aphrocallistes_vastus_Bin2_284	K02039	phoU; phosphate transport system protein	55		
+Aphrocallistes_vastus_Bin2_285	K05895	cobK-cbiJ; precorrin-6A/cobalt-precorrin-6A reductase [EC:1.3.1.54 1.3.1.106]	43		
+Aphrocallistes_vastus_Bin2_286	K05788	ihfB, himD; integration host factor subunit beta	11	K01586	1
+Aphrocallistes_vastus_Bin2_287					
+Aphrocallistes_vastus_Bin2_288					
+Aphrocallistes_vastus_Bin2_289					
+Aphrocallistes_vastus_Bin2_290	K03795	cbiX; sirohydrochlorin cobaltochelatase [EC:4.99.1.3]	34		
+Aphrocallistes_vastus_Bin2_291			48		
+Aphrocallistes_vastus_Bin2_292			51	K06042	3
+Aphrocallistes_vastus_Bin2_293	K00571	E2.1.1.72; site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	22	K13581	11
+Aphrocallistes_vastus_Bin2_294	K06042	cobH-cbiC; precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60]	58		
+Aphrocallistes_vastus_Bin2_295	K00595	cobL-cbiET; precorrin-6B C5,15-methyltransferase / cobalt-precorrin-6B C5,C15-methyltransferase [EC:2.1.1.132 2.1.1.289 2.1.1.196]	44		
+Aphrocallistes_vastus_Bin2_296	K13541	cbiGH-cobJ; cobalt-precorrin 5A hydrolase / cobalt-factor III methyltransferase / precorrin-3B C17-methyltransferase [EC:3.7.1.12 2.1.1.272 2.1.1.131]	123		
+Aphrocallistes_vastus_Bin2_297	K05936	cobM, cbiF; precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271]	115		
+Aphrocallistes_vastus_Bin2_298	K03703	uvrC; excinuclease ABC subunit C	243		
+Aphrocallistes_vastus_Bin2_299	K03639	moaA, CNX2; GTP 3',8-cyclase [EC:4.1.99.22]	168		
+Aphrocallistes_vastus_Bin2_300	K00858	ppnK, NADK; NAD+ kinase [EC:2.7.1.23]	115		
+Aphrocallistes_vastus_Bin2_301	K00383	GSR, gor; glutathione reductase (NADPH) [EC:1.8.1.7]	157		
+Aphrocallistes_vastus_Bin2_302			89		
+Aphrocallistes_vastus_Bin2_303	K02340	holA; DNA polymerase III subunit delta [EC:2.7.7.7]	39		
+Aphrocallistes_vastus_Bin2_304	K03643	lptE, rlpB; LPS-assembly lipoprotein	13		
+Aphrocallistes_vastus_Bin2_305	K01869	LARS, leuS; leucyl-tRNA synthetase [EC:6.1.1.4]	417		
+Aphrocallistes_vastus_Bin2_306			38		
+Aphrocallistes_vastus_Bin2_307	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	154		
+Aphrocallistes_vastus_Bin2_308	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	27		
+Aphrocallistes_vastus_Bin2_309	K00134	GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12]	150		
+Aphrocallistes_vastus_Bin2_310	K03630	radC; DNA repair protein RadC	109		
+Aphrocallistes_vastus_Bin2_311	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	231		
+Aphrocallistes_vastus_Bin2_312	K03635	MOCS2B, moaE; molybdopterin synthase catalytic subunit [EC:2.8.1.12]	53		
+Aphrocallistes_vastus_Bin2_313					
+Aphrocallistes_vastus_Bin2_314	K03750	moeA; molybdopterin molybdotransferase [EC:2.10.1.1]	137		
+Aphrocallistes_vastus_Bin2_315	K08744	CRLS; cardiolipin synthase (CMP-forming) [EC:2.7.8.41]	33	K00995	12
+Aphrocallistes_vastus_Bin2_316			60		
+Aphrocallistes_vastus_Bin2_317	K01890	FARSB, pheT; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	195		
+Aphrocallistes_vastus_Bin2_318	K01889	FARSA, pheS; phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	158		
+Aphrocallistes_vastus_Bin2_319	K02887	RP-L20, MRPL20, rplT; large subunit ribosomal protein L20	71		
+Aphrocallistes_vastus_Bin2_320	K02916	RP-L35, MRPL35, rpmI; large subunit ribosomal protein L35	36		
+Aphrocallistes_vastus_Bin2_321	K07460	yraN; putative endonuclease	37		
+Aphrocallistes_vastus_Bin2_322	K07056	rsmI; 16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]	79		
+Aphrocallistes_vastus_Bin2_323			35	K01999	1
+Aphrocallistes_vastus_Bin2_324	K11206	NIT1, ybeM; deaminated glutathione amidase [EC:3.5.1.128]	173		
+Aphrocallistes_vastus_Bin2_325			140		
+Aphrocallistes_vastus_Bin2_326	K01520	dut, DUT; dUTP pyrophosphatase [EC:3.6.1.23]	58		
+Aphrocallistes_vastus_Bin2_327	K13038	coaBC, dfp; phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5]	124		
+Aphrocallistes_vastus_Bin2_328	K13829	aroKB; shikimate kinase / 3-dehydroquinate synthase [EC:2.7.1.71 4.2.3.4]	103	K01735	28
+Aphrocallistes_vastus_Bin2_329	K03699	tlyC; magnesium and cobalt exporter, CNNM family	148		
+Aphrocallistes_vastus_Bin2_330			8	K05835	3
+Aphrocallistes_vastus_Bin2_331			7	K05835	5
+Aphrocallistes_vastus_Bin2_332	K01591	pyrF; orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	97		
+Aphrocallistes_vastus_Bin2_333	K00052	leuB, IMDH; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	278		
+Aphrocallistes_vastus_Bin2_334	K01704	leuD, IPMI-S; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	166		
+Aphrocallistes_vastus_Bin2_335	K01703	leuC, IPMI-L; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	332		
+Aphrocallistes_vastus_Bin2_336	K02884	RP-L19, MRPL19, rplS; large subunit ribosomal protein L19	38		
+Aphrocallistes_vastus_Bin2_337	K00554	trmD; tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	139		
+Aphrocallistes_vastus_Bin2_338					
+Aphrocallistes_vastus_Bin2_339	K03106	SRP54, ffh; signal recognition particle subunit SRP54 [EC:3.6.5.4]	79		
+Aphrocallistes_vastus_Bin2_340	K04763	xerD; integrase/recombinase XerD	97		
+Aphrocallistes_vastus_Bin2_341	K03684	rnd; ribonuclease D [EC:3.1.13.5]	79		
+Aphrocallistes_vastus_Bin2_342	K01676	E4.2.1.2A, fumA, fumB; fumarate hydratase, class I [EC:4.2.1.2]	308		
+Aphrocallistes_vastus_Bin2_343	K09985	K09985; uncharacterized protein	38		
+Aphrocallistes_vastus_Bin2_344	K01920	gshB; glutathione synthase [EC:6.3.2.3]	126		
+Aphrocallistes_vastus_Bin2_345	K01056	PTH1, PTRH1, pth, spoVC; peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]	45		
+Aphrocallistes_vastus_Bin2_346					
+Aphrocallistes_vastus_Bin2_347			3	K07026	1
+Aphrocallistes_vastus_Bin2_348	K01687	ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]	589		
+Aphrocallistes_vastus_Bin2_349			4	K20276	1
+Aphrocallistes_vastus_Bin2_350			31		
+Aphrocallistes_vastus_Bin2_351	K01142	E3.1.11.2, xthA; exodeoxyribonuclease III [EC:3.1.11.2]	84		
+Aphrocallistes_vastus_Bin2_352			2		
+Aphrocallistes_vastus_Bin2_353			2	K02077	1
+Aphrocallistes_vastus_Bin2_354					
+Aphrocallistes_vastus_Bin2_355			3	K02014	1
+Aphrocallistes_vastus_Bin2_356	K07391	comM; magnesium chelatase family protein	248		
+Aphrocallistes_vastus_Bin2_357	K00242	sdhD, frdD; succinate dehydrogenase membrane anchor subunit	20		
+Aphrocallistes_vastus_Bin2_358	K00239	sdhA, frdA; succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1]	403		
+Aphrocallistes_vastus_Bin2_359	K00240	sdhB, frdB; succinate dehydrogenase iron-sulfur subunit [EC:1.3.5.1]	122		
+Aphrocallistes_vastus_Bin2_360	K07638	envZ; two-component system, OmpR family, osmolarity sensor histidine kinase EnvZ [EC:2.7.13.3]	161		
+Aphrocallistes_vastus_Bin2_361	K07659	ompR; two-component system, OmpR family, phosphate regulon response regulator OmpR	87		
+Aphrocallistes_vastus_Bin2_362			13		
+Aphrocallistes_vastus_Bin2_363	K00826	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]	218		
+Aphrocallistes_vastus_Bin2_364	K03565	recX; regulatory protein	33		
+Aphrocallistes_vastus_Bin2_365	K07147	msrP; methionine sulfoxide reductase catalytic subunit [EC:1.8.-.-]	144		
+Aphrocallistes_vastus_Bin2_366	K00003	hom; homoserine dehydrogenase [EC:1.1.1.3]	160		
+Aphrocallistes_vastus_Bin2_367	K11532	glpX-SEBP; fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase [EC:3.1.3.11 3.1.3.37]	206		
+Aphrocallistes_vastus_Bin2_368	K07462	recJ; single-stranded-DNA-specific exonuclease [EC:3.1.-.-]	128		
+Aphrocallistes_vastus_Bin2_369	K21395	yiaO; TRAP-type transport system periplasmic protein	82		
+Aphrocallistes_vastus_Bin2_370	K02897	RP-L25, rplY; large subunit ribosomal protein L25	76		
+Aphrocallistes_vastus_Bin2_371	K00948	PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	197		
+Aphrocallistes_vastus_Bin2_372	K01649	leuA, IMS; 2-isopropylmalate synthase [EC:2.3.3.13]	329		
+Aphrocallistes_vastus_Bin2_373			48		
+Aphrocallistes_vastus_Bin2_374	K00311	ETFDH; electron-transferring-flavoprotein dehydrogenase [EC:1.5.5.1]	320		
+Aphrocallistes_vastus_Bin2_375	K00573	E2.1.1.77, pcm; protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]	59		
+Aphrocallistes_vastus_Bin2_376	K00939	adk, AK; adenylate kinase [EC:2.7.4.3]	60		
+Aphrocallistes_vastus_Bin2_377	K03076	secY; preprotein translocase subunit SecY	294		
+Aphrocallistes_vastus_Bin2_378	K02876	RP-L15, MRPL15, rplO; large subunit ribosomal protein L15	77		
+Aphrocallistes_vastus_Bin2_379	K02907	RP-L30, MRPL30, rpmD; large subunit ribosomal protein L30	26		
+Aphrocallistes_vastus_Bin2_380	K02988	RP-S5, MRPS5, rpsE; small subunit ribosomal protein S5	76		
+Aphrocallistes_vastus_Bin2_381	K02881	RP-L18, MRPL18, rplR; large subunit ribosomal protein L18	51		
+Aphrocallistes_vastus_Bin2_382	K02933	RP-L6, MRPL6, rplF; large subunit ribosomal protein L6	106		
+Aphrocallistes_vastus_Bin2_383	K02994	RP-S8, rpsH; small subunit ribosomal protein S8	92		
+Aphrocallistes_vastus_Bin2_384	K02954	RP-S14, MRPS14, rpsN; small subunit ribosomal protein S14	53		
+Aphrocallistes_vastus_Bin2_385	K02931	RP-L5, MRPL5, rplE; large subunit ribosomal protein L5	107		
+Aphrocallistes_vastus_Bin2_386	K02895	RP-L24, MRPL24, rplX; large subunit ribosomal protein L24	51		
+Aphrocallistes_vastus_Bin2_387	K02874	RP-L14, MRPL14, rplN; large subunit ribosomal protein L14	129		
+Aphrocallistes_vastus_Bin2_388	K02961	RP-S17, MRPS17, rpsQ; small subunit ribosomal protein S17	53		
+Aphrocallistes_vastus_Bin2_389	K02904	RP-L29, rpmC; large subunit ribosomal protein L29	17		
+Aphrocallistes_vastus_Bin2_390	K02878	RP-L16, MRPL16, rplP; large subunit ribosomal protein L16	129		
+Aphrocallistes_vastus_Bin2_391	K02982	RP-S3, rpsC; small subunit ribosomal protein S3	151		
+Aphrocallistes_vastus_Bin2_392	K02890	RP-L22, MRPL22, rplV; large subunit ribosomal protein L22	26		
+Aphrocallistes_vastus_Bin2_393	K02965	RP-S19, rpsS; small subunit ribosomal protein S19	104		
+Aphrocallistes_vastus_Bin2_394	K02886	RP-L2, MRPL2, rplB; large subunit ribosomal protein L2	61		
+Aphrocallistes_vastus_Bin2_395	K02886	RP-L2, MRPL2, rplB; large subunit ribosomal protein L2	34		
+Aphrocallistes_vastus_Bin2_396	K02892	RP-L23, MRPL23, rplW; large subunit ribosomal protein L23	51		
+Aphrocallistes_vastus_Bin2_397	K02926	RP-L4, MRPL4, rplD; large subunit ribosomal protein L4	122		
+Aphrocallistes_vastus_Bin2_398	K02906	RP-L3, MRPL3, rplC; large subunit ribosomal protein L3	116		
+Aphrocallistes_vastus_Bin2_399	K02946	RP-S10, MRPS10, rpsJ; small subunit ribosomal protein S10	119		
+Aphrocallistes_vastus_Bin2_400	K02358	tuf, TUFM; elongation factor Tu	326		
+Aphrocallistes_vastus_Bin2_401	K02355	fusA, GFM, EFG; elongation factor G	319		
+Aphrocallistes_vastus_Bin2_402					
+Aphrocallistes_vastus_Bin2_403	K02992	RP-S7, MRPS7, rpsG; small subunit ribosomal protein S7	107		
+Aphrocallistes_vastus_Bin2_404	K02950	RP-S12, MRPS12, rpsL; small subunit ribosomal protein S12	156		
+Aphrocallistes_vastus_Bin2_405	K19745	acuI; acrylyl-CoA reductase (NADPH) [EC:1.3.1.-]	152		
+Aphrocallistes_vastus_Bin2_406			2	K00891	1
+Aphrocallistes_vastus_Bin2_407			12		
+Aphrocallistes_vastus_Bin2_408			2	K03932	1
+Aphrocallistes_vastus_Bin2_409	K15371	GDH2; glutamate dehydrogenase [EC:1.4.1.2]	489		
+Aphrocallistes_vastus_Bin2_410					
+Aphrocallistes_vastus_Bin2_411	K09861	K09861; uncharacterized protein	82		
+Aphrocallistes_vastus_Bin2_412			31		
+Aphrocallistes_vastus_Bin2_413			4		
+Aphrocallistes_vastus_Bin2_414	K04085	tusA, sirA; tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	24		
+Aphrocallistes_vastus_Bin2_415	K09125	yhhQ; queuosine precursor transporter	72		
+Aphrocallistes_vastus_Bin2_416	K07568	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.17]	96		
+Aphrocallistes_vastus_Bin2_417	K00773	tgt; queuine tRNA-ribosyltransferase [EC:2.4.2.29]	211		
+Aphrocallistes_vastus_Bin2_418	K18979	queG; epoxyqueuosine reductase [EC:1.17.99.6]	146		
+Aphrocallistes_vastus_Bin2_419			2	K18481	1
+Aphrocallistes_vastus_Bin2_420			57		
+Aphrocallistes_vastus_Bin2_421	K06173	truA, PUS1; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]	88		
+Aphrocallistes_vastus_Bin2_422			6	K00820	1
+Aphrocallistes_vastus_Bin2_423	K09969	aapJ, bztA; general L-amino acid transport system substrate-binding protein	180		
+Aphrocallistes_vastus_Bin2_424	K09970	aapQ, bztB; general L-amino acid transport system permease protein	223		
+Aphrocallistes_vastus_Bin2_425	K09971	aapM, bztC; general L-amino acid transport system permease protein	170		
+Aphrocallistes_vastus_Bin2_426	K09972	aapP, bztD; general L-amino acid transport system ATP-binding protein [EC:7.4.2.1]	164		
+Aphrocallistes_vastus_Bin2_427			6	K01406	1
+Aphrocallistes_vastus_Bin2_428			4	K20276	1
+Aphrocallistes_vastus_Bin2_429					
+Aphrocallistes_vastus_Bin2_430			7	K20276	1
+Aphrocallistes_vastus_Bin2_431			3	K06950	1
+Aphrocallistes_vastus_Bin2_432			12	K20276	1
+Aphrocallistes_vastus_Bin2_433	K01586	lysA; diaminopimelate decarboxylase [EC:4.1.1.20]	138		
+Aphrocallistes_vastus_Bin2_434	K01755	argH, ASL; argininosuccinate lyase [EC:4.3.2.1]	205		
+Aphrocallistes_vastus_Bin2_435			1	K04066	1
+Aphrocallistes_vastus_Bin2_436	K01724	PCBD, phhB; 4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]	31		
+Aphrocallistes_vastus_Bin2_437	K06890	K06890; uncharacterized protein	82		
+Aphrocallistes_vastus_Bin2_438	K03574	mutT, NUDT15, MTH2; 8-oxo-dGTP diphosphatase [EC:3.6.1.55]	79		
+Aphrocallistes_vastus_Bin2_439	K00620	argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]	142		
+Aphrocallistes_vastus_Bin2_440	K11645	fbaB; fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	195		
+Aphrocallistes_vastus_Bin2_441	K18990	vexE; membrane fusion protein, multidrug efflux system	42		
+Aphrocallistes_vastus_Bin2_442	K18989	vexF; multidrug efflux pump	458		
+Aphrocallistes_vastus_Bin2_443	K06153	bacA; undecaprenyl-diphosphatase [EC:3.6.1.27]	61		
+Aphrocallistes_vastus_Bin2_444			56		
+Aphrocallistes_vastus_Bin2_445	K00266	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]	61		
+Aphrocallistes_vastus_Bin2_446	K00266	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]	49		
+Aphrocallistes_vastus_Bin2_447	K00265	gltB; glutamate synthase (NADPH) large chain [EC:1.4.1.13]	510		
+Aphrocallistes_vastus_Bin2_448	K00265	gltB; glutamate synthase (NADPH) large chain [EC:1.4.1.13]	35		
+Aphrocallistes_vastus_Bin2_449	K02408	fliE; flagellar hook-basal body complex protein FliE	23		
+Aphrocallistes_vastus_Bin2_450	K02388	flgC; flagellar basal-body rod protein FlgC	70		
+Aphrocallistes_vastus_Bin2_451	K02387	flgB; flagellar basal-body rod protein FlgB	37		
+Aphrocallistes_vastus_Bin2_452			170		
+Aphrocallistes_vastus_Bin2_453	K02053	ABC.SP.P; putative spermidine/putrescine transport system permease protein	163		
+Aphrocallistes_vastus_Bin2_454	K02054	ABC.SP.P1; putative spermidine/putrescine transport system permease protein	311		
+Aphrocallistes_vastus_Bin2_455	K02055	ABC.SP.S; putative spermidine/putrescine transport system substrate-binding protein	280		
+Aphrocallistes_vastus_Bin2_456					
+Aphrocallistes_vastus_Bin2_457	K02052	ABC.SP.A; putative spermidine/putrescine transport system ATP-binding protein	121		
+Aphrocallistes_vastus_Bin2_458			106		
+Aphrocallistes_vastus_Bin2_459	K11690	dctM; C4-dicarboxylate transporter, DctM subunit	231		
+Aphrocallistes_vastus_Bin2_460	K11689	dctQ; C4-dicarboxylate transporter, DctQ subunit	24		
+Aphrocallistes_vastus_Bin2_461	K11688	dctP; C4-dicarboxylate-binding protein DctP	201		
+Aphrocallistes_vastus_Bin2_462			3	K08221	1
+Aphrocallistes_vastus_Bin2_463	K07478	ycaJ; putative ATPase	226		
+Aphrocallistes_vastus_Bin2_464	K00344	qor, CRYZ; NADPH:quinone reductase [EC:1.6.5.5]	98		
+Aphrocallistes_vastus_Bin2_465	K07102	amgK; N-acetylmuramate 1-kinase [EC:2.7.1.221]	37		
+Aphrocallistes_vastus_Bin2_466	K07102	amgK; N-acetylmuramate 1-kinase [EC:2.7.1.221]	16		
+Aphrocallistes_vastus_Bin2_467			1	K02770	1
+Aphrocallistes_vastus_Bin2_468	K02902	RP-L28, MRPL28, rpmB; large subunit ribosomal protein L28	43		
+Aphrocallistes_vastus_Bin2_469	K11991	tadA; tRNA(adenine34) deaminase [EC:3.5.4.33]	61		
+Aphrocallistes_vastus_Bin2_470			35		
+Aphrocallistes_vastus_Bin2_471	K03110	ftsY; fused signal recognition particle receptor	38		
+Aphrocallistes_vastus_Bin2_472					
+Aphrocallistes_vastus_Bin2_473	K18707	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]	121		
+Aphrocallistes_vastus_Bin2_474	K01778	dapF; diaminopimelate epimerase [EC:5.1.1.7]	87		
+Aphrocallistes_vastus_Bin2_475			11	K07126	2
+Aphrocallistes_vastus_Bin2_476	K24138	prx3; glutaredoxin/glutathione-dependent peroxiredoxin [EC:1.11.1.25 1.11.1.27]	49		
+Aphrocallistes_vastus_Bin2_477	K08344	scsB; suppressor for copper-sensitivity B	105		
+Aphrocallistes_vastus_Bin2_478			3		
+Aphrocallistes_vastus_Bin2_479	K07735	algH; putative transcriptional regulator	35		
+Aphrocallistes_vastus_Bin2_480	K04754	mlaA, vacJ; phospholipid-binding lipoprotein MlaA	40		
+Aphrocallistes_vastus_Bin2_481	K00963	UGP2, galU, galF; UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]	73		
+Aphrocallistes_vastus_Bin2_482	K01840	manB; phosphomannomutase [EC:5.4.2.8]	158		
+Aphrocallistes_vastus_Bin2_483	K05810	LACC1, yfiH; purine-nucleoside/S-methyl-5'-thioadenosine phosphorylase / adenosine deaminase [EC:2.4.2.1 2.4.2.28 3.5.4.4]	103		
+Aphrocallistes_vastus_Bin2_484			128		
+Aphrocallistes_vastus_Bin2_485	K03601	xseA; exodeoxyribonuclease VII large subunit [EC:3.1.11.6]	146		
+Aphrocallistes_vastus_Bin2_486			3	K07552	2
+Aphrocallistes_vastus_Bin2_487			88		
+Aphrocallistes_vastus_Bin2_488			16		
+Aphrocallistes_vastus_Bin2_489	K08602	pepF, pepB; oligoendopeptidase F [EC:3.4.24.-]	304		
+Aphrocallistes_vastus_Bin2_490	K04566	lysK; lysyl-tRNA synthetase, class I [EC:6.1.1.6]	234		
+Aphrocallistes_vastus_Bin2_491	K13821	putA; RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]	392		
+Aphrocallistes_vastus_Bin2_492	K00088	IMPDH, guaB; IMP dehydrogenase [EC:1.1.1.205]	233		
+Aphrocallistes_vastus_Bin2_493			6	K03498	1
+Aphrocallistes_vastus_Bin2_494	K07126	K07126; uncharacterized protein	10		
+Aphrocallistes_vastus_Bin2_495	K01923	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	180		
+Aphrocallistes_vastus_Bin2_496	K23264	purS; phosphoribosylformylglycinamidine synthase subunit PurS [EC:6.3.5.3]	37		
+Aphrocallistes_vastus_Bin2_497					
+Aphrocallistes_vastus_Bin2_498			9	K01155	1
+Aphrocallistes_vastus_Bin2_499	K00571	E2.1.1.72; site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	35		
+Aphrocallistes_vastus_Bin2_500	K01738	cysK; cysteine synthase [EC:2.5.1.47]	237		
+Aphrocallistes_vastus_Bin2_501	K00640	cysE; serine O-acetyltransferase [EC:2.3.1.30]	78		
+Aphrocallistes_vastus_Bin2_502			1	K03629	1
+Aphrocallistes_vastus_Bin2_503	K03644	lipA, LIAS, LIP1, LIP5; lipoyl synthase [EC:2.8.1.8]	185		
+Aphrocallistes_vastus_Bin2_504	K03531	ftsZ; cell division protein FtsZ	74		
+Aphrocallistes_vastus_Bin2_505					
+Aphrocallistes_vastus_Bin2_506	K03589	ftsQ; cell division protein FtsQ	29		
+Aphrocallistes_vastus_Bin2_507	K01921	ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]	103		
+Aphrocallistes_vastus_Bin2_508	K00075	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	87		
+Aphrocallistes_vastus_Bin2_509	K01924	murC; UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]	202		
+Aphrocallistes_vastus_Bin2_510	K02563	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	75		
+Aphrocallistes_vastus_Bin2_511					
+Aphrocallistes_vastus_Bin2_512	K03588	ftsW, spoVE; cell division protein FtsW	140		
+Aphrocallistes_vastus_Bin2_513	K01925	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]	127		
+Aphrocallistes_vastus_Bin2_514	K01000	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]	267		
+Aphrocallistes_vastus_Bin2_515	K01929	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]	122		
+Aphrocallistes_vastus_Bin2_516	K01928	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]	26		
+Aphrocallistes_vastus_Bin2_517			3	K18130	1
+Aphrocallistes_vastus_Bin2_518	K01928	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]	38	K15792	2
+Aphrocallistes_vastus_Bin2_519	K03587	ftsI; cell division protein FtsI (penicillin-binding protein 3) [EC:3.4.16.4]	140		
+Aphrocallistes_vastus_Bin2_520			7	K14744	1
+Aphrocallistes_vastus_Bin2_521	K03438	mraW, rsmH; 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]	81		
+Aphrocallistes_vastus_Bin2_522	K03925	mraZ; transcriptional regulator MraZ	22		
+Aphrocallistes_vastus_Bin2_523	K01817	trpF; phosphoribosylanthranilate isomerase [EC:5.3.1.24]	83	K01696/K01817	2
+Aphrocallistes_vastus_Bin2_524	K10563	mutM, fpg; formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]	22		
+Aphrocallistes_vastus_Bin2_525	K10563	mutM, fpg; formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]	34		
+Aphrocallistes_vastus_Bin2_526					
+Aphrocallistes_vastus_Bin2_527					
+Aphrocallistes_vastus_Bin2_528					
+Aphrocallistes_vastus_Bin2_529	K00969	nadD; nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]	41		
+Aphrocallistes_vastus_Bin2_530	K01251	AHCY, ahcY; adenosylhomocysteinase [EC:3.13.2.1]	291		
+Aphrocallistes_vastus_Bin2_531	K03185	ubiH; 2-octaprenyl-6-methoxyphenol hydroxylase [EC:1.14.13.-]	107		
+Aphrocallistes_vastus_Bin2_532	K03313	nhaA; Na+:H+ antiporter, NhaA family	201		
+Aphrocallistes_vastus_Bin2_533			33		
+Aphrocallistes_vastus_Bin2_534	K02533	lasT; tRNA/rRNA methyltransferase [EC:2.1.1.-]	20	K01883	1
+Aphrocallistes_vastus_Bin2_535					
+Aphrocallistes_vastus_Bin2_536					
+Aphrocallistes_vastus_Bin2_537			70		
+Aphrocallistes_vastus_Bin2_538			27		
+Aphrocallistes_vastus_Bin2_539			7	K01911	1
+Aphrocallistes_vastus_Bin2_540			3	K07705	1
+Aphrocallistes_vastus_Bin2_541			1	K04759	1
+Aphrocallistes_vastus_Bin2_542			84		
+Aphrocallistes_vastus_Bin2_543	K09760	rmuC; DNA recombination protein RmuC	84		
+Aphrocallistes_vastus_Bin2_544	K00548	metH, MTR; 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	126		
+Aphrocallistes_vastus_Bin2_545	K02339	holC; DNA polymerase III subunit chi [EC:2.7.7.7]	23		
+Aphrocallistes_vastus_Bin2_546	K01255	CARP, pepA; leucyl aminopeptidase [EC:3.4.11.1]	125		
+Aphrocallistes_vastus_Bin2_547			31		
+Aphrocallistes_vastus_Bin2_548	K02420	fliQ; flagellar biosynthesis protein FliQ	44		
+Aphrocallistes_vastus_Bin2_549	K02421	fliR; flagellar biosynthesis protein FliR	78		
+Aphrocallistes_vastus_Bin2_550	K02401	flhB; flagellar biosynthesis protein FlhB	143		
+Aphrocallistes_vastus_Bin2_551	K18588	COQ10; coenzyme Q-binding protein COQ10	22		
+Aphrocallistes_vastus_Bin2_552	K01919	gshA; glutamate--cysteine ligase [EC:6.3.2.2]	221		
+Aphrocallistes_vastus_Bin2_553	K09761	rsmE; 16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]	45		
+Aphrocallistes_vastus_Bin2_554	K03179	ubiA; 4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]	73		
+Aphrocallistes_vastus_Bin2_555			56		
+Aphrocallistes_vastus_Bin2_556			5	K22317	1
+Aphrocallistes_vastus_Bin2_557	K02945	RP-S1, rpsA; small subunit ribosomal protein S1	201		
+Aphrocallistes_vastus_Bin2_558	K00945	cmk; CMP/dCMP kinase [EC:2.7.4.25]	26		
+Aphrocallistes_vastus_Bin2_559					
+Aphrocallistes_vastus_Bin2_560	K00800	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	188		
+Aphrocallistes_vastus_Bin2_561			12		
+Aphrocallistes_vastus_Bin2_562					
+Aphrocallistes_vastus_Bin2_563	K00303	soxB; sarcosine oxidase, subunit beta [EC:1.5.3.24 1.5.3.1]	160		
+Aphrocallistes_vastus_Bin2_564	K00304	soxD; sarcosine oxidase, subunit delta [EC:1.5.3.24 1.5.3.1]	22		
+Aphrocallistes_vastus_Bin2_565	K00302	soxA; sarcosine oxidase, subunit alpha [EC:1.5.3.24 1.5.3.1]	359		
+Aphrocallistes_vastus_Bin2_566	K00305	soxG; sarcosine oxidase, subunit gamma [EC:1.5.3.24 1.5.3.1]	34		
+Aphrocallistes_vastus_Bin2_567	K01938	fhs; formate--tetrahydrofolate ligase [EC:6.3.4.3]	370		
+Aphrocallistes_vastus_Bin2_568			120		
+Aphrocallistes_vastus_Bin2_569			119		
+Aphrocallistes_vastus_Bin2_570			19		
+Aphrocallistes_vastus_Bin2_571	K12340	tolC, bepC, cyaE, raxC, sapF, rsaF, hasF; outer membrane protein	44		
+Aphrocallistes_vastus_Bin2_572					
+Aphrocallistes_vastus_Bin2_573			2	K02687	1
+Aphrocallistes_vastus_Bin2_574	K01873	VARS, valS; valyl-tRNA synthetase [EC:6.1.1.9]	347		
+Aphrocallistes_vastus_Bin2_575			157		
+Aphrocallistes_vastus_Bin2_576	K03092	rpoN; RNA polymerase sigma-54 factor	187		
+Aphrocallistes_vastus_Bin2_577	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:7.5.2.5]	102		
+Aphrocallistes_vastus_Bin2_578			2	K09774	1
+Aphrocallistes_vastus_Bin2_579			2	K00318	2
+Aphrocallistes_vastus_Bin2_580	K06041	kdsD, kpsF; arabinose-5-phosphate isomerase [EC:5.3.1.13]	127		
+Aphrocallistes_vastus_Bin2_581	K00413	CYC1, CYT1, petC; ubiquinol-cytochrome c reductase cytochrome c1 subunit	89	K00410	3
+Aphrocallistes_vastus_Bin2_582	K00410	fbcH; ubiquinol-cytochrome c reductase cytochrome b/c1 subunit	148	K00412	74
+Aphrocallistes_vastus_Bin2_583	K00411	UQCRFS1, RIP1, petA; ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]	98		
+Aphrocallistes_vastus_Bin2_584	K22515	fdwB; formate dehydrogenase beta subunit [EC:1.17.1.9]	84		
+Aphrocallistes_vastus_Bin2_585					
+Aphrocallistes_vastus_Bin2_586			190		
+Aphrocallistes_vastus_Bin2_587			144		
+Aphrocallistes_vastus_Bin2_588	K08218	ampG; MFS transporter, PAT family, beta-lactamase induction signal transducer AmpG	160		
+Aphrocallistes_vastus_Bin2_589			2	K01775	1
+Aphrocallistes_vastus_Bin2_590	K03523	bioY; biotin transport system substrate-specific component	41	K16092	1
+Aphrocallistes_vastus_Bin2_591	K00297	metF, MTHFR; methylenetetrahydrofolate reductase (NADH) [EC:1.5.1.54]	119		
+Aphrocallistes_vastus_Bin2_592			282		
+Aphrocallistes_vastus_Bin2_593	K00548	metH, MTR; 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	147		
+Aphrocallistes_vastus_Bin2_594			44		
+Aphrocallistes_vastus_Bin2_595	K02523	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]	60		
+Aphrocallistes_vastus_Bin2_596	K00609	pyrB, PYR2; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	186		
+Aphrocallistes_vastus_Bin2_597	K01465	URA4, pyrC; dihydroorotase [EC:3.5.2.3]	267		
+Aphrocallistes_vastus_Bin2_598	K08591	plsY; acyl phosphate:glycerol-3-phosphate acyltransferase [EC:2.3.1.275]	58		
+Aphrocallistes_vastus_Bin2_599	K01761	E4.4.1.11; methionine-gamma-lyase [EC:4.4.1.11]	197		
+Aphrocallistes_vastus_Bin2_600					
+Aphrocallistes_vastus_Bin2_601	K04078	groES, HSPE1; chaperonin GroES	108		
+Aphrocallistes_vastus_Bin2_602	K04077	groEL, HSPD1; chaperonin GroEL [EC:5.6.1.7]	358		
+Aphrocallistes_vastus_Bin2_603			5	K02847	1
+Aphrocallistes_vastus_Bin2_604	K01956	carA, CPA1; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	185		
+Aphrocallistes_vastus_Bin2_605	K09117	K09117; uncharacterized protein	65		
+Aphrocallistes_vastus_Bin2_606	K02316	dnaG; DNA primase [EC:2.7.7.101]	108		
+Aphrocallistes_vastus_Bin2_607			1	K00975	1
+Aphrocallistes_vastus_Bin2_608	K03086	rpoD; RNA polymerase primary sigma factor	240		
+Aphrocallistes_vastus_Bin2_609			219		
+Aphrocallistes_vastus_Bin2_610			93		
+Aphrocallistes_vastus_Bin2_611					
+Aphrocallistes_vastus_Bin2_612	K00927	PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]	113		
+Aphrocallistes_vastus_Bin2_613					
+Aphrocallistes_vastus_Bin2_614	K01958	PC, pyc; pyruvate carboxylase [EC:6.4.1.1]	674		
+Aphrocallistes_vastus_Bin2_615	K01759	GLO1, gloA; lactoylglutathione lyase [EC:4.4.1.5]	104		
+Aphrocallistes_vastus_Bin2_616			3	K06867	1
+Aphrocallistes_vastus_Bin2_617	K03101	lspA; signal peptidase II [EC:3.4.23.36]	34		
+Aphrocallistes_vastus_Bin2_618					
+Aphrocallistes_vastus_Bin2_619	K01870	IARS, ileS; isoleucyl-tRNA synthetase [EC:6.1.1.5]	66		
+Aphrocallistes_vastus_Bin2_620	K01870	IARS, ileS; isoleucyl-tRNA synthetase [EC:6.1.1.5]	37		
+Aphrocallistes_vastus_Bin2_621					
+Aphrocallistes_vastus_Bin2_622			106		
+Aphrocallistes_vastus_Bin2_623			45		
+Aphrocallistes_vastus_Bin2_624			31		
+Aphrocallistes_vastus_Bin2_625	K06134	COQ7; 3-demethoxyubiquinol 3-hydroxylase [EC:1.14.99.60]	69		
+Aphrocallistes_vastus_Bin2_626			20		
+Aphrocallistes_vastus_Bin2_627	K01962	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]	194		
+Aphrocallistes_vastus_Bin2_628			39		
+Aphrocallistes_vastus_Bin2_629	K03584	recO; DNA repair protein RecO (recombination protein O)	80		
+Aphrocallistes_vastus_Bin2_630			1	K06076	1
+Aphrocallistes_vastus_Bin2_631			15	K01923	1
+Aphrocallistes_vastus_Bin2_632	K01696	trpB; tryptophan synthase beta chain [EC:4.2.1.20]	330		
+Aphrocallistes_vastus_Bin2_633	K01695	trpA; tryptophan synthase alpha chain [EC:4.2.1.20]	110		
+Aphrocallistes_vastus_Bin2_634	K01963	accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2 2.1.3.15]	136		
+Aphrocallistes_vastus_Bin2_635	K11754	folC; dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]	135		
+Aphrocallistes_vastus_Bin2_636	K09159	cptB; antitoxin CptB	11		
+Aphrocallistes_vastus_Bin2_637	K03723	mfd; transcription-repair coupling factor (superfamily II helicase) [EC:5.6.2.4]	258		
+Aphrocallistes_vastus_Bin2_638			2	K02014	1
+Aphrocallistes_vastus_Bin2_639			5	K13075	1
+Aphrocallistes_vastus_Bin2_640			5	K07146	1
+Aphrocallistes_vastus_Bin2_641	K07157	K07157; uncharacterized protein	42		
+Aphrocallistes_vastus_Bin2_642					
+Aphrocallistes_vastus_Bin2_643	K19055	prdX, proX; Ala-tRNA(Pro) deacylase [EC:3.1.1.-]	39		
+Aphrocallistes_vastus_Bin2_644	K00799	GST, gst; glutathione S-transferase [EC:2.5.1.18]	38		
+Aphrocallistes_vastus_Bin2_645			26		
+Aphrocallistes_vastus_Bin2_646	K01069	gloB, gloC, HAGH; hydroxyacylglutathione hydrolase [EC:3.1.2.6]	91		
+Aphrocallistes_vastus_Bin2_647	K21929	udg; uracil-DNA glycosylase [EC:3.2.2.27]	96		
+Aphrocallistes_vastus_Bin2_648			106		
+Aphrocallistes_vastus_Bin2_649	K09987	K09987; uncharacterized protein	58		
+Aphrocallistes_vastus_Bin2_650	K07025	K07025; putative hydrolase of the HAD superfamily	85		
+Aphrocallistes_vastus_Bin2_651	K06287	yhdE; nucleoside triphosphate pyrophosphatase [EC:3.6.1.-]	86		
+Aphrocallistes_vastus_Bin2_652			87		
+Aphrocallistes_vastus_Bin2_653	K00013	hisD; histidinol dehydrogenase [EC:1.1.1.23]	235		
+Aphrocallistes_vastus_Bin2_654	K00765	hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]	86		
+Aphrocallistes_vastus_Bin2_655	K02968	RP-S20, rpsT; small subunit ribosomal protein S20	19		
+Aphrocallistes_vastus_Bin2_656					
+Aphrocallistes_vastus_Bin2_657	K02535	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]	53		
+Aphrocallistes_vastus_Bin2_658			2	K03286	1
+Aphrocallistes_vastus_Bin2_659	K07090	K07090; uncharacterized protein	56		
+Aphrocallistes_vastus_Bin2_660	K07090	K07090; uncharacterized protein	18		
+Aphrocallistes_vastus_Bin2_661			68		
+Aphrocallistes_vastus_Bin2_662	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	26		
+Aphrocallistes_vastus_Bin2_663	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	79		
+Aphrocallistes_vastus_Bin2_664	K02372	fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]	63		
+Aphrocallistes_vastus_Bin2_665	K02536	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	51		
+Aphrocallistes_vastus_Bin2_666	K06142	hlpA, ompH; outer membrane protein	14		
+Aphrocallistes_vastus_Bin2_667	K07277	SAM50, TOB55, bamA; outer membrane protein insertion porin family	21		
+Aphrocallistes_vastus_Bin2_668	K07277	SAM50, TOB55, bamA; outer membrane protein insertion porin family	61		
+Aphrocallistes_vastus_Bin2_669	K11749	rseP; regulator of sigma E protease [EC:3.4.24.-]	115		
+Aphrocallistes_vastus_Bin2_670	K00099	dxr; 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]	134		
+Aphrocallistes_vastus_Bin2_671	K00981	E2.7.7.41, CDS1, CDS2, cdsA; phosphatidate cytidylyltransferase [EC:2.7.7.41]	35		
+Aphrocallistes_vastus_Bin2_672	K00806	uppS; undecaprenyl diphosphate synthase [EC:2.5.1.31]	98		
+Aphrocallistes_vastus_Bin2_673	K02838	frr, MRRF, RRF; ribosome recycling factor	86		
+Aphrocallistes_vastus_Bin2_674	K02357	tsf, TSFM; elongation factor Ts	108		
+Aphrocallistes_vastus_Bin2_675	K02967	RP-S2, MRPS2, rpsB; small subunit ribosomal protein S2	72		
+Aphrocallistes_vastus_Bin2_676	K00962	pnp, PNPT1; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]	332		
+Aphrocallistes_vastus_Bin2_677	K02956	RP-S15, MRPS15, rpsO; small subunit ribosomal protein S15	65		
+Aphrocallistes_vastus_Bin2_678	K03177	truB, PUS4, TRUB1; tRNA pseudouridine55 synthase [EC:5.4.99.25]	52		
+Aphrocallistes_vastus_Bin2_679					
+Aphrocallistes_vastus_Bin2_680	K15461	mnmC; tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]	21		
+Aphrocallistes_vastus_Bin2_681	K15461	mnmC; tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]	16		
+Aphrocallistes_vastus_Bin2_682			137		
+Aphrocallistes_vastus_Bin2_683			2	K07636	1
+Aphrocallistes_vastus_Bin2_684			1		
+Aphrocallistes_vastus_Bin2_685			7		
+Aphrocallistes_vastus_Bin2_686	K01866	YARS, tyrS; tyrosyl-tRNA synthetase [EC:6.1.1.1]	33		
+Aphrocallistes_vastus_Bin2_687	K01866	YARS, tyrS; tyrosyl-tRNA synthetase [EC:6.1.1.1]	67		
+Aphrocallistes_vastus_Bin2_688	K03750	moeA; molybdopterin molybdotransferase [EC:2.10.1.1]	114		
+Aphrocallistes_vastus_Bin2_689	K03637	moaC, CNX3; cyclic pyranopterin monophosphate synthase [EC:4.6.1.17]	71		
+Aphrocallistes_vastus_Bin2_690	K01609	trpC; indole-3-glycerol phosphate synthase [EC:4.1.1.48]	80		
+Aphrocallistes_vastus_Bin2_691					
+Aphrocallistes_vastus_Bin2_692	K00766	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]	54		
+Aphrocallistes_vastus_Bin2_693	K01658	trpG; anthranilate synthase component II [EC:4.1.3.27]	67		
+Aphrocallistes_vastus_Bin2_694	K07018	K07018; uncharacterized protein	103		
+Aphrocallistes_vastus_Bin2_695	K04487	iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]	118		
+Aphrocallistes_vastus_Bin2_696	K04487	iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]	136		
+Aphrocallistes_vastus_Bin2_697	K04755	fdx; ferredoxin, 2Fe-2S	70		
+Aphrocallistes_vastus_Bin2_698	K01247	alkA; DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	76		
+Aphrocallistes_vastus_Bin2_699					
+Aphrocallistes_vastus_Bin2_700					
+Aphrocallistes_vastus_Bin2_701	K01840	manB; phosphomannomutase [EC:5.4.2.8]	19	K15778	2
+Aphrocallistes_vastus_Bin2_702			12		
+Aphrocallistes_vastus_Bin2_703	K01915	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]	451		
+Aphrocallistes_vastus_Bin2_704	K01006	ppdK; pyruvate, orthophosphate dikinase [EC:2.7.9.1]	410		
+Aphrocallistes_vastus_Bin2_705					
+Aphrocallistes_vastus_Bin2_706			1	K02404	1
+Aphrocallistes_vastus_Bin2_707					
+Aphrocallistes_vastus_Bin2_708	K01879	glyS; glycyl-tRNA synthetase beta chain [EC:6.1.1.14]	22		
+Aphrocallistes_vastus_Bin2_709	K01878	glyQ; glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]	180		
+Aphrocallistes_vastus_Bin2_710	K01955	carB, CPA2; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	619		
+Aphrocallistes_vastus_Bin2_711	K03624	greA; transcription elongation factor GreA	75		
+Aphrocallistes_vastus_Bin2_712	K07305	msrB; peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	87		
+Aphrocallistes_vastus_Bin2_713	K02116	atpI; ATP synthase protein I	14		
+Aphrocallistes_vastus_Bin2_714	K02108	ATPF0A, atpB; F-type H+-transporting ATPase subunit a	167		
+Aphrocallistes_vastus_Bin2_715					
+Aphrocallistes_vastus_Bin2_716	K02109	ATPF0B, atpF; F-type H+-transporting ATPase subunit b	17		
+Aphrocallistes_vastus_Bin2_717	K02109	ATPF0B, atpF; F-type H+-transporting ATPase subunit b	19		
+Aphrocallistes_vastus_Bin2_718	K00602	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	174		
+Aphrocallistes_vastus_Bin2_719	K03089	rpoH; RNA polymerase sigma-32 factor	122		
+Aphrocallistes_vastus_Bin2_720			4	K01934	1
+Aphrocallistes_vastus_Bin2_721			84	K12132	21
+Aphrocallistes_vastus_Bin2_722			131		
+Aphrocallistes_vastus_Bin2_723	K03553	recA; recombination protein RecA	189		
+Aphrocallistes_vastus_Bin2_724	K07323	mlaC; phospholipid transport system substrate-binding protein	15		
+Aphrocallistes_vastus_Bin2_725	K07323	mlaC; phospholipid transport system substrate-binding protein	26		
+Aphrocallistes_vastus_Bin2_726					
+Aphrocallistes_vastus_Bin2_727					
+Aphrocallistes_vastus_Bin2_728	K00796	folP; dihydropteroate synthase [EC:2.5.1.15]	69		
+Aphrocallistes_vastus_Bin2_729	K13581	ccrM; modification methylase [EC:2.1.1.72]	145		
+Aphrocallistes_vastus_Bin2_730	K03470	rnhB; ribonuclease HII [EC:3.1.26.4]	27		
+Aphrocallistes_vastus_Bin2_731	K03455	TC.KEF; monovalent cation:H+ antiporter-2, CPA2 family	115		
+Aphrocallistes_vastus_Bin2_732	K05539	dusA; tRNA-dihydrouridine synthase A [EC:1.-.-.-]	112		
+Aphrocallistes_vastus_Bin2_733	K02417	fliN; flagellar motor switch protein FliN	19		
+Aphrocallistes_vastus_Bin2_734			14		
+Aphrocallistes_vastus_Bin2_735			188		
+Aphrocallistes_vastus_Bin2_736	K01876	DARS2, aspS; aspartyl-tRNA synthetase [EC:6.1.1.12]	340		
+Aphrocallistes_vastus_Bin2_737			53		
+Aphrocallistes_vastus_Bin2_738					
+Aphrocallistes_vastus_Bin2_739					
+Aphrocallistes_vastus_Bin2_740					
+Aphrocallistes_vastus_Bin2_741	K03414	cheZ; chemotaxis protein CheZ	18		
+Aphrocallistes_vastus_Bin2_742	K03413	cheY; two-component system, chemotaxis family, chemotaxis protein CheY	82		
+Aphrocallistes_vastus_Bin2_743					
+Aphrocallistes_vastus_Bin2_744	K03593	mrp, NUBPL; ATP-binding protein involved in chromosome partitioning	45		
+Aphrocallistes_vastus_Bin2_745	K04088	hflK; modulator of FtsH protease HflK	136		
+Aphrocallistes_vastus_Bin2_746	K04087	hflC; modulator of FtsH protease HflC	117		
+Aphrocallistes_vastus_Bin2_747			16	K00721	1
+Aphrocallistes_vastus_Bin2_748	K01992	ABC-2.P; ABC-2 type transport system permease protein	107		
+Aphrocallistes_vastus_Bin2_749	K00954	E2.7.7.3A, coaD, kdtB; pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	21		
+Aphrocallistes_vastus_Bin2_750	K00954	E2.7.7.3A, coaD, kdtB; pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	14		
+Aphrocallistes_vastus_Bin2_751	K02469	gyrA; DNA gyrase subunit A [EC:5.6.2.2]	361		
+Aphrocallistes_vastus_Bin2_752	K01698	hemB, ALAD; porphobilinogen synthase [EC:4.2.1.24]	106		
+Aphrocallistes_vastus_Bin2_753			33		
+Aphrocallistes_vastus_Bin2_754	K17662	CBP3, UQCC; cytochrome b pre-mRNA-processing protein 3	21		
+Aphrocallistes_vastus_Bin2_755	K03621	plsX; phosphate acyltransferase [EC:2.3.1.274]	134		
+Aphrocallistes_vastus_Bin2_756	K00648	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]	165		
+Aphrocallistes_vastus_Bin2_757			45		
+Aphrocallistes_vastus_Bin2_758	K03529	smc; chromosome segregation protein	54		
+Aphrocallistes_vastus_Bin2_759					
+Aphrocallistes_vastus_Bin2_760					
+Aphrocallistes_vastus_Bin2_761	K03406	mcp; methyl-accepting chemotaxis protein	12		
+Aphrocallistes_vastus_Bin2_762	K07588	MMAA, argK; GTPase [EC:3.6.5.-]	51		
+Aphrocallistes_vastus_Bin2_763	K04764	ihfA, himA; integration host factor subunit alpha	40		
+Aphrocallistes_vastus_Bin2_764			23		
+Aphrocallistes_vastus_Bin2_765			6		
+Aphrocallistes_vastus_Bin2_766			3	K02418	1
+Aphrocallistes_vastus_Bin2_767					
+Aphrocallistes_vastus_Bin2_768			2	K19118	1
+Aphrocallistes_vastus_Bin2_769					
+Aphrocallistes_vastus_Bin2_770	K03230	yscV, sctV, hrcV, ssaV, invA; type III secretion protein V	241		
+Aphrocallistes_vastus_Bin2_771					
+Aphrocallistes_vastus_Bin2_772					
+Aphrocallistes_vastus_Bin2_773					
+Aphrocallistes_vastus_Bin2_774	K03226	yscR, sctR, hrcR, ssaR; type III secretion protein R	60		
+Aphrocallistes_vastus_Bin2_775	K03227	yscS, sctS, hrcS, ssaS; type III secretion protein S	33		
+Aphrocallistes_vastus_Bin2_776					
+Aphrocallistes_vastus_Bin2_777	K03229	yscU, sctU, hrcU, ssaU; type III secretion protein U	117		
+Aphrocallistes_vastus_Bin2_778	K03228	yscT, sctT, hrcT, ssaT; type III secretion protein T	89		
+Aphrocallistes_vastus_Bin2_779			17	K12508	1
+Aphrocallistes_vastus_Bin2_780					
+Aphrocallistes_vastus_Bin2_781					
+Aphrocallistes_vastus_Bin2_782	K03221	yscF, sctF, ssaG, prgI; type III secretion protein F	14	K22487	1
+Aphrocallistes_vastus_Bin2_783			1	K18478	1
+Aphrocallistes_vastus_Bin2_784			1		
+Aphrocallistes_vastus_Bin2_785					
+Aphrocallistes_vastus_Bin2_786			3		
+Aphrocallistes_vastus_Bin2_787					
+Aphrocallistes_vastus_Bin2_788			2	K06876	1
+Aphrocallistes_vastus_Bin2_789			6	K02067	1
+Aphrocallistes_vastus_Bin2_790			18		
+Aphrocallistes_vastus_Bin2_791			2	K01129	1
+Aphrocallistes_vastus_Bin2_792			10	K15368	1
+Aphrocallistes_vastus_Bin2_793					
+Aphrocallistes_vastus_Bin2_794			2	K15346	1
+Aphrocallistes_vastus_Bin2_795			8	K05838	1
+Aphrocallistes_vastus_Bin2_796	K03222	yscJ, sctJ, hrcJ, ssaJ; type III secretion protein J	61		
+Aphrocallistes_vastus_Bin2_797			1	K02528	1
+Aphrocallistes_vastus_Bin2_798	K03223	yscL, sctL; type III secretion protein L	20	K02411	1
+Aphrocallistes_vastus_Bin2_799	K03224	yscN, sctN, hrcN, ssaN; ATP synthase in type III secretion protein N [EC:7.4.2.8]	248		
+Aphrocallistes_vastus_Bin2_800			4		
+Aphrocallistes_vastus_Bin2_801					
+Aphrocallistes_vastus_Bin2_802	K03219	yscC, sctC, ssaC; type III secretion protein C	18		
+Aphrocallistes_vastus_Bin2_803					
+Aphrocallistes_vastus_Bin2_804					
+Aphrocallistes_vastus_Bin2_805					
+Aphrocallistes_vastus_Bin2_806	K00600	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]	263		
+Aphrocallistes_vastus_Bin2_807					
+Aphrocallistes_vastus_Bin2_808	K11752	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]	89		
+Aphrocallistes_vastus_Bin2_809	K00793	ribE, RIB5; riboflavin synthase [EC:2.5.1.9]	87		
+Aphrocallistes_vastus_Bin2_810	K00794	ribH, RIB4; 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]	32		
+Aphrocallistes_vastus_Bin2_811					
+Aphrocallistes_vastus_Bin2_812					
+Aphrocallistes_vastus_Bin2_813					
+Aphrocallistes_vastus_Bin2_814					
+Aphrocallistes_vastus_Bin2_815			3	K09516	1
+Aphrocallistes_vastus_Bin2_816	K00946	thiL; thiamine-monophosphate kinase [EC:2.7.4.16]	13		
+Aphrocallistes_vastus_Bin2_817					
+Aphrocallistes_vastus_Bin2_818					
+Aphrocallistes_vastus_Bin2_819	K00020	HIBADH, mmsB; 3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]	71		
+Aphrocallistes_vastus_Bin2_820	K02314	dnaB; replicative DNA helicase [EC:5.6.2.3]	204		
+Aphrocallistes_vastus_Bin2_821	K01775	alr; alanine racemase [EC:5.1.1.1]	101		
+Aphrocallistes_vastus_Bin2_822			7	K02434	1
+Aphrocallistes_vastus_Bin2_823	K02066	mlaE, linK; phospholipid/cholesterol/gamma-HCH transport system permease protein	132		
+Aphrocallistes_vastus_Bin2_824	K02065	mlaF, linL, mkl; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	11	K02028	1
+Aphrocallistes_vastus_Bin2_825	K02065	mlaF, linL, mkl; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	28		
+Aphrocallistes_vastus_Bin2_826					
+Aphrocallistes_vastus_Bin2_827	K04485	radA, sms; DNA repair protein RadA/Sms	144		
+Aphrocallistes_vastus_Bin2_828	K03558	cvpA; membrane protein required for colicin V production	18		
+Aphrocallistes_vastus_Bin2_829	K00764	purF, PPAT; amidophosphoribosyltransferase [EC:2.4.2.14]	51		
+Aphrocallistes_vastus_Bin2_830					
+Aphrocallistes_vastus_Bin2_831					
+Aphrocallistes_vastus_Bin2_832			60		
+Aphrocallistes_vastus_Bin2_833	K07107	ybgC; acyl-CoA thioester hydrolase [EC:3.1.2.-]	33		
+Aphrocallistes_vastus_Bin2_834	K02939	RP-L9, MRPL9, rplI; large subunit ribosomal protein L9	51		
+Aphrocallistes_vastus_Bin2_835	K02963	RP-S18, MRPS18, rpsR; small subunit ribosomal protein S18	28		
+Aphrocallistes_vastus_Bin2_836	K02990	RP-S6, MRPS6, rpsF; small subunit ribosomal protein S6	31		
+Aphrocallistes_vastus_Bin2_837	K00566	mnmA, trmU; tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]	149		
+Aphrocallistes_vastus_Bin2_838	K02433	gatA, QRSL1; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	92		
+Aphrocallistes_vastus_Bin2_839					
+Aphrocallistes_vastus_Bin2_840	K02434	gatB, PET112; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	201		
+Aphrocallistes_vastus_Bin2_841			28		
+Aphrocallistes_vastus_Bin2_842			25		
+Aphrocallistes_vastus_Bin2_843	K01972	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]	230		
+Aphrocallistes_vastus_Bin2_844	K03631	recN; DNA repair protein RecN (Recombination protein N)	180		
+Aphrocallistes_vastus_Bin2_845	K05807	bamD; outer membrane protein assembly factor BamD	57		
+Aphrocallistes_vastus_Bin2_846	K07120	K07120; uncharacterized protein	68		
+Aphrocallistes_vastus_Bin2_847			237		
+Aphrocallistes_vastus_Bin2_848	K07793	tctA; putative tricarboxylic transport membrane protein	330		
+Aphrocallistes_vastus_Bin2_849			107	K16514	39
+Aphrocallistes_vastus_Bin2_850	K08688	E3.5.3.3; creatinase [EC:3.5.3.3]	309		
+Aphrocallistes_vastus_Bin2_851			2	K12368	1
+Aphrocallistes_vastus_Bin2_852					
+Aphrocallistes_vastus_Bin2_853	K01807	rpiA; ribose 5-phosphate isomerase A [EC:5.3.1.6]	41		
+Aphrocallistes_vastus_Bin2_854			1		
+Aphrocallistes_vastus_Bin2_855			1	K07248	1
+Aphrocallistes_vastus_Bin2_856	K00133	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	184		
+Aphrocallistes_vastus_Bin2_857	K00821	argD; acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17]	186		
+Aphrocallistes_vastus_Bin2_858	K00611	OTC, argF, argI; ornithine carbamoyltransferase [EC:2.1.3.3]	65		
+Aphrocallistes_vastus_Bin2_859					
+Aphrocallistes_vastus_Bin2_860					
+Aphrocallistes_vastus_Bin2_861	K00384	trxB, TRR; thioredoxin reductase (NADPH) [EC:1.8.1.9]	170		
+Aphrocallistes_vastus_Bin2_862	K00220	tyrC; cyclohexadieny/prephenate dehydrogenase [EC:1.3.1.43 1.3.1.12]	91		
+Aphrocallistes_vastus_Bin2_863	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	92		
+Aphrocallistes_vastus_Bin2_864			10	K14170	7
+Aphrocallistes_vastus_Bin2_865	K01458	hutG; N-formylglutamate deformylase [EC:3.5.1.68]	93		
+Aphrocallistes_vastus_Bin2_866			87		
+Aphrocallistes_vastus_Bin2_867					
+Aphrocallistes_vastus_Bin2_868	K00970	pcnB; poly(A) polymerase [EC:2.7.7.19]	82		
+Aphrocallistes_vastus_Bin2_869	K00763	pncB, NAPRT1; nicotinate phosphoribosyltransferase [EC:6.3.4.21]	269		
+Aphrocallistes_vastus_Bin2_870	K01626	E2.5.1.54, aroF, aroG, aroH; 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]	362		
+Aphrocallistes_vastus_Bin2_871	K02510	hpaI, hpcH; 4-hydroxy-2-oxoheptanedioate aldolase [EC:4.1.2.52]	90		
+Aphrocallistes_vastus_Bin2_872	K09691	wzt, rbfB; lipopolysaccharide transport system ATP-binding protein	73		
+Aphrocallistes_vastus_Bin2_873	K09690	wzm, rfbA; lipopolysaccharide transport system permease protein	24		
+Aphrocallistes_vastus_Bin2_874					
+Aphrocallistes_vastus_Bin2_875	K09748	rimP; ribosome maturation factor RimP	27		
+Aphrocallistes_vastus_Bin2_876	K02600	nusA; transcription termination/antitermination protein NusA	105		
+Aphrocallistes_vastus_Bin2_877	K02519	infB, MTIF2; translation initiation factor IF-2	207		
+Aphrocallistes_vastus_Bin2_878	K02834	rbfA; ribosome-binding factor A	32		
+Aphrocallistes_vastus_Bin2_879	K00930	argB; acetylglutamate kinase [EC:2.7.2.8]	110		
+Aphrocallistes_vastus_Bin2_880	K03217	yidC, spoIIIJ, OXA1, ccfA; YidC/Oxa1 family membrane protein insertase	36		
+Aphrocallistes_vastus_Bin2_881	K03217	yidC, spoIIIJ, OXA1, ccfA; YidC/Oxa1 family membrane protein insertase	103		
+Aphrocallistes_vastus_Bin2_882					
+Aphrocallistes_vastus_Bin2_883	K02914	RP-L34, MRPL34, rpmH; large subunit ribosomal protein L34	29		
+Aphrocallistes_vastus_Bin2_884			10	K05845/K05846	1
+Aphrocallistes_vastus_Bin2_885			16	K09806	3
+Aphrocallistes_vastus_Bin2_886	K00789	metK, MAT; S-adenosylmethionine synthetase [EC:2.5.1.6]	312		
+Aphrocallistes_vastus_Bin2_887	K03439	trmB, METTL1, TRM8; tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]	30		
+Aphrocallistes_vastus_Bin2_888	K07301	yrbG; cation:H+ antiporter	70		
+Aphrocallistes_vastus_Bin2_889	K00121	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	265		
+Aphrocallistes_vastus_Bin2_890	K01070	frmB, ESD, fghA; S-formylglutathione hydrolase [EC:3.1.2.12]	165		
+Aphrocallistes_vastus_Bin2_891	K13893	yejA; microcin C transport system substrate-binding protein	323		
+Aphrocallistes_vastus_Bin2_892	K13894	yejB; microcin C transport system permease protein	224		
+Aphrocallistes_vastus_Bin2_893	K13895	yejE; microcin C transport system permease protein	237		
+Aphrocallistes_vastus_Bin2_894	K13896	yejF; microcin C transport system ATP-binding protein	244		
+Aphrocallistes_vastus_Bin2_895			4		
+Aphrocallistes_vastus_Bin2_896	K02303	cobA; uroporphyrin-III C-methyltransferase [EC:2.1.1.107]	130		
+Aphrocallistes_vastus_Bin2_897	K01754	E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]	164		
+Aphrocallistes_vastus_Bin2_898	K02503	HINT1, hinT, hit; histidine triad (HIT) family protein	63		
+Aphrocallistes_vastus_Bin2_899	K01523	hisE; phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31]	23	K11755	3
+Aphrocallistes_vastus_Bin2_900	K02500	hisF; imidazole glycerol-phosphate synthase subunit HisF [EC:4.3.2.10]	140		
+Aphrocallistes_vastus_Bin2_901	K01814	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	95		
+Aphrocallistes_vastus_Bin2_902	K02501	hisH; imidazole glycerol-phosphate synthase subunit HisH [EC:4.3.2.10]	91		
+Aphrocallistes_vastus_Bin2_903	K01693	hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	130		
+Aphrocallistes_vastus_Bin2_904			21		
+Aphrocallistes_vastus_Bin2_905			6	K03406	1
+Aphrocallistes_vastus_Bin2_906	K02416	fliM; flagellar motor switch protein FliM	130		
+Aphrocallistes_vastus_Bin2_907	K02415	fliL; flagellar protein FliL	19		
+Aphrocallistes_vastus_Bin2_908			1	K07284	1
+Aphrocallistes_vastus_Bin2_909			1	K07407	1
+Aphrocallistes_vastus_Bin2_910	K02391	flgF; flagellar basal-body rod protein FlgF	68		
+Aphrocallistes_vastus_Bin2_911	K02392	flgG; flagellar basal-body rod protein FlgG	147		
+Aphrocallistes_vastus_Bin2_912	K02386	flgA; flagellar basal body P-ring formation protein FlgA	10		
+Aphrocallistes_vastus_Bin2_913					
+Aphrocallistes_vastus_Bin2_914	K02393	flgH; flagellar L-ring protein FlgH	130		
+Aphrocallistes_vastus_Bin2_915	K03500	rsmB, sun; 16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]	75		
+Aphrocallistes_vastus_Bin2_916	K03500	rsmB, sun; 16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]	11		
+Aphrocallistes_vastus_Bin2_917			8	K07446	1
+Aphrocallistes_vastus_Bin2_918			10	K01624	1
+Aphrocallistes_vastus_Bin2_919	K00942	gmk, GUK1; guanylate kinase [EC:2.7.4.8]	83		
+Aphrocallistes_vastus_Bin2_920	K06942	ychF; ribosome-binding ATPase	167		
+Aphrocallistes_vastus_Bin2_921	K03671	trxA; thioredoxin 1	66		
+Aphrocallistes_vastus_Bin2_922					
+Aphrocallistes_vastus_Bin2_923	K16898	addA; ATP-dependent helicase/nuclease subunit A [EC:5.6.2.4 3.1.-.-]	72		
+Aphrocallistes_vastus_Bin2_924					
+Aphrocallistes_vastus_Bin2_925	K16899	addB; ATP-dependent helicase/nuclease subunit B [EC:5.6.2.4 3.1.-.-]	60		
+Aphrocallistes_vastus_Bin2_926	K16899	addB; ATP-dependent helicase/nuclease subunit B [EC:5.6.2.4 3.1.-.-]	15		
+Aphrocallistes_vastus_Bin2_927	K00992	murU; N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase [EC:2.7.7.99]	16	K07102	1
+Aphrocallistes_vastus_Bin2_928	K02419	fliP; flagellar biosynthesis protein FliP	72		
+Aphrocallistes_vastus_Bin2_929	K04061	flhB2; flagellar biosynthesis protein	29	K02401	1
+Aphrocallistes_vastus_Bin2_930			22		
+Aphrocallistes_vastus_Bin2_931			2		
+Aphrocallistes_vastus_Bin2_932	K03218	rlmB; 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]	77		
+Aphrocallistes_vastus_Bin2_933			4	K03195	1
+Aphrocallistes_vastus_Bin2_934	K06878	K06878; tRNA-binding protein	69		
+Aphrocallistes_vastus_Bin2_935	K05527	bolA; BolA family transcriptional regulator, general stress-responsive regulator	33	K22066	1
+Aphrocallistes_vastus_Bin2_936	K06601	flbT; flagellar biosynthesis repressor protein FlbT	42		
+Aphrocallistes_vastus_Bin2_937	K01465	URA4, pyrC; dihydroorotase [EC:3.5.2.3]	114		
+Aphrocallistes_vastus_Bin2_938	K00762	pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10]	52		
+Aphrocallistes_vastus_Bin2_939			84	K05802	5
+Aphrocallistes_vastus_Bin2_940	K01784	galE, GALE; UDP-glucose 4-epimerase [EC:5.1.3.2]	136		
+Aphrocallistes_vastus_Bin2_941			2	K05297	1
+Aphrocallistes_vastus_Bin2_942	K04042	glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]	141		
+Aphrocallistes_vastus_Bin2_943	K00820	glmS, GFPT; glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16]	263		
+Aphrocallistes_vastus_Bin2_944					
+Aphrocallistes_vastus_Bin2_945			21	K20971	1
+Aphrocallistes_vastus_Bin2_946	K03406	mcp; methyl-accepting chemotaxis protein	37		
+Aphrocallistes_vastus_Bin2_947			84		
+Aphrocallistes_vastus_Bin2_948	K00275	pdxH, PNPO; pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5]	82		
+Aphrocallistes_vastus_Bin2_949					
+Aphrocallistes_vastus_Bin2_950	K02168	betT, betS; choline/glycine/proline betaine transport protein	217		
+Aphrocallistes_vastus_Bin2_951	K12536	hasD, prtD, aprD, rsaD, prsD, eexD; ATP-binding cassette, subfamily C, type I secretion system permease/ATPase	13	K24846	2
+Aphrocallistes_vastus_Bin2_952					
+Aphrocallistes_vastus_Bin2_953					
+Aphrocallistes_vastus_Bin2_954	K01885	EARS, gltX; glutamyl-tRNA synthetase [EC:6.1.1.17]	133		
+Aphrocallistes_vastus_Bin2_955	K01916	nadE; NAD+ synthase [EC:6.3.1.5]	200		
+Aphrocallistes_vastus_Bin2_956	K11209	yghU, yfcG; GSH-dependent disulfide-bond oxidoreductase [EC:1.8.4.-]	95		
+Aphrocallistes_vastus_Bin2_957					
+Aphrocallistes_vastus_Bin2_958					
+Aphrocallistes_vastus_Bin2_959			120		
+Aphrocallistes_vastus_Bin2_960	K13628	iscA; iron-sulfur cluster assembly protein	22		
+Aphrocallistes_vastus_Bin2_961			1	K09793	1
+Aphrocallistes_vastus_Bin2_962			60		
+Aphrocallistes_vastus_Bin2_963	K11717	sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	181		
+Aphrocallistes_vastus_Bin2_964	K09015	sufD; Fe-S cluster assembly protein SufD	74		
+Aphrocallistes_vastus_Bin2_965	K09013	sufC; Fe-S cluster assembly ATP-binding protein	118		
+Aphrocallistes_vastus_Bin2_966			8	K05589	2
+Aphrocallistes_vastus_Bin2_967	K00161	PDHA, pdhA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]	192		
+Aphrocallistes_vastus_Bin2_968	K00162	PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]	272		
+Aphrocallistes_vastus_Bin2_969	K00627	DLAT, aceF, pdhC; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]	92		
+Aphrocallistes_vastus_Bin2_970			1	K15520	1
+Aphrocallistes_vastus_Bin2_971	K03743	pncC; nicotinamide-nucleotide amidase [EC:3.5.1.42]	32	K03742	2
+Aphrocallistes_vastus_Bin2_972	K01095	pgpA; phosphatidylglycerophosphatase A [EC:3.1.3.27]	34		
+Aphrocallistes_vastus_Bin2_973	K09014	sufB; Fe-S cluster assembly protein SufB	372		
+Aphrocallistes_vastus_Bin2_974	K00382	DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	222		
+Aphrocallistes_vastus_Bin2_975	K14083	mttB; trimethylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.250]	200		
+Aphrocallistes_vastus_Bin2_976	K00315	DMGDH; dimethylglycine dehydrogenase [EC:1.5.8.4]	323		
+Aphrocallistes_vastus_Bin2_977					
+Aphrocallistes_vastus_Bin2_978	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	290		
+Aphrocallistes_vastus_Bin2_979	K02033	ABC.PE.P; peptide/nickel transport system permease protein	124		
+Aphrocallistes_vastus_Bin2_980	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	152		
+Aphrocallistes_vastus_Bin2_981	K02031	ddpD; peptide/nickel transport system ATP-binding protein	428		
+	K02032	ddpF; peptide/nickel transport system ATP-binding protein			
+Aphrocallistes_vastus_Bin2_982	K08738	CYC; cytochrome c	27		
+Aphrocallistes_vastus_Bin2_983			273		
+Aphrocallistes_vastus_Bin2_984	K01902	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	207		
+Aphrocallistes_vastus_Bin2_985	K01903	sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]	228		
+Aphrocallistes_vastus_Bin2_986	K00024	mdh; malate dehydrogenase [EC:1.1.1.37]	185		
+Aphrocallistes_vastus_Bin2_987			7	K03827	1
+Aphrocallistes_vastus_Bin2_988					
+Aphrocallistes_vastus_Bin2_989	K03684	rnd; ribonuclease D [EC:3.1.13.5]	86		
+Aphrocallistes_vastus_Bin2_990	K00568	ubiG; 2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64]	85		
+Aphrocallistes_vastus_Bin2_991	K00928	lysC; aspartate kinase [EC:2.7.2.4]	180		
+Aphrocallistes_vastus_Bin2_992					
+Aphrocallistes_vastus_Bin2_993	K03526	gcpE, ispG; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]	178		
+Aphrocallistes_vastus_Bin2_994			6	K06221	1
+Aphrocallistes_vastus_Bin2_995			28		
+Aphrocallistes_vastus_Bin2_996	K01491	folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	157		
+Aphrocallistes_vastus_Bin2_997	K00059	fabG, OAR1; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	134		
+Aphrocallistes_vastus_Bin2_998	K02078	acpP; acyl carrier protein	42		
+Aphrocallistes_vastus_Bin2_999	K09458	fabF, OXSM, CEM1; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	226		
+Aphrocallistes_vastus_Bin2_1000	K07082	K07082; UPF0755 protein	180		
+Aphrocallistes_vastus_Bin2_1001	K02010	afuC, fbpC; iron(III) transport system ATP-binding protein [EC:7.2.2.7]	119		
+Aphrocallistes_vastus_Bin2_1002	K03116	tatA; sec-independent protein translocase protein TatA	23		
+Aphrocallistes_vastus_Bin2_1003					
+Aphrocallistes_vastus_Bin2_1004	K03118	tatC; sec-independent protein translocase protein TatC	116		
+Aphrocallistes_vastus_Bin2_1005	K01875	SARS, serS; seryl-tRNA synthetase [EC:6.1.1.11]	207		
+Aphrocallistes_vastus_Bin2_1006			55		
+Aphrocallistes_vastus_Bin2_1007	K01627	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	117		
+Aphrocallistes_vastus_Bin2_1008			62		
+Aphrocallistes_vastus_Bin2_1009			160		
+Aphrocallistes_vastus_Bin2_1010			208		
+Aphrocallistes_vastus_Bin2_1011			184		
+Aphrocallistes_vastus_Bin2_1012	K01689	ENO, eno; enolase [EC:4.2.1.11]	181		
+Aphrocallistes_vastus_Bin2_1013	K23518	MACROD, ymdB; O-acetyl-ADP-ribose deacetylase [EC:3.1.1.106]	118		
+Aphrocallistes_vastus_Bin2_1014	K03801	lipB; lipoyl(octanoyl) transferase [EC:2.3.1.181]	91		
+Aphrocallistes_vastus_Bin2_1015	K00029	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]	193		
+Aphrocallistes_vastus_Bin2_1016	K00029	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]	48		
+Aphrocallistes_vastus_Bin2_1017	K06213	mgtE; magnesium transporter	153		
+Aphrocallistes_vastus_Bin2_1018			58		
+Aphrocallistes_vastus_Bin2_1019	K01714	dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]	134		
+Aphrocallistes_vastus_Bin2_1020	K03664	smpB; SsrA-binding protein	64		
+Aphrocallistes_vastus_Bin2_1021	K08305	mltB; membrane-bound lytic murein transglycosylase B [EC:4.2.2.-]	46		
+Aphrocallistes_vastus_Bin2_1022	K08305	mltB; membrane-bound lytic murein transglycosylase B [EC:4.2.2.-]	22		
+Aphrocallistes_vastus_Bin2_1023	K03642	rlpA; rare lipoprotein A	112		
+Aphrocallistes_vastus_Bin2_1024	K00943	tmk, DTYMK; dTMP kinase [EC:2.7.4.9]	46		
+Aphrocallistes_vastus_Bin2_1025					
+Aphrocallistes_vastus_Bin2_1026	K02341	holB; DNA polymerase III subunit delta' [EC:2.7.7.7]	36		
+Aphrocallistes_vastus_Bin2_1027	K01874	MARS, metG; methionyl-tRNA synthetase [EC:6.1.1.10]	214		
+Aphrocallistes_vastus_Bin2_1028			19		
+Aphrocallistes_vastus_Bin2_1029	K03424	tatD; TatD DNase family protein [EC:3.1.21.-]	87		
+Aphrocallistes_vastus_Bin2_1030	K06167	phnP; phosphoribosyl 1,2-cyclic phosphate phosphodiesterase [EC:3.1.4.55]	98		
+Aphrocallistes_vastus_Bin2_1031					
+Aphrocallistes_vastus_Bin2_1032					
+Aphrocallistes_vastus_Bin2_1033	K03074	secF; preprotein translocase subunit SecF	116		
+Aphrocallistes_vastus_Bin2_1034	K03072	secD; preprotein translocase subunit SecD	182		
+Aphrocallistes_vastus_Bin2_1035	K03210	yajC; preprotein translocase subunit YajC	28		
+Aphrocallistes_vastus_Bin2_1036					
+Aphrocallistes_vastus_Bin2_1037			20		
+Aphrocallistes_vastus_Bin2_1038			131		
+Aphrocallistes_vastus_Bin2_1039	K01951	guaA, GMPS; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	258		
+Aphrocallistes_vastus_Bin2_1040	K01937	pyrG, CTPS; CTP synthase [EC:6.3.4.2]	309		
+Aphrocallistes_vastus_Bin2_1041	K03075	secG; preprotein translocase subunit SecG	28		
+Aphrocallistes_vastus_Bin2_1042			55		
+Aphrocallistes_vastus_Bin2_1043	K00020	HIBADH, mmsB; 3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]	114		
+Aphrocallistes_vastus_Bin2_1044	K03770	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]	29		
+Aphrocallistes_vastus_Bin2_1045					
+Aphrocallistes_vastus_Bin2_1046	K01657	trpE; anthranilate synthase component I [EC:4.1.3.27]	151		
+Aphrocallistes_vastus_Bin2_1047	K02996	RP-S9, MRPS9, rpsI; small subunit ribosomal protein S9	45		
+Aphrocallistes_vastus_Bin2_1048	K02871	RP-L13, MRPL13, rplM; large subunit ribosomal protein L13	87		
+Aphrocallistes_vastus_Bin2_1049	K07126	K07126; uncharacterized protein	20		
+Aphrocallistes_vastus_Bin2_1050	K02224	cobB-cbiA; cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11]	127		
+Aphrocallistes_vastus_Bin2_1051	K09001	anmK; anhydro-N-acetylmuramic acid kinase [EC:2.7.1.170]	70		
+Aphrocallistes_vastus_Bin2_1052	K03522	fixB, etfA; electron transfer flavoprotein alpha subunit	44		
+Aphrocallistes_vastus_Bin2_1053	K03522	fixB, etfA; electron transfer flavoprotein alpha subunit	36		
+Aphrocallistes_vastus_Bin2_1054	K03521	fixA, etfB; electron transfer flavoprotein beta subunit	166		
+Aphrocallistes_vastus_Bin2_1055			44		
+Aphrocallistes_vastus_Bin2_1056			3	K08693	
+Aphrocallistes_vastus_Bin2_1057			47		
+Aphrocallistes_vastus_Bin2_1058	K00315	DMGDH; dimethylglycine dehydrogenase [EC:1.5.8.4]	448		
+Aphrocallistes_vastus_Bin2_1059	K04094	trmFO, gid; methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase [EC:2.1.1.74]	175		
+Aphrocallistes_vastus_Bin2_1060	K00645	fabD, MCAT, MCT1; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]	146		
+Aphrocallistes_vastus_Bin2_1061			62		
+Aphrocallistes_vastus_Bin2_1062			119		
+Aphrocallistes_vastus_Bin2_1063	K03408	cheW; purine-binding chemotaxis protein CheW	27		
+Aphrocallistes_vastus_Bin2_1064	K01092	E3.1.3.25, IMPA, suhB; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	123		
+Aphrocallistes_vastus_Bin2_1065	K02356	efp; elongation factor P	93		
+Aphrocallistes_vastus_Bin2_1066	K03465	thyX, thy1; thymidylate synthase (FAD) [EC:2.1.1.148]	157		
+Aphrocallistes_vastus_Bin2_1067			2	K02362	1
+Aphrocallistes_vastus_Bin2_1068					
+Aphrocallistes_vastus_Bin2_1069			58		
+Aphrocallistes_vastus_Bin2_1070	K00145	argC; N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	152		
+Aphrocallistes_vastus_Bin2_1071	K02520	infC, MTIF3; translation initiation factor IF-3	100		
+Aphrocallistes_vastus_Bin2_1072	K01868	TARS, thrS; threonyl-tRNA synthetase [EC:6.1.1.3]	286		
+Aphrocallistes_vastus_Bin2_1073	K00651	metA; homoserine O-succinyltransferase/O-acetyltransferase [EC:2.3.1.46 2.3.1.31]	200		
+Aphrocallistes_vastus_Bin2_1074	K01740	metY; O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]	251		
+Aphrocallistes_vastus_Bin2_1075			42		
+Aphrocallistes_vastus_Bin2_1076			2		
+Aphrocallistes_vastus_Bin2_1077	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	28		
+Aphrocallistes_vastus_Bin2_1078	K02427	rlmE, rrmJ, ftsJ; 23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]	46		
+Aphrocallistes_vastus_Bin2_1079			10		
+Aphrocallistes_vastus_Bin2_1080	K08300	rne; ribonuclease E [EC:3.1.26.12]	18		
+Aphrocallistes_vastus_Bin2_1081	K08300	rne; ribonuclease E [EC:3.1.26.12]	74		
+Aphrocallistes_vastus_Bin2_1082			18		
+Aphrocallistes_vastus_Bin2_1083	K00031	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	298		
+Aphrocallistes_vastus_Bin2_1084	K00604	MTFMT, fmt; methionyl-tRNA formyltransferase [EC:2.1.2.9]	84		
+Aphrocallistes_vastus_Bin2_1085	K01462	PDF, def; peptide deformylase [EC:3.5.1.88]	73		
+Aphrocallistes_vastus_Bin2_1086			10	K00003	1
+Aphrocallistes_vastus_Bin2_1087			5	K06211	2
+Aphrocallistes_vastus_Bin2_1088			5	K07644	1
+Aphrocallistes_vastus_Bin2_1089			4	K01069	1
+Aphrocallistes_vastus_Bin2_1090			166		
+Aphrocallistes_vastus_Bin2_1091			73		
+Aphrocallistes_vastus_Bin2_1092			6	K16697	1
+Aphrocallistes_vastus_Bin2_1093			33		
+Aphrocallistes_vastus_Bin2_1094			15	K11913	1
+Aphrocallistes_vastus_Bin2_1095			168		
+Aphrocallistes_vastus_Bin2_1096			13		
+Aphrocallistes_vastus_Bin2_1097			6	K17213	1
+Aphrocallistes_vastus_Bin2_1098			79		
+Aphrocallistes_vastus_Bin2_1099			14	K08968	1
+Aphrocallistes_vastus_Bin2_1100			11	K07636	1
+Aphrocallistes_vastus_Bin2_1101			3	K24105	1
+Aphrocallistes_vastus_Bin2_1102			13	K01885	1
+Aphrocallistes_vastus_Bin2_1103			21		
+Aphrocallistes_vastus_Bin2_1104			12	K01182	1
+Aphrocallistes_vastus_Bin2_1105			38		
+Aphrocallistes_vastus_Bin2_1106			14		
+Aphrocallistes_vastus_Bin2_1107					
+Aphrocallistes_vastus_Bin2_1108			19	K01854	1
+Aphrocallistes_vastus_Bin2_1109			22		
+Aphrocallistes_vastus_Bin2_1110			45		
+Aphrocallistes_vastus_Bin2_1111					
+Aphrocallistes_vastus_Bin2_1112			16	K16698	2
+Aphrocallistes_vastus_Bin2_1113			46		
+Aphrocallistes_vastus_Bin2_1114					
+Aphrocallistes_vastus_Bin2_1115	K00259	ald; alanine dehydrogenase [EC:1.4.1.1]	212		
+Aphrocallistes_vastus_Bin2_1116	K01091	gph; phosphoglycolate phosphatase [EC:3.1.3.18]	52		
+Aphrocallistes_vastus_Bin2_1117	K00824	dat; D-alanine transaminase [EC:2.6.1.21]	142		
+Aphrocallistes_vastus_Bin2_1118	K03499	trkA, ktrA, ktrC; trk/ktr system potassium uptake protein	224		
+Aphrocallistes_vastus_Bin2_1119	K12506	ispDF; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:2.7.7.60 4.6.1.12]	16	K00991	11
+Aphrocallistes_vastus_Bin2_1120	K12506	ispDF; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:2.7.7.60 4.6.1.12]	31		
+Aphrocallistes_vastus_Bin2_1121			2	K23508	1
+Aphrocallistes_vastus_Bin2_1122	K00164	OGDH, sucA; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]	515		
+Aphrocallistes_vastus_Bin2_1123	K00658	DLST, sucB; 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]	76		
+Aphrocallistes_vastus_Bin2_1124			3	K13288	1
+Aphrocallistes_vastus_Bin2_1125	K02836	prfB; peptide chain release factor 2	146		
+Aphrocallistes_vastus_Bin2_1126	K02011	afuB, fbpB; iron(III) transport system permease protein	133		
+Aphrocallistes_vastus_Bin2_1127					
+Aphrocallistes_vastus_Bin2_1128			28	K18013	27
+Aphrocallistes_vastus_Bin2_1129			6		
+Aphrocallistes_vastus_Bin2_1130			150		
+Aphrocallistes_vastus_Bin2_1131			56		
+Aphrocallistes_vastus_Bin2_1132			51		
+Aphrocallistes_vastus_Bin2_1133	K07080	K07080; uncharacterized protein	168		
+Aphrocallistes_vastus_Bin2_1134	K02390	flgE; flagellar hook protein FlgE	63		
+Aphrocallistes_vastus_Bin2_1135	K02259	COX15, ctaA; heme a synthase [EC:1.17.99.9]	13		
+Aphrocallistes_vastus_Bin2_1136	K02259	COX15, ctaA; heme a synthase [EC:1.17.99.9]	34		
+Aphrocallistes_vastus_Bin2_1137			11	K01406	2
+Aphrocallistes_vastus_Bin2_1138			21	K01406	3
+Aphrocallistes_vastus_Bin2_1139			3	K04095	1
+Aphrocallistes_vastus_Bin2_1140			4	K01406	1
+Aphrocallistes_vastus_Bin2_1141			1	K01406	1
+Aphrocallistes_vastus_Bin2_1142			1	K01406	1
+Aphrocallistes_vastus_Bin2_1143			1	K01406	1
+Aphrocallistes_vastus_Bin2_1144			11	K01406	1
+Aphrocallistes_vastus_Bin2_1145			1	K09969	1
+Aphrocallistes_vastus_Bin2_1146			1	K03236	1
+Aphrocallistes_vastus_Bin2_1147			2	K01406	1
+Aphrocallistes_vastus_Bin2_1148			3	K02563	1
+Aphrocallistes_vastus_Bin2_1149					
+Aphrocallistes_vastus_Bin2_1150			1	K01715	1
+Aphrocallistes_vastus_Bin2_1151					
+Aphrocallistes_vastus_Bin2_1152			3	K07711	1
+Aphrocallistes_vastus_Bin2_1153			1	K03043	
+Aphrocallistes_vastus_Bin2_1154			2	K01406	1
+Aphrocallistes_vastus_Bin2_1155			3	K01406	1
+Aphrocallistes_vastus_Bin2_1156					
+Aphrocallistes_vastus_Bin2_1157			2		
+Aphrocallistes_vastus_Bin2_1158			2	K00459	1
+Aphrocallistes_vastus_Bin2_1159			1	K01406	1
+Aphrocallistes_vastus_Bin2_1160					
+Aphrocallistes_vastus_Bin2_1161					
+Aphrocallistes_vastus_Bin2_1162			1	K01406	1
+Aphrocallistes_vastus_Bin2_1163			1	K01406	1
+Aphrocallistes_vastus_Bin2_1164			1	K01406	1
+Aphrocallistes_vastus_Bin2_1165			1	K01840	1
+Aphrocallistes_vastus_Bin2_1166					
+Aphrocallistes_vastus_Bin2_1167			3		
+Aphrocallistes_vastus_Bin2_1168					
+Aphrocallistes_vastus_Bin2_1169			2		
+Aphrocallistes_vastus_Bin2_1170			1	K01406	1
+Aphrocallistes_vastus_Bin2_1171			6	K01406	1
+Aphrocallistes_vastus_Bin2_1172			1	K01406	1
+Aphrocallistes_vastus_Bin2_1173			4	K01406	1
+Aphrocallistes_vastus_Bin2_1174			8	K01406	2
+Aphrocallistes_vastus_Bin2_1175	K00305	soxG; sarcosine oxidase, subunit gamma [EC:1.5.3.24 1.5.3.1]	22		
+Aphrocallistes_vastus_Bin2_1176	K00302	soxA; sarcosine oxidase, subunit alpha [EC:1.5.3.24 1.5.3.1]	325		
+Aphrocallistes_vastus_Bin2_1177	K00304	soxD; sarcosine oxidase, subunit delta [EC:1.5.3.24 1.5.3.1]	39		
+Aphrocallistes_vastus_Bin2_1178	K00303	soxB; sarcosine oxidase, subunit beta [EC:1.5.3.24 1.5.3.1]	267		
+Aphrocallistes_vastus_Bin2_1179			20	K12284	1
+Aphrocallistes_vastus_Bin2_1180	K03320	amt, AMT, MEP; ammonium transporter, Amt family	346		
+Aphrocallistes_vastus_Bin2_1181					
+Aphrocallistes_vastus_Bin2_1182			171		
+Aphrocallistes_vastus_Bin2_1183	K01915	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]	501		
+Aphrocallistes_vastus_Bin2_1184	K22081	mgsA; methylamine---glutamate N-methyltransferase subunit A [EC:2.1.1.21]	172		
+Aphrocallistes_vastus_Bin2_1185	K22082	mgsB; methylamine---glutamate N-methyltransferase subunit B [EC:2.1.1.21]	182		
+Aphrocallistes_vastus_Bin2_1186	K22083	mgsC; methylamine---glutamate N-methyltransferase subunit C [EC:2.1.1.21]	369		
+Aphrocallistes_vastus_Bin2_1187			107		
+Aphrocallistes_vastus_Bin2_1188	K19058	merC; mercuric ion transport protein	16		
+Aphrocallistes_vastus_Bin2_1189					
+Aphrocallistes_vastus_Bin2_1190			26	K07118	1
+Aphrocallistes_vastus_Bin2_1191	K00605	gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]	442		
+Aphrocallistes_vastus_Bin2_1192					
+Aphrocallistes_vastus_Bin2_1193	K02002	proX; glycine betaine/proline transport system substrate-binding protein	211		
+Aphrocallistes_vastus_Bin2_1194	K02000	proV; glycine betaine/proline transport system ATP-binding protein [EC:7.6.2.9]	178		
+Aphrocallistes_vastus_Bin2_1195	K02001	proW; glycine betaine/proline transport system permease protein	342		
+Aphrocallistes_vastus_Bin2_1196			33	K07091	1
+Aphrocallistes_vastus_Bin2_1197			277		
+Aphrocallistes_vastus_Bin2_1198	K01273	DPEP; membrane dipeptidase [EC:3.4.13.19]	206		
+Aphrocallistes_vastus_Bin2_1199	K22187	xylA; alpha-ketoglutaric semialdehyde dehydrogenase [EC:1.2.1.-]	426		
+Aphrocallistes_vastus_Bin2_1200	K09024	rutF; flavin reductase [EC:1.5.1.-]	24	K13786	20
+Aphrocallistes_vastus_Bin2_1201	K00140	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	309		
+Aphrocallistes_vastus_Bin2_1202	K03651	cpdA; 3',5'-cyclic-AMP phosphodiesterase [EC:3.1.4.53]	70		
+Aphrocallistes_vastus_Bin2_1203	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	193		
+Aphrocallistes_vastus_Bin2_1204	K02033	ABC.PE.P; peptide/nickel transport system permease protein	157		
+Aphrocallistes_vastus_Bin2_1205	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	167		
+Aphrocallistes_vastus_Bin2_1206	K02031	ddpD; peptide/nickel transport system ATP-binding protein	229		
+	K02032	ddpF; peptide/nickel transport system ATP-binding protein			
+Aphrocallistes_vastus_Bin2_1207			43	K22305	12
+Aphrocallistes_vastus_Bin2_1208			38		
+Aphrocallistes_vastus_Bin2_1209			3		
+Aphrocallistes_vastus_Bin2_1210	K02238	comEC; competence protein ComEC	117		
+Aphrocallistes_vastus_Bin2_1211			226		
+Aphrocallistes_vastus_Bin2_1212			93		
+Aphrocallistes_vastus_Bin2_1213	K03667	hslU; ATP-dependent HslUV protease ATP-binding subunit HslU	258		
+Aphrocallistes_vastus_Bin2_1214	K01419	hslV, clpQ; ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]	112		
+Aphrocallistes_vastus_Bin2_1215			77	K02805	2
+Aphrocallistes_vastus_Bin2_1216	K02986	RP-S4, rpsD; small subunit ribosomal protein S4	147		
+Aphrocallistes_vastus_Bin2_1217			5	K00626	1
+Aphrocallistes_vastus_Bin2_1218	K10778	ada; AraC family transcriptional regulator, regulatory protein of adaptative response / methylated-DNA-[protein]-cysteine methyltransferase [EC:2.1.1.63]	92		
+Aphrocallistes_vastus_Bin2_1219			9		
+Aphrocallistes_vastus_Bin2_1220					
+Aphrocallistes_vastus_Bin2_1221	K09888	zapA; cell division protein ZapA	25		
+Aphrocallistes_vastus_Bin2_1222	K01934	MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]	53		
+Aphrocallistes_vastus_Bin2_1223	K09769	ymdB; 2',3'-cyclic-nucleotide 2'-phosphodiesterase [EC:3.1.4.16]	97		
+Aphrocallistes_vastus_Bin2_1224	K07050	AARSD1, ALAX; misacylated tRNA(Ala) deacylase [EC:3.1.1.-]	107		
+Aphrocallistes_vastus_Bin2_1225	K01760	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]	141		
+Aphrocallistes_vastus_Bin2_1226	K01496	hisI; phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]	56	K11755	6
+Aphrocallistes_vastus_Bin2_1227	K02020	modA; molybdate transport system substrate-binding protein	48		
+Aphrocallistes_vastus_Bin2_1228	K02018	modB; molybdate transport system permease protein	101		
+Aphrocallistes_vastus_Bin2_1229	K02017	modC; molybdate transport system ATP-binding protein [EC:7.3.2.5]	13	K02010	1
+Aphrocallistes_vastus_Bin2_1230	K02017	modC; molybdate transport system ATP-binding protein [EC:7.3.2.5]	37		
+Aphrocallistes_vastus_Bin2_1231	K03100	lepB; signal peptidase I [EC:3.4.21.89]	79		
+Aphrocallistes_vastus_Bin2_1232	K03685	rnc, DROSHA, RNT1; ribonuclease III [EC:3.1.26.3]	62		
+Aphrocallistes_vastus_Bin2_1233	K03595	era, ERAL1; GTPase	69		
+Aphrocallistes_vastus_Bin2_1234	K01847	MUT; methylmalonyl-CoA mutase [EC:5.4.99.2]	158		
+Aphrocallistes_vastus_Bin2_1235	K01847	MUT; methylmalonyl-CoA mutase [EC:5.4.99.2]	44		
+Aphrocallistes_vastus_Bin2_1236	K02337	dnaE; DNA polymerase III subunit alpha [EC:2.7.7.7]	381		
+Aphrocallistes_vastus_Bin2_1237	K01469	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]	580		
+Aphrocallistes_vastus_Bin2_1238	K06720	ectC; L-ectoine synthase [EC:4.2.1.108]	61		
+Aphrocallistes_vastus_Bin2_1239	K02188	cbiD; cobalt-precorrin-5B (C1)-methyltransferase [EC:2.1.1.195]	138		
+Aphrocallistes_vastus_Bin2_1240	K02232	cobQ, cbiP; adenosylcobyric acid synthase [EC:6.3.5.10]	202		
+Aphrocallistes_vastus_Bin2_1241	K19221	cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]	111		
+Aphrocallistes_vastus_Bin2_1242	K03071	secB; preprotein translocase subunit SecB	16		
+Aphrocallistes_vastus_Bin2_1243					
+Aphrocallistes_vastus_Bin2_1244	K02338	dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]	72		
+Aphrocallistes_vastus_Bin2_1245					
+Aphrocallistes_vastus_Bin2_1246					
+Aphrocallistes_vastus_Bin2_1247					
+Aphrocallistes_vastus_Bin2_1248	K02470	gyrB; DNA gyrase subunit B [EC:5.6.2.2]	363		
+Aphrocallistes_vastus_Bin2_1249			42		
+Aphrocallistes_vastus_Bin2_1250			7	K07404	1
+Aphrocallistes_vastus_Bin2_1251	K00790	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]	184		
+Aphrocallistes_vastus_Bin2_1252	K05837	rodA, mrdB; rod shape determining protein RodA	200		
+Aphrocallistes_vastus_Bin2_1253	K05515	mrdA; penicillin-binding protein 2 [EC:3.4.16.4]	250		
+Aphrocallistes_vastus_Bin2_1254	K03571	mreD; rod shape-determining protein MreD	17		
+Aphrocallistes_vastus_Bin2_1255	K03569	mreB; rod shape-determining protein MreB and related proteins	33		
+Aphrocallistes_vastus_Bin2_1256	K03569	mreB; rod shape-determining protein MreB and related proteins	29		
+Aphrocallistes_vastus_Bin2_1257			36		
+Aphrocallistes_vastus_Bin2_1258	K00940	ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]	133		
+Aphrocallistes_vastus_Bin2_1259	K05366	mrcA; penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4]	312		
+Aphrocallistes_vastus_Bin2_1260	K01448	amiABC; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]	57		
+Aphrocallistes_vastus_Bin2_1261	K03046	rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]	265		
+Aphrocallistes_vastus_Bin2_1262	K03046	rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]	156		
+Aphrocallistes_vastus_Bin2_1263	K03043	rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]	879		
+Aphrocallistes_vastus_Bin2_1264	K02935	RP-L7, MRPL12, rplL; large subunit ribosomal protein L7/L12	63		
+Aphrocallistes_vastus_Bin2_1265	K02864	RP-L10, MRPL10, rplJ; large subunit ribosomal protein L10	69		
+Aphrocallistes_vastus_Bin2_1266	K02863	RP-L1, MRPL1, rplA; large subunit ribosomal protein L1	201		
+Aphrocallistes_vastus_Bin2_1267	K02867	RP-L11, MRPL11, rplK; large subunit ribosomal protein L11	73		
+Aphrocallistes_vastus_Bin2_1268	K02601	nusG; transcription termination/antitermination protein NusG	109		
+Aphrocallistes_vastus_Bin2_1269	K03073	secE; preprotein translocase subunit SecE	40		
+Aphrocallistes_vastus_Bin2_1270					
+Aphrocallistes_vastus_Bin2_1271	K22551	hpbA; N-methyl-L-proline demethylase [EC:1.5.3.-]	349		
+Aphrocallistes_vastus_Bin2_1272			54		
+Aphrocallistes_vastus_Bin2_1273			1	K03572	1
+Aphrocallistes_vastus_Bin2_1274			6	K01356	3
+Aphrocallistes_vastus_Bin2_1275			2	K18530	1
+Aphrocallistes_vastus_Bin2_1276					
+Aphrocallistes_vastus_Bin2_1277			57		
+Aphrocallistes_vastus_Bin2_1278			15		
+Aphrocallistes_vastus_Bin2_1279	K02909	RP-L31, rpmE; large subunit ribosomal protein L31	67		
+Aphrocallistes_vastus_Bin2_1280	K02168	betT, betS; choline/glycine/proline betaine transport protein	301		
+Aphrocallistes_vastus_Bin2_1281			10	K01421	1
+Aphrocallistes_vastus_Bin2_1282			65		
+Aphrocallistes_vastus_Bin2_1283			10	K07451	1
+Aphrocallistes_vastus_Bin2_1284	K04080	ibpA; molecular chaperone IbpA	62		
+Aphrocallistes_vastus_Bin2_1285	K01438	argE; acetylornithine deacetylase [EC:3.5.1.16]	149		
+Aphrocallistes_vastus_Bin2_1286	K07736	carD; CarD family transcriptional regulator, regulator of rRNA transcription	44		
+Aphrocallistes_vastus_Bin2_1287			9	K20276	1
+Aphrocallistes_vastus_Bin2_1288	K02888	RP-L21, MRPL21, rplU; large subunit ribosomal protein L21	44		
+Aphrocallistes_vastus_Bin2_1289	K02899	RP-L27, MRPL27, rpmA; large subunit ribosomal protein L27	56		
+Aphrocallistes_vastus_Bin2_1290	K03979	obgE, cgtA, MTG2; GTPase [EC:3.6.5.-]	127		
+Aphrocallistes_vastus_Bin2_1291			1		
+Aphrocallistes_vastus_Bin2_1292	K08640	E3.4.17.14; zinc D-Ala-D-Ala carboxypeptidase [EC:3.4.17.14]	19		
+Aphrocallistes_vastus_Bin2_1293			2		
+Aphrocallistes_vastus_Bin2_1294	K01803	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]	41		
+Aphrocallistes_vastus_Bin2_1295	K01803	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]	15		
+Aphrocallistes_vastus_Bin2_1296			75		
+Aphrocallistes_vastus_Bin2_1297			8	K16699	1
+Aphrocallistes_vastus_Bin2_1298	K15894	pseB, wbjB; UDP-N-acetylglucosamine 4,6-dehydratase/5-epimerase [EC:4.2.1.115 5.1.3.-]	180		
+Aphrocallistes_vastus_Bin2_1299			108	K13010	11
+Aphrocallistes_vastus_Bin2_1300			6	K15897	5
+Aphrocallistes_vastus_Bin2_1301			139		
+Aphrocallistes_vastus_Bin2_1302					
+Aphrocallistes_vastus_Bin2_1303					
+Aphrocallistes_vastus_Bin2_1304					
+Aphrocallistes_vastus_Bin2_1305					
+Aphrocallistes_vastus_Bin2_1306					
+Aphrocallistes_vastus_Bin2_1307			2	K02564	1
+Aphrocallistes_vastus_Bin2_1308			106		
+Aphrocallistes_vastus_Bin2_1309	K05710	hcaC; 3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	79		
+Aphrocallistes_vastus_Bin2_1310			16		
+Aphrocallistes_vastus_Bin2_1311	K03466	ftsK, spoIIIE; DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family	140		
+Aphrocallistes_vastus_Bin2_1312					
+Aphrocallistes_vastus_Bin2_1313	K03183	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	102		
+Aphrocallistes_vastus_Bin2_1314	K03688	ubiB, aarF; ubiquinone biosynthesis protein	131		
+Aphrocallistes_vastus_Bin2_1315	K07566	tsaC, rimN, SUA5, YRDC; L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]	104		
+Aphrocallistes_vastus_Bin2_1316			14	K03410	1
+Aphrocallistes_vastus_Bin2_1317			171	K00571	9
+Aphrocallistes_vastus_Bin2_1318	K03655	recG; ATP-dependent DNA helicase RecG [EC:5.6.2.4]	96		
+Aphrocallistes_vastus_Bin2_1319					
+Aphrocallistes_vastus_Bin2_1320			2		
+Aphrocallistes_vastus_Bin2_1321	K03980	murJ, mviN; putative peptidoglycan lipid II flippase	91		
+Aphrocallistes_vastus_Bin2_1322	K01867	WARS, trpS; tryptophanyl-tRNA synthetase [EC:6.1.1.2]	240		
+Aphrocallistes_vastus_Bin2_1323			114		
+Aphrocallistes_vastus_Bin2_1324	K02313	dnaA; chromosomal replication initiator protein	171		
+Aphrocallistes_vastus_Bin2_1325			344		
+Aphrocallistes_vastus_Bin2_1326			47		
+Aphrocallistes_vastus_Bin2_1327			177		
+Aphrocallistes_vastus_Bin2_1328	K06997	yggS, PROSC; PLP dependent protein	79		
+Aphrocallistes_vastus_Bin2_1329					
+Aphrocallistes_vastus_Bin2_1330			173		
+Aphrocallistes_vastus_Bin2_1331	K07304	msrA; peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	81		
+Aphrocallistes_vastus_Bin2_1332	K01883	CARS, cysS; cysteinyl-tRNA synthetase [EC:6.1.1.16]	193		
+Aphrocallistes_vastus_Bin2_1333	K01649	leuA, IMS; 2-isopropylmalate synthase [EC:2.3.3.13]	334		
+Aphrocallistes_vastus_Bin2_1334			5	K07301	1
+Aphrocallistes_vastus_Bin2_1335			6	K03427	1
+Aphrocallistes_vastus_Bin2_1336	K01647	CS, gltA; citrate synthase [EC:2.3.3.1]	400		
+Aphrocallistes_vastus_Bin2_1337					
+Aphrocallistes_vastus_Bin2_1338	K01447	xlyAB; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]	39		
+Aphrocallistes_vastus_Bin2_1339	K03070	secA; preprotein translocase subunit SecA [EC:7.4.2.8]	494		
+Aphrocallistes_vastus_Bin2_1340	K01895	ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1]	442		
+Aphrocallistes_vastus_Bin2_1341	K03168	topA; DNA topoisomerase I [EC:5.6.2.1]	374		
+Aphrocallistes_vastus_Bin2_1342	K12573	rnr, vacB; ribonuclease R [EC:3.1.13.1]	14		
+Aphrocallistes_vastus_Bin2_1343	K12573	rnr, vacB; ribonuclease R [EC:3.1.13.1]	42		
+Aphrocallistes_vastus_Bin2_1344	K02406	fliC, hag; flagellin	10		
+Aphrocallistes_vastus_Bin2_1345	K02406	fliC, hag; flagellin	10		
+Aphrocallistes_vastus_Bin2_1346			73		
+Aphrocallistes_vastus_Bin2_1347	K25307	wzb, etp; low molecular weight protein-tyrosine phosphatase [EC:3.1.3.48]	56		
+Aphrocallistes_vastus_Bin2_1348	K00574	cfa; cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79]	140		
+Aphrocallistes_vastus_Bin2_1349					
+Aphrocallistes_vastus_Bin2_1350	K00574	cfa; cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79]	161		
+Aphrocallistes_vastus_Bin2_1351	K00249	ACADM, acd; acyl-CoA dehydrogenase [EC:1.3.8.7]	272		
+Aphrocallistes_vastus_Bin2_1352			144	K24012	96
+Aphrocallistes_vastus_Bin2_1353	K08299	caiD; crotonobetainyl-CoA hydratase [EC:4.2.1.149]	230		
+Aphrocallistes_vastus_Bin2_1354	K00471	BBOX1; gamma-butyrobetaine dioxygenase [EC:1.14.11.1]	155		
+Aphrocallistes_vastus_Bin2_1355			70		
+Aphrocallistes_vastus_Bin2_1356			2	K19813	1
+Aphrocallistes_vastus_Bin2_1357					
+Aphrocallistes_vastus_Bin2_1358					
+Aphrocallistes_vastus_Bin2_1359			2	K03412	1
+Aphrocallistes_vastus_Bin2_1360	K04562	flhG, fleN; flagellar biosynthesis protein FlhG	15		
+Aphrocallistes_vastus_Bin2_1361	K02400	flhA; flagellar biosynthesis protein FlhA	453		
+Aphrocallistes_vastus_Bin2_1362	K10943	flrC, fleR, flaM; two-component system, response regulator FlrC	178		
+Aphrocallistes_vastus_Bin2_1363	K02556	motA; chemotaxis protein MotA	109		
+Aphrocallistes_vastus_Bin2_1364	K02417	fliN; flagellar motor switch protein FliN	52		
+Aphrocallistes_vastus_Bin2_1365					
+Aphrocallistes_vastus_Bin2_1366	K02410	fliG; flagellar motor switch protein FliG	131		
+Aphrocallistes_vastus_Bin2_1367					
+Aphrocallistes_vastus_Bin2_1368	K02409	fliF; flagellar M-ring protein FliF	147		
+Aphrocallistes_vastus_Bin2_1369	K03694	clpA; ATP-dependent Clp protease ATP-binding subunit ClpA	78		
+Aphrocallistes_vastus_Bin2_1370	K03694	clpA; ATP-dependent Clp protease ATP-binding subunit ClpA	103		
+Aphrocallistes_vastus_Bin2_1371	K06891	clpS; ATP-dependent Clp protease adaptor protein ClpS	57		
+Aphrocallistes_vastus_Bin2_1372					
+Aphrocallistes_vastus_Bin2_1373	K02227	cbiB, cobD; adenosylcobinamide-phosphate synthase [EC:6.3.1.10]	13		
+Aphrocallistes_vastus_Bin2_1374					
+Aphrocallistes_vastus_Bin2_1375	K07090	K07090; uncharacterized protein	72		
+Aphrocallistes_vastus_Bin2_1376	K04518	pheA2; prephenate dehydratase [EC:4.2.1.51]	15		
+Aphrocallistes_vastus_Bin2_1377	K04518	pheA2; prephenate dehydratase [EC:4.2.1.51]	85		
+Aphrocallistes_vastus_Bin2_1378					
+Aphrocallistes_vastus_Bin2_1379	K00979	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]	30		
+Aphrocallistes_vastus_Bin2_1380	K08738	CYC; cytochrome c	47		
+Aphrocallistes_vastus_Bin2_1381			51		
+Aphrocallistes_vastus_Bin2_1382					
+Aphrocallistes_vastus_Bin2_1383	K06223	dam; DNA adenine methylase [EC:2.1.1.72]	113		
+Aphrocallistes_vastus_Bin2_1384			81		
+Aphrocallistes_vastus_Bin2_1385	K06020	ettA; energy-dependent translational throttle protein EttA	326		
+Aphrocallistes_vastus_Bin2_1386			85		
+Aphrocallistes_vastus_Bin2_1387	K03752	mobA; molybdenum cofactor guanylyltransferase [EC:2.7.7.77]	47		
+Aphrocallistes_vastus_Bin2_1388	K02379	fdhD; FdhD protein	223		
+Aphrocallistes_vastus_Bin2_1389	K23265	purQ; phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2]	70		
+Aphrocallistes_vastus_Bin2_1390	K23269	purL; phosphoribosylformylglycinamidine synthase subunit PurL [EC:6.3.5.3]	13		
+Aphrocallistes_vastus_Bin2_1391					
+Aphrocallistes_vastus_Bin2_1392	K23269	purL; phosphoribosylformylglycinamidine synthase subunit PurL [EC:6.3.5.3]	56		
+Aphrocallistes_vastus_Bin2_1393	K07390	grxD, GLRX5; monothiol glutaredoxin	56		
+Aphrocallistes_vastus_Bin2_1394			50		
+Aphrocallistes_vastus_Bin2_1395			4		
+Aphrocallistes_vastus_Bin2_1396	K01613	psd, PISD; phosphatidylserine decarboxylase [EC:4.1.1.65]	59		
+Aphrocallistes_vastus_Bin2_1397			76		
+Aphrocallistes_vastus_Bin2_1398					
+Aphrocallistes_vastus_Bin2_1399	K02004	ABC.CD.P; putative ABC transport system permease protein	153		
+Aphrocallistes_vastus_Bin2_1400	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	97		
+Aphrocallistes_vastus_Bin2_1401	K10804	tesA; acyl-CoA thioesterase I [EC:3.1.2.- 3.1.2.2 3.1.1.2 3.1.1.5]	68		
+Aphrocallistes_vastus_Bin2_1402			250		
+Aphrocallistes_vastus_Bin2_1403	K00684	aat; leucyl/phenylalanyl-tRNA---protein transferase [EC:2.3.2.6]	82		
+Aphrocallistes_vastus_Bin2_1404	K01961	accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]	268		
+Aphrocallistes_vastus_Bin2_1405	K02160	accB, bccP; acetyl-CoA carboxylase biotin carboxyl carrier protein	51		
+Aphrocallistes_vastus_Bin2_1406	K03786	aroQ, qutE; 3-dehydroquinate dehydratase II [EC:4.2.1.10]	78		
+Aphrocallistes_vastus_Bin2_1407	K07080	K07080; uncharacterized protein	55		
+Aphrocallistes_vastus_Bin2_1408	K00615	E2.2.1.1, tktA, tktB; transketolase [EC:2.2.1.1]	324		
+Aphrocallistes_vastus_Bin2_1409			199		
+Aphrocallistes_vastus_Bin2_1410			2	K01271	1
+Aphrocallistes_vastus_Bin2_1411			183		
+Aphrocallistes_vastus_Bin2_1412	K12989	lpcC; mannosyltransferase [EC:2.4.1.-]	92		
+Aphrocallistes_vastus_Bin2_1413	K17735	lcdH, cdhA; carnitine 3-dehydrogenase [EC:1.1.1.108]	191		
+Aphrocallistes_vastus_Bin2_1414	K01945	purD; phosphoribosylamine---glycine ligase [EC:6.3.4.13]	112		
+Aphrocallistes_vastus_Bin2_1415			5	K00571	3
+Aphrocallistes_vastus_Bin2_1416			3	K00571	1
+Aphrocallistes_vastus_Bin2_1417			8	K00571	2
+Aphrocallistes_vastus_Bin2_1418			14	K00571	4
+Aphrocallistes_vastus_Bin2_1419	K00053	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	233		
+Aphrocallistes_vastus_Bin2_1420	K01653	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]	88		
+Aphrocallistes_vastus_Bin2_1421					
+Aphrocallistes_vastus_Bin2_1422	K01652	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	332		
+Aphrocallistes_vastus_Bin2_1423	K00791	miaA, TRIT1; tRNA dimethylallyltransferase [EC:2.5.1.75]	12		
+Aphrocallistes_vastus_Bin2_1424	K00791	miaA, TRIT1; tRNA dimethylallyltransferase [EC:2.5.1.75]	36		
+Aphrocallistes_vastus_Bin2_1425					
+Aphrocallistes_vastus_Bin2_1426					
+Aphrocallistes_vastus_Bin2_1427					
+Aphrocallistes_vastus_Bin2_1428	K02395	flgJ; peptidoglycan hydrolase FlgJ	19		
+Aphrocallistes_vastus_Bin2_1429	K02394	flgI; flagellar P-ring protein FlgI	215		
+Aphrocallistes_vastus_Bin2_1430	K00812	aspB; aspartate aminotransferase [EC:2.6.1.1]	102		
+Aphrocallistes_vastus_Bin2_1431			3		
+Aphrocallistes_vastus_Bin2_1432	K21929	udg; uracil-DNA glycosylase [EC:3.2.2.27]	95		
+Aphrocallistes_vastus_Bin2_1433	K01733	thrC; threonine synthase [EC:4.2.3.1]	47		
+Aphrocallistes_vastus_Bin2_1434	K02335	polA; DNA polymerase I [EC:2.7.7.7]	350		
+Aphrocallistes_vastus_Bin2_1435			6		
+Aphrocallistes_vastus_Bin2_1436	K01881	PARS, proS; prolyl-tRNA synthetase [EC:6.1.1.15]	241		
+Aphrocallistes_vastus_Bin2_1437	K09808	lolC_E; lipoprotein-releasing system permease protein	159		
+Aphrocallistes_vastus_Bin2_1438	K09810	lolD; lipoprotein-releasing system ATP-binding protein [EC:7.6.2.-]	85		
+Aphrocallistes_vastus_Bin2_1439			1	K01519	1
+Aphrocallistes_vastus_Bin2_1440	K05779	ynjD; putative thiamine transport system ATP-binding protein	89		
+Aphrocallistes_vastus_Bin2_1441	K05778	ynjC; putative thiamine transport system permease protein	28		
+Aphrocallistes_vastus_Bin2_1442	K05778	ynjC; putative thiamine transport system permease protein	35		
+Aphrocallistes_vastus_Bin2_1443	K05777	ynjB; putative thiamine transport system substrate-binding protein	182		
+Aphrocallistes_vastus_Bin2_1444			89		
+Aphrocallistes_vastus_Bin2_1445	K02343	dnaX; DNA polymerase III subunit gamma/tau [EC:2.7.7.7]	96		
+Aphrocallistes_vastus_Bin2_1446			5	K01406	2
+Aphrocallistes_vastus_Bin2_1447			2	K01518	1
+Aphrocallistes_vastus_Bin2_1448	K00997	acpS; holo-[acyl-carrier protein] synthase [EC:2.7.8.7]	57		
+Aphrocallistes_vastus_Bin2_1449	K03474	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]	100		
+Aphrocallistes_vastus_Bin2_1450	K03060	rpoZ; DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]	20		
+Aphrocallistes_vastus_Bin2_1451	K04771	degP, htrA; serine protease Do [EC:3.4.21.107]	156		
+Aphrocallistes_vastus_Bin2_1452	K14083	mttB; trimethylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.250]	282		
+Aphrocallistes_vastus_Bin2_1453			4	K02297	1
+Aphrocallistes_vastus_Bin2_1454			4		
+Aphrocallistes_vastus_Bin2_1455			2	K06195	1
+Aphrocallistes_vastus_Bin2_1456	K02221	yggT; YggT family protein	54		
+Aphrocallistes_vastus_Bin2_1457	K01892	HARS, hisS; histidyl-tRNA synthetase [EC:6.1.1.21]	47		
+Aphrocallistes_vastus_Bin2_1458	K02835	prfA, MTRF1, MRF1; peptide chain release factor 1	43		
+Aphrocallistes_vastus_Bin2_1459			12		
+Aphrocallistes_vastus_Bin2_1460	K02498	hemY; HemY protein	21		
+Aphrocallistes_vastus_Bin2_1461			1	K03570	1
+Aphrocallistes_vastus_Bin2_1462			2	K07450	1
+Aphrocallistes_vastus_Bin2_1463	K01719	hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]	24		
+Aphrocallistes_vastus_Bin2_1464	K01749	hemC, HMBS; hydroxymethylbilane synthase [EC:2.5.1.61]	83		
+Aphrocallistes_vastus_Bin2_1465	K00626	ACAT, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	163		
+Aphrocallistes_vastus_Bin2_1466	K00950	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]	59		
+Aphrocallistes_vastus_Bin2_1467	K07091	lptF; lipopolysaccharide export system permease protein	22		
+Aphrocallistes_vastus_Bin2_1468	K11720	lptG; lipopolysaccharide export system permease protein	10	K07089	1
+Aphrocallistes_vastus_Bin2_1469					
+Aphrocallistes_vastus_Bin2_1470					
+Aphrocallistes_vastus_Bin2_1471	K03771	surA; peptidyl-prolyl cis-trans isomerase SurA [EC:5.2.1.8]	11		
+Aphrocallistes_vastus_Bin2_1472	K00097	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase [EC:1.1.1.262]	115		
+Aphrocallistes_vastus_Bin2_1473	K02528	ksgA; 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	69		
+Aphrocallistes_vastus_Bin2_1474	K01885	EARS, gltX; glutamyl-tRNA synthetase [EC:6.1.1.17]	103		
+Aphrocallistes_vastus_Bin2_1475			24	K18162	7
+Aphrocallistes_vastus_Bin2_1476			41		
+Aphrocallistes_vastus_Bin2_1477			4	K00851	2
+Aphrocallistes_vastus_Bin2_1478			27		
+Aphrocallistes_vastus_Bin2_1479			5		
+Aphrocallistes_vastus_Bin2_1480			30		
+Aphrocallistes_vastus_Bin2_1481					
+Aphrocallistes_vastus_Bin2_1482			5	K03798	1
+Aphrocallistes_vastus_Bin2_1483	K01783	rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]	68		
+Aphrocallistes_vastus_Bin2_1484	K01756	purB, ADSL; adenylosuccinate lyase [EC:4.3.2.2]	201		
+Aphrocallistes_vastus_Bin2_1485			3	K00001	1
+Aphrocallistes_vastus_Bin2_1486	K02012	afuA, fbpA; iron(III) transport system substrate-binding protein	144		
+Aphrocallistes_vastus_Bin2_1487	K01494	dcd; dCTP deaminase [EC:3.5.4.13]	191		
+Aphrocallistes_vastus_Bin2_1488			10	K06602	7
+Aphrocallistes_vastus_Bin2_1489					
+Aphrocallistes_vastus_Bin2_1490			30		
+Aphrocallistes_vastus_Bin2_1491			157	K11690	83
+Aphrocallistes_vastus_Bin2_1492			140	K13017	15
+Aphrocallistes_vastus_Bin2_1493	K13016	wbpB; UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]	247		
+Aphrocallistes_vastus_Bin2_1494	K06902	UMF1; MFS transporter, UMF1 family	30		
+Aphrocallistes_vastus_Bin2_1495	K06902	UMF1; MFS transporter, UMF1 family	40		
+Aphrocallistes_vastus_Bin2_1496			45		
+Aphrocallistes_vastus_Bin2_1497	K03431	glmM; phosphoglucosamine mutase [EC:5.4.2.10]	193		
+Aphrocallistes_vastus_Bin2_1498	K11753	ribF; riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]	80		
+Aphrocallistes_vastus_Bin2_1499	K00215	dapB; 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]	54		
+Aphrocallistes_vastus_Bin2_1500					
+Aphrocallistes_vastus_Bin2_1501	K00919	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]	43		
+Aphrocallistes_vastus_Bin2_1502			73		
+Aphrocallistes_vastus_Bin2_1503	K11085	msbA; ATP-binding cassette, subfamily B, bacterial MsbA [EC:7.5.2.6]	174		
+Aphrocallistes_vastus_Bin2_1504	K00382	DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	204		
+Aphrocallistes_vastus_Bin2_1505	K02390	flgE; flagellar hook protein FlgE	18		
+Aphrocallistes_vastus_Bin2_1506	K02390	flgE; flagellar hook protein FlgE	35		
+Aphrocallistes_vastus_Bin2_1507					
+Aphrocallistes_vastus_Bin2_1508	K02389	flgD; flagellar basal-body rod modification protein FlgD	19		
+Aphrocallistes_vastus_Bin2_1509					
+Aphrocallistes_vastus_Bin2_1510					
+Aphrocallistes_vastus_Bin2_1511	K04096	smf; DNA processing protein	154		
+Aphrocallistes_vastus_Bin2_1512			44		
+Aphrocallistes_vastus_Bin2_1513			19		
+Aphrocallistes_vastus_Bin2_1514	K17713	bamB; outer membrane protein assembly factor BamB	66		
+Aphrocallistes_vastus_Bin2_1515					
+Aphrocallistes_vastus_Bin2_1516	K03977	engA, der; GTPase	91		
+Aphrocallistes_vastus_Bin2_1517			38	K00571	30
+Aphrocallistes_vastus_Bin2_1518			2	K00571	2
+Aphrocallistes_vastus_Bin2_1519	K15552	tauC; taurine transport system permease protein	46		
+Aphrocallistes_vastus_Bin2_1520	K15552	tauC; taurine transport system permease protein	27		
+Aphrocallistes_vastus_Bin2_1521	K10831	tauB; taurine transport system ATP-binding protein [EC:7.6.2.7]	160		
+Aphrocallistes_vastus_Bin2_1522	K15551	tauA; taurine transport system substrate-binding protein	103		
+Aphrocallistes_vastus_Bin2_1523	K00822	E2.6.1.18; beta-alanine--pyruvate transaminase [EC:2.6.1.18]	33		
+Aphrocallistes_vastus_Bin2_1524	K00822	E2.6.1.18; beta-alanine--pyruvate transaminase [EC:2.6.1.18]	76		
+Aphrocallistes_vastus_Bin2_1525			2	K23259	1
+Aphrocallistes_vastus_Bin2_1526	K03852	xsc; sulfoacetaldehyde acetyltransferase [EC:2.3.3.15]	76		
+Aphrocallistes_vastus_Bin2_1527	K00625	pta; phosphate acetyltransferase [EC:2.3.1.8]	88		
+Aphrocallistes_vastus_Bin2_1528	K03638	moaB; molybdopterin adenylyltransferase [EC:2.7.7.75]	123		
+Aphrocallistes_vastus_Bin2_1529	K08309	slt; soluble lytic murein transglycosylase [EC:4.2.2.-]	84		
+Aphrocallistes_vastus_Bin2_1530	K01356	lexA; repressor LexA [EC:3.4.21.88]	88		
+Aphrocallistes_vastus_Bin2_1531	K25151	gldF; gliding motility-associated transport system permease protein	75		
+Aphrocallistes_vastus_Bin2_1532	K25153	gldG; gliding motility-associatede transport system auxiliary component	46		
+Aphrocallistes_vastus_Bin2_1533			2	K05770	1
+Aphrocallistes_vastus_Bin2_1534			84		
+Aphrocallistes_vastus_Bin2_1535	K06179	rluC; 23S rRNA pseudouridine955/2504/2580 synthase [EC:5.4.99.24]	53		
+Aphrocallistes_vastus_Bin2_1536					
+Aphrocallistes_vastus_Bin2_1537	K07232	CHAC, chaC; glutathione-specific gamma-glutamylcyclotransferase [EC:4.3.2.7]	52		
+Aphrocallistes_vastus_Bin2_1538			1	K06949	1
+Aphrocallistes_vastus_Bin2_1539	K02230	cobN; cobaltochelatase CobN [EC:6.6.1.2]	351		
+Aphrocallistes_vastus_Bin2_1540			3	K08992	1
+Aphrocallistes_vastus_Bin2_1541	K12543	lapE; outer membrane protein, adhesin transport system	44		
+Aphrocallistes_vastus_Bin2_1542	K21029	moeB; molybdopterin-synthase adenylyltransferase [EC:2.7.7.80]	84		
+Aphrocallistes_vastus_Bin2_1543	K03602	xseB; exodeoxyribonuclease VII small subunit [EC:3.1.11.6]	16		
+Aphrocallistes_vastus_Bin2_1544	K00795	ispA; farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10]	11	K13789	2
+Aphrocallistes_vastus_Bin2_1545	K01662	dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]	350		
+Aphrocallistes_vastus_Bin2_1546	K00130	betB, gbsA; betaine-aldehyde dehydrogenase [EC:1.2.1.8]	337		
+Aphrocallistes_vastus_Bin2_1547	K00108	betA, CHDH; choline dehydrogenase [EC:1.1.99.1]	302		
+Aphrocallistes_vastus_Bin2_1548	K06518	cidA; holin-like protein	10		
+Aphrocallistes_vastus_Bin2_1549			51		
+Aphrocallistes_vastus_Bin2_1550	K00208	fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]	179		
+Aphrocallistes_vastus_Bin2_1551	K01736	aroC; chorismate synthase [EC:4.2.3.5]	211		
+Aphrocallistes_vastus_Bin2_1552			1	K17759	1
+Aphrocallistes_vastus_Bin2_1553					
+Aphrocallistes_vastus_Bin2_1554					
+Aphrocallistes_vastus_Bin2_1555					
+Aphrocallistes_vastus_Bin2_1556	K04773	sppA; protease IV [EC:3.4.21.-]	16		
+Aphrocallistes_vastus_Bin2_1557	K04773	sppA; protease IV [EC:3.4.21.-]	31		
+Aphrocallistes_vastus_Bin2_1558			79		
+Aphrocallistes_vastus_Bin2_1559			47		
+Aphrocallistes_vastus_Bin2_1560	K01810	GPI, pgi; glucose-6-phosphate isomerase [EC:5.3.1.9]	193		
+Aphrocallistes_vastus_Bin2_1561	K03701	uvrA; excinuclease ABC subunit A	579		
+Aphrocallistes_vastus_Bin2_1562	K25152	gldA; gliding motility-associated transport system ATP-binding protein	86		
+Aphrocallistes_vastus_Bin2_1563					
+Aphrocallistes_vastus_Bin2_1564	K01681	ACO, acnA; aconitate hydratase [EC:4.2.1.3]	708		
+Aphrocallistes_vastus_Bin2_1565	K10914	crp; CRP/FNR family transcriptional regulator, cyclic AMP receptor protein	12		
+Aphrocallistes_vastus_Bin2_1566			206		
+Aphrocallistes_vastus_Bin2_1567	K01129	dgt; dGTPase [EC:3.1.5.1]	115		
+Aphrocallistes_vastus_Bin2_1568	K01887	RARS, argS; arginyl-tRNA synthetase [EC:6.1.1.19]	207		
+Aphrocallistes_vastus_Bin2_1569			5	K01286	1
+Aphrocallistes_vastus_Bin2_1570	K01207	nagZ; beta-N-acetylhexosaminidase [EC:3.2.1.52]	133		
+Aphrocallistes_vastus_Bin2_1571	K05896	scpA; segregation and condensation protein A	39		
+Aphrocallistes_vastus_Bin2_1572	K06024	scpB; segregation and condensation protein B	71		
+Aphrocallistes_vastus_Bin2_1573	K02913	RP-L33, MRPL33, rpmG; large subunit ribosomal protein L33	47		
+Aphrocallistes_vastus_Bin2_1574			52		
+Aphrocallistes_vastus_Bin2_1575			31		
+Aphrocallistes_vastus_Bin2_1576			92		
+Aphrocallistes_vastus_Bin2_1577	K06980	ygfZ; tRNA-modifying protein YgfZ	15	K22073	2
+Aphrocallistes_vastus_Bin2_1578			23		
+Aphrocallistes_vastus_Bin2_1579			2	K23127	1
+Aphrocallistes_vastus_Bin2_1580	K00123	fdoG, fdhF, fdwA; formate dehydrogenase major subunit [EC:1.17.1.9]	389		
+Aphrocallistes_vastus_Bin2_1581					
+Aphrocallistes_vastus_Bin2_1582	K01262	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]	53		
+Aphrocallistes_vastus_Bin2_1583	K01262	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]	35		
+Aphrocallistes_vastus_Bin2_1584			3		
+Aphrocallistes_vastus_Bin2_1585	K00286	proC; pyrroline-5-carboxylate reductase [EC:1.5.1.2]	36		
+Aphrocallistes_vastus_Bin2_1586			28		
+Aphrocallistes_vastus_Bin2_1587			38		
+Aphrocallistes_vastus_Bin2_1588	K09882	cobS; cobaltochelatase CobS [EC:6.6.1.2]	188		
+Aphrocallistes_vastus_Bin2_1589					

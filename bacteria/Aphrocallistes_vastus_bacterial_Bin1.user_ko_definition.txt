@@ -1,0 +1,2133 @@
+ONT_TR_PE_scaff_163_1	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	72		
+ONT_TR_PE_scaff_163_2	K00163	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1]	598		
+ONT_TR_PE_scaff_190_1	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	430		
+ONT_TR_PE_scaff_190_2			26		
+ONT_TR_PE_scaff_190_3			3	K00134	1
+ONT_TR_PE_scaff_190_4			28		
+ONT_TR_PE_scaff_190_5	K01156	res; type III restriction enzyme [EC:3.1.21.5]	200		
+ONT_TR_PE_scaff_192_1			8	K03427	2
+ONT_TR_PE_scaff_192_2			283		
+ONT_TR_PE_scaff_192_3	K07126	K07126; uncharacterized protein	15		
+ONT_TR_PE_scaff_192_4	K07126	K07126; uncharacterized protein	21		
+ONT_TR_PE_scaff_192_5					
+ONT_TR_PE_scaff_201_1	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	403		
+ONT_TR_PE_scaff_201_2	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	135		
+ONT_TR_PE_scaff_201_3	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	581		
+ONT_TR_PE_scaff_216_1			97	K07317	53
+ONT_TR_PE_scaff_216_2			400		
+ONT_TR_PE_scaff_231_1			129		
+ONT_TR_PE_scaff_231_2			7		
+ONT_TR_PE_scaff_231_3	K14155	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]	185		
+ONT_TR_PE_scaff_231_4	K02238	comEC; competence protein ComEC	219		
+ONT_TR_PE_scaff_231_5	K06178	rluB; 23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]	144		
+ONT_TR_PE_scaff_231_6			29		
+ONT_TR_PE_scaff_231_7			6		
+ONT_TR_PE_scaff_248_1			3	K01156	1
+ONT_TR_PE_scaff_248_2			208	K01156	20
+ONT_TR_PE_scaff_248_3			193		
+ONT_TR_PE_scaff_248_4	K07491	rayT; REP-associated tyrosine transposase	73		
+ONT_TR_PE_scaff_248_5	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	312		
+ONT_TR_PE_scaff_338_1			26		
+ONT_TR_PE_scaff_338_2			1	K07459	1
+ONT_TR_PE_scaff_338_3	K03655	recG; ATP-dependent DNA helicase RecG [EC:5.6.2.4]	26		
+ONT_TR_PE_scaff_338_4	K03564	BCP, PRXQ, DOT5; thioredoxin-dependent peroxiredoxin [EC:1.11.1.24]	72		
+ONT_TR_PE_scaff_338_5	K00140	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	327		
+ONT_TR_PE_scaff_338_6			288		
+ONT_TR_PE_scaff_338_7			20		
+ONT_TR_PE_scaff_338_8			4	K00254	1
+ONT_TR_PE_scaff_338_9	K03495	gidA, mnmG, MTO1; tRNA uridine 5-carboxymethylaminomethyl modification enzyme	340		
+ONT_TR_PE_scaff_338_10	K03496	parA, soj; chromosome partitioning protein	132		
+ONT_TR_PE_scaff_338_11	K03497	parB, spo0J; ParB family transcriptional regulator, chromosome partitioning protein	124		
+ONT_TR_PE_scaff_338_12			13	K00104	1
+ONT_TR_PE_scaff_353_1	K07482	K07482; transposase, IS30 family	95		
+ONT_TR_PE_scaff_353_2			8	K07126	1
+ONT_TR_PE_scaff_353_3			7	K00602	1
+ONT_TR_PE_scaff_353_4			161		
+ONT_TR_PE_scaff_353_5					
+ONT_TR_PE_scaff_353_6			14	K08972	
+ONT_TR_PE_scaff_353_7	K01868	TARS, thrS; threonyl-tRNA synthetase [EC:6.1.1.3]	390		
+ONT_TR_PE_scaff_353_8	K07482	K07482; transposase, IS30 family	16		
+ONT_TR_PE_scaff_353_9			36	K07497	5
+ONT_TR_PE_scaff_353_10	K01989	K01989; putative tryptophan/tyrosine transport system substrate-binding protein	195		
+ONT_TR_PE_scaff_353_11	K05832	K05832; putative tryptophan/tyrosine transport system permease protein	208		
+ONT_TR_PE_scaff_353_12	K05833	K05833; putative tryptophan/tyrosine transport system ATP-binding protein	162		
+ONT_TR_PE_scaff_353_13	K03218	rlmB; 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]	75		
+ONT_TR_PE_scaff_353_14	K12573	rnr, vacB; ribonuclease R [EC:3.1.13.1]	89		
+ONT_TR_PE_scaff_353_15			27		
+ONT_TR_PE_scaff_353_16	K07482	K07482; transposase, IS30 family	17		
+ONT_TR_PE_scaff_359_1			63		
+ONT_TR_PE_scaff_359_2			91		
+ONT_TR_PE_scaff_359_3			64	K12132	3
+ONT_TR_PE_scaff_359_4			5	K02933	1
+ONT_TR_PE_scaff_359_5			10	K07728	1
+ONT_TR_PE_scaff_359_6	K00108	betA, CHDH; choline dehydrogenase [EC:1.1.99.1]	321		
+ONT_TR_PE_scaff_359_7			243		
+ONT_TR_PE_scaff_359_8	K00121	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	62		
+ONT_TR_PE_scaff_359_9			60		
+ONT_TR_PE_scaff_359_10			100		
+ONT_TR_PE_scaff_359_11			331		
+ONT_TR_PE_scaff_359_12			262		
+ONT_TR_PE_scaff_359_13					
+ONT_TR_PE_scaff_359_14			412		
+ONT_TR_PE_scaff_359_15			254	K00001	29
+ONT_TR_PE_scaff_359_16			28		
+ONT_TR_PE_scaff_359_17			74		
+ONT_TR_PE_scaff_359_18					
+ONT_TR_PE_scaff_359_19			18	K07497	2
+ONT_TR_PE_scaff_359_20	K07482	K07482; transposase, IS30 family	95		
+ONT_TR_PE_scaff_472_1					
+ONT_TR_PE_scaff_472_2			7	K12574	1
+ONT_TR_PE_scaff_472_3			3	K06985	2
+ONT_TR_PE_scaff_472_4			8	K10914	1
+ONT_TR_PE_scaff_472_5			41		
+ONT_TR_PE_scaff_472_6			9	K12574	1
+ONT_TR_PE_scaff_472_7			9	K00471	3
+ONT_TR_PE_scaff_472_8			36		
+ONT_TR_PE_scaff_472_9			82		
+ONT_TR_PE_scaff_472_10	K09005	K09005; uncharacterized protein	37		
+ONT_TR_PE_scaff_472_11			20	K02313	1
+ONT_TR_PE_scaff_472_12	K01626	E2.5.1.54, aroF, aroG, aroH; 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]	206		
+ONT_TR_PE_scaff_472_13	K05539	dusA; tRNA-dihydrouridine synthase A [EC:1.-.-.-]	113		
+ONT_TR_PE_scaff_472_14	K03179	ubiA; 4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]	119		
+ONT_TR_PE_scaff_472_15	K03806	ampD; N-acetyl-anhydromuramoyl-L-alanine amidase [EC:3.5.1.28]	122		
+ONT_TR_PE_scaff_472_16	K06999	K06999; phospholipase/carboxylesterase	87		
+ONT_TR_PE_scaff_472_17			97		
+ONT_TR_PE_scaff_472_18			92	K00499	48
+ONT_TR_PE_scaff_472_19			2	K00286	1
+ONT_TR_PE_scaff_472_20			3	K11927	2
+ONT_TR_PE_scaff_472_21					
+ONT_TR_PE_scaff_472_22			132		
+ONT_TR_PE_scaff_472_23			2	K20276	1
+ONT_TR_PE_scaff_505_1	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	711		
+ONT_TR_PE_scaff_505_2			235		
+ONT_TR_PE_scaff_505_3	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	61		
+ONT_TR_PE_scaff_505_4	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	39		
+ONT_TR_PE_scaff_505_5			27		
+ONT_TR_PE_scaff_505_6	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	359		
+ONT_TR_PE_scaff_505_7	K00602	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	294		
+ONT_TR_PE_scaff_505_8	K03557	fis; Fis family transcriptional regulator, factor for inversion stimulation protein	17		
+ONT_TR_PE_scaff_505_9	K01951	guaA, GMPS; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	287		
+ONT_TR_PE_scaff_505_10			103		
+ONT_TR_PE_scaff_505_11			243		
+ONT_TR_PE_scaff_505_12			149		
+ONT_TR_PE_scaff_505_13			156		
+ONT_TR_PE_scaff_505_14			110		
+ONT_TR_PE_scaff_505_15	K01247	alkA; DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	63		
+ONT_TR_PE_scaff_505_16	K00799	GST, gst; glutathione S-transferase [EC:2.5.1.18]	114		
+ONT_TR_PE_scaff_505_17	K00088	IMPDH, guaB; IMP dehydrogenase [EC:1.1.1.205]	257		
+ONT_TR_PE_scaff_505_18	K00571	E2.1.1.72; site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	143		
+ONT_TR_PE_scaff_505_19			9	K19142	1
+ONT_TR_PE_scaff_505_20	K01081	E3.1.3.5; 5'-nucleotidase [EC:3.1.3.5]	142		
+ONT_TR_PE_scaff_505_21			158		
+ONT_TR_PE_scaff_505_22			195	K01271	22
+ONT_TR_PE_scaff_505_23			5	K03110	1
+ONT_TR_PE_scaff_505_24	K00303	soxB; sarcosine oxidase, subunit beta [EC:1.5.3.24 1.5.3.1]	246		
+ONT_TR_PE_scaff_505_25	K00304	soxD; sarcosine oxidase, subunit delta [EC:1.5.3.24 1.5.3.1]	40		
+ONT_TR_PE_scaff_505_26	K00302	soxA; sarcosine oxidase, subunit alpha [EC:1.5.3.24 1.5.3.1]	307		
+ONT_TR_PE_scaff_505_27	K00305	soxG; sarcosine oxidase, subunit gamma [EC:1.5.3.24 1.5.3.1]	10		
+ONT_TR_PE_scaff_505_28	K00789	metK, MAT; S-adenosylmethionine synthetase [EC:2.5.1.6]	239		
+ONT_TR_PE_scaff_505_29	K03089	rpoH; RNA polymerase sigma-32 factor	115		
+ONT_TR_PE_scaff_505_30	K01834	PGAM, gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]	105		
+ONT_TR_PE_scaff_505_31			4	K05516	1
+ONT_TR_PE_scaff_505_32			1	K13598	1
+ONT_TR_PE_scaff_505_33	K00939	adk, AK; adenylate kinase [EC:2.7.4.3]	111		
+ONT_TR_PE_scaff_505_34	K21071	pfk, pfp; ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase [EC:2.7.1.11 2.7.1.90]	289		
+ONT_TR_PE_scaff_505_35			77		
+ONT_TR_PE_scaff_505_36			67		
+ONT_TR_PE_scaff_505_37			164		
+ONT_TR_PE_scaff_505_38			21		
+ONT_TR_PE_scaff_505_39			13	K02654	1
+ONT_TR_PE_scaff_505_40			77		
+ONT_TR_PE_scaff_505_41	K00315	DMGDH; dimethylglycine dehydrogenase [EC:1.5.8.4]	419		
+ONT_TR_PE_scaff_505_42	K01586	lysA; diaminopimelate decarboxylase [EC:4.1.1.20]	165		
+ONT_TR_PE_scaff_505_43	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	37		
+ONT_TR_PE_scaff_505_44					
+ONT_TR_PE_scaff_505_45	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	336		
+ONT_TR_PE_scaff_505_46			40		
+ONT_TR_PE_scaff_505_47	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	292		
+ONT_TR_PE_scaff_505_48	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	22		
+ONT_TR_PE_scaff_505_49	K04488	iscU, nifU; nitrogen fixation protein NifU and related proteins	145		
+ONT_TR_PE_scaff_505_50	K13628	iscA; iron-sulfur cluster assembly protein	93		
+ONT_TR_PE_scaff_505_51	K04082	hscB, HSCB, HSC20; molecular chaperone HscB	60		
+ONT_TR_PE_scaff_505_52	K04044	hscA; molecular chaperone HscA	316		
+ONT_TR_PE_scaff_505_53			11		
+ONT_TR_PE_scaff_522_1			2		
+ONT_TR_PE_scaff_522_2			6	K03686	1
+ONT_TR_PE_scaff_522_3			9		
+ONT_TR_PE_scaff_522_4			1	K02199	1
+ONT_TR_PE_scaff_522_5			4		
+ONT_TR_PE_scaff_522_6			1	K02035	1
+ONT_TR_PE_scaff_522_7			10	K03455	1
+ONT_TR_PE_scaff_522_8			4		
+ONT_TR_PE_scaff_522_9			2	K00906	1
+ONT_TR_PE_scaff_522_10			8	K03088	1
+ONT_TR_PE_scaff_522_11			1	K02933	1
+ONT_TR_PE_scaff_522_12					
+ONT_TR_PE_scaff_522_13					
+ONT_TR_PE_scaff_522_14					
+ONT_TR_PE_scaff_522_15					
+ONT_TR_PE_scaff_522_16			2	K03559	1
+ONT_TR_PE_scaff_522_17			7	K12132	1
+ONT_TR_PE_scaff_522_18			3	K06217	1
+ONT_TR_PE_scaff_522_19			3	K02968	1
+ONT_TR_PE_scaff_522_20					
+ONT_TR_PE_scaff_522_21			1	K06867	1
+ONT_TR_PE_scaff_522_22					
+ONT_TR_PE_scaff_522_23					
+ONT_TR_PE_scaff_522_24					
+ONT_TR_PE_scaff_522_25					
+ONT_TR_PE_scaff_522_26					
+ONT_TR_PE_scaff_522_27			1	K22373	1
+ONT_TR_PE_scaff_522_28					
+ONT_TR_PE_scaff_522_29			4		
+ONT_TR_PE_scaff_522_30			6	K02664	1
+ONT_TR_PE_scaff_522_31					
+ONT_TR_PE_scaff_522_32					
+ONT_TR_PE_scaff_522_33					
+ONT_TR_PE_scaff_522_34			1	K03438	1
+ONT_TR_PE_scaff_522_35					
+ONT_TR_PE_scaff_522_36			2	K02030	2
+ONT_TR_PE_scaff_522_37					
+ONT_TR_PE_scaff_522_38					
+ONT_TR_PE_scaff_522_39			34		
+ONT_TR_PE_scaff_522_40					
+ONT_TR_PE_scaff_522_41					
+ONT_TR_PE_scaff_522_42					
+ONT_TR_PE_scaff_522_43			29		
+ONT_TR_PE_scaff_522_44					
+ONT_TR_PE_scaff_522_45					
+ONT_TR_PE_scaff_522_46			2	K21449	1
+ONT_TR_PE_scaff_522_47	K02314	dnaB; replicative DNA helicase [EC:5.6.2.3]	70		
+ONT_TR_PE_scaff_522_48					
+ONT_TR_PE_scaff_522_49					
+ONT_TR_PE_scaff_522_50			59		
+ONT_TR_PE_scaff_522_51					
+ONT_TR_PE_scaff_522_52					
+ONT_TR_PE_scaff_522_53			1	K00407	1
+ONT_TR_PE_scaff_522_54					
+ONT_TR_PE_scaff_522_55			2	K25282	1
+ONT_TR_PE_scaff_522_56	K06985	K06985; aspartyl protease family protein	14		
+ONT_TR_PE_scaff_522_57					
+ONT_TR_PE_scaff_522_58			7		
+ONT_TR_PE_scaff_522_59			7		
+ONT_TR_PE_scaff_522_60			1		
+ONT_TR_PE_scaff_522_61			2		
+ONT_TR_PE_scaff_522_62					
+ONT_TR_PE_scaff_522_63			2	K08992	1
+ONT_TR_PE_scaff_522_64					
+ONT_TR_PE_scaff_522_65			2	K04794	1
+ONT_TR_PE_scaff_522_66					
+ONT_TR_PE_scaff_522_67					
+ONT_TR_PE_scaff_522_68			2	K01999	1
+ONT_TR_PE_scaff_522_69			2	K03799	1
+ONT_TR_PE_scaff_522_70					
+ONT_TR_PE_scaff_522_71			5	K03625	1
+ONT_TR_PE_scaff_522_72			10		
+ONT_TR_PE_scaff_522_73			9	K08640	9
+ONT_TR_PE_scaff_522_74			20		
+ONT_TR_PE_scaff_522_75			2	K01491	1
+ONT_TR_PE_scaff_522_76			21		
+ONT_TR_PE_scaff_522_77	K00558	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	15		
+ONT_TR_PE_scaff_522_78			19		
+ONT_TR_PE_scaff_522_79					
+ONT_TR_PE_scaff_578_1					
+ONT_TR_PE_scaff_578_2			3	K12574	2
+ONT_TR_PE_scaff_578_3					
+ONT_TR_PE_scaff_578_4			3	K06867	2
+ONT_TR_PE_scaff_578_5			2		
+ONT_TR_PE_scaff_578_6					
+ONT_TR_PE_scaff_578_7			4		
+ONT_TR_PE_scaff_578_8					
+ONT_TR_PE_scaff_578_9					
+ONT_TR_PE_scaff_578_10			1		
+ONT_TR_PE_scaff_578_11					
+ONT_TR_PE_scaff_578_12			1	K13735	1
+ONT_TR_PE_scaff_578_13			2		
+ONT_TR_PE_scaff_578_14			1	K03610	1
+ONT_TR_PE_scaff_578_15					
+ONT_TR_PE_scaff_578_16					
+ONT_TR_PE_scaff_578_17					
+ONT_TR_PE_scaff_578_18	K01704	leuD, IPMI-S; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	172		
+ONT_TR_PE_scaff_578_19	K00052	leuB, IMDH; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	223		
+ONT_TR_PE_scaff_578_20			2	K02305	1
+ONT_TR_PE_scaff_578_21			4	K09797	2
+ONT_TR_PE_scaff_578_22			55		
+ONT_TR_PE_scaff_578_23	K03568	tldD; TldD protein	248		
+ONT_TR_PE_scaff_578_24	K11206	NIT1, ybeM; deaminated glutathione amidase [EC:3.5.1.128]	170		
+ONT_TR_PE_scaff_578_25			30		
+ONT_TR_PE_scaff_578_26	K00611	OTC, argF, argI; ornithine carbamoyltransferase [EC:2.1.3.3]	105		
+ONT_TR_PE_scaff_578_27	K01940	argG, ASS1; argininosuccinate synthase [EC:6.3.4.5]	298		
+ONT_TR_PE_scaff_578_28					
+ONT_TR_PE_scaff_578_29			2	K15587	1
+ONT_TR_PE_scaff_578_30			173		
+ONT_TR_PE_scaff_578_31	K21929	udg; uracil-DNA glycosylase [EC:3.2.2.27]	129		
+ONT_TR_PE_scaff_578_32	K02600	nusA; transcription termination/antitermination protein NusA	165		
+ONT_TR_PE_scaff_578_33	K02519	infB, MTIF2; translation initiation factor IF-2	205		
+ONT_TR_PE_scaff_578_34	K02834	rbfA; ribosome-binding factor A	24		
+ONT_TR_PE_scaff_578_35	K03177	truB, PUS4, TRUB1; tRNA pseudouridine55 synthase [EC:5.4.99.25]	85		
+ONT_TR_PE_scaff_578_36	K04773	sppA; protease IV [EC:3.4.21.-]	125		
+ONT_TR_PE_scaff_578_37	K03523	bioY; biotin transport system substrate-specific component	45	K16092	1
+ONT_TR_PE_scaff_578_38	K00615	E2.2.1.1, tktA, tktB; transketolase [EC:2.2.1.1]	350		
+ONT_TR_PE_scaff_578_39	K04754	mlaA, vacJ; phospholipid-binding lipoprotein MlaA	63		
+ONT_TR_PE_scaff_578_40			4	K00954	1
+ONT_TR_PE_scaff_578_41	K01147	rnb; exoribonuclease II [EC:3.1.13.1]	77		
+ONT_TR_PE_scaff_578_42	K00014	aroE; shikimate dehydrogenase [EC:1.1.1.25]	98		
+ONT_TR_PE_scaff_578_43	K00059	fabG, OAR1; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	131		
+ONT_TR_PE_scaff_578_44					
+ONT_TR_PE_scaff_578_45			2	K13735	2
+ONT_TR_PE_scaff_578_46			1	K09607	1
+ONT_TR_PE_scaff_578_47			2	K20276	1
+ONT_TR_PE_scaff_578_48			2	K21449	1
+ONT_TR_PE_scaff_578_49			2	K06867	1
+ONT_TR_PE_scaff_578_50			1	K20276	
+ONT_TR_PE_scaff_578_51			2	K01897	1
+ONT_TR_PE_scaff_578_52			1	K00658	1
+ONT_TR_PE_scaff_578_53			1	K06867	
+ONT_TR_PE_scaff_578_54			2	K01647	1
+ONT_TR_PE_scaff_578_55			1	K06867	1
+ONT_TR_PE_scaff_578_56					
+ONT_TR_PE_scaff_578_57			3	K16291	2
+ONT_TR_PE_scaff_578_58					
+ONT_TR_PE_scaff_578_59			2	K13735	2
+ONT_TR_PE_scaff_578_60			2	K20276	1
+ONT_TR_PE_scaff_578_61			2	K13735	1
+ONT_TR_PE_scaff_578_62					
+ONT_TR_PE_scaff_578_63					
+ONT_TR_PE_scaff_578_64			1	K06867	1
+ONT_TR_PE_scaff_578_65			2	K13735	2
+ONT_TR_PE_scaff_578_66					
+ONT_TR_PE_scaff_578_67			1	K06867	1
+ONT_TR_PE_scaff_578_68			2	K06867	1
+ONT_TR_PE_scaff_578_69					
+ONT_TR_PE_scaff_578_70			2	K06867	1
+ONT_TR_PE_scaff_578_71					
+ONT_TR_PE_scaff_578_72			2		
+ONT_TR_PE_scaff_578_73			2	K04749	1
+ONT_TR_PE_scaff_578_74			3		
+ONT_TR_PE_scaff_579_1					
+ONT_TR_PE_scaff_579_2	K03664	smpB; SsrA-binding protein	106		
+ONT_TR_PE_scaff_579_3			24		
+ONT_TR_PE_scaff_579_4	K02314	dnaB; replicative DNA helicase [EC:5.6.2.3]	131		
+ONT_TR_PE_scaff_579_5			73		
+ONT_TR_PE_scaff_579_6			16		
+ONT_TR_PE_scaff_579_7	K14998	SURF1, SHY1; surfeit locus 1 family protein	67		
+ONT_TR_PE_scaff_579_8			33		
+ONT_TR_PE_scaff_579_9			14		
+ONT_TR_PE_scaff_579_10			23		
+ONT_TR_PE_scaff_579_11			21		
+ONT_TR_PE_scaff_579_12	K02274	coxA, ctaD; cytochrome c oxidase subunit I [EC:7.1.1.9]	533		
+ONT_TR_PE_scaff_579_13	K07032	K07032; uncharacterized protein	76		
+ONT_TR_PE_scaff_579_14	K00856	ADK, adoK; adenosine kinase [EC:2.7.1.20]	183		
+ONT_TR_PE_scaff_579_15	K03658	helD; DNA helicase IV [EC:5.6.2.4]	213		
+ONT_TR_PE_scaff_579_16			6	K05873	1
+ONT_TR_PE_scaff_579_17	K01872	AARS, alaS; alanyl-tRNA synthetase [EC:6.1.1.7]	409		
+ONT_TR_PE_scaff_579_18			87		
+ONT_TR_PE_scaff_579_19	K03641	tolB; TolB protein	129		
+ONT_TR_PE_scaff_579_20	K03640	pal; peptidoglycan-associated lipoprotein	67		
+ONT_TR_PE_scaff_579_21			34		
+ONT_TR_PE_scaff_579_22	K08316	rsmD; 16S rRNA (guanine966-N2)-methyltransferase [EC:2.1.1.171]	63		
+ONT_TR_PE_scaff_579_23	K00954	E2.7.7.3A, coaD, kdtB; pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	100		
+ONT_TR_PE_scaff_579_24			53		
+ONT_TR_PE_scaff_579_25	K01696	trpB; tryptophan synthase beta chain [EC:4.2.1.20]	283		
+ONT_TR_PE_scaff_579_26	K01939	purA, ADSS; adenylosuccinate synthase [EC:6.3.4.4]	296		
+ONT_TR_PE_scaff_579_27	K02502	hisZ; ATP phosphoribosyltransferase regulatory subunit	114		
+ONT_TR_PE_scaff_579_28	K01480	speB; agmatinase [EC:3.5.3.11]	318		
+ONT_TR_PE_scaff_579_29	K01142	E3.1.11.2, xthA; exodeoxyribonuclease III [EC:3.1.11.2]	146		
+ONT_TR_PE_scaff_579_30			10		
+ONT_TR_PE_scaff_579_31			31		
+ONT_TR_PE_scaff_579_32			21	K01262	1
+ONT_TR_PE_scaff_579_33			21	K19036	2
+ONT_TR_PE_scaff_579_34			16	K02342	1
+ONT_TR_PE_scaff_579_35	K03741	arsC; arsenate reductase (thioredoxin) [EC:1.20.4.4]	23		
+ONT_TR_PE_scaff_579_36			7	K06346	1
+ONT_TR_PE_scaff_579_37	K09125	yhhQ; queuosine precursor transporter	91		
+ONT_TR_PE_scaff_579_38	K09806	ubiK; ubiquinone biosynthesis accessory factor UbiK	14		
+ONT_TR_PE_scaff_579_39	K01679	E4.2.1.2B, fumC, FH; fumarate hydratase, class II [EC:4.2.1.2]	291		
+ONT_TR_PE_scaff_579_40	K01652	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	419		
+ONT_TR_PE_scaff_579_41	K01653	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]	91		
+ONT_TR_PE_scaff_579_42			189		
+ONT_TR_PE_scaff_579_43	K00991	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]	84		
+ONT_TR_PE_scaff_579_44	K01770	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]	99	K12506	4
+ONT_TR_PE_scaff_579_45	K01439	dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]	147		
+ONT_TR_PE_scaff_579_46	K00528	fpr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]	117		
+ONT_TR_PE_scaff_579_47					
+ONT_TR_PE_scaff_579_48			33		
+ONT_TR_PE_scaff_579_49	K01903	sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]	130		
+ONT_TR_PE_scaff_579_50	K01902	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	225		
+ONT_TR_PE_scaff_579_51	K26061	amaB; L-aminoadipate-semialdehyde dehydrogenase	484		
+ONT_TR_PE_scaff_579_52	K02356	efp; elongation factor P	89		
+ONT_TR_PE_scaff_579_53	K03455	TC.KEF; monovalent cation:H+ antiporter-2, CPA2 family	155		
+ONT_TR_PE_scaff_579_54			165		
+ONT_TR_PE_scaff_579_55	K07340	ybbJ; inner membrane protein	35		
+ONT_TR_PE_scaff_579_56	K01959	pycA; pyruvate carboxylase subunit A [EC:6.4.1.1]	315		
+ONT_TR_PE_scaff_579_57			64		
+ONT_TR_PE_scaff_579_58	K03574	mutT, NUDT15, MTH2; 8-oxo-dGTP diphosphatase [EC:3.6.1.55]	129		
+ONT_TR_PE_scaff_579_59	K06923	K06923; uncharacterized protein	92		
+ONT_TR_PE_scaff_579_60	K00620	argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]	227		
+ONT_TR_PE_scaff_579_61	K03651	cpdA; 3',5'-cyclic-AMP phosphodiesterase [EC:3.1.4.53]	107		
+ONT_TR_PE_scaff_579_62			68		
+ONT_TR_PE_scaff_579_63	K00275	pdxH, PNPO; pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5]	72		
+ONT_TR_PE_scaff_579_64	K00891	aroK, aroL; shikimate kinase [EC:2.7.1.71]	48	K13829	1
+ONT_TR_PE_scaff_579_65	K01735	aroB; 3-dehydroquinate synthase [EC:4.2.3.4]	133	K13829	26
+ONT_TR_PE_scaff_579_66	K01698	hemB, ALAD; porphobilinogen synthase [EC:4.2.1.24]	258		
+ONT_TR_PE_scaff_579_67	K00303	soxB; sarcosine oxidase, subunit beta [EC:1.5.3.24 1.5.3.1]	276		
+ONT_TR_PE_scaff_579_68					
+ONT_TR_PE_scaff_579_69			1	K03100	1
+ONT_TR_PE_scaff_579_70	K03320	amt, AMT, MEP; ammonium transporter, Amt family	324		
+ONT_TR_PE_scaff_579_71			8	K11891	1
+ONT_TR_PE_scaff_579_72	K01949	gmaS; glutamate---methylamine ligase [EC:6.3.4.12]	290		
+ONT_TR_PE_scaff_579_73	K01915	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]	505		
+ONT_TR_PE_scaff_579_74	K22081	mgsA; methylamine---glutamate N-methyltransferase subunit A [EC:2.1.1.21]	208		
+ONT_TR_PE_scaff_579_75	K22082	mgsB; methylamine---glutamate N-methyltransferase subunit B [EC:2.1.1.21]	248		
+ONT_TR_PE_scaff_579_76	K22083	mgsC; methylamine---glutamate N-methyltransferase subunit C [EC:2.1.1.21]	372		
+ONT_TR_PE_scaff_579_77			61	K07709	1
+ONT_TR_PE_scaff_579_78			4	K04486	1
+ONT_TR_PE_scaff_579_79			40		
+ONT_TR_PE_scaff_579_80			2	K13926	1
+ONT_TR_PE_scaff_579_81					
+ONT_TR_PE_scaff_579_82			4	K03820	1
+ONT_TR_PE_scaff_579_83			3		
+ONT_TR_PE_scaff_579_84			1	K20276	
+ONT_TR_PE_scaff_579_85	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	104		
+ONT_TR_PE_scaff_579_86			63	K03649	17
+ONT_TR_PE_scaff_579_87	K01156	res; type III restriction enzyme [EC:3.1.21.5]	196		
+ONT_TR_PE_scaff_579_88	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	183		
+ONT_TR_PE_scaff_579_89	K05939	aas; acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase [EC:2.3.1.40 6.2.1.20]	89		
+ONT_TR_PE_scaff_579_90			55		
+ONT_TR_PE_scaff_579_91			29		
+ONT_TR_PE_scaff_579_92	K00941	thiD; hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]	53		
+ONT_TR_PE_scaff_579_93	K01874	MARS, metG; methionyl-tRNA synthetase [EC:6.1.1.10]	361		
+ONT_TR_PE_scaff_579_94			83		
+ONT_TR_PE_scaff_579_95	K00974	cca; tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]	186		
+ONT_TR_PE_scaff_598_1			2	K00982	1
+ONT_TR_PE_scaff_598_2			33		
+ONT_TR_PE_scaff_598_3					
+ONT_TR_PE_scaff_598_4	K00558	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	104		
+ONT_TR_PE_scaff_598_5	K00856	ADK, adoK; adenosine kinase [EC:2.7.1.20]	189		
+ONT_TR_PE_scaff_598_6	K07032	K07032; uncharacterized protein	76		
+ONT_TR_PE_scaff_598_7	K02274	coxA, ctaD; cytochrome c oxidase subunit I [EC:7.1.1.9]	533		
+ONT_TR_PE_scaff_598_8			6	K02040	2
+ONT_TR_PE_scaff_598_9	K07491	rayT; REP-associated tyrosine transposase	62		
+ONT_TR_PE_scaff_598_10			33		
+ONT_TR_PE_scaff_598_11	K14998	SURF1, SHY1; surfeit locus 1 family protein	67		
+ONT_TR_PE_scaff_598_12			16		
+ONT_TR_PE_scaff_598_13			72		
+ONT_TR_PE_scaff_598_14	K02314	dnaB; replicative DNA helicase [EC:5.6.2.3]	131		
+ONT_TR_PE_scaff_598_15			24		
+ONT_TR_PE_scaff_598_16	K03664	smpB; SsrA-binding protein	101		
+ONT_TR_PE_scaff_598_17			21	K01154	1
+ONT_TR_PE_scaff_598_18					
+ONT_TR_PE_scaff_598_19	K07126	K07126; uncharacterized protein	11		
+ONT_TR_PE_scaff_598_20	K07126	K07126; uncharacterized protein	46		
+ONT_TR_PE_scaff_598_21	K07126	K07126; uncharacterized protein	109		
+ONT_TR_PE_scaff_598_22			75		
+ONT_TR_PE_scaff_598_23			175		
+ONT_TR_PE_scaff_598_24	K01866	YARS, tyrS; tyrosyl-tRNA synthetase [EC:6.1.1.1]	215		
+ONT_TR_PE_scaff_598_25			77		
+ONT_TR_PE_scaff_598_26	K03687	GRPE; molecular chaperone GrpE	41		
+ONT_TR_PE_scaff_598_27	K04043	dnaK, HSPA9; molecular chaperone DnaK	431		
+ONT_TR_PE_scaff_598_28	K03686	dnaJ; molecular chaperone DnaJ	171		
+ONT_TR_PE_scaff_598_29	K01207	nagZ; beta-N-acetylhexosaminidase [EC:3.2.1.52]	145		
+ONT_TR_PE_scaff_598_30	K00997	acpS; holo-[acyl-carrier protein] synthase [EC:2.7.8.7]	45		
+ONT_TR_PE_scaff_598_31	K03474	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]	119		
+ONT_TR_PE_scaff_598_32	K03595	era, ERAL1; GTPase	98		
+ONT_TR_PE_scaff_598_33	K03685	rnc, DROSHA, RNT1; ribonuclease III [EC:3.1.26.3]	73		
+ONT_TR_PE_scaff_598_34	K03100	lepB; signal peptidase I [EC:3.4.21.89]	67		
+ONT_TR_PE_scaff_598_35	K03596	lepA; GTP-binding protein LepA	364		
+ONT_TR_PE_scaff_598_36	K01008	selD, SEPHS; selenide, water dikinase [EC:2.7.9.3]	176		
+ONT_TR_PE_scaff_598_37			4	K07704	1
+ONT_TR_PE_scaff_598_38	K07147	msrP; methionine sulfoxide reductase catalytic subunit [EC:1.8.-.-]	219		
+ONT_TR_PE_scaff_598_39	K17247	msrQ; methionine sulfoxide reductase heme-binding subunit	69		
+ONT_TR_PE_scaff_598_40	K16052	ynaI, mscMJ; MscS family membrane protein	176		
+ONT_TR_PE_scaff_598_41	K09761	rsmE; 16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]	71		
+ONT_TR_PE_scaff_598_42	K13609	dpkA, lhpD; delta1-piperideine-2-carboxylate reductase [EC:1.5.1.21]	277		
+ONT_TR_PE_scaff_598_43			11	K01462	1
+ONT_TR_PE_scaff_598_44					
+ONT_TR_PE_scaff_598_45	K08300	rne; ribonuclease E [EC:3.1.26.12]	122		
+ONT_TR_PE_scaff_598_46	K06179	rluC; 23S rRNA pseudouridine955/2504/2580 synthase [EC:5.4.99.24]	113		
+ONT_TR_PE_scaff_598_47	K03980	murJ, mviN; putative peptidoglycan lipid II flippase	202		
+ONT_TR_PE_scaff_598_48	K04487	iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]	255		
+ONT_TR_PE_scaff_598_49			14		
+ONT_TR_PE_scaff_598_50			38		
+ONT_TR_PE_scaff_598_51	K06857	tupC, vupC; tungstate transport system ATP-binding protein [EC:7.3.2.6]	60		
+ONT_TR_PE_scaff_598_52	K05773	tupB, vupB; tungstate transport system permease protein	150		
+ONT_TR_PE_scaff_598_53	K05772	tupA, vupA; tungstate transport system substrate-binding protein	109		
+ONT_TR_PE_scaff_598_54	K10778	ada; AraC family transcriptional regulator, regulatory protein of adaptative response / methylated-DNA-[protein]-cysteine methyltransferase [EC:2.1.1.63]	110		
+ONT_TR_PE_scaff_598_55			74		
+ONT_TR_PE_scaff_598_56	K00930	argB; acetylglutamate kinase [EC:2.7.2.8]	153		
+ONT_TR_PE_scaff_598_57	K08218	ampG; MFS transporter, PAT family, beta-lactamase induction signal transducer AmpG	161		
+ONT_TR_PE_scaff_598_58	K02956	RP-S15, MRPS15, rpsO; small subunit ribosomal protein S15	44		
+ONT_TR_PE_scaff_598_59	K00962	pnp, PNPT1; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]	414		
+ONT_TR_PE_scaff_598_60			1	K01243	1
+ONT_TR_PE_scaff_598_61	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	286		
+ONT_TR_PE_scaff_598_62			126		
+ONT_TR_PE_scaff_598_63	K06223	dam; DNA adenine methylase [EC:2.1.1.72]	150		
+ONT_TR_PE_scaff_598_64			3	K20265	1
+ONT_TR_PE_scaff_598_65			7	K18350	1
+ONT_TR_PE_scaff_598_66					
+ONT_TR_PE_scaff_598_67	K01607	pcaC; 4-carboxymuconolactone decarboxylase [EC:4.1.1.44]	149		
+ONT_TR_PE_scaff_598_68			61		
+ONT_TR_PE_scaff_598_69			3	K03642	1
+ONT_TR_PE_scaff_598_70	K07090	K07090; uncharacterized protein	69		
+ONT_TR_PE_scaff_598_71			95		
+ONT_TR_PE_scaff_598_72	K09888	zapA; cell division protein ZapA	17		
+ONT_TR_PE_scaff_598_73			5	K09892	2
+ONT_TR_PE_scaff_598_74	K03072	secD; preprotein translocase subunit SecD	140		
+ONT_TR_PE_scaff_598_75	K03210	yajC; preprotein translocase subunit YajC	49		
+ONT_TR_PE_scaff_598_76	K00793	ribE, RIB5; riboflavin synthase [EC:2.5.1.9]	101		
+ONT_TR_PE_scaff_598_77	K00544	BHMT; betaine-homocysteine S-methyltransferase [EC:2.1.1.5]	328		
+ONT_TR_PE_scaff_598_78			109		
+ONT_TR_PE_scaff_598_79			29		
+ONT_TR_PE_scaff_598_80			71		
+ONT_TR_PE_scaff_598_81	K00721	DPM1; dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	132		
+ONT_TR_PE_scaff_598_82	K02469	gyrA; DNA gyrase subunit A [EC:5.6.2.2]	479		
+ONT_TR_PE_scaff_598_83	K03705	hrcA; heat-inducible transcriptional repressor	114		
+ONT_TR_PE_scaff_598_84	K00344	qor, CRYZ; NADPH:quinone reductase [EC:1.6.5.5]	147		
+ONT_TR_PE_scaff_598_85			119		
+ONT_TR_PE_scaff_598_86	K09972	aapP, bztD; general L-amino acid transport system ATP-binding protein [EC:7.4.2.1]	183		
+ONT_TR_PE_scaff_598_87	K09971	aapM, bztC; general L-amino acid transport system permease protein	277		
+ONT_TR_PE_scaff_598_88	K09970	aapQ, bztB; general L-amino acid transport system permease protein	203		
+ONT_TR_PE_scaff_598_89	K09969	aapJ, bztA; general L-amino acid transport system substrate-binding protein	217		
+ONT_TR_PE_scaff_598_90	K07240	chrA; chromate transporter	212		
+ONT_TR_PE_scaff_598_91			3	K09001	1
+ONT_TR_PE_scaff_598_92	K00128	ALDH; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]	196		
+ONT_TR_PE_scaff_598_93			32		
+ONT_TR_PE_scaff_598_94	K00499	CMO; choline monooxygenase [EC:1.14.15.7]	171		
+ONT_TR_PE_scaff_598_95			265		
+ONT_TR_PE_scaff_598_96	K01996	livF; branched-chain amino acid transport system ATP-binding protein	165		
+ONT_TR_PE_scaff_598_97	K01995	livG; branched-chain amino acid transport system ATP-binding protein	186		
+ONT_TR_PE_scaff_598_98	K01998	livM; branched-chain amino acid transport system permease protein	179		
+ONT_TR_PE_scaff_598_99	K01997	livH; branched-chain amino acid transport system permease protein	215		
+ONT_TR_PE_scaff_598_100	K01999	livK; branched-chain amino acid transport system substrate-binding protein	240		
+ONT_TR_PE_scaff_598_101	K16841	hpxA; allantoin racemase [EC:5.1.99.3]	114		
+ONT_TR_PE_scaff_598_102	K01799	nicE, maiA; maleate isomerase [EC:5.2.1.1]	91		
+ONT_TR_PE_scaff_598_103			108	K01271	50
+ONT_TR_PE_scaff_598_104	K01751	E4.3.1.15; diaminopropionate ammonia-lyase [EC:4.3.1.15]	227		
+ONT_TR_PE_scaff_598_105	K00134	GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12]	182		
+ONT_TR_PE_scaff_598_106	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	87		
+ONT_TR_PE_scaff_598_107	K03688	ubiB, aarF; ubiquinone biosynthesis protein	249		
+ONT_TR_PE_scaff_598_108	K01749	hemC, HMBS; hydroxymethylbilane synthase [EC:2.5.1.61]	90		
+ONT_TR_PE_scaff_598_109	K01719	hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]	40		
+ONT_TR_PE_scaff_598_110					
+ONT_TR_PE_scaff_598_111			2	K02386	1
+ONT_TR_PE_scaff_598_112	K02498	hemY; HemY protein	26		
+ONT_TR_PE_scaff_598_113	K03306	TC.PIT; inorganic phosphate transporter, PiT family	163		
+ONT_TR_PE_scaff_598_114	K07755	AS3MT; arsenite methyltransferase [EC:2.1.1.137]	225		
+ONT_TR_PE_scaff_598_115			162		
+ONT_TR_PE_scaff_598_116	K00772	mtaP, MTAP; 5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	164		
+ONT_TR_PE_scaff_598_117	K07552	bcr, tcaB; MFS transporter, DHA1 family, multidrug resistance protein	82		
+ONT_TR_PE_scaff_598_118	K01464	DPYS, dht, hydA; dihydropyrimidinase [EC:3.5.2.2]	454		
+ONT_TR_PE_scaff_598_119	K06016	pydC; beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase [EC:3.5.1.6 3.5.1.87]	307		
+ONT_TR_PE_scaff_598_120			3		
+ONT_TR_PE_scaff_598_121	K01485	codA; cytosine/creatinine deaminase [EC:3.5.4.1 3.5.4.21]	253		
+ONT_TR_PE_scaff_598_122	K23536	nupC; general nucleoside transport system permease protein	206		
+ONT_TR_PE_scaff_598_123	K23535	nupB; general nucleoside transport system permease protein	260		
+ONT_TR_PE_scaff_598_124	K23537	nupA; general nucleoside transport system ATP-binding protein	226		
+ONT_TR_PE_scaff_598_125	K07335	bmpA, bmpB, tmpC; basic membrane protein A and related proteins	304		
+ONT_TR_PE_scaff_598_126			68		
+ONT_TR_PE_scaff_598_127	K17723	preA; dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]	347		
+ONT_TR_PE_scaff_598_128	K17722	preT; dihydropyrimidine dehydrogenase (NAD+) subunit PreT [EC:1.3.1.1]	280		
+ONT_TR_PE_scaff_598_129					
+ONT_TR_PE_scaff_598_130			221		
+ONT_TR_PE_scaff_598_131	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	391		
+ONT_TR_PE_scaff_598_132			164		
+ONT_TR_PE_scaff_600_1			2	K00901	1
+ONT_TR_PE_scaff_600_2			3	K07695	1
+ONT_TR_PE_scaff_600_3			2	K01069	1
+ONT_TR_PE_scaff_600_4			3	K09817	1
+ONT_TR_PE_scaff_600_5	K03655	recG; ATP-dependent DNA helicase RecG [EC:5.6.2.4]	238		
+ONT_TR_PE_scaff_600_6			4	K06893	2
+ONT_TR_PE_scaff_600_7	K21162	sgcE4, ncsE4, kedE4; enediyne biosynthesis protein E4	108		
+ONT_TR_PE_scaff_600_8	K02434	gatB, PET112; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	398		
+ONT_TR_PE_scaff_600_9	K02433	gatA, QRSL1; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	248		
+ONT_TR_PE_scaff_600_10	K02435	gatC, GATC; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]	44		
+ONT_TR_PE_scaff_600_11			57		
+ONT_TR_PE_scaff_600_12			62		
+ONT_TR_PE_scaff_600_13	K03614	rnfD; H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit D [EC:7.1.1.11 7.2.1.2]	69		
+ONT_TR_PE_scaff_600_14	K03612	rnfG; H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit G	20		
+ONT_TR_PE_scaff_600_15	K09471	puuB, ordL; gamma-glutamylputrescine oxidase [EC:1.4.3.-]	191		
+ONT_TR_PE_scaff_600_16	K18800	ubiI; 2-polyprenylphenol 6-hydroxylase [EC:1.14.13.240]	29	K03185	6
+ONT_TR_PE_scaff_600_17			4	K09667	1
+ONT_TR_PE_scaff_600_18			2	K09667	1
+ONT_TR_PE_scaff_600_19			31		
+ONT_TR_PE_scaff_600_20			2	K02109	1
+ONT_TR_PE_scaff_600_21	K25706	tsaD; tRNA N6-adenosine threonylcarbamoyltransferase [EC:2.3.1.234]	135		
+ONT_TR_PE_scaff_600_22	K01438	argE; acetylornithine deacetylase [EC:3.5.1.16]	155		
+ONT_TR_PE_scaff_600_23	K13482	xdhB; xanthine dehydrogenase large subunit [EC:1.17.1.4]	368		
+ONT_TR_PE_scaff_600_24	K07402	xdhC; xanthine dehydrogenase accessory factor	86		
+ONT_TR_PE_scaff_600_25	K06980	ygfZ; tRNA-modifying protein YgfZ	60		
+ONT_TR_PE_scaff_600_26					
+ONT_TR_PE_scaff_600_27	K20534	gtrB; polyisoprenyl-phosphate glycosyltransferase [EC:2.4.-.-]	91		
+ONT_TR_PE_scaff_600_28			163		
+ONT_TR_PE_scaff_600_29			160		
+ONT_TR_PE_scaff_600_30			64		
+ONT_TR_PE_scaff_600_31			75		
+ONT_TR_PE_scaff_600_32	K14952	namH; UDP-MurNAc hydroxylase	68		
+ONT_TR_PE_scaff_600_33	K00674	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]	181		
+ONT_TR_PE_scaff_600_34			14	K14052	1
+ONT_TR_PE_scaff_600_35			134		
+ONT_TR_PE_scaff_600_36	K01480	speB; agmatinase [EC:3.5.3.11]	211		
+ONT_TR_PE_scaff_600_37	K08688	E3.5.3.3; creatinase [EC:3.5.3.3]	295		
+ONT_TR_PE_scaff_600_38	K09760	rmuC; DNA recombination protein RmuC	133		
+ONT_TR_PE_scaff_600_39			4	K05516	2
+ONT_TR_PE_scaff_600_40	K01271	pepQ; Xaa-Pro dipeptidase [EC:3.4.13.9]	212		
+ONT_TR_PE_scaff_600_41	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	64		
+ONT_TR_PE_scaff_600_42	K15783	doeA; ectoine hydrolase [EC:3.5.4.44]	213		
+ONT_TR_PE_scaff_600_43	K03703	uvrC; excinuclease ABC subunit C	247		
+ONT_TR_PE_scaff_600_44	K08744	CRLS; cardiolipin synthase (CMP-forming) [EC:2.7.8.41]	94		
+ONT_TR_PE_scaff_600_45	K05366	mrcA; penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4]	320		
+ONT_TR_PE_scaff_600_46	K02517	lpxL, htrB; Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]	94		
+ONT_TR_PE_scaff_600_47	K01778	dapF; diaminopimelate epimerase [EC:5.1.1.7]	118		
+ONT_TR_PE_scaff_600_48	K02517	lpxL, htrB; Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]	101		
+ONT_TR_PE_scaff_600_49	K00317	dmd-tmd; dimethylamine/trimethylamine dehydrogenase [EC:1.5.8.1 1.5.8.2]	358		
+ONT_TR_PE_scaff_600_50	K03497	parB, spo0J; ParB family transcriptional regulator, chromosome partitioning protein	124		
+ONT_TR_PE_scaff_600_51	K03496	parA, soj; chromosome partitioning protein	132		
+ONT_TR_PE_scaff_600_52	K03495	gidA, mnmG, MTO1; tRNA uridine 5-carboxymethylaminomethyl modification enzyme	340		
+ONT_TR_PE_scaff_600_53			59		
+ONT_TR_PE_scaff_600_54			62		
+ONT_TR_PE_scaff_600_55					
+ONT_TR_PE_scaff_600_56			1	K02503	1
+ONT_TR_PE_scaff_600_57	K00140	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	326		
+ONT_TR_PE_scaff_600_58	K03564	BCP, PRXQ, DOT5; thioredoxin-dependent peroxiredoxin [EC:1.11.1.24]	71		
+ONT_TR_PE_scaff_600_59			23	K02067	1
+ONT_TR_PE_scaff_600_60			21	K02996	1
+ONT_TR_PE_scaff_600_61			3	K01737	1
+ONT_TR_PE_scaff_600_62					
+ONT_TR_PE_scaff_600_63					
+ONT_TR_PE_scaff_600_64					
+ONT_TR_PE_scaff_600_65	K01869	LARS, leuS; leucyl-tRNA synthetase [EC:6.1.1.4]	436		
+ONT_TR_PE_scaff_600_66			71		
+ONT_TR_PE_scaff_600_67					
+ONT_TR_PE_scaff_600_68			28		
+ONT_TR_PE_scaff_600_69			4	K02858	1
+ONT_TR_PE_scaff_600_70			2	K00571	1
+ONT_TR_PE_scaff_600_71			137		
+ONT_TR_PE_scaff_600_72			27	K15359	2
+ONT_TR_PE_scaff_600_73	K00315	DMGDH; dimethylglycine dehydrogenase [EC:1.5.8.4]	546		
+ONT_TR_PE_scaff_600_74					
+ONT_TR_PE_scaff_600_75	K03601	xseA; exodeoxyribonuclease VII large subunit [EC:3.1.11.6]	146		
+ONT_TR_PE_scaff_600_76	K01069	gloB, gloC, HAGH; hydroxyacylglutathione hydrolase [EC:3.1.2.6]	137		
+ONT_TR_PE_scaff_600_77			74		
+ONT_TR_PE_scaff_600_78	K03469	rnhA, RNASEH1; ribonuclease HI [EC:3.1.26.4]	104		
+ONT_TR_PE_scaff_600_79	K02342	dnaQ; DNA polymerase III subunit epsilon [EC:2.7.7.7]	94		
+ONT_TR_PE_scaff_600_80	K02558	mpl; UDP-N-acetylmuramate: L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase [EC:6.3.2.45]	189		
+ONT_TR_PE_scaff_600_81	K23465	tgnD; (E)-2-((N-methylformamido)methylene)succinate hydrolase [EC:3.5.1.-]	65	K23462/K23465	4
+ONT_TR_PE_scaff_600_82	K23462	tgnA; flavin-dependent trigonelline monooxygenase, reductase component [EC:1.5.1.36]	107	K23462/K23465	8
+ONT_TR_PE_scaff_600_83	K23464	tgnB; flavin-dependent trigonelline monooxygenase, oxygenase component [EC:1.14.14.-]	318		
+ONT_TR_PE_scaff_600_84	K23463	tgnC; (Z)-2-((N-methylformamido)methylene)-5-hydroxybutyrolactone dehydrogenase [EC:1.2.1.-]	406		
+ONT_TR_PE_scaff_600_85			7	K00790	1
+ONT_TR_PE_scaff_600_86	K07576	K07576; metallo-beta-lactamase family protein	11		
+ONT_TR_PE_scaff_600_87	K07576	K07576; metallo-beta-lactamase family protein	21	K07041	2
+ONT_TR_PE_scaff_600_88			7	K02978	1
+ONT_TR_PE_scaff_600_89					
+ONT_TR_PE_scaff_600_90	K02838	frr, MRRF, RRF; ribosome recycling factor	88		
+ONT_TR_PE_scaff_600_91	K00806	uppS; undecaprenyl diphosphate synthase [EC:2.5.1.31]	104		
+ONT_TR_PE_scaff_600_92	K00981	E2.7.7.41, CDS1, CDS2, cdsA; phosphatidate cytidylyltransferase [EC:2.7.7.41]	77		
+ONT_TR_PE_scaff_600_93	K00099	dxr; 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]	151		
+ONT_TR_PE_scaff_600_94	K11749	rseP; regulator of sigma E protease [EC:3.4.24.-]	123		
+ONT_TR_PE_scaff_600_95	K07277	SAM50, TOB55, bamA; outer membrane protein insertion porin family	222		
+ONT_TR_PE_scaff_600_96	K06142	hlpA, ompH; outer membrane protein	26		
+ONT_TR_PE_scaff_600_97	K02536	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	120		
+ONT_TR_PE_scaff_600_98	K02372	fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]	69		
+ONT_TR_PE_scaff_600_99	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	103		
+ONT_TR_PE_scaff_600_100	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	118		
+ONT_TR_PE_scaff_600_101	K03470	rnhB; ribonuclease HII [EC:3.1.26.4]	95		
+ONT_TR_PE_scaff_600_102			12		
+ONT_TR_PE_scaff_600_103	K14170	pheA; chorismate mutase / prephenate dehydratase [EC:5.4.99.5 4.2.1.51]	158		
+ONT_TR_PE_scaff_600_104	K02500	hisF; imidazole glycerol-phosphate synthase subunit HisF [EC:4.3.2.10]	148		
+ONT_TR_PE_scaff_600_105	K01523	hisE; phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31]	39	K11755	2
+ONT_TR_PE_scaff_600_106	K03116	tatA; sec-independent protein translocase protein TatA	39		
+ONT_TR_PE_scaff_600_107	K03117	tatB; sec-independent protein translocase protein TatB	23		
+ONT_TR_PE_scaff_600_108	K03118	tatC; sec-independent protein translocase protein TatC	144		
+ONT_TR_PE_scaff_600_109	K02160	accB, bccP; acetyl-CoA carboxylase biotin carboxyl carrier protein	62		
+ONT_TR_PE_scaff_600_110	K01961	accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]	286		
+ONT_TR_PE_scaff_600_111	K06202	cyaY; iron-sulfur cluster assembly protein CyaY	41		
+ONT_TR_PE_scaff_600_112			3	K13993	1
+ONT_TR_PE_scaff_600_113			29	K04067	9
+ONT_TR_PE_scaff_600_114	K01156	res; type III restriction enzyme [EC:3.1.21.5]	18		
+ONT_TR_PE_scaff_600_115	K06134	COQ7; 3-demethoxyubiquinol 3-hydroxylase [EC:1.14.99.60]	141		
+ONT_TR_PE_scaff_600_116	K01919	gshA; glutamate--cysteine ligase [EC:6.3.2.2]	239		
+ONT_TR_PE_scaff_600_117	K03183	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	114		
+ONT_TR_PE_scaff_600_118			26		
+ONT_TR_PE_scaff_600_119	K01817	trpF; phosphoribosylanthranilate isomerase [EC:5.3.1.24]	102		
+ONT_TR_PE_scaff_600_120	K09928	K09928; uncharacterized protein	30		
+ONT_TR_PE_scaff_600_121	K03831	mogA; molybdopterin adenylyltransferase [EC:2.7.7.75]	149		
+ONT_TR_PE_scaff_600_122	K04085	tusA, sirA; tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	40		
+ONT_TR_PE_scaff_600_123			1	K10912	1
+ONT_TR_PE_scaff_600_124			109	K00042	28
+ONT_TR_PE_scaff_600_125			96		
+ONT_TR_PE_scaff_600_126			6	K00375	1
+ONT_TR_PE_scaff_600_127					
+ONT_TR_PE_scaff_600_128	K06889	K06889; uncharacterized protein	72		
+ONT_TR_PE_scaff_600_129					
+ONT_TR_PE_scaff_600_130					
+ONT_TR_PE_scaff_600_131	K01879	glyS; glycyl-tRNA synthetase beta chain [EC:6.1.1.14]	89		
+ONT_TR_PE_scaff_600_132	K00762	pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10]	55		
+ONT_TR_PE_scaff_600_133	K01878	glyQ; glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]	242		
+ONT_TR_PE_scaff_600_134			43		
+ONT_TR_PE_scaff_600_135	K04487	iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]	233		
+ONT_TR_PE_scaff_600_136			27		
+ONT_TR_PE_scaff_600_137	K12573	rnr, vacB; ribonuclease R [EC:3.1.13.1]	90		
+ONT_TR_PE_scaff_600_138	K03218	rlmB; 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]	87		
+ONT_TR_PE_scaff_600_139	K05833	K05833; putative tryptophan/tyrosine transport system ATP-binding protein	162		
+ONT_TR_PE_scaff_600_140	K05832	K05832; putative tryptophan/tyrosine transport system permease protein	208		
+ONT_TR_PE_scaff_600_141	K01989	K01989; putative tryptophan/tyrosine transport system substrate-binding protein	194		
+ONT_TR_PE_scaff_600_142					
+ONT_TR_PE_scaff_600_143			74		
+ONT_TR_PE_scaff_600_144			28		
+ONT_TR_PE_scaff_600_145			320	K00001	37
+ONT_TR_PE_scaff_600_146	K00121	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	61		
+ONT_TR_PE_scaff_600_147			242		
+ONT_TR_PE_scaff_600_148	K00108	betA, CHDH; choline dehydrogenase [EC:1.1.99.1]	320		
+ONT_TR_PE_scaff_600_149			23	K10914	1
+ONT_TR_PE_scaff_600_150			234		
+ONT_TR_PE_scaff_600_151					
+ONT_TR_PE_scaff_603_1					
+ONT_TR_PE_scaff_603_2	K00287	DHFR, folA; dihydrofolate reductase [EC:1.5.1.3]	94		
+ONT_TR_PE_scaff_603_3	K00560	thyA, TYMS; thymidylate synthase [EC:2.1.1.45]	193		
+ONT_TR_PE_scaff_603_4					
+ONT_TR_PE_scaff_603_5			450		
+ONT_TR_PE_scaff_603_6	K07276	K07276; uncharacterized protein	89		
+ONT_TR_PE_scaff_603_7	K07232	CHAC, chaC; glutathione-specific gamma-glutamylcyclotransferase [EC:4.3.2.7]	71		
+ONT_TR_PE_scaff_603_8	K12685	ssp; subtilase-type serine protease [EC:3.4.21.-]	21		
+ONT_TR_PE_scaff_603_9	K03216	trmL, cspR; tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.207]	87		
+ONT_TR_PE_scaff_603_10	K07391	comM; magnesium chelatase family protein	289		
+ONT_TR_PE_scaff_603_11			6		
+ONT_TR_PE_scaff_603_12			13		
+ONT_TR_PE_scaff_603_13			39		
+ONT_TR_PE_scaff_603_14			44		
+ONT_TR_PE_scaff_603_15	K03797	E3.4.21.102, prc, ctpA; carboxyl-terminal processing protease [EC:3.4.21.102]	154		
+ONT_TR_PE_scaff_603_16			7	K00058	1
+ONT_TR_PE_scaff_603_17			3	K16149	1
+ONT_TR_PE_scaff_603_18			9	K01997	1
+ONT_TR_PE_scaff_603_19	K07238	TC.ZIP, zupT, ZRT3, ZIP2; zinc transporter, ZIP family	79		
+ONT_TR_PE_scaff_603_20			3	K00782	1
+ONT_TR_PE_scaff_603_21	K02523	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]	117		
+ONT_TR_PE_scaff_603_22	K00931	proB; glutamate 5-kinase [EC:2.7.2.11]	160		
+ONT_TR_PE_scaff_603_23	K03979	obgE, cgtA, MTG2; GTPase [EC:3.6.5.-]	127		
+ONT_TR_PE_scaff_603_24	K02899	RP-L27, MRPL27, rpmA; large subunit ribosomal protein L27	80		
+ONT_TR_PE_scaff_603_25	K02888	RP-L21, MRPL21, rplU; large subunit ribosomal protein L21	49		
+ONT_TR_PE_scaff_603_26			2	K07126	1
+ONT_TR_PE_scaff_603_27	K03613	rnfE; H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit E	78		
+ONT_TR_PE_scaff_603_28	K01695	trpA; tryptophan synthase alpha chain [EC:4.2.1.20]	104		
+ONT_TR_PE_scaff_603_29	K01963	accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2 2.1.3.15]	154		
+ONT_TR_PE_scaff_603_30	K11754	folC; dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]	168		
+ONT_TR_PE_scaff_603_31			4	K03749	2
+ONT_TR_PE_scaff_603_32	K03558	cvpA; membrane protein required for colicin V production	14		
+ONT_TR_PE_scaff_603_33	K00764	purF, PPAT; amidophosphoribosyltransferase [EC:2.4.2.14]	264		
+ONT_TR_PE_scaff_603_34	K10764	metZ; O-succinylhomoserine sulfhydrylase [EC:2.5.1.-]	201		
+ONT_TR_PE_scaff_603_35	K00483	hpaB; 4-hydroxyphenylacetate 3-monooxygenase [EC:1.14.14.9]	378		
+ONT_TR_PE_scaff_603_36	K17735	lcdH, cdhA; carnitine 3-dehydrogenase [EC:1.1.1.108]	265		
+ONT_TR_PE_scaff_603_37			245		
+ONT_TR_PE_scaff_603_38					
+ONT_TR_PE_scaff_603_39			54		
+ONT_TR_PE_scaff_603_40	K00791	miaA, TRIT1; tRNA dimethylallyltransferase [EC:2.5.1.75]	109		
+ONT_TR_PE_scaff_603_41					
+ONT_TR_PE_scaff_603_42			31		
+ONT_TR_PE_scaff_603_43	K19745	acuI; acrylyl-CoA reductase (NADPH) [EC:1.3.1.-]	160		
+ONT_TR_PE_scaff_603_44			80		
+ONT_TR_PE_scaff_603_45	K11209	yghU, yfcG; GSH-dependent disulfide-bond oxidoreductase [EC:1.8.4.-]	41		
+ONT_TR_PE_scaff_603_46	K11209	yghU, yfcG; GSH-dependent disulfide-bond oxidoreductase [EC:1.8.4.-]	36		
+ONT_TR_PE_scaff_603_47	K12410	npdA; NAD-dependent deacetylase [EC:2.3.1.286]	129		
+ONT_TR_PE_scaff_603_48			109		
+ONT_TR_PE_scaff_603_49	K06917	selU, mnmH; tRNA 2-selenouridine synthase [EC:2.9.1.3]	127		
+ONT_TR_PE_scaff_603_50	K02052	ABC.SP.A; putative spermidine/putrescine transport system ATP-binding protein	232		
+ONT_TR_PE_scaff_603_51	K02040	pstS; phosphate transport system substrate-binding protein	167		
+ONT_TR_PE_scaff_603_52	K02037	pstC; phosphate transport system permease protein	131		
+ONT_TR_PE_scaff_603_53	K02038	pstA; phosphate transport system permease protein	208		
+ONT_TR_PE_scaff_603_54	K02036	pstB; phosphate transport system ATP-binding protein [EC:7.3.2.1]	166		
+ONT_TR_PE_scaff_603_55	K02039	phoU; phosphate transport system protein	54		
+ONT_TR_PE_scaff_603_56					
+ONT_TR_PE_scaff_603_57	K01652	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	250		
+ONT_TR_PE_scaff_603_58					
+ONT_TR_PE_scaff_603_59					
+ONT_TR_PE_scaff_603_60	K07280	K07280; outer membrane protein	28		
+ONT_TR_PE_scaff_603_61			244		
+ONT_TR_PE_scaff_603_62			37		
+ONT_TR_PE_scaff_603_63			211		
+ONT_TR_PE_scaff_603_64	K06168	miaB; tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3]	276		
+ONT_TR_PE_scaff_603_65	K06217	phoH, phoL; phosphate starvation-inducible protein PhoH and related proteins	125		
+ONT_TR_PE_scaff_603_66	K07042	ybeY, yqfG; probable rRNA maturation factor	40		
+ONT_TR_PE_scaff_603_67	K06189	corC, tlyC; hemolysin (HlyC) family protein	89		
+ONT_TR_PE_scaff_603_68	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.269]	35		
+ONT_TR_PE_scaff_603_69	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.269]	25		
+ONT_TR_PE_scaff_603_70	K01662	dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]	370		
+ONT_TR_PE_scaff_603_71			32		
+ONT_TR_PE_scaff_603_72	K04044	hscA; molecular chaperone HscA	317		
+ONT_TR_PE_scaff_603_73	K04082	hscB, HSCB, HSC20; molecular chaperone HscB	60		
+ONT_TR_PE_scaff_603_74	K13628	iscA; iron-sulfur cluster assembly protein	95		
+ONT_TR_PE_scaff_603_75	K04488	iscU, nifU; nitrogen fixation protein NifU and related proteins	146		
+ONT_TR_PE_scaff_603_76	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	349		
+ONT_TR_PE_scaff_603_77	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	29		
+ONT_TR_PE_scaff_603_78			5	K02674	1
+ONT_TR_PE_scaff_603_79	K01586	lysA; diaminopimelate decarboxylase [EC:4.1.1.20]	164		
+ONT_TR_PE_scaff_603_80	K00315	DMGDH; dimethylglycine dehydrogenase [EC:1.5.8.4]	143		
+ONT_TR_PE_scaff_603_81	K00315	DMGDH; dimethylglycine dehydrogenase [EC:1.5.8.4]	75		
+ONT_TR_PE_scaff_603_82			77		
+ONT_TR_PE_scaff_603_83			13	K02654	1
+ONT_TR_PE_scaff_603_84			21		
+ONT_TR_PE_scaff_603_85	K00558	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	84		
+ONT_TR_PE_scaff_603_86			205		
+ONT_TR_PE_scaff_603_87					
+ONT_TR_PE_scaff_603_88	K00459	ncd2, npd; nitronate monooxygenase [EC:1.13.12.16]	166		
+ONT_TR_PE_scaff_603_89			68		
+ONT_TR_PE_scaff_603_90			77		
+ONT_TR_PE_scaff_603_91	K21071	pfk, pfp; ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase [EC:2.7.1.11 2.7.1.90]	290		
+ONT_TR_PE_scaff_603_92	K00939	adk, AK; adenylate kinase [EC:2.7.4.3]	111		
+ONT_TR_PE_scaff_603_93					
+ONT_TR_PE_scaff_603_94			4	K05516	1
+ONT_TR_PE_scaff_603_95	K01834	PGAM, gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]	104		
+ONT_TR_PE_scaff_603_96	K03089	rpoH; RNA polymerase sigma-32 factor	115		
+ONT_TR_PE_scaff_603_97	K00789	metK, MAT; S-adenosylmethionine synthetase [EC:2.5.1.6]	238		
+ONT_TR_PE_scaff_603_98	K00305	soxG; sarcosine oxidase, subunit gamma [EC:1.5.3.24 1.5.3.1]	10		
+ONT_TR_PE_scaff_603_99	K00302	soxA; sarcosine oxidase, subunit alpha [EC:1.5.3.24 1.5.3.1]	308		
+ONT_TR_PE_scaff_603_100	K00304	soxD; sarcosine oxidase, subunit delta [EC:1.5.3.24 1.5.3.1]	40		
+ONT_TR_PE_scaff_603_101	K00303	soxB; sarcosine oxidase, subunit beta [EC:1.5.3.24 1.5.3.1]	246		
+ONT_TR_PE_scaff_603_102			5	K03110	1
+ONT_TR_PE_scaff_603_103			195	K01271	22
+ONT_TR_PE_scaff_603_104			165		
+ONT_TR_PE_scaff_603_105	K01081	E3.1.3.5; 5'-nucleotidase [EC:3.1.3.5]	142		
+ONT_TR_PE_scaff_603_106			16	K10725	1
+ONT_TR_PE_scaff_603_107	K00571	E2.1.1.72; site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	142		
+ONT_TR_PE_scaff_603_108	K00088	IMPDH, guaB; IMP dehydrogenase [EC:1.1.1.205]	257		
+ONT_TR_PE_scaff_603_109	K00799	GST, gst; glutathione S-transferase [EC:2.5.1.18]	114		
+ONT_TR_PE_scaff_603_110	K01247	alkA; DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	64		
+ONT_TR_PE_scaff_603_111			116		
+ONT_TR_PE_scaff_603_112	K01951	guaA, GMPS; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	287		
+ONT_TR_PE_scaff_603_113	K03557	fis; Fis family transcriptional regulator, factor for inversion stimulation protein	17		
+ONT_TR_PE_scaff_603_114	K00602	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	295		
+ONT_TR_PE_scaff_603_115	K02493	hemK, prmC, HEMK; release factor glutamine methyltransferase [EC:2.1.1.297]	91		
+ONT_TR_PE_scaff_603_116	K02835	prfA, MTRF1, MRF1; peptide chain release factor 1	176		
+ONT_TR_PE_scaff_603_117	K02492	hemA; glutamyl-tRNA reductase [EC:1.2.1.70]	138		
+ONT_TR_PE_scaff_603_118	K05589	ftsB; cell division protein FtsB	18		
+ONT_TR_PE_scaff_603_119	K01689	ENO, eno; enolase [EC:4.2.1.11]	240		
+ONT_TR_PE_scaff_603_120	K01588	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	116		
+ONT_TR_PE_scaff_603_121	K01923	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	227		
+ONT_TR_PE_scaff_603_122	K04771	degP, htrA; serine protease Do [EC:3.4.21.107]	17		
+ONT_TR_PE_scaff_603_123	K00121	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	309		
+ONT_TR_PE_scaff_603_124	K01070	frmB, ESD, fghA; S-formylglutathione hydrolase [EC:3.1.2.12]	142		
+ONT_TR_PE_scaff_603_125			140		
+ONT_TR_PE_scaff_603_126	K02669	pilT; twitching motility protein PilT	219		
+ONT_TR_PE_scaff_603_127	K00927	PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]	227		
+ONT_TR_PE_scaff_603_128	K00790	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]	330		
+ONT_TR_PE_scaff_603_129			65		
+ONT_TR_PE_scaff_603_130	K01992	ABC-2.P; ABC-2 type transport system permease protein	212		
+ONT_TR_PE_scaff_603_131	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	154		
+ONT_TR_PE_scaff_603_132			51		
+ONT_TR_PE_scaff_603_133	K03106	SRP54, ffh; signal recognition particle subunit SRP54 [EC:3.6.5.4]	208		
+ONT_TR_PE_scaff_603_134			46		
+ONT_TR_PE_scaff_603_135	K15724	erpA; iron-sulfur cluster insertion protein	94		
+ONT_TR_PE_scaff_603_136	K11069	potD; spermidine/putrescine transport system substrate-binding protein	188		
+ONT_TR_PE_scaff_603_137	K11071	potB; spermidine/putrescine transport system permease protein	182		
+ONT_TR_PE_scaff_603_138	K11070	potC; spermidine/putrescine transport system permease protein	153		
+ONT_TR_PE_scaff_603_139	K11072	potA; spermidine/putrescine transport system ATP-binding protein [EC:7.6.2.11]	164		
+ONT_TR_PE_scaff_603_140			3	K07459	1
+ONT_TR_PE_scaff_603_141			12	K07454	1
+ONT_TR_PE_scaff_603_142	K22515	fdwB; formate dehydrogenase beta subunit [EC:1.17.1.9]	336		
+ONT_TR_PE_scaff_603_143			20		
+ONT_TR_PE_scaff_603_144	K04095	fic, FICD, HYPE; cell filamentation protein, protein adenylyltransferase [EC:2.7.7.108]	109		
+ONT_TR_PE_scaff_603_145	K00024	mdh; malate dehydrogenase [EC:1.1.1.37]	233		
+ONT_TR_PE_scaff_603_146	K00029	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]	133		
+ONT_TR_PE_scaff_603_147	K00241	sdhC, frdC; succinate dehydrogenase cytochrome b subunit	60		
+ONT_TR_PE_scaff_603_148	K00242	sdhD, frdD; succinate dehydrogenase membrane anchor subunit	44		
+ONT_TR_PE_scaff_603_149	K00239	sdhA, frdA; succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1]	373		
+ONT_TR_PE_scaff_603_150	K10563	mutM, fpg; formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]	130		
+ONT_TR_PE_scaff_603_151	K21029	moeB; molybdopterin-synthase adenylyltransferase [EC:2.7.7.80]	139		
+ONT_TR_PE_scaff_603_152	K15396	trmJ; tRNA (cytidine32/uridine32-2'-O)-methyltransferase [EC:2.1.1.200]	89		
+ONT_TR_PE_scaff_603_153			1		
+ONT_TR_PE_scaff_603_154			40		
+ONT_TR_PE_scaff_603_155			2	K01486	1
+ONT_TR_PE_scaff_645_1	K02000	proV; glycine betaine/proline transport system ATP-binding protein [EC:7.6.2.9]	182		
+ONT_TR_PE_scaff_645_2	K02001	proW; glycine betaine/proline transport system permease protein	211		
+ONT_TR_PE_scaff_645_3	K02002	proX; glycine betaine/proline transport system substrate-binding protein	279		
+ONT_TR_PE_scaff_645_4	K03593	mrp, NUBPL; ATP-binding protein involved in chromosome partitioning	191		
+ONT_TR_PE_scaff_645_5	K05595	marC; multiple antibiotic resistance protein	107		
+ONT_TR_PE_scaff_645_6			29		
+ONT_TR_PE_scaff_645_7			12	K07064	1
+ONT_TR_PE_scaff_645_8			7	K01673	1
+ONT_TR_PE_scaff_645_9			30		
+ONT_TR_PE_scaff_645_10	K23537	nupA; general nucleoside transport system ATP-binding protein	196		
+ONT_TR_PE_scaff_645_11	K23535	nupB; general nucleoside transport system permease protein	190		
+ONT_TR_PE_scaff_645_12	K00822	E2.6.1.18; beta-alanine--pyruvate transaminase [EC:2.6.1.18]	245		
+ONT_TR_PE_scaff_645_13			5	K04074	1
+ONT_TR_PE_scaff_645_14			32		
+ONT_TR_PE_scaff_645_15			6	K02109	1
+ONT_TR_PE_scaff_645_16			7	K00789	1
+ONT_TR_PE_scaff_645_17	K00600	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]	288		
+ONT_TR_PE_scaff_645_18	K00760	hprT, hpt, HPRT1; hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]	53		
+ONT_TR_PE_scaff_645_19	K03499	trkA, ktrA, ktrC; trk/ktr system potassium uptake protein	190		
+ONT_TR_PE_scaff_645_20	K07104	catE; catechol 2,3-dioxygenase [EC:1.13.11.2]	97		
+ONT_TR_PE_scaff_645_21	K03498	trkH, trkG, ktrB, ktrD; trk/ktr system potassium uptake protein	223		
+ONT_TR_PE_scaff_645_22	K26005	sauT; sulfoacetate-CoA ligase [EC:6.2.1.-]	289		
+ONT_TR_PE_scaff_645_23			6	K07085	1
+ONT_TR_PE_scaff_645_24	K15515	sauS; sulfoacetaldehyde dehydrogenase [EC:1.2.1.81]	308		
+ONT_TR_PE_scaff_645_25	K07795	tctC; putative tricarboxylic transport membrane protein	142		
+ONT_TR_PE_scaff_645_26					
+ONT_TR_PE_scaff_645_27	K07793	tctA; putative tricarboxylic transport membrane protein	392		
+ONT_TR_PE_scaff_645_28			15		
+ONT_TR_PE_scaff_645_29	K13038	coaBC, dfp; phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5]	160		
+ONT_TR_PE_scaff_645_30			90		
+ONT_TR_PE_scaff_645_31	K07397	yhfA; putative redox protein	67		
+ONT_TR_PE_scaff_645_32	K07258	dacC, dacA, dacD; serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]	143		
+ONT_TR_PE_scaff_645_33	K00824	dat; D-alanine transaminase [EC:2.6.1.21]	153		
+ONT_TR_PE_scaff_645_34	K00767	nadC, QPRT; nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	121		
+ONT_TR_PE_scaff_645_35	K06867	K06867; uncharacterized protein	10		
+ONT_TR_PE_scaff_645_36					
+ONT_TR_PE_scaff_645_37					
+ONT_TR_PE_scaff_645_38			9	K06867	8
+ONT_TR_PE_scaff_645_39					
+ONT_TR_PE_scaff_645_40	K16898	addA; ATP-dependent helicase/nuclease subunit A [EC:5.6.2.4 3.1.-.-]	183		
+ONT_TR_PE_scaff_645_41			4	K25028	1
+ONT_TR_PE_scaff_645_42			2	K07263	1
+ONT_TR_PE_scaff_645_43			3	K16329	1
+ONT_TR_PE_scaff_645_44	K02257	COX10, ctaB, cyoE; heme o synthase [EC:2.5.1.141]	136		
+ONT_TR_PE_scaff_645_45	K02259	COX15, ctaA; heme a synthase [EC:1.17.99.9]	92		
+ONT_TR_PE_scaff_645_46	K09773	ppsR; [pyruvate, water dikinase]-phosphate phosphotransferase / [pyruvate, water dikinase] kinase [EC:2.7.4.28 2.7.11.33]	173		
+ONT_TR_PE_scaff_645_47			224		
+ONT_TR_PE_scaff_645_48	K04095	fic, FICD, HYPE; cell filamentation protein, protein adenylyltransferase [EC:2.7.7.108]	203		
+ONT_TR_PE_scaff_645_49			76		
+ONT_TR_PE_scaff_645_50	K03169	topB; DNA topoisomerase III [EC:5.6.2.1]	24		
+ONT_TR_PE_scaff_645_51	K03169	topB; DNA topoisomerase III [EC:5.6.2.1]	220		
+ONT_TR_PE_scaff_645_52	K02470	gyrB; DNA gyrase subunit B [EC:5.6.2.2]	411		
+ONT_TR_PE_scaff_645_53	K02338	dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]	108		
+ONT_TR_PE_scaff_645_54					
+ONT_TR_PE_scaff_645_55	K02313	dnaA; chromosomal replication initiator protein	143		
+ONT_TR_PE_scaff_645_56	K01934	MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]	48		
+ONT_TR_PE_scaff_645_57	K01938	fhs; formate--tetrahydrofolate ligase [EC:6.3.4.3]	338		
+ONT_TR_PE_scaff_645_58	K00566	mnmA, trmU; tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]	170		
+ONT_TR_PE_scaff_645_59			9	K07402	1
+ONT_TR_PE_scaff_645_60	K00558	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	115		
+ONT_TR_PE_scaff_645_61			133		
+ONT_TR_PE_scaff_645_62	K16842	hpxB; allantoinase [EC:3.5.2.5]	285		
+ONT_TR_PE_scaff_645_63			6	K01262	1
+ONT_TR_PE_scaff_645_64			5	K08994	1
+ONT_TR_PE_scaff_645_65			74		
+ONT_TR_PE_scaff_645_66	K08305	mltB; membrane-bound lytic murein transglycosylase B [EC:4.2.2.-]	101		
+ONT_TR_PE_scaff_645_67	K06173	truA, PUS1; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]	172		
+ONT_TR_PE_scaff_645_68			42		
+ONT_TR_PE_scaff_645_69	K07304	msrA; peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	111		
+ONT_TR_PE_scaff_645_70	K11991	tadA; tRNA(adenine34) deaminase [EC:3.5.4.33]	65		
+ONT_TR_PE_scaff_645_71			130		
+ONT_TR_PE_scaff_645_72			49		
+ONT_TR_PE_scaff_645_73	K10804	tesA; acyl-CoA thioesterase I [EC:3.1.2.- 3.1.2.2 3.1.1.2 3.1.1.5]	66		
+ONT_TR_PE_scaff_645_74			56		
+ONT_TR_PE_scaff_645_75	K07566	tsaC, rimN, SUA5, YRDC; L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]	108		
+ONT_TR_PE_scaff_645_76			10	K12132	1
+ONT_TR_PE_scaff_645_77	K12282	mshL; MSHA biogenesis protein MshL	28	K02453	4
+ONT_TR_PE_scaff_645_78			14	K09667	1
+ONT_TR_PE_scaff_645_79	K02652	pilB; type IV pilus assembly protein PilB	155		
+ONT_TR_PE_scaff_645_80	K02653	pilC; type IV pilus assembly protein PilC	165		
+ONT_TR_PE_scaff_645_81			44		
+ONT_TR_PE_scaff_645_82			10	K02405	1
+ONT_TR_PE_scaff_645_83					
+ONT_TR_PE_scaff_645_84	K00411	UQCRFS1, RIP1, petA; ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]	88		
+ONT_TR_PE_scaff_645_85	K00412	CYTB, petB; ubiquinol-cytochrome c reductase cytochrome b subunit	258		
+ONT_TR_PE_scaff_645_86	K00413	CYC1, CYT1, petC; ubiquinol-cytochrome c reductase cytochrome c1 subunit	110		
+ONT_TR_PE_scaff_645_87	K03599	sspA, mglA; stringent starvation protein A	109		
+ONT_TR_PE_scaff_645_88	K03600	sspB; stringent starvation protein B	43		
+ONT_TR_PE_scaff_645_89			120		
+ONT_TR_PE_scaff_645_90	K01752	E4.3.1.17, sdaA, sdaB, tdcG; L-serine dehydratase [EC:4.3.1.17]	422		
+ONT_TR_PE_scaff_645_91	K04772	degQ, hhoA; serine protease DegQ [EC:3.4.21.-]	64	K04691	14
+ONT_TR_PE_scaff_645_92			2	K01186	1
+ONT_TR_PE_scaff_645_93			2		
+ONT_TR_PE_scaff_645_94	K08714	VGSC; voltage-gated sodium channel	157		
+ONT_TR_PE_scaff_645_95	K09816	znuB; zinc transport system permease protein	65		
+ONT_TR_PE_scaff_645_96	K09817	znuC; zinc transport system ATP-binding protein [EC:7.2.2.20]	89		
+ONT_TR_PE_scaff_645_97	K09823	zur; Fur family transcriptional regulator, zinc uptake regulator	38		
+ONT_TR_PE_scaff_645_98	K09815	znuA; zinc transport system substrate-binding protein	100		
+ONT_TR_PE_scaff_645_99			4	K07451	1
+ONT_TR_PE_scaff_645_100			71		
+ONT_TR_PE_scaff_645_101	K12256	spuC; putrescine---pyruvate transaminase [EC:2.6.1.113]	288		
+ONT_TR_PE_scaff_645_102			65		
+ONT_TR_PE_scaff_645_103			376		
+ONT_TR_PE_scaff_645_104			21	K02005	16
+ONT_TR_PE_scaff_645_105			6	K01868	1
+ONT_TR_PE_scaff_645_106	K00145	argC; N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	143		
+ONT_TR_PE_scaff_645_107	K02996	RP-S9, MRPS9, rpsI; small subunit ribosomal protein S9	98		
+ONT_TR_PE_scaff_645_108	K02871	RP-L13, MRPL13, rplM; large subunit ribosomal protein L13	74		
+ONT_TR_PE_scaff_645_109	K03978	engB; GTP-binding protein	63		
+ONT_TR_PE_scaff_645_110			165		
+ONT_TR_PE_scaff_645_111			14		
+ONT_TR_PE_scaff_645_112			5		
+ONT_TR_PE_scaff_645_113			11		
+ONT_TR_PE_scaff_645_114			85		
+ONT_TR_PE_scaff_645_115			4		
+ONT_TR_PE_scaff_645_116			113		
+ONT_TR_PE_scaff_645_117	K03615	rnfC; H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit C [EC:7.1.1.11 7.2.1.2]	70		
+ONT_TR_PE_scaff_645_118	K03616	rnfB; H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit B [EC:7.1.1.11 7.2.1.2]	70		
+ONT_TR_PE_scaff_645_119	K03617	rnfA; H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit A	72		
+ONT_TR_PE_scaff_645_120	K03635	MOCS2B, moaE; molybdopterin synthase catalytic subunit [EC:2.8.1.12]	74		
+ONT_TR_PE_scaff_645_121			37		
+ONT_TR_PE_scaff_645_122	K01915	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]	81		
+ONT_TR_PE_scaff_645_123	K01915	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]	33		
+ONT_TR_PE_scaff_645_124	K01512	acyP; acylphosphatase [EC:3.6.1.7]	30		
+ONT_TR_PE_scaff_645_125	K01599	hemE, UROD; uroporphyrinogen decarboxylase [EC:4.1.1.37]	228		
+ONT_TR_PE_scaff_645_126	K00208	fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]	123		
+ONT_TR_PE_scaff_645_127	K03770	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]	73		
+ONT_TR_PE_scaff_645_128	K03530	hupB; DNA-binding protein HU-beta	56		
+ONT_TR_PE_scaff_645_129					
+ONT_TR_PE_scaff_645_130	K07127	uraH, pucM, hiuH; 5-hydroxyisourate hydrolase [EC:3.5.2.17]	69		
+ONT_TR_PE_scaff_645_131	K07335	bmpA, bmpB, tmpC; basic membrane protein A and related proteins	210		
+ONT_TR_PE_scaff_645_132	K23536	nupC; general nucleoside transport system permease protein	135		
+ONT_TR_PE_scaff_645_133	K04096	smf; DNA processing protein	176		
+ONT_TR_PE_scaff_645_134	K01462	PDF, def; peptide deformylase [EC:3.5.1.88]	103		
+ONT_TR_PE_scaff_645_135			82		
+ONT_TR_PE_scaff_645_136			1	K00615	1
+ONT_TR_PE_scaff_645_137			9	K09895	1
+ONT_TR_PE_scaff_645_138	K01736	aroC; chorismate synthase [EC:4.2.3.5]	228		
+ONT_TR_PE_scaff_645_139	K00799	GST, gst; glutathione S-transferase [EC:2.5.1.18]	71		
+ONT_TR_PE_scaff_645_140			2	K13735	2
+ONT_TR_PE_scaff_645_141			1	K06867	1
+ONT_TR_PE_scaff_645_142			2	K20276	2
+ONT_TR_PE_scaff_645_143			2	K06204	1
+ONT_TR_PE_scaff_645_144			6	K16692	1
+ONT_TR_PE_scaff_645_145	K19416	yccA; modulator of FtsH protease	110		
+ONT_TR_PE_scaff_645_146	K00544	BHMT; betaine-homocysteine S-methyltransferase [EC:2.1.1.5]	177		
+ONT_TR_PE_scaff_645_147			14	K02441	2
+ONT_TR_PE_scaff_645_148	K03555	mutS; DNA mismatch repair protein MutS	404		
+ONT_TR_PE_scaff_645_149	K01092	E3.1.3.25, IMPA, suhB; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	114		
+ONT_TR_PE_scaff_645_150	K00133	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	233		
+ONT_TR_PE_scaff_645_151	K03630	radC; DNA repair protein RadC	68		
+ONT_TR_PE_scaff_645_152					
+ONT_TR_PE_scaff_645_153	K05834	rhtB; homoserine/homoserine lactone efflux protein	52		
+ONT_TR_PE_scaff_645_154	K07234	K07234; uncharacterized protein involved in response to NO	151		
+ONT_TR_PE_scaff_645_155			103		
+ONT_TR_PE_scaff_645_156	K00558	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	188		
+ONT_TR_PE_scaff_645_157			1		
+ONT_TR_PE_scaff_645_158	K02569	napC; cytochrome c-type protein NapC	144		
+ONT_TR_PE_scaff_645_159	K02568	napB; nitrate reductase (cytochrome), electron transfer subunit	60		
+ONT_TR_PE_scaff_645_160	K02567	napA; nitrate reductase (cytochrome) [EC:1.9.6.1]	623		
+ONT_TR_PE_scaff_645_161	K02570	napD; periplasmic nitrate reductase NapD	15		
+ONT_TR_PE_scaff_645_162	K02571	napE; periplasmic nitrate reductase NapE	17		
+ONT_TR_PE_scaff_645_163			75	K02557	17
+ONT_TR_PE_scaff_645_164			27		
+ONT_TR_PE_scaff_645_165	K01895	ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1]	448		
+ONT_TR_PE_scaff_645_166	K01807	rpiA; ribose 5-phosphate isomerase A [EC:5.3.1.6]	111		
+ONT_TR_PE_scaff_645_167	K07462	recJ; single-stranded-DNA-specific exonuclease [EC:3.1.-.-]	152		
+ONT_TR_PE_scaff_645_168	K03733	xerC; integrase/recombinase XerC	111		
+ONT_TR_PE_scaff_645_169	K00335	nuoF; NADH-quinone oxidoreductase subunit F [EC:7.1.1.2]	371		
+ONT_TR_PE_scaff_645_170	K00336	nuoG; NADH-quinone oxidoreductase subunit G [EC:7.1.1.2]	283		
+ONT_TR_PE_scaff_645_171	K00337	nuoH; NADH-quinone oxidoreductase subunit H [EC:7.1.1.2]	308		
+ONT_TR_PE_scaff_645_172			20		
+ONT_TR_PE_scaff_645_173	K00681	ggt; gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]	281		
+ONT_TR_PE_scaff_645_174					
+ONT_TR_PE_scaff_645_175					
+ONT_TR_PE_scaff_645_176			1	K03296	1
+ONT_TR_PE_scaff_645_177	K00249	ACADM, acd; acyl-CoA dehydrogenase [EC:1.3.8.7]	295		
+ONT_TR_PE_scaff_645_178			182	K24012	104
+ONT_TR_PE_scaff_645_179	K08299	caiD; crotonobetainyl-CoA hydratase [EC:4.2.1.149]	255		
+ONT_TR_PE_scaff_645_180	K01868	TARS, thrS; threonyl-tRNA synthetase [EC:6.1.1.3]	392		
+ONT_TR_PE_scaff_645_181			57		
+ONT_TR_PE_scaff_645_182	K07076	K07076; uncharacterized protein	24		
+ONT_TR_PE_scaff_645_183	K01156	res; type III restriction enzyme [EC:3.1.21.5]	22		
+ONT_TR_PE_scaff_645_184	K01156	res; type III restriction enzyme [EC:3.1.21.5]	45	K03427	2
+ONT_TR_PE_scaff_645_185					
+ONT_TR_PE_scaff_645_186			62	K07165	2
+ONT_TR_PE_scaff_645_187	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	15		
+ONT_TR_PE_scaff_645_188	K14623	dinD; DNA-damage-inducible protein D	129		
+ONT_TR_PE_scaff_645_189					
+ONT_TR_PE_scaff_645_190	K02193	ccmA; heme exporter protein A [EC:7.6.2.5]	63		
+ONT_TR_PE_scaff_645_191	K02194	ccmB; heme exporter protein B	59		
+ONT_TR_PE_scaff_645_192	K02195	ccmC; heme exporter protein C	125		
+ONT_TR_PE_scaff_645_193	K02196	ccmD; heme exporter protein D	16		
+ONT_TR_PE_scaff_645_194	K02197	ccmE; cytochrome c-type biogenesis protein CcmE	87		
+ONT_TR_PE_scaff_645_195	K00627	DLAT, aceF, pdhC; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]	212		
+ONT_TR_PE_scaff_645_196	K07019	K07019; uncharacterized protein	104		
+ONT_TR_PE_scaff_645_197	K15778	pmm-pgm; phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]	324		
+ONT_TR_PE_scaff_645_198	K00325	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]	350		
+ONT_TR_PE_scaff_645_199	K00324	pntA; H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1]	343		
+ONT_TR_PE_scaff_645_200					
+ONT_TR_PE_scaff_645_201					
+ONT_TR_PE_scaff_645_202	K25316	racX, ygeA; amino-acid racemase [EC:5.1.1.10]	121		
+ONT_TR_PE_scaff_645_203			33		
+ONT_TR_PE_scaff_645_204	K15987	hppA; K(+)-stimulated pyrophosphate-energized sodium pump [EC:7.1.3.2]	434		
+ONT_TR_PE_scaff_645_205	K07460	yraN; putative endonuclease	41		
+ONT_TR_PE_scaff_645_206			2		
+ONT_TR_PE_scaff_645_207	K02198	ccmF; cytochrome c-type biogenesis protein CcmF	368		
+ONT_TR_PE_scaff_645_208	K02199	ccmG, dsbE; cytochrome c biogenesis protein CcmG, thiol:disulfide interchange protein DsbE	93		
+ONT_TR_PE_scaff_645_209	K02200	ccmH; cytochrome c-type biogenesis protein CcmH	49		
+ONT_TR_PE_scaff_645_210	K02200	ccmH; cytochrome c-type biogenesis protein CcmH	61		
+ONT_TR_PE_scaff_645_211	K01915	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]	243		
+ONT_TR_PE_scaff_645_212	K11085	msbA; ATP-binding cassette, subfamily B, bacterial MsbA [EC:7.5.2.6]	162		
+ONT_TR_PE_scaff_645_213	K02335	polA; DNA polymerase I [EC:2.7.7.7]	314		
+ONT_TR_PE_scaff_645_214					
+ONT_TR_PE_scaff_645_215			161		
+ONT_TR_PE_scaff_645_216			10	K07168	1
+ONT_TR_PE_scaff_645_217			11	K01565	1
+ONT_TR_PE_scaff_645_218			12	K10027	1
+ONT_TR_PE_scaff_645_219			10	K11527	1
+ONT_TR_PE_scaff_645_220	K10800	SMUG1; single-strand selective monofunctional uracil DNA glycosylase [EC:3.2.2.-]	163		
+ONT_TR_PE_scaff_645_221			474		
+ONT_TR_PE_scaff_645_222	K04771	degP, htrA; serine protease Do [EC:3.4.21.107]	155		
+ONT_TR_PE_scaff_645_223			118		
+ONT_TR_PE_scaff_645_224			27		
+ONT_TR_PE_scaff_645_225			170	K00571	14
+ONT_TR_PE_scaff_645_226			261		
+ONT_TR_PE_scaff_645_227			33		
+ONT_TR_PE_scaff_645_228					
+ONT_TR_PE_scaff_645_229			76		
+ONT_TR_PE_scaff_645_230					
+ONT_TR_PE_scaff_645_231			4	K01599	1
+ONT_TR_PE_scaff_645_232			5	K07451	1
+ONT_TR_PE_scaff_645_233	K01945	purD; phosphoribosylamine---glycine ligase [EC:6.3.4.13]	164		
+ONT_TR_PE_scaff_645_234	K01465	URA4, pyrC; dihydroorotase [EC:3.5.2.3]	323		
+ONT_TR_PE_scaff_645_235			168		
+ONT_TR_PE_scaff_645_236	K01609	trpC; indole-3-glycerol phosphate synthase [EC:4.1.1.48]	121		
+ONT_TR_PE_scaff_645_237	K00766	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]	134	K13497	10
+ONT_TR_PE_scaff_645_238	K02065	mlaF, linL, mkl; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	154		
+ONT_TR_PE_scaff_645_239	K02066	mlaE, linK; phospholipid/cholesterol/gamma-HCH transport system permease protein	145		
+ONT_TR_PE_scaff_645_240	K02067	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	63		
+ONT_TR_PE_scaff_645_241	K07323	mlaC; phospholipid transport system substrate-binding protein	36		
+ONT_TR_PE_scaff_645_242	K07122	mlaB; phospholipid transport system transporter-binding protein	10		
+ONT_TR_PE_scaff_645_243					
+ONT_TR_PE_scaff_645_244	K01007	pps, ppsA; pyruvate, water dikinase [EC:2.7.9.2]	472		
+ONT_TR_PE_scaff_645_245					
+ONT_TR_PE_scaff_645_246	K00057	gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]	101		
+ONT_TR_PE_scaff_645_247	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]	145		
+ONT_TR_PE_scaff_645_248	K05524	fdxA; ferredoxin	77		
+ONT_TR_PE_scaff_645_249	K16899	addB; ATP-dependent helicase/nuclease subunit B [EC:5.6.2.4 3.1.-.-]	59		
+ONT_TR_PE_scaff_645_250	K00549	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]	70		
+ONT_TR_PE_scaff_645_251			4	K03686	1
+ONT_TR_PE_scaff_645_252			3		
+ONT_TR_PE_scaff_645_253			7	K03686	1
+ONT_TR_PE_scaff_645_254			3	K01433	1
+ONT_TR_PE_scaff_645_255			7		
+ONT_TR_PE_scaff_645_256			43		
+ONT_TR_PE_scaff_645_257	K06942	ychF; ribosome-binding ATPase	201		
+ONT_TR_PE_scaff_645_258	K01056	PTH1, PTRH1, pth, spoVC; peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]	103		
+ONT_TR_PE_scaff_645_259	K07090	K07090; uncharacterized protein	64		
+ONT_TR_PE_scaff_645_260	K07090	K07090; uncharacterized protein	53		
+ONT_TR_PE_scaff_645_261	K00525	E1.17.4.1A, nrdA, nrdE; ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	571		
+ONT_TR_PE_scaff_645_262	K00571	E2.1.1.72; site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	72		
+ONT_TR_PE_scaff_645_263	K00526	E1.17.4.1B, nrdB, nrdF; ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]	235		
+ONT_TR_PE_scaff_645_264			5	K03530	2
+ONT_TR_PE_scaff_645_265	K03524	birA; BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	36		
+ONT_TR_PE_scaff_645_266	K03525	coaX; type III pantothenate kinase [EC:2.7.1.33]	66		
+ONT_TR_PE_scaff_645_267			35		
+ONT_TR_PE_scaff_645_268			147		
+ONT_TR_PE_scaff_645_269			104		
+ONT_TR_PE_scaff_645_270					
+ONT_TR_PE_scaff_645_271	K00383	GSR, gor; glutathione reductase (NADPH) [EC:1.8.1.7]	218		
+ONT_TR_PE_scaff_645_272			80		
+ONT_TR_PE_scaff_645_273	K03694	clpA; ATP-dependent Clp protease ATP-binding subunit ClpA	275		
+ONT_TR_PE_scaff_645_274	K03417	prpB; methylisocitrate lyase [EC:4.1.3.30]	155		
+ONT_TR_PE_scaff_645_275	K01659	prpC; 2-methylcitrate synthase [EC:2.3.3.5]	222		
+ONT_TR_PE_scaff_645_276	K00797	speE, SRM, SPE3; spermidine synthase [EC:2.5.1.16]	265		
+ONT_TR_PE_scaff_645_277	K01720	prpD; 2-methylcitrate dehydratase [EC:4.2.1.79]	294		
+ONT_TR_PE_scaff_645_278	K03313	nhaA; Na+:H+ antiporter, NhaA family	178		
+ONT_TR_PE_scaff_645_279	K07121	K07121; uncharacterized protein	28		
+ONT_TR_PE_scaff_645_280	K07056	rsmI; 16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]	76		
+ONT_TR_PE_scaff_645_281			74		
+ONT_TR_PE_scaff_645_282			66		
+ONT_TR_PE_scaff_645_283	K00013	hisD; histidinol dehydrogenase [EC:1.1.1.23]	262		
+ONT_TR_PE_scaff_645_284	K00765	hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]	144		
+ONT_TR_PE_scaff_645_285	K17486	dmdA; dimethylsulfoniopropionate demethylase [EC:2.1.1.269]	220		
+ONT_TR_PE_scaff_645_286			5	K07263	1
+ONT_TR_PE_scaff_645_287	K01525	apaH; bis(5'-nucleosyl)-tetraphosphatase (symmetrical) [EC:3.6.1.41]	138		
+ONT_TR_PE_scaff_645_288	K00609	pyrB, PYR2; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	138		
+ONT_TR_PE_scaff_670_1	K01424	E3.5.1.1, ansA, ansB; L-asparaginase [EC:3.5.1.1]	81		
+ONT_TR_PE_scaff_670_2	K21395	yiaO; TRAP-type transport system periplasmic protein	47		
+ONT_TR_PE_scaff_670_3			22	K11689	14
+ONT_TR_PE_scaff_670_4			66	K11690	66
+ONT_TR_PE_scaff_670_5	K02950	RP-S12, MRPS12, rpsL; small subunit ribosomal protein S12	136		
+ONT_TR_PE_scaff_670_6	K02992	RP-S7, MRPS7, rpsG; small subunit ribosomal protein S7	134		
+ONT_TR_PE_scaff_670_7	K02355	fusA, GFM, EFG; elongation factor G	511		
+ONT_TR_PE_scaff_670_8					
+ONT_TR_PE_scaff_670_9	K02358	tuf, TUFM; elongation factor Tu	335		
+ONT_TR_PE_scaff_670_10			1		
+ONT_TR_PE_scaff_670_11	K02946	RP-S10, MRPS10, rpsJ; small subunit ribosomal protein S10	53		
+ONT_TR_PE_scaff_670_12	K02906	RP-L3, MRPL3, rplC; large subunit ribosomal protein L3	147		
+ONT_TR_PE_scaff_670_13	K02926	RP-L4, MRPL4, rplD; large subunit ribosomal protein L4	118		
+ONT_TR_PE_scaff_670_14	K02892	RP-L23, MRPL23, rplW; large subunit ribosomal protein L23	45		
+ONT_TR_PE_scaff_670_15	K02886	RP-L2, MRPL2, rplB; large subunit ribosomal protein L2	179		
+ONT_TR_PE_scaff_670_16	K02965	RP-S19, rpsS; small subunit ribosomal protein S19	80		
+ONT_TR_PE_scaff_670_17	K02890	RP-L22, MRPL22, rplV; large subunit ribosomal protein L22	60		
+ONT_TR_PE_scaff_670_18	K02982	RP-S3, rpsC; small subunit ribosomal protein S3	61		
+ONT_TR_PE_scaff_670_19	K02878	RP-L16, MRPL16, rplP; large subunit ribosomal protein L16	141		
+ONT_TR_PE_scaff_670_20	K02904	RP-L29, rpmC; large subunit ribosomal protein L29	24		
+ONT_TR_PE_scaff_670_21	K02961	RP-S17, MRPS17, rpsQ; small subunit ribosomal protein S17	45		
+ONT_TR_PE_scaff_670_22	K02874	RP-L14, MRPL14, rplN; large subunit ribosomal protein L14	135		
+ONT_TR_PE_scaff_670_23	K02895	RP-L24, MRPL24, rplX; large subunit ribosomal protein L24	44		
+ONT_TR_PE_scaff_670_24	K02931	RP-L5, MRPL5, rplE; large subunit ribosomal protein L5	120		
+ONT_TR_PE_scaff_670_25	K02954	RP-S14, MRPS14, rpsN; small subunit ribosomal protein S14	64		
+ONT_TR_PE_scaff_670_26	K02994	RP-S8, rpsH; small subunit ribosomal protein S8	89		
+ONT_TR_PE_scaff_670_27	K02933	RP-L6, MRPL6, rplF; large subunit ribosomal protein L6	108		
+ONT_TR_PE_scaff_670_28	K02881	RP-L18, MRPL18, rplR; large subunit ribosomal protein L18	60		
+ONT_TR_PE_scaff_670_29	K02988	RP-S5, MRPS5, rpsE; small subunit ribosomal protein S5	96		
+ONT_TR_PE_scaff_670_30	K02876	RP-L15, MRPL15, rplO; large subunit ribosomal protein L15	91		
+ONT_TR_PE_scaff_670_31	K03076	secY; preprotein translocase subunit SecY	279		
+ONT_TR_PE_scaff_670_32	K02518	infA; translation initiation factor IF-1	42		
+ONT_TR_PE_scaff_670_33	K02952	RP-S13, rpsM; small subunit ribosomal protein S13	78		
+ONT_TR_PE_scaff_670_34	K02948	RP-S11, MRPS11, rpsK; small subunit ribosomal protein S11	82		
+ONT_TR_PE_scaff_670_35	K02986	RP-S4, rpsD; small subunit ribosomal protein S4	114		
+ONT_TR_PE_scaff_670_36	K03040	rpoA; DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]	186		
+ONT_TR_PE_scaff_670_37	K02879	RP-L17, MRPL17, rplQ; large subunit ribosomal protein L17	90		
+ONT_TR_PE_scaff_670_38	K03551	ruvB; holliday junction DNA helicase RuvB [EC:5.6.2.4]	191		
+ONT_TR_PE_scaff_670_39	K07107	ybgC; acyl-CoA thioester hydrolase [EC:3.1.2.-]	61		
+ONT_TR_PE_scaff_670_40	K00228	CPOX, hemF; coproporphyrinogen III oxidase [EC:1.3.3.3]	159		
+ONT_TR_PE_scaff_670_41	K08974	K08974; putative membrane protein	111		
+ONT_TR_PE_scaff_670_42	K10022	aotJ; arginine/ornithine transport system substrate-binding protein	35	K09997	2
+ONT_TR_PE_scaff_670_43	K03517	nadA; quinolinate synthase [EC:2.5.1.72]	247		
+ONT_TR_PE_scaff_670_44			173		
+ONT_TR_PE_scaff_670_45	K09808	lolC_E; lipoprotein-releasing system permease protein	205		
+ONT_TR_PE_scaff_670_46	K09810	lolD; lipoprotein-releasing system ATP-binding protein [EC:7.6.2.-]	116		
+ONT_TR_PE_scaff_670_47	K25307	wzb, etp; low molecular weight protein-tyrosine phosphatase [EC:3.1.3.48]	86		
+ONT_TR_PE_scaff_670_48	K01259	pip; proline iminopeptidase [EC:3.4.11.5]	184		
+ONT_TR_PE_scaff_670_49			314		
+ONT_TR_PE_scaff_670_50			57		
+ONT_TR_PE_scaff_670_51			36		
+ONT_TR_PE_scaff_670_52			13		
+ONT_TR_PE_scaff_670_53			51	K01008	22
+ONT_TR_PE_scaff_670_54	K02316	dnaG; DNA primase [EC:2.7.7.101]	141		
+ONT_TR_PE_scaff_670_55	K03086	rpoD; RNA polymerase primary sigma factor	203		
+ONT_TR_PE_scaff_670_56	K00130	betB, gbsA; betaine-aldehyde dehydrogenase [EC:1.2.1.8]	248		
+ONT_TR_PE_scaff_670_57					
+ONT_TR_PE_scaff_670_58					
+ONT_TR_PE_scaff_670_59			52		
+ONT_TR_PE_scaff_670_60	K02010	afuC, fbpC; iron(III) transport system ATP-binding protein [EC:7.2.2.7]	157		
+ONT_TR_PE_scaff_670_61	K02011	afuB, fbpB; iron(III) transport system permease protein	168		
+ONT_TR_PE_scaff_670_62	K02012	afuA, fbpA; iron(III) transport system substrate-binding protein	122		
+ONT_TR_PE_scaff_670_63	K11753	ribF; riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]	94		
+ONT_TR_PE_scaff_670_64	K04564	SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]	160		
+ONT_TR_PE_scaff_670_65	K00950	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]	61	K00059	1
+ONT_TR_PE_scaff_670_66	K14742	tsaB; tRNA threonylcarbamoyladenosine biosynthesis protein TsaB	63		
+ONT_TR_PE_scaff_670_67	K07133	K07133; uncharacterized protein	118		
+ONT_TR_PE_scaff_670_68			9		
+ONT_TR_PE_scaff_670_69			5	K02650	
+ONT_TR_PE_scaff_670_70					
+ONT_TR_PE_scaff_670_71					
+ONT_TR_PE_scaff_670_72					
+ONT_TR_PE_scaff_670_73	K03624	greA; transcription elongation factor GreA	56		
+ONT_TR_PE_scaff_670_74	K01255	CARP, pepA; leucyl aminopeptidase [EC:3.4.11.1]	160		
+ONT_TR_PE_scaff_670_75	K03785	aroD; 3-dehydroquinate dehydratase I [EC:4.2.1.10]	36		
+ONT_TR_PE_scaff_670_76	K01873	VARS, valS; valyl-tRNA synthetase [EC:6.1.1.9]	480		
+ONT_TR_PE_scaff_670_77			29		
+ONT_TR_PE_scaff_670_78	K03281	TC.CIC; chloride channel protein, CIC family	107		
+ONT_TR_PE_scaff_670_79	K00278	nadB; L-aspartate oxidase [EC:1.4.3.16]	214		
+ONT_TR_PE_scaff_670_80			25	K07090	1
+ONT_TR_PE_scaff_670_81	K01892	HARS, hisS; histidyl-tRNA synthetase [EC:6.1.1.21]	180		
+ONT_TR_PE_scaff_670_82			23		
+ONT_TR_PE_scaff_670_83	K03977	engA, der; GTPase	137		
+ONT_TR_PE_scaff_670_84	K03665	hflX; GTPase	118		
+ONT_TR_PE_scaff_670_85	K04088	hflK; modulator of FtsH protease HflK	118		
+ONT_TR_PE_scaff_670_86	K04087	hflC; modulator of FtsH protease HflC	136		
+ONT_TR_PE_scaff_670_87	K09937	K09937; uncharacterized protein	15		
+ONT_TR_PE_scaff_670_88	K03217	yidC, spoIIIJ, OXA1, ccfA; YidC/Oxa1 family membrane protein insertase	215		
+ONT_TR_PE_scaff_670_89	K03650	mnmE, trmE, MSS1; tRNA modification GTPase [EC:3.6.-.-]	29		
+ONT_TR_PE_scaff_670_90	K03650	mnmE, trmE, MSS1; tRNA modification GTPase [EC:3.6.-.-]	53		
+ONT_TR_PE_scaff_670_91	K03925	mraZ; transcriptional regulator MraZ	52		
+ONT_TR_PE_scaff_670_92	K03438	mraW, rsmH; 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]	112		
+ONT_TR_PE_scaff_670_93			4	K03586	2
+ONT_TR_PE_scaff_670_94	K03587	ftsI; cell division protein FtsI (penicillin-binding protein 3) [EC:3.4.16.4]	150		
+ONT_TR_PE_scaff_670_95	K01928	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]	150		
+ONT_TR_PE_scaff_670_96	K01929	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]	113		
+ONT_TR_PE_scaff_670_97	K01000	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]	263		
+ONT_TR_PE_scaff_670_98	K01925	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]	120		
+ONT_TR_PE_scaff_670_99	K03588	ftsW, spoVE; cell division protein FtsW	103		
+ONT_TR_PE_scaff_670_100	K02563	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	129		
+ONT_TR_PE_scaff_670_101	K01924	murC; UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]	209		
+ONT_TR_PE_scaff_670_102	K00075	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	117	K00075/K01921	7
+ONT_TR_PE_scaff_670_103	K01921	ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]	132		
+ONT_TR_PE_scaff_670_104	K03589	ftsQ; cell division protein FtsQ	30		
+ONT_TR_PE_scaff_670_105	K03590	ftsA; cell division protein FtsA	106		
+ONT_TR_PE_scaff_670_106	K03531	ftsZ; cell division protein FtsZ	117		
+ONT_TR_PE_scaff_670_107	K02535	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]	180		
+ONT_TR_PE_scaff_670_108			107		
+ONT_TR_PE_scaff_670_109	K00477	PHYH; phytanoyl-CoA hydroxylase [EC:1.14.11.18]	20		
+ONT_TR_PE_scaff_670_110	K00604	MTFMT, fmt; methionyl-tRNA formyltransferase [EC:2.1.2.9]	103		
+ONT_TR_PE_scaff_670_111			65		
+ONT_TR_PE_scaff_670_112			183		
+ONT_TR_PE_scaff_670_113					
+ONT_TR_PE_scaff_670_114	K08591	plsY; acyl phosphate:glycerol-3-phosphate acyltransferase [EC:2.3.1.275]	88		
+ONT_TR_PE_scaff_670_115	K01633	folB; 7,8-dihydroneopterin aldolase/epimerase/oxygenase [EC:4.1.2.25 5.1.99.8 1.13.11.81]	29		
+ONT_TR_PE_scaff_670_116	K07126	K07126; uncharacterized protein	35		
+ONT_TR_PE_scaff_670_117	K07126	K07126; uncharacterized protein	22		
+ONT_TR_PE_scaff_670_118					
+ONT_TR_PE_scaff_670_119					
+ONT_TR_PE_scaff_670_120			3	K01599	1
+ONT_TR_PE_scaff_670_121			2	K00373	1
+ONT_TR_PE_scaff_670_122			4	K07126	1
+ONT_TR_PE_scaff_670_123	K01251	AHCY, ahcY; adenosylhomocysteinase [EC:3.13.2.1]	321		
+ONT_TR_PE_scaff_670_124	K02358	tuf, TUFM; elongation factor Tu	335		
+ONT_TR_PE_scaff_670_125	K03073	secE; preprotein translocase subunit SecE	31		
+ONT_TR_PE_scaff_670_126	K02601	nusG; transcription termination/antitermination protein NusG	74		
+ONT_TR_PE_scaff_670_127	K02867	RP-L11, MRPL11, rplK; large subunit ribosomal protein L11	91		
+ONT_TR_PE_scaff_670_128	K02863	RP-L1, MRPL1, rplA; large subunit ribosomal protein L1	121		
+ONT_TR_PE_scaff_670_129	K02864	RP-L10, MRPL10, rplJ; large subunit ribosomal protein L10	73		
+ONT_TR_PE_scaff_670_130	K02935	RP-L7, MRPL12, rplL; large subunit ribosomal protein L7/L12	64		
+ONT_TR_PE_scaff_670_131	K03043	rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]	767		
+ONT_TR_PE_scaff_670_132	K03046	rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]	811		
+ONT_TR_PE_scaff_670_133	K00796	folP; dihydropteroate synthase [EC:2.5.1.15]	136		
+ONT_TR_PE_scaff_670_134	K03431	glmM; phosphoglucosamine mutase [EC:5.4.2.10]	226		
+ONT_TR_PE_scaff_670_135	K01768	E4.6.1.1; adenylate cyclase [EC:4.6.1.1]	251		
+ONT_TR_PE_scaff_670_136			62		
+ONT_TR_PE_scaff_670_137	K00782	lldG; L-lactate dehydrogenase complex protein LldG	57	K18929	1
+ONT_TR_PE_scaff_670_138	K00018	hprA; glycerate dehydrogenase [EC:1.1.1.29]	127		
+ONT_TR_PE_scaff_670_139	K18929	lldF; L-lactate dehydrogenase complex protein LldF	222		
+ONT_TR_PE_scaff_670_140	K18928	lldE; L-lactate dehydrogenase complex protein LldE	140		
+ONT_TR_PE_scaff_670_141	K09765	queH; epoxyqueuosine reductase [EC:1.17.99.6]	135		
+ONT_TR_PE_scaff_670_142	K00858	ppnK, NADK; NAD+ kinase [EC:2.7.1.23]	105		
+ONT_TR_PE_scaff_670_143	K03631	recN; DNA repair protein RecN (Recombination protein N)	161		
+ONT_TR_PE_scaff_670_144	K09001	anmK; anhydro-N-acetylmuramic acid kinase [EC:2.7.1.170]	134		
+ONT_TR_PE_scaff_670_145			104		
+ONT_TR_PE_scaff_670_146	K01733	thrC; threonine synthase [EC:4.2.3.1]	225		
+ONT_TR_PE_scaff_670_147	K00003	hom; homoserine dehydrogenase [EC:1.1.1.3]	159		
+ONT_TR_PE_scaff_670_148			60		
+ONT_TR_PE_scaff_670_149			1	K03294	1
+ONT_TR_PE_scaff_670_150			1	K20276	
+ONT_TR_PE_scaff_670_151					
+ONT_TR_PE_scaff_670_152					
+ONT_TR_PE_scaff_670_153			2	K01226	1
+ONT_TR_PE_scaff_670_154	K03527	ispH, lytB; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]	211		
+ONT_TR_PE_scaff_670_155	K00901	dgkA, DGK; diacylglycerol kinase (ATP) [EC:2.7.1.107]	49		
+ONT_TR_PE_scaff_670_156	K00945	cmk; CMP/dCMP kinase [EC:2.7.4.25]	62	K00800	6
+ONT_TR_PE_scaff_670_157	K02945	RP-S1, rpsA; small subunit ribosomal protein S1	239		
+ONT_TR_PE_scaff_670_158	K05788	ihfB, himD; integration host factor subunit beta	37		
+ONT_TR_PE_scaff_670_159	K19804	lapB; lipopolysaccharide assembly protein B	95		
+ONT_TR_PE_scaff_670_160	K00969	nadD; nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]	49		
+ONT_TR_PE_scaff_670_161	K09710	ybeB; ribosome-associated protein	30		
+ONT_TR_PE_scaff_670_162	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	306	K00571	76
+ONT_TR_PE_scaff_670_163					
+ONT_TR_PE_scaff_670_164			254		
+ONT_TR_PE_scaff_670_165			89		
+ONT_TR_PE_scaff_670_166			8	K06364	1
+ONT_TR_PE_scaff_670_167	K01156	res; type III restriction enzyme [EC:3.1.21.5]	492		
+ONT_TR_PE_scaff_670_168	K00783	rlmH; 23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]	44		
+ONT_TR_PE_scaff_670_169	K15268	eamA; O-acetylserine/cysteine efflux transporter	59		
+ONT_TR_PE_scaff_670_170	K09903	pyrH; uridylate kinase [EC:2.7.4.22]	164		
+ONT_TR_PE_scaff_670_171	K02357	tsf, TSFM; elongation factor Ts	112		
+ONT_TR_PE_scaff_670_172	K02967	RP-S2, MRPS2, rpsB; small subunit ribosomal protein S2	124		
+ONT_TR_PE_scaff_670_173	K02939	RP-L9, MRPL9, rplI; large subunit ribosomal protein L9	42		
+ONT_TR_PE_scaff_670_174	K02963	RP-S18, MRPS18, rpsR; small subunit ribosomal protein S18	23		
+ONT_TR_PE_scaff_670_175	K02990	RP-S6, MRPS6, rpsF; small subunit ribosomal protein S6	47		
+ONT_TR_PE_scaff_670_176	K06213	mgtE; magnesium transporter	154		
+ONT_TR_PE_scaff_670_177	K01496	hisI; phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]	78		
+ONT_TR_PE_scaff_670_178	K00573	E2.1.1.77, pcm; protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]	91		
+ONT_TR_PE_scaff_670_179	K12340	tolC, bepC, cyaE, raxC, sapF, rsaF, hasF; outer membrane protein	34	K12538	5
+ONT_TR_PE_scaff_670_180			9	K15762	6
+ONT_TR_PE_scaff_670_181	K12283	mshM; MSHA biogenesis protein MshM	52		
+ONT_TR_PE_scaff_670_182	K06041	kdsD, kpsF; arabinose-5-phosphate isomerase [EC:5.3.1.13]	152		
+ONT_TR_PE_scaff_670_183	K03270	kdsC; 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase) [EC:3.1.3.45]	57		
+ONT_TR_PE_scaff_670_184			1	K02933	1
+ONT_TR_PE_scaff_670_185					
+ONT_TR_PE_scaff_670_186	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:7.5.2.5]	139		
+ONT_TR_PE_scaff_670_187					
+ONT_TR_PE_scaff_670_188	K05808	yhbH; putative sigma-54 modulation protein	24		
+ONT_TR_PE_scaff_670_189	K02806	ptsN; nitrogen PTS system EIIA component [EC:2.7.1.-]	54		
+ONT_TR_PE_scaff_670_190	K24158	prx; thioredoxin-dependent peroxiredoxin [EC:1.11.1.24]	160		
+ONT_TR_PE_scaff_670_191	K25422	yceF; 7-methyl-GTP pyrophosphatase [EC:3.6.1.-]	106		
+ONT_TR_PE_scaff_670_192	K00266	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]	320		
+ONT_TR_PE_scaff_670_193	K07126	K07126; uncharacterized protein	20		
+ONT_TR_PE_scaff_670_194	K07126	K07126; uncharacterized protein	73		
+ONT_TR_PE_scaff_670_195	K02959	RP-S16, MRPS16, rpsP; small subunit ribosomal protein S16	58		
+ONT_TR_PE_scaff_670_196	K02860	rimM; 16S rRNA processing protein RimM	53		
+ONT_TR_PE_scaff_670_197	K00554	trmD; tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	114		
+ONT_TR_PE_scaff_670_198	K02884	RP-L19, MRPL19, rplS; large subunit ribosomal protein L19	69		
+ONT_TR_PE_scaff_670_199			142		
+ONT_TR_PE_scaff_670_200	K01423	bepA; beta-barrel assembly-enhancing protease [EC:3.4.-.-]	39		
+ONT_TR_PE_scaff_670_201	K03637	moaC, CNX3; cyclic pyranopterin monophosphate synthase [EC:4.6.1.17]	108		
+ONT_TR_PE_scaff_670_202			19		
+ONT_TR_PE_scaff_670_203			2	K00384	1
+ONT_TR_PE_scaff_670_204	K02004	ABC.CD.P; putative ABC transport system permease protein	187		
+ONT_TR_PE_scaff_670_205	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	99		
+ONT_TR_PE_scaff_670_206	K10804	tesA; acyl-CoA thioesterase I [EC:3.1.2.- 3.1.2.2 3.1.1.2 3.1.1.5]	76		
+ONT_TR_PE_scaff_670_207	K03611	dsbB; protein dithiol:quinone oxidoreductase [EC:1.8.5.9]	38		
+ONT_TR_PE_scaff_670_208			4		
+ONT_TR_PE_scaff_670_209			1	K02986	1
+ONT_TR_PE_scaff_670_210			3	K21449	1
+ONT_TR_PE_scaff_670_211					
+ONT_TR_PE_scaff_670_212					
+ONT_TR_PE_scaff_670_213			3	K21449	1
+ONT_TR_PE_scaff_670_214					
+ONT_TR_PE_scaff_670_215					
+ONT_TR_PE_scaff_670_216			1	K06442	1
+ONT_TR_PE_scaff_670_217			2	K21449	1
+ONT_TR_PE_scaff_670_218					
+ONT_TR_PE_scaff_670_219			3	K00372	
+ONT_TR_PE_scaff_670_220	K01640	HMGCL, hmgL; hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4]	141		
+ONT_TR_PE_scaff_670_221	K01968	E6.4.1.4A; 3-methylcrotonyl-CoA carboxylase alpha subunit [EC:6.4.1.4]	228		
+ONT_TR_PE_scaff_670_222	K13766	liuC; methylglutaconyl-CoA hydratase [EC:4.2.1.18]	132		
+ONT_TR_PE_scaff_670_223	K01969	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]	448		
+ONT_TR_PE_scaff_670_224	K00253	IVD, ivd; isovaleryl-CoA dehydrogenase [EC:1.3.8.4]	267		
+ONT_TR_PE_scaff_670_225			46		
+ONT_TR_PE_scaff_670_226	K00666	K00666; fatty-acyl-CoA synthase [EC:6.2.1.-]	509		
+ONT_TR_PE_scaff_670_227	K01426	E3.5.1.4, amiE; amidase [EC:3.5.1.4]	225		
+ONT_TR_PE_scaff_670_228	K11962	urtD; urea transport system ATP-binding protein	126		
+ONT_TR_PE_scaff_670_229	K11961	urtC; urea transport system permease protein	193		
+ONT_TR_PE_scaff_670_230	K11960	urtB; urea transport system permease protein	213		
+ONT_TR_PE_scaff_670_231	K11959	urtA; urea transport system substrate-binding protein	235		
+ONT_TR_PE_scaff_670_232			115	K07192	27
+ONT_TR_PE_scaff_670_233	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	196		
+ONT_TR_PE_scaff_670_234	K02033	ABC.PE.P; peptide/nickel transport system permease protein	109		
+ONT_TR_PE_scaff_670_235	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	155		
+ONT_TR_PE_scaff_670_236	K02031	ddpD; peptide/nickel transport system ATP-binding protein	393		
+	K02032	ddpF; peptide/nickel transport system ATP-binding protein			
+ONT_TR_PE_scaff_670_237			2	K21919	1
+ONT_TR_PE_scaff_670_238	K00311	ETFDH; electron-transferring-flavoprotein dehydrogenase [EC:1.5.5.1]	353		
+ONT_TR_PE_scaff_670_239	K03522	fixB, etfA; electron transfer flavoprotein alpha subunit	199		
+ONT_TR_PE_scaff_670_240	K03521	fixA, etfB; electron transfer flavoprotein beta subunit	141		
+ONT_TR_PE_scaff_670_241			1	K04047	1
+ONT_TR_PE_scaff_670_242			1	K02656	1
+ONT_TR_PE_scaff_670_243			5	K02656	1
+ONT_TR_PE_scaff_670_244			19	K23424	1
+ONT_TR_PE_scaff_670_245			10		
+ONT_TR_PE_scaff_670_246	K00123	fdoG, fdhF, fdwA; formate dehydrogenase major subunit [EC:1.17.1.9]	587		
+ONT_TR_PE_scaff_670_247			283		
+ONT_TR_PE_scaff_670_248					
+ONT_TR_PE_scaff_670_249			28	K03612	1
+ONT_TR_PE_scaff_670_250			39		
+ONT_TR_PE_scaff_670_251			298		
+ONT_TR_PE_scaff_670_252			145		
+ONT_TR_PE_scaff_670_253			30	K00566	1
+ONT_TR_PE_scaff_670_254					
+ONT_TR_PE_scaff_670_255	K07390	grxD, GLRX5; monothiol glutaredoxin	80		
+ONT_TR_PE_scaff_670_256			19		
+ONT_TR_PE_scaff_670_257					
+ONT_TR_PE_scaff_670_258	K01755	argH, ASL; argininosuccinate lyase [EC:4.3.2.1]	249		
+ONT_TR_PE_scaff_670_259			2	K15011	1
+ONT_TR_PE_scaff_670_260	K02527	kdtA, waaA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]	120		
+ONT_TR_PE_scaff_670_261	K02841	waaC, rfaC; lipopolysaccharide heptosyltransferase I [EC:2.4.99.23]	10		
+ONT_TR_PE_scaff_670_262			119		
+ONT_TR_PE_scaff_670_263	K07000	K07000; uncharacterized protein	74		
+ONT_TR_PE_scaff_670_264	K02528	ksgA; 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	98		
+ONT_TR_PE_scaff_670_265	K00097	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase [EC:1.1.1.262]	183		
+ONT_TR_PE_scaff_670_266	K03771	surA; peptidyl-prolyl cis-trans isomerase SurA [EC:5.2.1.8]	86		
+ONT_TR_PE_scaff_670_267	K01338	lon; ATP-dependent Lon protease [EC:3.4.21.53]	445		
+ONT_TR_PE_scaff_670_268	K03544	clpX, CLPX; ATP-dependent Clp protease ATP-binding subunit ClpX	215		
+ONT_TR_PE_scaff_670_269	K01358	clpP, CLPP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	114		
+ONT_TR_PE_scaff_670_270	K03545	tig; trigger factor	93		
+ONT_TR_PE_scaff_670_271	K13634	cysB; LysR family transcriptional regulator, cys regulon transcriptional activator	121		
+ONT_TR_PE_scaff_670_272	K02169	bioC; malonyl-CoA O-methyltransferase [EC:2.1.1.197]	70		
+ONT_TR_PE_scaff_670_273	K07113	fxsA; UPF0716 protein FxsA	10		
+ONT_TR_PE_scaff_670_274	K03926	cutA; periplasmic divalent cation tolerance protein	41		
+ONT_TR_PE_scaff_670_275	K04084	dsbD, dipZ; thioredoxin:protein disulfide reductase [EC:1.8.4.16]	192		
+ONT_TR_PE_scaff_670_276	K00567	ogt, MGMT; methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]	54		
+ONT_TR_PE_scaff_670_277	K04763	xerD; integrase/recombinase XerD	134		
+ONT_TR_PE_scaff_670_278			154		
+ONT_TR_PE_scaff_670_279	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	230		
+ONT_TR_PE_scaff_670_280					
+ONT_TR_PE_scaff_670_281	K06916	zapE; cell division protein ZapE	142		
+ONT_TR_PE_scaff_670_282			7		
+ONT_TR_PE_scaff_670_283			22	K00590	1
+ONT_TR_PE_scaff_670_284	K00382	DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	277		
+ONT_TR_PE_scaff_670_285	K00658	DLST, sucB; 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]	229		
+ONT_TR_PE_scaff_670_286	K00164	OGDH, sucA; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]	483		
+ONT_TR_PE_scaff_670_287			5		
+ONT_TR_PE_scaff_670_288			16	K02488	3
+ONT_TR_PE_scaff_670_289	K03644	lipA, LIAS, LIP1, LIP5; lipoyl synthase [EC:2.8.1.8]	208		
+ONT_TR_PE_scaff_670_290	K03801	lipB; lipoyl(octanoyl) transferase [EC:2.3.1.181]	130		
+ONT_TR_PE_scaff_670_291	K00979	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]	89		
+ONT_TR_PE_scaff_670_292	K09791	K09791; uncharacterized protein	19	K00912	1
+ONT_TR_PE_scaff_670_293	K00912	lpxK; tetraacyldisaccharide 4'-kinase [EC:2.7.1.130]	84		
+ONT_TR_PE_scaff_670_294	K16011	algA, xanB, rfbA, wbpW, pslB; mannose-1-phosphate guanylyltransferase / mannose-6-phosphate isomerase [EC:2.7.7.13 5.3.1.8]	175		
+ONT_TR_PE_scaff_670_295					
+ONT_TR_PE_scaff_670_296	K01647	CS, gltA; citrate synthase [EC:2.3.3.1]	369		
+ONT_TR_PE_scaff_670_297	K09159	cptB; antitoxin CptB	21		
+ONT_TR_PE_scaff_670_298	K00240	sdhB, frdB; succinate dehydrogenase iron-sulfur subunit [EC:1.3.5.1]	191		
+ONT_TR_PE_scaff_670_299	K03852	xsc; sulfoacetaldehyde acetyltransferase [EC:2.3.3.15]	408		
+ONT_TR_PE_scaff_670_300	K13788	pta; phosphate acetyltransferase [EC:2.3.1.8]	67		
+ONT_TR_PE_scaff_670_301			86		
+ONT_TR_PE_scaff_670_302	K01692	paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]	131		
+ONT_TR_PE_scaff_670_303	K00074	paaH, hbd, fadB, mmgB; 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]	134		
+ONT_TR_PE_scaff_670_304	K07305	msrB; peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	81		
+ONT_TR_PE_scaff_670_305	K06190	ispZ; intracellular septation protein	44		
+ONT_TR_PE_scaff_670_306	K05527	bolA; BolA family transcriptional regulator, general stress-responsive regulator	39		
+ONT_TR_PE_scaff_670_307	K03769	ppiC; peptidyl-prolyl cis-trans isomerase C [EC:5.2.1.8]	67		
+ONT_TR_PE_scaff_670_308	K02836	prfB; peptide chain release factor 2	199		
+ONT_TR_PE_scaff_670_309					
+ONT_TR_PE_scaff_670_310	K09760	rmuC; DNA recombination protein RmuC	34		
+ONT_TR_PE_scaff_670_311	K01756	purB, ADSL; adenylosuccinate lyase [EC:4.3.2.2]	217		
+ONT_TR_PE_scaff_670_312			60		
+ONT_TR_PE_scaff_670_313	K00262	E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]	289		
+ONT_TR_PE_scaff_670_314	K07082	K07082; UPF0755 protein	176		
+ONT_TR_PE_scaff_670_315	K00943	tmk, DTYMK; dTMP kinase [EC:2.7.4.9]	73		
+ONT_TR_PE_scaff_670_316	K02341	holB; DNA polymerase III subunit delta' [EC:2.7.7.7]	38		
+ONT_TR_PE_scaff_670_317	K03424	tatD; TatD DNase family protein [EC:3.1.21.-]	109		
+ONT_TR_PE_scaff_670_318	K03628	rho; transcription termination factor Rho	257		
+ONT_TR_PE_scaff_670_319	K03671	trxA; thioredoxin 1	53		
+ONT_TR_PE_scaff_670_320	K06940	K06940; uncharacterized protein	21		
+ONT_TR_PE_scaff_670_321			68		
+ONT_TR_PE_scaff_670_322			99		
+ONT_TR_PE_scaff_670_323			186		
+ONT_TR_PE_scaff_670_324	K01711	gmd, GMDS; GDPmannose 4,6-dehydratase [EC:4.2.1.47]	226		
+ONT_TR_PE_scaff_670_325			122		
+ONT_TR_PE_scaff_670_326	K01791	wecB; UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	181		
+ONT_TR_PE_scaff_670_327			9	K22844	1
+ONT_TR_PE_scaff_670_328					
+ONT_TR_PE_scaff_670_329	K23997	nnr; ADP-dependent NAD(P)H-hydrate dehydratase / NAD(P)H-hydrate epimerase [EC:4.2.1.136 5.1.99.6]	146		
+ONT_TR_PE_scaff_670_330	K06985	K06985; aspartyl protease family protein	56		
+ONT_TR_PE_scaff_670_331	K13288	orn, REX2, REXO2; oligoribonuclease [EC:3.1.-.-]	86		
+ONT_TR_PE_scaff_670_332	K02204	thrB2; homoserine kinase type II [EC:2.7.1.39]	99		
+ONT_TR_PE_scaff_670_333	K01494	dcd; dCTP deaminase [EC:3.5.4.13]	164		
+ONT_TR_PE_scaff_670_334	K06153	bacA; undecaprenyl-diphosphatase [EC:3.6.1.27]	149		
+ONT_TR_PE_scaff_670_335			158		
+ONT_TR_PE_scaff_670_336	K02474	wbpO; UDP-N-acetyl-D-glucosamine/UDP-N-acetyl-D-galactosamine dehydrogenase [EC:1.1.1.136 1.1.1.-]	173		
+ONT_TR_PE_scaff_670_337	K03798	ftsH, hflB; cell division protease FtsH [EC:3.4.24.-]	401		
+ONT_TR_PE_scaff_670_338	K02427	rlmE, rrmJ, ftsJ; 23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]	80		
+ONT_TR_PE_scaff_670_339	K03743	pncC; nicotinamide-nucleotide amidase [EC:3.5.1.42]	94		
+ONT_TR_PE_scaff_670_340	K01095	pgpA; phosphatidylglycerophosphatase A [EC:3.1.3.27]	63		
+ONT_TR_PE_scaff_670_341	K00946	thiL; thiamine-monophosphate kinase [EC:2.7.4.16]	142		
+ONT_TR_PE_scaff_670_342	K03625	nusB; transcription antitermination protein NusB	19		
+ONT_TR_PE_scaff_670_343	K00794	ribH, RIB4; 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]	67		
+ONT_TR_PE_scaff_670_344	K14652	ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]	235		
+ONT_TR_PE_scaff_670_345	K11927	rhlE; ATP-dependent RNA helicase RhlE [EC:3.6.4.13]	210		
+ONT_TR_PE_scaff_670_346	K06207	typA, bipA; GTP-binding protein	473		
+ONT_TR_PE_scaff_670_347	K07501	K07501; 3'-5' exonuclease	11		
+ONT_TR_PE_scaff_670_348	K12339	cysM; S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent) [EC:2.5.1.144]	147		
+ONT_TR_PE_scaff_670_349					
+ONT_TR_PE_scaff_670_350			3	K18275	1
+ONT_TR_PE_scaff_670_351			3	K00074	1
+ONT_TR_PE_scaff_670_352	K00252	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]	293		
+ONT_TR_PE_scaff_670_353	K01041	gcdG, caiB; glutaryl-CoA transferase [EC:2.8.3.-]	220		
+ONT_TR_PE_scaff_670_354	K01652	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	299		
+ONT_TR_PE_scaff_670_355			95		
+ONT_TR_PE_scaff_670_356			7	K07052	1
+ONT_TR_PE_scaff_670_357			4	K01470	1
+ONT_TR_PE_scaff_670_358					
+ONT_TR_PE_scaff_670_359			1	K02437	1
+ONT_TR_PE_scaff_670_360			147		
+ONT_TR_PE_scaff_670_361			9		
+ONT_TR_PE_scaff_670_362			322		
+ONT_TR_PE_scaff_670_363	K00297	metF, MTHFR; methylenetetrahydrofolate reductase (NADH) [EC:1.5.1.54]	22		
+ONT_TR_PE_scaff_670_364					
+ONT_TR_PE_scaff_670_365	K01657	trpE; anthranilate synthase component I [EC:4.1.3.27]	185		
+ONT_TR_PE_scaff_670_366	K00645	fabD, MCAT, MCT1; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]	167		
+ONT_TR_PE_scaff_670_367	K00648	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]	170		
+ONT_TR_PE_scaff_670_368	K03621	plsX; phosphate acyltransferase [EC:2.3.1.274]	133		
+ONT_TR_PE_scaff_670_369	K02911	RP-L32, MRPL32, rpmF; large subunit ribosomal protein L32	42		
+ONT_TR_PE_scaff_670_370			87		
+ONT_TR_PE_scaff_670_371	K02909	RP-L31, rpmE; large subunit ribosomal protein L31	46		
+ONT_TR_PE_scaff_670_372	K09952	csn1, cas9; CRISPR-associated endonuclease Csn1 [EC:3.1.-.-]	13		
+ONT_TR_PE_scaff_670_373	K15342	cas1; CRISP-associated protein Cas1	55		
+ONT_TR_PE_scaff_670_374	K09951	cas2; CRISPR-associated protein Cas2	34		
+ONT_TR_PE_scaff_670_375	K03722	dinG; ATP-dependent DNA helicase DinG [EC:5.6.2.3]	239		
+ONT_TR_PE_scaff_670_376	K01246	tag; DNA-3-methyladenine glycosylase I [EC:3.2.2.20]	106		
+ONT_TR_PE_scaff_670_377	K03752	mobA; molybdenum cofactor guanylyltransferase [EC:2.7.7.77]	84		
+ONT_TR_PE_scaff_670_378			58		
+ONT_TR_PE_scaff_670_379					
+ONT_TR_PE_scaff_670_380	K03526	gcpE, ispG; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]	337		
+ONT_TR_PE_scaff_670_381	K06941	rlmN; 23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]	165		
+ONT_TR_PE_scaff_670_382	K00940	ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]	136		
+ONT_TR_PE_scaff_670_383	K03101	lspA; signal peptidase II [EC:3.4.23.36]	61		
+ONT_TR_PE_scaff_670_384	K01870	IARS, ileS; isoleucyl-tRNA synthetase [EC:6.1.1.5]	499		
+ONT_TR_PE_scaff_670_385	K01881	PARS, proS; prolyl-tRNA synthetase [EC:6.1.1.15]	325		
+ONT_TR_PE_scaff_670_386			6		
+ONT_TR_PE_scaff_670_387			20		
+ONT_TR_PE_scaff_670_388			6	K02108	1
+ONT_TR_PE_scaff_670_389			5	K07126	1
+ONT_TR_PE_scaff_670_390			4		
+ONT_TR_PE_scaff_670_391			4		
+ONT_TR_PE_scaff_670_392	K21700	bauB; beta-alanine degradation protein BauB	62		
+ONT_TR_PE_scaff_670_393			5	K07010	1
+ONT_TR_PE_scaff_670_394	K21309	soeC; sulfite dehydrogenase (quinone) subunit SoeC	83		
+ONT_TR_PE_scaff_670_395	K21308	soeB; sulfite dehydrogenase (quinone) subunit SoeB	146		
+ONT_TR_PE_scaff_670_396	K01952	PFAS, purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	499		
+ONT_TR_PE_scaff_670_397	K16846	suyB; (2R)-sulfolactate sulfo-lyase subunit beta [EC:4.4.1.24]	418		
+ONT_TR_PE_scaff_670_398	K16845	suyA; (2R)-sulfolactate sulfo-lyase subunit alpha [EC:4.4.1.24]	84		
+ONT_TR_PE_scaff_670_399			330		
+ONT_TR_PE_scaff_670_400			69		
+ONT_TR_PE_scaff_670_401			246		
+ONT_TR_PE_scaff_670_402			280		
+ONT_TR_PE_scaff_670_403	K15509	hpsN; sulfopropanediol 3-dehydrogenase [EC:1.1.1.308]	250		
+ONT_TR_PE_scaff_670_404			137		
+ONT_TR_PE_scaff_670_405	K04095	fic, FICD, HYPE; cell filamentation protein, protein adenylyltransferase [EC:2.7.7.108]	181		
+ONT_TR_PE_scaff_670_406	K00928	lysC; aspartate kinase [EC:2.7.2.4]	232		
+ONT_TR_PE_scaff_670_407			2	K01278	1
+ONT_TR_PE_scaff_670_408	K00571	E2.1.1.72; site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	113		
+ONT_TR_PE_scaff_670_409	K01155	E3.1.21.4; type II restriction enzyme [EC:3.1.21.4]	61		
+ONT_TR_PE_scaff_670_410	K02793	manXa; mannose PTS system EIIA component [EC:2.7.1.191]	42		
+ONT_TR_PE_scaff_670_411	K08483	ptsI; phosphoenolpyruvate-protein phosphotransferase (PTS system enzyme I) [EC:2.7.3.9]	143		
+ONT_TR_PE_scaff_670_412	K01845	hemL; glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	256		
+ONT_TR_PE_scaff_670_413			5	K02769	1
+ONT_TR_PE_scaff_670_414			35		
+ONT_TR_PE_scaff_670_415	K01687	ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]	497		
+ONT_TR_PE_scaff_693_1			4	K21449	1
+ONT_TR_PE_scaff_693_2			2	K01406	1
+ONT_TR_PE_scaff_693_3			2	K22944	1
+ONT_TR_PE_scaff_693_4					
+ONT_TR_PE_scaff_693_5			1	K03332	1
+ONT_TR_PE_scaff_693_6			12	K21449	1
+ONT_TR_PE_scaff_693_7			10	K21449	1
+ONT_TR_PE_scaff_693_8	K07389	cyaC, hlyC, rtxC; cytolysin-activating lysine-acyltransferase [EC:2.3.1.-]	20		
+ONT_TR_PE_scaff_693_9	K07389	cyaC, hlyC, rtxC; cytolysin-activating lysine-acyltransferase [EC:2.3.1.-]	15		
+ONT_TR_PE_scaff_693_10	K07389	cyaC, hlyC, rtxC; cytolysin-activating lysine-acyltransferase [EC:2.3.1.-]	28		
+ONT_TR_PE_scaff_693_11	K11003	hlyD, cyaD; membrane fusion protein, hemolysin D	142		
+ONT_TR_PE_scaff_693_12	K11004	hlyB, cyaB; ATP-binding cassette, subfamily B, bacterial HlyB/CyaB	393		
+ONT_TR_PE_scaff_693_13			60	K21449	12
+ONT_TR_PE_scaff_693_14			8	K21449	1
+ONT_TR_PE_scaff_693_15			5	K21449	1
+ONT_TR_PE_scaff_693_16			8	K21449	1
+ONT_TR_PE_scaff_693_17			4	K21449	1
+ONT_TR_PE_scaff_693_18			4	K21449	1
+ONT_TR_PE_scaff_693_19			14	K21449	1
+ONT_TR_PE_scaff_693_20			1	K03210	1
+ONT_TR_PE_scaff_693_21			21		
+ONT_TR_PE_scaff_693_22	K02793	manXa; mannose PTS system EIIA component [EC:2.7.1.191]	40	K02794	1
+ONT_TR_PE_scaff_693_23	K08483	ptsI; phosphoenolpyruvate-protein phosphotransferase (PTS system enzyme I) [EC:2.7.3.9]	143		
+ONT_TR_PE_scaff_693_24	K01845	hemL; glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	256		
+ONT_TR_PE_scaff_693_25			63		
+ONT_TR_PE_scaff_693_26	K01687	ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]	482		
+ONT_TR_PE_scaff_693_27			2		
+ONT_TR_PE_scaff_693_28					
+ONT_TR_PE_scaff_693_29			1	K20263	1
+ONT_TR_PE_scaff_693_30			6	K06867	5
+ONT_TR_PE_scaff_693_31					
+ONT_TR_PE_scaff_693_32			103		
+ONT_TR_PE_scaff_693_33			81		
+ONT_TR_PE_scaff_693_34			249		
+ONT_TR_PE_scaff_693_35	K03781	katE, CAT, catB, srpA; catalase [EC:1.11.1.6]	512		
+ONT_TR_PE_scaff_693_36			41		
+ONT_TR_PE_scaff_693_37	K00826	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]	180		
+ONT_TR_PE_scaff_693_38			21	K19225	1
+ONT_TR_PE_scaff_693_39	K00334	nuoE; NADH-quinone oxidoreductase subunit E [EC:7.1.1.2]	129		
+ONT_TR_PE_scaff_693_40	K00333	nuoD; NADH-quinone oxidoreductase subunit D [EC:7.1.1.2]	495		
+ONT_TR_PE_scaff_693_41	K00332	nuoC; NADH-quinone oxidoreductase subunit C [EC:7.1.1.2]	153		
+ONT_TR_PE_scaff_693_42			10		
+ONT_TR_PE_scaff_693_43	K00331	nuoB; NADH-quinone oxidoreductase subunit B [EC:7.1.1.2]	150		
+ONT_TR_PE_scaff_693_44	K00330	nuoA; NADH-quinone oxidoreductase subunit A [EC:7.1.1.2]	108		
+ONT_TR_PE_scaff_693_45			6	K00859	1
+ONT_TR_PE_scaff_693_46	K03075	secG; preprotein translocase subunit SecG	40		
+ONT_TR_PE_scaff_693_47	K01803	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]	124		
+ONT_TR_PE_scaff_693_48	K00031	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	399		
+ONT_TR_PE_scaff_693_49	K03569	mreB; rod shape-determining protein MreB and related proteins	208		
+ONT_TR_PE_scaff_693_50	K03570	mreC; rod shape-determining protein MreC	55		
+ONT_TR_PE_scaff_693_51	K03571	mreD; rod shape-determining protein MreD	28		
+ONT_TR_PE_scaff_693_52	K05515	mrdA; penicillin-binding protein 2 [EC:3.4.16.4]	211		
+ONT_TR_PE_scaff_693_53	K05837	rodA, mrdB; rod shape determining protein RodA	157		
+ONT_TR_PE_scaff_693_54	K03642	rlpA; rare lipoprotein A	101		
+ONT_TR_PE_scaff_693_55	K00641	metX; homoserine O-acetyltransferase/O-succinyltransferase [EC:2.3.1.31 2.3.1.46]	223		
+ONT_TR_PE_scaff_693_56			84		
+ONT_TR_PE_scaff_693_57	K03657	uvrD, pcrA; ATP-dependent DNA helicase UvrD/PcrA [EC:5.6.2.4]	282		
+ONT_TR_PE_scaff_693_58	K03273	gmhB; D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase [EC:3.1.3.82 3.1.3.83]	53		
+ONT_TR_PE_scaff_693_59	K07031	hddA; D-glycero-alpha-D-manno-heptose-7-phosphate kinase [EC:2.7.1.168]	143		
+ONT_TR_PE_scaff_693_60			55		
+ONT_TR_PE_scaff_693_61	K00721	DPM1; dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	16		
+ONT_TR_PE_scaff_693_62	K15856	rmd; GDP-4-dehydro-6-deoxy-D-mannose reductase [EC:1.1.1.281]	197	K01711	50
+ONT_TR_PE_scaff_693_63	K02377	TSTA3, fcl; GDP-L-fucose synthase [EC:1.1.1.271]	161		
+ONT_TR_PE_scaff_693_64			25	K07027	24
+ONT_TR_PE_scaff_693_65	K03271	gmhA, lpcA; D-sedoheptulose 7-phosphate isomerase [EC:5.3.1.28]	91		
+ONT_TR_PE_scaff_693_66			35	K15669	12
+ONT_TR_PE_scaff_693_67			28	K00571	12
+ONT_TR_PE_scaff_693_68			1	K13926	
+ONT_TR_PE_scaff_693_69					
+ONT_TR_PE_scaff_693_70	K00265	gltB; glutamate synthase (NADPH) large chain [EC:1.4.1.13]	831		
+ONT_TR_PE_scaff_693_71			188		
+ONT_TR_PE_scaff_693_72	K03701	uvrA; excinuclease ABC subunit A	584		
+ONT_TR_PE_scaff_693_73			80		
+ONT_TR_PE_scaff_693_74	K03111	ssb; single-strand DNA-binding protein	67		
+ONT_TR_PE_scaff_693_75	K00507	SCD, desC; stearoyl-CoA desaturase (Delta-9 desaturase) [EC:1.14.19.1]	217		
+ONT_TR_PE_scaff_693_76	K01759	GLO1, gloA; lactoylglutathione lyase [EC:4.4.1.5]	107		
+ONT_TR_PE_scaff_693_77	K04066	priA; primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:5.6.2.4]	216		
+ONT_TR_PE_scaff_693_78			8	K06041	1
+ONT_TR_PE_scaff_693_79					
+ONT_TR_PE_scaff_693_80			2	K01647	1
+ONT_TR_PE_scaff_693_81			3	K09667	1
+ONT_TR_PE_scaff_693_82	K01156	res; type III restriction enzyme [EC:3.1.21.5]	253		
+ONT_TR_PE_scaff_693_83			34		
+ONT_TR_PE_scaff_693_84			6	K06182	1
+ONT_TR_PE_scaff_693_85			10		
+ONT_TR_PE_scaff_693_86			160		
+ONT_TR_PE_scaff_693_87			58		
+ONT_TR_PE_scaff_693_88			163		
+ONT_TR_PE_scaff_693_89	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	186		
+ONT_TR_PE_scaff_693_90	K03439	trmB, METTL1, TRM8; tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]	68		
+ONT_TR_PE_scaff_693_91	K03149	thiG; thiazole synthase [EC:2.8.1.10]	183		
+ONT_TR_PE_scaff_693_92	K03154	thiS; sulfur carrier protein	36		
+ONT_TR_PE_scaff_693_93			7	K03816	1
+ONT_TR_PE_scaff_693_94	K07259	dacB; serine-type D-Ala-D-Ala carboxypeptidase/endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]	153		
+ONT_TR_PE_scaff_693_95	K03575	mutY; A/G-specific adenine glycosylase [EC:3.2.2.31]	143		
+ONT_TR_PE_scaff_693_96			2	K00133	1
+ONT_TR_PE_scaff_693_97	K03147	thiC; phosphomethylpyrimidine synthase [EC:4.1.99.17]	452		
+ONT_TR_PE_scaff_693_98	K00970	pcnB; poly(A) polymerase [EC:2.7.7.19]	125		
+ONT_TR_PE_scaff_693_99	K00795	ispA; farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10]	76	K13789	14
+ONT_TR_PE_scaff_693_100	K03602	xseB; exodeoxyribonuclease VII small subunit [EC:3.1.11.6]	29		
+ONT_TR_PE_scaff_693_101			32		
+ONT_TR_PE_scaff_693_102			4	K03654	1
+ONT_TR_PE_scaff_693_103			2	K16649	1
+ONT_TR_PE_scaff_693_104			5	K24698	1
+ONT_TR_PE_scaff_693_105			2	K05358	1
+ONT_TR_PE_scaff_693_106					
+ONT_TR_PE_scaff_693_107			3	K06942	1
+ONT_TR_PE_scaff_693_108	K08679	GAE, cap1J; UDP-glucuronate 4-epimerase [EC:5.1.3.6]	85		
+ONT_TR_PE_scaff_693_109	K00620	argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]	194		
+ONT_TR_PE_scaff_693_110			3		
+ONT_TR_PE_scaff_693_111					
+ONT_TR_PE_scaff_693_112	K00012	UGDH, ugd; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	50		
+ONT_TR_PE_scaff_693_113	K01972	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]	157		
+ONT_TR_PE_scaff_693_114					
+ONT_TR_PE_scaff_693_115			22		
+ONT_TR_PE_scaff_693_116	K03529	smc; chromosome segregation protein	218		
+ONT_TR_PE_scaff_693_117	K09458	fabF, OXSM, CEM1; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	245		
+ONT_TR_PE_scaff_693_118	K02078	acpP; acyl carrier protein	45		
+ONT_TR_PE_scaff_693_119	K02055	ABC.SP.S; putative spermidine/putrescine transport system substrate-binding protein	311		
+ONT_TR_PE_scaff_693_120	K02054	ABC.SP.P1; putative spermidine/putrescine transport system permease protein	220		
+ONT_TR_PE_scaff_693_121	K02053	ABC.SP.P; putative spermidine/putrescine transport system permease protein	223		
+ONT_TR_PE_scaff_693_122	K03699	tlyC; magnesium and cobalt exporter, CNNM family	104		
+ONT_TR_PE_scaff_693_123			193		
+ONT_TR_PE_scaff_693_124			41		
+ONT_TR_PE_scaff_693_125	K24018	K24018; cyclohexadieny/prephenate dehydrogenase / 3-phosphoshikimate 1-carboxyvinyltransferase [EC:1.3.1.43 1.3.1.12 2.5.1.19]	105	K00800	21
+ONT_TR_PE_scaff_693_126	K04517	tyrA2; prephenate dehydrogenase [EC:1.3.1.12]	42	K00220	15
+ONT_TR_PE_scaff_693_127	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	149		
+ONT_TR_PE_scaff_693_128	K01814	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	97		
+ONT_TR_PE_scaff_693_129			12	K01992	1
+ONT_TR_PE_scaff_693_130	K13292	lgt, umpA; phosphatidylglycerol---prolipoprotein diacylglyceryl transferase [EC:2.5.1.145]	32		
+ONT_TR_PE_scaff_693_131	K00812	aspB; aspartate aminotransferase [EC:2.6.1.1]	179		
+ONT_TR_PE_scaff_693_132			31	K06926	19
+ONT_TR_PE_scaff_693_133			4	K06926	2
+ONT_TR_PE_scaff_693_134			35		
+ONT_TR_PE_scaff_693_135			6		
+ONT_TR_PE_scaff_693_136	K00023	phbB; acetoacetyl-CoA reductase [EC:1.1.1.36]	147		
+ONT_TR_PE_scaff_693_137	K00626	ACAT, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	271		
+ONT_TR_PE_scaff_693_138	K03821	phaC, phbC; poly[(R)-3-hydroxyalkanoate] polymerase subunit PhaC [EC:2.3.1.304]	217		
+ONT_TR_PE_scaff_693_139	K09117	K09117; uncharacterized protein	59		
+ONT_TR_PE_scaff_693_140	K02970	RP-S21, MRPS21, rpsU; small subunit ribosomal protein S21	41		
+ONT_TR_PE_scaff_693_141	K03636	moaD, cysO; sulfur-carrier protein	53		
+ONT_TR_PE_scaff_693_142			21		
+ONT_TR_PE_scaff_693_143	K00384	trxB, TRR; thioredoxin reductase (NADPH) [EC:1.8.1.9]	170		
+ONT_TR_PE_scaff_693_144			32	K03406	1
+ONT_TR_PE_scaff_693_145			53		
+ONT_TR_PE_scaff_693_146	K01469	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]	524		
+ONT_TR_PE_scaff_693_147	K01649	leuA, IMS; 2-isopropylmalate synthase [EC:2.3.3.13]	428		
+ONT_TR_PE_scaff_693_148			162		
+ONT_TR_PE_scaff_693_149			245		
+ONT_TR_PE_scaff_693_150	K03451	TC.BCT; betaine/carnitine transporter, BCCT family	425		
+ONT_TR_PE_scaff_693_151			5	K03574	1
+ONT_TR_PE_scaff_693_152			114		
+ONT_TR_PE_scaff_693_153			279		
+ONT_TR_PE_scaff_693_154	K00605	gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]	525		
+ONT_TR_PE_scaff_693_155			2	K06016	1
+ONT_TR_PE_scaff_693_156			19		
+ONT_TR_PE_scaff_693_157			3	K03530	1
+ONT_TR_PE_scaff_693_158	K02001	proW; glycine betaine/proline transport system permease protein	560		
+ONT_TR_PE_scaff_693_159	K02000	proV; glycine betaine/proline transport system ATP-binding protein [EC:7.6.2.9]	233		
+ONT_TR_PE_scaff_693_160	K02002	proX; glycine betaine/proline transport system substrate-binding protein	195		
+ONT_TR_PE_scaff_693_161	K04042	glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]	193		
+ONT_TR_PE_scaff_693_162	K00820	glmS, GFPT; glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16]	274		
+ONT_TR_PE_scaff_693_163			6	K11358	1
+ONT_TR_PE_scaff_693_164	K00973	rfbA, rmlA, rffH; glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	148		
+ONT_TR_PE_scaff_693_165	K03466	ftsK, spoIIIE; DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family	301		
+ONT_TR_PE_scaff_693_166	K01684	dgoD; galactonate dehydratase [EC:4.2.1.6]	188		
+ONT_TR_PE_scaff_693_167	K04095	fic, FICD, HYPE; cell filamentation protein, protein adenylyltransferase [EC:2.7.7.108]	133		
+ONT_TR_PE_scaff_693_168					
+ONT_TR_PE_scaff_693_169					
+ONT_TR_PE_scaff_693_170			120		
+ONT_TR_PE_scaff_693_171			10	K23976	1
+ONT_TR_PE_scaff_693_172					
+ONT_TR_PE_scaff_693_173	K07447	ruvX; putative pre-16S rRNA nuclease [EC:3.1.-.-]	40		
+ONT_TR_PE_scaff_693_174	K07735	algH; putative transcriptional regulator	117		
+ONT_TR_PE_scaff_693_175	K00788	thiE; thiamine-phosphate pyrophosphorylase [EC:2.5.1.3]	36		
+ONT_TR_PE_scaff_693_176			152		
+ONT_TR_PE_scaff_693_177			18	K11477	1
+ONT_TR_PE_scaff_693_178			2	K12373	1
+ONT_TR_PE_scaff_693_179	K01772	hemH, FECH; protoporphyrin/coproporphyrin ferrochelatase [EC:4.98.1.1 4.99.1.9]	178		
+ONT_TR_PE_scaff_693_180	K10763	hda; DnaA-homolog protein	54		
+ONT_TR_PE_scaff_693_181			123		
+ONT_TR_PE_scaff_693_182	K01933	purM; phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	142		
+ONT_TR_PE_scaff_693_183	K11175	purN; phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	94		
+ONT_TR_PE_scaff_693_184			18		
+ONT_TR_PE_scaff_693_185			14	K03298	2
+ONT_TR_PE_scaff_693_186			67		
+ONT_TR_PE_scaff_693_187	K07045	K07045; uncharacterized protein	174		
+ONT_TR_PE_scaff_693_188			74		
+ONT_TR_PE_scaff_693_189			2	K12368	1
+ONT_TR_PE_scaff_693_190			56	K06867	5
+ONT_TR_PE_scaff_693_191	K03673	dsbA; protein dithiol oxidoreductase (disulfide-forming) [EC:1.8.4.15]	51		
+ONT_TR_PE_scaff_693_192			221		
+ONT_TR_PE_scaff_693_193	K07738	nrdR; transcriptional repressor NrdR	46		
+ONT_TR_PE_scaff_693_194	K11752	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]	143		
+ONT_TR_PE_scaff_693_195	K01775	alr; alanine racemase [EC:5.1.1.1]	105		
+ONT_TR_PE_scaff_693_196			36	K05835	24
+ONT_TR_PE_scaff_693_197	K02501	hisH; imidazole glycerol-phosphate synthase subunit HisH [EC:4.3.2.10]	92		
+ONT_TR_PE_scaff_693_198	K01693	hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	148		
+ONT_TR_PE_scaff_693_199	K00859	coaE; dephospho-CoA kinase [EC:2.7.1.24]	77		
+ONT_TR_PE_scaff_693_200	K02654	pilD, pppA; leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-]	79	K02464	5
+ONT_TR_PE_scaff_693_201			65		
+ONT_TR_PE_scaff_693_202	K04755	fdx; ferredoxin, 2Fe-2S	81		
+ONT_TR_PE_scaff_693_203	K03702	uvrB; excinuclease ABC subunit B	437		
+ONT_TR_PE_scaff_693_204			55		
+ONT_TR_PE_scaff_693_205					
+ONT_TR_PE_scaff_693_206			9	K00702	1
+ONT_TR_PE_scaff_693_207			135		
+ONT_TR_PE_scaff_693_208	K24821	atm1, pexA; ATP-binding cassette, subfamily B, heavy metal transporter	325		
+ONT_TR_PE_scaff_693_209			125		
+ONT_TR_PE_scaff_693_210	K01159	ruvC; crossover junction endodeoxyribonuclease RuvC [EC:3.1.21.10]	54		
+ONT_TR_PE_scaff_693_211	K03550	ruvA; holliday junction DNA helicase RuvA [EC:5.6.2.4]	74		
+ONT_TR_PE_scaff_693_212	K01960	pycB; pyruvate carboxylase subunit B [EC:6.4.1.1]	352		
+ONT_TR_PE_scaff_693_213	K00558	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	237		
+ONT_TR_PE_scaff_693_214			80		
+ONT_TR_PE_scaff_693_215			12	K01153	1
+ONT_TR_PE_scaff_693_216					
+ONT_TR_PE_scaff_693_217			3	K06193	1
+ONT_TR_PE_scaff_693_218	K01515	nudF; ADP-ribose pyrophosphatase [EC:3.6.1.13 3.6.1.-]	46		
+ONT_TR_PE_scaff_693_219	K00343	nuoN; NADH-quinone oxidoreductase subunit N [EC:7.1.1.2]	210		
+ONT_TR_PE_scaff_693_220	K00342	nuoM; NADH-quinone oxidoreductase subunit M [EC:7.1.1.2]	311		
+ONT_TR_PE_scaff_693_221					
+ONT_TR_PE_scaff_693_222					
+ONT_TR_PE_scaff_693_223	K13581	ccrM; modification methylase [EC:2.1.1.72]	87	K00571	23
+ONT_TR_PE_scaff_693_224	K00341	nuoL; NADH-quinone oxidoreductase subunit L [EC:7.1.1.2]	365		
+ONT_TR_PE_scaff_693_225	K00340	nuoK; NADH-quinone oxidoreductase subunit K [EC:7.1.1.2]	65		
+ONT_TR_PE_scaff_693_226					
+ONT_TR_PE_scaff_693_227	K00339	nuoJ; NADH-quinone oxidoreductase subunit J [EC:7.1.1.2]	92		
+ONT_TR_PE_scaff_693_228	K00305	soxG; sarcosine oxidase, subunit gamma [EC:1.5.3.24 1.5.3.1]	35		
+ONT_TR_PE_scaff_693_229	K00302	soxA; sarcosine oxidase, subunit alpha [EC:1.5.3.24 1.5.3.1]	446		
+ONT_TR_PE_scaff_693_230	K00304	soxD; sarcosine oxidase, subunit delta [EC:1.5.3.24 1.5.3.1]	40	K00302	1
+ONT_TR_PE_scaff_693_231			8		
+ONT_TR_PE_scaff_693_232			12	K05834	3
+ONT_TR_PE_scaff_693_233			6	K05834	4
+ONT_TR_PE_scaff_693_234					
+ONT_TR_PE_scaff_693_235	K08692	mtkB; malate-CoA ligase subunit alpha [EC:6.2.1.9]	228		
+ONT_TR_PE_scaff_693_236	K14067	mtkA; malate-CoA ligase subunit beta [EC:6.2.1.9]	268		
+ONT_TR_PE_scaff_693_237	K08691	mcl; malyl-CoA/(S)-citramalyl-CoA lyase [EC:4.1.3.24 4.1.3.25]	225		
+ONT_TR_PE_scaff_693_238			87		
+ONT_TR_PE_scaff_693_239			11	K06867	9
+ONT_TR_PE_scaff_693_240			31	K03427	1
+ONT_TR_PE_scaff_693_241	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	260		
+ONT_TR_PE_scaff_693_242	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	14		
+ONT_TR_PE_scaff_693_243			19		
+ONT_TR_PE_scaff_693_244					
+ONT_TR_PE_scaff_693_245			2	K22927	1
+ONT_TR_PE_scaff_693_246			7	K03568	1
+ONT_TR_PE_scaff_693_247	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	399		
+ONT_TR_PE_scaff_693_248			95		
+ONT_TR_PE_scaff_693_249			169		
+ONT_TR_PE_scaff_693_250	K13481	xdhA; xanthine dehydrogenase small subunit [EC:1.17.1.4]	189		
+ONT_TR_PE_scaff_693_251	K01487	guaD, GDA; guanine deaminase [EC:3.5.4.3]	284		
+ONT_TR_PE_scaff_693_252			162		
+ONT_TR_PE_scaff_693_253	K02913	RP-L33, MRPL33, rpmG; large subunit ribosomal protein L33	55		
+ONT_TR_PE_scaff_693_254	K02902	RP-L28, MRPL28, rpmB; large subunit ribosomal protein L28	71		
+ONT_TR_PE_scaff_693_255			14	K06867	12
+ONT_TR_PE_scaff_693_256	K07126	K07126; uncharacterized protein	24		
+ONT_TR_PE_scaff_693_257	K01955	carB, CPA2; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	57		
+ONT_TR_PE_scaff_693_258	K01955	carB, CPA2; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	319		
+ONT_TR_PE_scaff_693_259	K01956	carA, CPA1; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	201		
+ONT_TR_PE_scaff_693_260	K03750	moeA; molybdopterin molybdotransferase [EC:2.10.1.1]	190		
+ONT_TR_PE_scaff_693_261			2		
+ONT_TR_PE_scaff_693_262	K01885	EARS, gltX; glutamyl-tRNA synthetase [EC:6.1.1.17]	191		
+ONT_TR_PE_scaff_693_263	K01875	SARS, serS; seryl-tRNA synthetase [EC:6.1.1.11]	225		
+ONT_TR_PE_scaff_693_264	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	105		
+ONT_TR_PE_scaff_693_265	K01091	gph; phosphoglycolate phosphatase [EC:3.1.3.18]	71		
+ONT_TR_PE_scaff_693_266	K01783	rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]	114		
+ONT_TR_PE_scaff_693_267	K06195	apaG; ApaG protein	54		
+ONT_TR_PE_scaff_693_268					
+ONT_TR_PE_scaff_693_269	K07478	ycaJ; putative ATPase	226		
+ONT_TR_PE_scaff_693_270	K03634	lolA; outer membrane lipoprotein carrier protein	44		
+ONT_TR_PE_scaff_693_271	K03711	fur, zur, furB; Fur family transcriptional regulator, ferric uptake regulator	39		
+ONT_TR_PE_scaff_693_272	K06186	bamE, smpA; outer membrane protein assembly factor BamE	20		
+ONT_TR_PE_scaff_693_273	K00215	dapB; 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]	120		
+ONT_TR_PE_scaff_693_274	K00558	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	143		
+ONT_TR_PE_scaff_693_275			48	K05586	1
+ONT_TR_PE_scaff_693_276	K06178	rluB; 23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]	141		
+ONT_TR_PE_scaff_693_277	K02238	comEC; competence protein ComEC	218		
+ONT_TR_PE_scaff_693_278	K14155	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]	185		
+ONT_TR_PE_scaff_693_279					
+ONT_TR_PE_scaff_693_280			2	K02343	1
+ONT_TR_PE_scaff_693_281	K02343	dnaX; DNA polymerase III subunit gamma/tau [EC:2.7.7.7]	130		
+ONT_TR_PE_scaff_693_282	K01142	E3.1.11.2, xthA; exodeoxyribonuclease III [EC:3.1.11.2]	138		
+ONT_TR_PE_scaff_693_283	K00640	cysE; serine O-acetyltransferase [EC:2.3.1.30]	99		
+ONT_TR_PE_scaff_693_284	K00507	SCD, desC; stearoyl-CoA desaturase (Delta-9 desaturase) [EC:1.14.19.1]	119		
+ONT_TR_PE_scaff_693_285	K02114	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon	78		
+ONT_TR_PE_scaff_693_286	K02112	ATPF1B, atpD; F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1]	373		
+ONT_TR_PE_scaff_693_287			3	K00864	1
+ONT_TR_PE_scaff_693_288					
+ONT_TR_PE_scaff_693_289	K02115	ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma	219		
+ONT_TR_PE_scaff_693_290					
+ONT_TR_PE_scaff_693_291			101		
+ONT_TR_PE_scaff_693_292					
+ONT_TR_PE_scaff_693_293			13	K02405	1
+ONT_TR_PE_scaff_693_294			36		
+ONT_TR_PE_scaff_693_295			2	K07736	1
+ONT_TR_PE_scaff_693_296			6		
+ONT_TR_PE_scaff_693_297	K02111	ATPF1A, atpA; F-type H+/Na+-transporting ATPase subunit alpha [EC:7.1.2.2 7.2.2.1]	383		
+ONT_TR_PE_scaff_693_298	K02113	ATPF1D, atpH; F-type H+-transporting ATPase subunit delta	53		
+ONT_TR_PE_scaff_693_299	K02109	ATPF0B, atpF; F-type H+-transporting ATPase subunit b	43		
+ONT_TR_PE_scaff_693_300	K02110	ATPF0C, atpE; F-type H+-transporting ATPase subunit c	17		
+ONT_TR_PE_scaff_693_301	K02108	ATPF0A, atpB; F-type H+-transporting ATPase subunit a	109		
+ONT_TR_PE_scaff_693_302					
+ONT_TR_PE_scaff_693_303			5		
+ONT_TR_PE_scaff_693_304			3		
+ONT_TR_PE_scaff_693_305			170		
+ONT_TR_PE_scaff_693_306	K00558	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	219		
+ONT_TR_PE_scaff_693_307			6		
+ONT_TR_PE_scaff_693_308			196		
+ONT_TR_PE_scaff_693_309	K01519	rdgB, ITPA; XTP/dITP diphosphohydrolase [EC:3.6.1.66]	130		
+ONT_TR_PE_scaff_693_310	K02968	RP-S20, rpsT; small subunit ribosomal protein S20	21		
+ONT_TR_PE_scaff_693_311					
+ONT_TR_PE_scaff_693_312			1	K04763	1
+ONT_TR_PE_scaff_693_313			21		
+ONT_TR_PE_scaff_693_314	K01414	prlC; oligopeptidase A [EC:3.4.24.70]	320		
+ONT_TR_PE_scaff_693_315			76		
+ONT_TR_PE_scaff_693_316			122		
+ONT_TR_PE_scaff_693_317			67		
+ONT_TR_PE_scaff_693_318			126		
+ONT_TR_PE_scaff_693_319	K21307	soeA; sulfite dehydrogenase (quinone) subunit SoeA [EC:1.8.5.6]	532		
+ONT_TR_PE_scaff_693_320	K05810	LACC1, yfiH; purine-nucleoside/S-methyl-5'-thioadenosine phosphorylase / adenosine deaminase [EC:2.4.2.1 2.4.2.28 3.5.4.4]	133		
+ONT_TR_PE_scaff_693_321	K06180	rluD; 23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]	125		
+ONT_TR_PE_scaff_693_322	K05807	bamD; outer membrane protein assembly factor BamD	82		
+ONT_TR_PE_scaff_693_323	K04567	KARS, lysS; lysyl-tRNA synthetase, class II [EC:6.1.1.6]	268		
+ONT_TR_PE_scaff_693_324			52		
+ONT_TR_PE_scaff_693_325			166		
+ONT_TR_PE_scaff_693_326			9	K06879	1
+ONT_TR_PE_scaff_693_327					
+ONT_TR_PE_scaff_693_328			395		
+ONT_TR_PE_scaff_693_329	K00605	gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]	252		
+ONT_TR_PE_scaff_693_330	K01810	GPI, pgi; glucose-6-phosphate isomerase [EC:5.3.1.9]	364		
+ONT_TR_PE_scaff_693_331			169		
+ONT_TR_PE_scaff_693_332			1		
+ONT_TR_PE_scaff_693_333			14		
+ONT_TR_PE_scaff_693_334			31		
+ONT_TR_PE_scaff_693_335			2	K06015	1
+ONT_TR_PE_scaff_693_336					
+ONT_TR_PE_scaff_693_337	K04077	groEL, HSPD1; chaperonin GroEL [EC:5.6.1.7]	384		
+ONT_TR_PE_scaff_693_338	K04078	groES, HSPE1; chaperonin GroES	77		
+ONT_TR_PE_scaff_693_339	K03110	ftsY; fused signal recognition particle receptor	82		
+ONT_TR_PE_scaff_693_340			31		
+ONT_TR_PE_scaff_693_341	K03071	secB; preprotein translocase subunit SecB	54		
+ONT_TR_PE_scaff_693_342			54		
+ONT_TR_PE_scaff_693_343	K03723	mfd; transcription-repair coupling factor (superfamily II helicase) [EC:5.6.2.4]	387		
+ONT_TR_PE_scaff_693_344					
+ONT_TR_PE_scaff_693_345			158		
+ONT_TR_PE_scaff_693_346					
+ONT_TR_PE_scaff_693_347	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	306		
+ONT_TR_PE_scaff_693_348	K02033	ABC.PE.P; peptide/nickel transport system permease protein	180		
+ONT_TR_PE_scaff_693_349	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	192		
+ONT_TR_PE_scaff_693_350	K02031	ddpD; peptide/nickel transport system ATP-binding protein	312		
+	K02032	ddpF; peptide/nickel transport system ATP-binding protein			
+ONT_TR_PE_scaff_693_351			1	K06283	1
+ONT_TR_PE_scaff_693_352					
+ONT_TR_PE_scaff_693_353					
+ONT_TR_PE_scaff_693_354	K03592	pmbA; PmbA protein	197		
+ONT_TR_PE_scaff_693_355			93		
+ONT_TR_PE_scaff_693_356	K02302	cysG; uroporphyrin-III C-methyltransferase / precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:2.1.1.107 1.3.1.76 4.99.1.4]	216		
+ONT_TR_PE_scaff_693_357	K00380	cysJ; sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	242		
+ONT_TR_PE_scaff_693_358	K00381	cysI; sulfite reductase (NADPH) hemoprotein beta-component [EC:1.8.1.2]	338		
+ONT_TR_PE_scaff_693_359	K07640	cpxA; two-component system, OmpR family, sensor histidine kinase CpxA [EC:2.7.13.3]	31		
+ONT_TR_PE_scaff_693_360					
+ONT_TR_PE_scaff_693_361	K06006	cpxP, spy; periplasmic protein CpxP/Spy	11		
+ONT_TR_PE_scaff_693_362	K01624	FBA, fbaA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]	311		
+ONT_TR_PE_scaff_693_363	K02258	COX11, ctaG; cytochrome c oxidase assembly protein subunit 11	83		
+ONT_TR_PE_scaff_693_364			20		
+ONT_TR_PE_scaff_693_365	K02276	coxC, ctaE; cytochrome c oxidase subunit III [EC:7.1.1.9]	179		
+ONT_TR_PE_scaff_693_366			2	K03466	1
+ONT_TR_PE_scaff_693_367	K02503	HINT1, hinT, hit; histidine triad (HIT) family protein	77		
+ONT_TR_PE_scaff_693_368			76		
+ONT_TR_PE_scaff_693_369					
+ONT_TR_PE_scaff_693_370	K01637	E4.1.3.1, aceA; isocitrate lyase [EC:4.1.3.1]	364		
+ONT_TR_PE_scaff_693_371	K01638	aceB, glcB; malate synthase [EC:2.3.3.9]	251		
+ONT_TR_PE_scaff_693_372	K01477	alc, ALLC; allantoicase [EC:3.5.3.4]	197		
+ONT_TR_PE_scaff_693_373	K16842	hpxB; allantoinase [EC:3.5.2.5]	11	K01483	3
+ONT_TR_PE_scaff_693_374	K03646	tolA; colicin import membrane protein	12		
+ONT_TR_PE_scaff_693_375	K03560	tolR; biopolymer transport protein TolR	43		
+ONT_TR_PE_scaff_693_376	K03562	tolQ; biopolymer transport protein TolQ	84		
+ONT_TR_PE_scaff_693_377	K06194	nlpD; lipoprotein NlpD	76		
+ONT_TR_PE_scaff_693_378	K03787	surE; 5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]	157		
+ONT_TR_PE_scaff_693_379			47		
+ONT_TR_PE_scaff_693_380	K04764	ihfA, himA; integration host factor subunit alpha	28		
+ONT_TR_PE_scaff_693_381	K01890	FARSB, pheT; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	275		
+ONT_TR_PE_scaff_693_382	K01889	FARSA, pheS; phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	168		
+ONT_TR_PE_scaff_693_383	K02887	RP-L20, MRPL20, rplT; large subunit ribosomal protein L20	78		
+ONT_TR_PE_scaff_693_384	K02916	RP-L35, MRPL35, rpmI; large subunit ribosomal protein L35	29		
+ONT_TR_PE_scaff_693_385	K02520	infC, MTIF3; translation initiation factor IF-3	83		
+ONT_TR_PE_scaff_693_386			68		
+ONT_TR_PE_scaff_693_387					
+ONT_TR_PE_scaff_693_388			14	K22469	1
+ONT_TR_PE_scaff_693_389	K01703	leuC, IPMI-L; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	444		
+ONT_TR_PE_scaff_693_390	K07140	K07140; uncharacterized protein	75		
+ONT_TR_PE_scaff_693_391	K06888	K06888; uncharacterized protein	334		
+ONT_TR_PE_scaff_693_392	K01876	DARS2, aspS; aspartyl-tRNA synthetase [EC:6.1.1.12]	333		
+ONT_TR_PE_scaff_693_393	K01907	AACS, acsA; acetoacetyl-CoA synthetase [EC:6.2.1.16]	343		
+ONT_TR_PE_scaff_693_394	K12685	ssp; subtilase-type serine protease [EC:3.4.21.-]	16		
+ONT_TR_PE_scaff_693_395	K12255	gbuA; guanidinobutyrase [EC:3.5.3.7]	244		
+ONT_TR_PE_scaff_693_396	K15552	tauC; taurine transport system permease protein	76		
+ONT_TR_PE_scaff_693_397					
+ONT_TR_PE_scaff_693_398	K10831	tauB; taurine transport system ATP-binding protein [EC:7.6.2.7]	180		
+ONT_TR_PE_scaff_693_399	K15551	tauA; taurine transport system substrate-binding protein	108		
+ONT_TR_PE_scaff_693_400	K15552	tauC; taurine transport system permease protein	172		
+ONT_TR_PE_scaff_693_401	K10831	tauB; taurine transport system ATP-binding protein [EC:7.6.2.7]	160		
+ONT_TR_PE_scaff_693_402	K15551	tauA; taurine transport system substrate-binding protein	177		
+ONT_TR_PE_scaff_693_403	K06991	K06991; uncharacterized protein	88		
+ONT_TR_PE_scaff_693_404	K00826	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]	276		
+ONT_TR_PE_scaff_693_405			16		
+ONT_TR_PE_scaff_693_406			121		
+ONT_TR_PE_scaff_693_407	K01867	WARS, trpS; tryptophanyl-tRNA synthetase [EC:6.1.1.2]	201		
+ONT_TR_PE_scaff_693_408	K05896	scpA; segregation and condensation protein A	84		
+ONT_TR_PE_scaff_693_409	K06024	scpB; segregation and condensation protein B	56		
+ONT_TR_PE_scaff_693_410					
+ONT_TR_PE_scaff_693_411			41		
+ONT_TR_PE_scaff_693_412	K10773	NTH; endonuclease III [EC:4.2.99.18]	128		
+ONT_TR_PE_scaff_693_413			7	K02456	1
+ONT_TR_PE_scaff_693_414			7	K02456	1
+ONT_TR_PE_scaff_693_415			9	K02838	1
+ONT_TR_PE_scaff_693_416					
+ONT_TR_PE_scaff_693_417			11	K02380	1
+ONT_TR_PE_scaff_693_418	K02339	holC; DNA polymerase III subunit chi [EC:2.7.7.7]	35		
+ONT_TR_PE_scaff_693_419	K01255	CARP, pepA; leucyl aminopeptidase [EC:3.4.11.1]	203		
+ONT_TR_PE_scaff_693_420	K07091	lptF; lipopolysaccharide export system permease protein	53		
+ONT_TR_PE_scaff_693_421	K11720	lptG; lipopolysaccharide export system permease protein	40		
+ONT_TR_PE_scaff_693_422	K00992	murU; N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase [EC:2.7.7.99]	82		
+ONT_TR_PE_scaff_693_423	K07102	amgK; N-acetylmuramate 1-kinase [EC:2.7.1.221]	90		
+ONT_TR_PE_scaff_693_424	K04744	lptD, imp, ostA; LPS-assembly protein	83		
+ONT_TR_PE_scaff_693_425	K00568	ubiG; 2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64]	85		
+ONT_TR_PE_scaff_693_426	K22292	mupP; N-acetyl-D-muramate 6-phosphate phosphatase [EC:3.1.3.105]	64		
+ONT_TR_PE_scaff_693_427	K09931	K09931; uncharacterized protein	61		
+ONT_TR_PE_scaff_693_428	K01915	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]	139		
+ONT_TR_PE_scaff_693_429	K00259	ald; alanine dehydrogenase [EC:1.4.1.1]	212		
+ONT_TR_PE_scaff_693_430	K02337	dnaE; DNA polymerase III subunit alpha [EC:2.7.7.7]	398		
+ONT_TR_PE_scaff_693_431			7	K07222	1
+ONT_TR_PE_scaff_693_432			60		
+ONT_TR_PE_scaff_693_433	K03070	secA; preprotein translocase subunit SecA [EC:7.4.2.8]	484		
+ONT_TR_PE_scaff_693_434	K01520	dut, DUT; dUTP pyrophosphatase [EC:3.6.1.23]	119		
+ONT_TR_PE_scaff_693_435			20	K00721	1
+ONT_TR_PE_scaff_693_436	K18649	IMPL2; inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase [EC:3.1.3.25 3.1.3.93 3.1.3.15]	108		
+ONT_TR_PE_scaff_693_437			69		
+ONT_TR_PE_scaff_693_438					
+ONT_TR_PE_scaff_693_439					
+ONT_TR_PE_scaff_693_440			1	K07458	1
+ONT_TR_PE_scaff_693_441					
+ONT_TR_PE_scaff_693_442			2	K03657	1
+ONT_TR_PE_scaff_693_443			1		
+ONT_TR_PE_scaff_693_444			1	K02456	1
+ONT_TR_PE_scaff_693_445			2		
+ONT_TR_PE_scaff_693_446					
+ONT_TR_PE_scaff_693_447	K02653	pilC; type IV pilus assembly protein PilC	14	K02505	3
+ONT_TR_PE_scaff_693_448	K02454	gspE; general secretion pathway protein E [EC:7.4.2.8]	34		
+ONT_TR_PE_scaff_693_449			1	K02042	1
+ONT_TR_PE_scaff_693_450			2	K01051	1
+ONT_TR_PE_scaff_693_451	K12282	mshL; MSHA biogenesis protein MshL	17	K02453	4
+ONT_TR_PE_scaff_693_452					
+ONT_TR_PE_scaff_693_453	K01262	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]	140		
+ONT_TR_PE_scaff_693_454	K03185	ubiH; 2-octaprenyl-6-methoxyphenol hydroxylase [EC:1.14.13.-]	46		
+ONT_TR_PE_scaff_693_455	K01491	folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	158		
+ONT_TR_PE_scaff_693_456	K09695	nodI; lipooligosaccharide transport system ATP-binding protein	158		
+ONT_TR_PE_scaff_693_457	K09694	nodJ; lipooligosaccharide transport system permease protein	177		
+ONT_TR_PE_scaff_693_458	K08973	hemJ; protoporphyrinogen IX oxidase [EC:1.3.99.-]	70		
+ONT_TR_PE_scaff_693_459					
+ONT_TR_PE_scaff_693_460	K03695	clpB; ATP-dependent Clp protease ATP-binding subunit ClpB	466		
+ONT_TR_PE_scaff_693_461	K08309	slt; soluble lytic murein transglycosylase [EC:4.2.2.-]	108		
+ONT_TR_PE_scaff_693_462	K01724	PCBD, phhB; 4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]	45		
+ONT_TR_PE_scaff_693_463	K06204	dksA; DnaK suppressor protein	58		
+ONT_TR_PE_scaff_693_464	K02897	RP-L25, rplY; large subunit ribosomal protein L25	71		
+ONT_TR_PE_scaff_693_465	K00948	PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	185		
+ONT_TR_PE_scaff_693_466	K00919	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]	78		
+ONT_TR_PE_scaff_693_467	K02494	lolB; outer membrane lipoprotein LolB	32		
+ONT_TR_PE_scaff_693_468			39		
+ONT_TR_PE_scaff_693_469			1	K12132	1
+ONT_TR_PE_scaff_693_470			26	K03427	1
+ONT_TR_PE_scaff_693_471			10	K00333	1
+ONT_TR_PE_scaff_693_472			51		
+ONT_TR_PE_scaff_693_473			169		
+ONT_TR_PE_scaff_693_474	K01273	DPEP; membrane dipeptidase [EC:3.4.13.19]	240		
+ONT_TR_PE_scaff_693_475	K22187	xylA; alpha-ketoglutaric semialdehyde dehydrogenase [EC:1.2.1.-]	430		
+ONT_TR_PE_scaff_693_476			52		
+ONT_TR_PE_scaff_693_477			132		
+ONT_TR_PE_scaff_693_478	K20034	dmdB; 3-(methylthio)propionyl---CoA ligase [EC:6.2.1.44]	288		
+ONT_TR_PE_scaff_693_479			12		
+ONT_TR_PE_scaff_693_480	K00163	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1]	598		
+ONT_TR_PE_scaff_693_481			52		
+ONT_TR_PE_scaff_693_482			211		
+ONT_TR_PE_scaff_693_483					
+ONT_TR_PE_scaff_693_484			69		
+ONT_TR_PE_scaff_693_485	K06997	yggS, PROSC; PLP dependent protein	123		
+ONT_TR_PE_scaff_693_486	K00286	proC; pyrroline-5-carboxylate reductase [EC:1.5.1.2]	87		
+ONT_TR_PE_scaff_693_487	K01681	ACO, acnA; aconitate hydratase [EC:4.2.1.3]	745		
+ONT_TR_PE_scaff_693_488	K03566	gcvA; LysR family transcriptional regulator, glycine cleavage system transcriptional activator	81		
+ONT_TR_PE_scaff_693_489			3	K08982	1
+ONT_TR_PE_scaff_693_490			72		
+ONT_TR_PE_scaff_693_491	K17103	CHO1, pssA; CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8]	91		
+ONT_TR_PE_scaff_693_492	K01613	psd, PISD; phosphatidylserine decarboxylase [EC:4.1.1.65]	102		
+ONT_TR_PE_scaff_693_493	K00053	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	244		
+ONT_TR_PE_scaff_693_494	K00281	GLDC, gcvP; glycine dehydrogenase [EC:1.4.4.2]	473		
+ONT_TR_PE_scaff_693_495	K02437	gcvH, GCSH; glycine cleavage system H protein	64		
+ONT_TR_PE_scaff_693_496	K00605	gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]	201		
+ONT_TR_PE_scaff_693_497			3		
+ONT_TR_PE_scaff_693_498			39		
+ONT_TR_PE_scaff_693_499	K08998	K08998; uncharacterized protein	38		
+ONT_TR_PE_scaff_693_500	K01883	CARS, cysS; cysteinyl-tRNA synthetase [EC:6.1.1.16]	235		
+ONT_TR_PE_scaff_693_501	K03548	perM; putative permease	164		
+ONT_TR_PE_scaff_693_502	K00254	DHODH, pyrD; dihydroorotate dehydrogenase [EC:1.3.5.2]	159		
+ONT_TR_PE_scaff_693_503	K01139	spoT; GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]	287		
+ONT_TR_PE_scaff_693_504	K03060	rpoZ; DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]	17		
+ONT_TR_PE_scaff_693_505	K00942	gmk, GUK1; guanylate kinase [EC:2.7.4.8]	83		
+ONT_TR_PE_scaff_693_506	K01620	ltaE; threonine aldolase [EC:4.1.2.48]	161		
+ONT_TR_PE_scaff_693_507			119		
+ONT_TR_PE_scaff_693_508	K02029	ABC.PA.P; polar amino acid transport system permease protein	252		
+ONT_TR_PE_scaff_693_509	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	155		
+ONT_TR_PE_scaff_693_510	K01591	pyrF; orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	142		
+ONT_TR_PE_scaff_693_511			2	K06178	1
+ONT_TR_PE_scaff_693_512			2	K03529	1
+ONT_TR_PE_scaff_693_513			5	K03366	1
+ONT_TR_PE_scaff_693_514			4	K02470	1
+ONT_TR_PE_scaff_693_515			115		
+ONT_TR_PE_scaff_693_516			124		
+ONT_TR_PE_scaff_693_517			3	K07025	1
+ONT_TR_PE_scaff_693_518	K24290	tmpB; [1-hydroxy-2-(trimethylamino)ethyl]phosphonate dioxygenase [EC:1.13.11.90]	89		
+ONT_TR_PE_scaff_693_519	K24291	tmpA; [2-(trimethylamino)ethyl]phosphonate dioxygenase [EC:1.14.11.72]	142		
+ONT_TR_PE_scaff_693_520			20		
+ONT_TR_PE_scaff_693_521	K01887	RARS, argS; arginyl-tRNA synthetase [EC:6.1.1.19]	201		
+ONT_TR_PE_scaff_693_522			92		
+ONT_TR_PE_scaff_693_523	K09007	folE2; GTP cyclohydrolase IB [EC:3.5.4.16]	120		
+ONT_TR_PE_scaff_693_524			61		
+ONT_TR_PE_scaff_693_525			13	K01692	1
+ONT_TR_PE_scaff_693_526			4	K07100	2
+ONT_TR_PE_scaff_693_527	K05996	cpt; carboxypeptidase T [EC:3.4.17.18]	58		
+ONT_TR_PE_scaff_693_528	K03553	recA; recombination protein RecA	219		
+ONT_TR_PE_scaff_693_529	K02379	fdhD; FdhD protein	199		
+ONT_TR_PE_scaff_693_530	K03639	moaA, CNX2; GTP 3',8-cyclase [EC:4.1.99.22]	192		
+ONT_TR_PE_scaff_693_531			3	K03643	2
+ONT_TR_PE_scaff_693_532	K02340	holA; DNA polymerase III subunit delta [EC:2.7.7.7]	38		
+ONT_TR_PE_scaff_693_533	K00147	proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	282		
+ONT_TR_PE_scaff_693_534	K01174	nuc; micrococcal nuclease [EC:3.1.31.1]	20		
+ONT_TR_PE_scaff_693_535			2	K00817	1
+ONT_TR_PE_scaff_693_536			2	K07164	1
+ONT_TR_PE_scaff_693_537			4	K03406	2
+ONT_TR_PE_scaff_693_538			30		
+ONT_TR_PE_scaff_693_539			20	K07003	1
+ONT_TR_PE_scaff_693_540	K00831	serC, PSAT1; phosphoserine aminotransferase [EC:2.6.1.52]	242		
+ONT_TR_PE_scaff_693_541	K03734	apbE; FAD:protein FMN transferase [EC:2.7.1.180]	146		
+ONT_TR_PE_scaff_693_542	K01920	gshB; glutathione synthase [EC:6.3.2.3]	115		
+ONT_TR_PE_scaff_693_543					
+ONT_TR_PE_scaff_693_544			44		
+ONT_TR_PE_scaff_693_545					
+ONT_TR_PE_scaff_693_546			53	K00135	1
+ONT_TR_PE_scaff_693_547	K00020	HIBADH, mmsB; 3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]	199		
+ONT_TR_PE_scaff_693_548			129		
+ONT_TR_PE_scaff_693_549	K09698	gltX; nondiscriminating glutamyl-tRNA synthetase [EC:6.1.1.24]	179		
+ONT_TR_PE_scaff_693_550					
+ONT_TR_PE_scaff_693_551	K03768	PPIB, ppiB; peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	104		
+ONT_TR_PE_scaff_693_552	K03269	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]	76		
+ONT_TR_PE_scaff_693_553					
+ONT_TR_PE_scaff_693_554			52		
+ONT_TR_PE_scaff_693_555	K17938	sbmA, bacA; peptide/bleomycin uptake transporter	131		
+ONT_TR_PE_scaff_693_556			1	K02558	1
+ONT_TR_PE_scaff_693_557			11		
+ONT_TR_PE_scaff_693_558			4	K08679	1
+ONT_TR_PE_scaff_693_559	K00606	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	151		
+ONT_TR_PE_scaff_693_560	K01918	panC; pantoate--beta-alanine ligase [EC:6.3.2.1]	132		
+ONT_TR_PE_scaff_693_561	K00821	argD; acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17]	187		
+ONT_TR_PE_scaff_693_562	K01627	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	139		
+ONT_TR_PE_scaff_693_563	K01937	pyrG, CTPS; CTP synthase [EC:6.3.4.2]	314		
+ONT_TR_PE_scaff_693_564	K02275	coxB, ctaC; cytochrome c oxidase subunit II [EC:7.1.1.9]	175		
+ONT_TR_PE_scaff_693_565	K01962	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]	205		
+ONT_TR_PE_scaff_693_566	K04075	tilS, mesJ; tRNA(Ile)-lysidine synthase [EC:6.3.4.19]	95		
+ONT_TR_PE_scaff_693_567			501		
+ONT_TR_PE_scaff_693_568			1	K01607	1
+ONT_TR_PE_scaff_693_569			71	K07317	35
+ONT_TR_PE_scaff_693_570			28		
+ONT_TR_PE_scaff_693_571			2	K00858	1
+ONT_TR_PE_scaff_693_572			1		
+ONT_TR_PE_scaff_693_573	K01754	E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]	246		
+ONT_TR_PE_scaff_693_574	K01714	dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]	170		
+ONT_TR_PE_scaff_693_575	K07287	bamC; outer membrane protein assembly factor BamC	78		
+ONT_TR_PE_scaff_693_576			107		
+ONT_TR_PE_scaff_693_577	K00773	tgt; queuine tRNA-ribosyltransferase [EC:2.4.2.29]	282		
+ONT_TR_PE_scaff_693_578	K07568	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.17]	207		
+ONT_TR_PE_scaff_693_579	K03572	mutL; DNA mismatch repair protein MutL	186		
+ONT_TR_PE_scaff_693_580	K01448	amiABC; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]	112		
+ONT_TR_PE_scaff_693_581	K06925	tsaE; tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	39		
+ONT_TR_PE_scaff_693_582	K01950	E6.3.5.1, NADSYN1, QNS1, nadE; NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1]	166	K01916	37
+ONT_TR_PE_scaff_693_583			3	K15125	1
+ONT_TR_PE_scaff_693_584			2	K19338	1
+ONT_TR_PE_scaff_693_585	K00338	nuoI; NADH-quinone oxidoreductase subunit I [EC:7.1.1.2]	128		
+ONT_TR_PE_scaff_693_586			8	K07037	1
+ONT_TR_PE_scaff_693_587			194		
+ONT_TR_PE_scaff_693_588	K03744	lemA; LemA protein	20		
+ONT_TR_PE_scaff_693_589	K03744	lemA; LemA protein	27		

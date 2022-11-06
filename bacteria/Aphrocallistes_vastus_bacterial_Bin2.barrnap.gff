@@ -1,0 +1,3 @@
+##gff-version 3
+Aphrocallistes_vastus_Bin2	barrnap:0.9	rRNA	486348	487843	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+Aphrocallistes_vastus_Bin2	barrnap:0.9	rRNA	1458446	1461485	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
