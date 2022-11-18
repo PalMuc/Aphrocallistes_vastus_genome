@@ -1,0 +1,160 @@
+"GO.ID";"GO.colors";"GO.Terms.GOID";"GO.Terms.TERM";"Term";"Annotated";"Significant";"Expected";"classicFisher";"GO.IC"
+"GO:0000096";"turquoise";"GO:0000096";"sulfur amino acid metabolic process";"sulfur amino acid metabolic process";24;2;0,32;0,03909;7,60430691421448
+"GO:0000097";"turquoise";"GO:0000097";"sulfur amino acid biosynthetic process";"sulfur amino acid biosynthetic process";14;2;0,18;0,01403;8,49527983810435
+"GO:0000272";"black";"GO:0000272";"polysaccharide catabolic process";"polysaccharide catabolic process";15;3;0,2;0,00089;8,32342958117769
+"GO:0001704";"brown";"GO:0001704";"formation of primary germ layer";"formation of primary germ layer";77;4;1,01;0,0183;6,80196044168954
+"GO:0001707";"brown";"GO:0001707";"mesoderm formation";"mesoderm formation";62;4;0,81;0,00876;7,12473383395259
+"GO:0001893";"brown";"GO:0001893";"maternal placenta development";"maternal placenta development";25;2;0,33;0,04214;8,04899273547593
+"GO:0003071";"blue";"GO:0003071";"renal system process involved in regulation of systemic arterial blood pressure";"renal system process involved in regulat...";25;2;0,33;0,04214;8,00977202232264
+"GO:0003146";"brown";"GO:0003146";"heart jogging";"heart jogging";11;2;0,14;0,0087;8,86997328754576
+"GO:0003171";"brown";"GO:0003171";"atrioventricular valve development";"atrioventricular valve development";11;2;0,14;0,0087;8,78296191055613
+"GO:0003188";"brown";"GO:0003188";"heart valve formation";"heart valve formation";7;2;0,09;0,00344;9,32195841128881
+"GO:0003197";"brown";"GO:0003197";"endocardial cushion development";"endocardial cushion development";39;3;0,51;0,01429;7,53019894206076
+"GO:0003207";"brown";"GO:0003207";"cardiac chamber formation";"cardiac chamber formation";9;2;0,12;0,00579;9,07064398300791
+"GO:0003208";"brown";"GO:0003208";"cardiac ventricle morphogenesis";"cardiac ventricle morphogenesis";38;3;0,5;0,01332;7,41772095863407
+"GO:0003209";"brown";"GO:0003209";"cardiac atrium morphogenesis";"cardiac atrium morphogenesis";18;2;0,24;0,0228;8,17682610698581
+"GO:0003214";"brown";"GO:0003214";"cardiac left ventricle morphogenesis";"cardiac left ventricle morphogenesis";5;2;0,07;0,00167;9,65843064791003
+"GO:0003230";"brown";"GO:0003230";"cardiac atrium development";"cardiac atrium development";23;2;0,3;0,03614;7,93566405016892
+"GO:0003231";"brown";"GO:0003231";"cardiac ventricle development";"cardiac ventricle development";57;3;0,75;0,03865;6,86114931307987
+"GO:0003283";"brown";"GO:0003283";"atrial septum development";"atrial septum development";18;2;0,24;0,0228;8,17682610698581
+"GO:0003344";"brown";"GO:0003344";"pericardium morphogenesis";"pericardium morphogenesis";6;2;0,08;0,00248;9,47610909111607
+"GO:0005975";"black";"GO:0005975";"carbohydrate metabolic process";"carbohydrate metabolic process";263;8;3,45;0,02211;5,38176452889397
+"GO:0005976";"black";"GO:0005976";"polysaccharide metabolic process";"polysaccharide metabolic process";58;3;0,76;0,04038;6,99120244132807
+"GO:0006073";"black";"GO:0006073";"cellular glucan metabolic process";"cellular glucan metabolic process";37;3;0,49;0,01238;7,41772095863407
+"GO:0006091";"yellow";"GO:0006091";"generation of precursor metabolites and energy";"generation of precursor metabolites and ...";242;7;3,18;0,03974;5,67315718074229
+"GO:0006098";"yellow";"GO:0006098";"pentose-phosphate shunt";"pentose-phosphate shunt";10;3;0,13;0,00025;8,96528346735008
+"GO:0006555";"turquoise";"GO:0006555";"methionine metabolic process";"methionine metabolic process";10;2;0,13;0,00718;8,96528346735008
+"GO:0006568";"turquoise";"GO:0006568";"tryptophan metabolic process";"tryptophan metabolic process";16;2;0,21;0,01819;8,37749680244796
+"GO:0006575";"turquoise";"GO:0006575";"cellular modified amino acid metabolic process";"cellular modified amino acid metabolic p...";87;4;1,14;0,02727;6,70352036887629
+"GO:0006576";"turquoise";"GO:0006576";"cellular biogenic amine metabolic process";"cellular biogenic amine metabolic proces...";58;6;0,76;1e-04;6,96380346713996
+"GO:0006584";"turquoise";"GO:0006584";"catecholamine metabolic process";"catecholamine metabolic process";24;2;0,32;0,03909;7,93566405016892
+"GO:0006586";"turquoise";"GO:0006586";"indolalkylamine metabolic process";"indolalkylamine metabolic process";16;2;0,21;0,01819;8,37749680244796
+"GO:0006590";"turquoise";"GO:0006590";"thyroid hormone generation";"thyroid hormone generation";8;3;0,11;0,00012;9,18842701866429
+"GO:0006665";"turquoise";"GO:0006665";"sphingolipid metabolic process";"sphingolipid metabolic process";95;4;1,25;0,03605;6,31910866996596
+"GO:0006739";"yellow";"GO:0006739";"NADP metabolic process";"NADP metabolic process";22;3;0,29;0,00283;8,13237434441498
+"GO:0006740";"yellow";"GO:0006740";"NADPH regeneration";"NADPH regeneration";10;3;0,13;0,00025;8,96528346735008
+"GO:0006766";"yellow";"GO:0006766";"vitamin metabolic process";"vitamin metabolic process";89;4;1,17;0,02933;6,59503972588222
+"GO:0006790";"yellow";"GO:0006790";"sulfur compound metabolic process";"sulfur compound metabolic process";219;7;2,88;0,02493;5,59111475807585
+"GO:0007498";"brown";"GO:0007498";"mesoderm development";"mesoderm development";97;4;1,27;0,03847;6,55833835903179
+"GO:0009066";"turquoise";"GO:0009066";"aspartate family amino acid metabolic process";"aspartate family amino acid metabolic pr...";46;3;0,6;0,02223;7,24251686960898
+"GO:0009067";"turquoise";"GO:0009067";"aspartate family amino acid biosynthetic process";"aspartate family amino acid biosynthetic...";18;2;0,24;0,0228;8,27213628679014
+"GO:0009072";"turquoise";"GO:0009072";"aromatic amino acid family metabolic process";"aromatic amino acid family metabolic pro...";27;2;0,35;0,04847;7,63028240061774
+"GO:0009086";"turquoise";"GO:0009086";"methionine biosynthetic process";"methionine biosynthetic process";8;2;0,11;0,00454;9,18842701866429
+"GO:0009251";"black";"GO:0009251";"glucan catabolic process";"glucan catabolic process";10;2;0,13;0,00718;8,78296191055613
+"GO:0009268";"red";"GO:0009268";"response to pH";"response to pH";27;2;0,35;0,04847;7,83388135585898
+"GO:0009308";"turquoise";"GO:0009308";"amine metabolic process";"amine metabolic process";76;7;1;5,8e-05;6,73526906719087
+"GO:0009581";"red";"GO:0009581";"detection of external stimulus";"detection of external stimulus";86;4;1,13;0,02627;6,76805889001386
+"GO:0009582";"red";"GO:0009582";"detection of abiotic stimulus";"detection of abiotic stimulus";86;4;1,13;0,02627;6,76805889001386
+"GO:0009605";"red";"GO:0009605";"response to external stimulus";"response to external stimulus";1434;27;18,83;0,0291;3,41659656323424
+"GO:0009712";"turquoise";"GO:0009712";"catechol-containing compound metabolic process";"catechol-containing compound metabolic p...";24;2;0,32;0,03909;7,93566405016892
+"GO:0010035";"red";"GO:0010035";"response to inorganic substance";"response to inorganic substance";431;14;5,66;0,00145;4,84624629253761
+"GO:0010038";"red";"GO:0010038";"response to metal ion";"response to metal ion";271;9;3,56;0,00912;5,43013811317819
+"GO:0010044";"red";"GO:0010044";"response to aluminum ion";"response to aluminum ion";12;2;0,16;0,01035;8,78296191055613
+"GO:0010447";"red";"GO:0010447";"response to acidic pH";"response to acidic pH";15;2;0,2;0,01605;8,55981835924192
+"GO:0010466";"pink";"GO:0010466";"negative regulation of peptidase activity";"negative regulation of peptidase activit...";47;5;0,62;0,00035;7,3166248417627
+"GO:0010559";"pink";"GO:0010559";"regulation of glycoprotein biosynthetic process";"regulation of glycoprotein biosynthetic ...";17;2;0,22;0,02044;8,32342958117769
+"GO:0010817";"blue";"GO:0010817";"regulation of hormone levels";"regulation of hormone levels";245;8;3,22;0,01508;5,60490808020818
+"GO:0010951";"pink";"GO:0010951";"negative regulation of endopeptidase activity";"negative regulation of endopeptidase act...";42;4;0,55;0,00215;7,53019894206076
+"GO:0010977";"blue";"GO:0010977";"negative regulation of neuron projection development";"negative regulation of neuron projection...";93;5;1,22;0,00741;6,66269837435604
+"GO:0014855";"blue";"GO:0014855";"striated muscle cell proliferation";"striated muscle cell proliferation";51;3;0,67;0,02909;7,26053537511166
+"GO:0016052";"black";"GO:0016052";"carbohydrate catabolic process";"carbohydrate catabolic process";75;4;0,99;0,01676;6,80196044168954
+"GO:0016486";"turquoise";"GO:0016486";"peptide hormone processing";"peptide hormone processing";9;2;0,12;0,00579;8,96528346735008
+"GO:0018958";"turquoise";"GO:0018958";"phenol-containing compound metabolic process";"phenol-containing compound metabolic pro...";90;7;1,18;0,00017;6,60442946623206
+"GO:0019321";"black";"GO:0019321";"pentose metabolic process";"pentose metabolic process";15;2;0,2;0,01605;8,55981835924192
+"GO:0019359";"turquoise";"GO:0019359";"nicotinamide nucleotide biosynthetic process";"nicotinamide nucleotide biosynthetic pro...";14;2;0,18;0,01403;8,62881123072887
+"GO:0019362";"turquoise";"GO:0019362";"pyridine nucleotide metabolic process";"pyridine nucleotide metabolic process";17;2;0,22;0,02044;8,37749680244796
+"GO:0019363";"turquoise";"GO:0019363";"pyridine nucleotide biosynthetic process";"pyridine nucleotide biosynthetic process";16;2;0,21;0,01819;8,43465521628791
+"GO:0019432";"yellow";"GO:0019432";"triglyceride biosynthetic process";"triglyceride biosynthetic process";21;2;0,28;0,03051;8,2233461226207
+"GO:0019637";"yellow";"GO:0019637";"organophosphate metabolic process";"organophosphate metabolic process";476;12;6,25;0,02183;4,63323520248244
+"GO:0019693";"yellow";"GO:0019693";"ribose phosphate metabolic process";"ribose phosphate metabolic process";214;7;2,81;0,02231;5,57413642154143
+"GO:0021517";"brown";"GO:0021517";"ventral spinal cord development";"ventral spinal cord development";25;2;0,33;0,04214;7,83388135585898
+"GO:0021522";"brown";"GO:0021522";"spinal cord motor neuron differentiation";"spinal cord motor neuron differentiation";18;2;0,24;0,0228;8,32342958117769
+"GO:0021675";"brown";"GO:0021675";"nerve development";"nerve development";53;3;0,7;0,03212;7,0782138183177
+"GO:0030212";"yellow";"GO:0030212";"hyaluronan metabolic process";"hyaluronan metabolic process";9;2;0,12;0,00579;9,07064398300791
+"GO:0030334";"blue";"GO:0030334";"regulation of cell migration";"regulation of cell migration";416;10;5,46;0,04618;4,94710026609355
+"GO:0030574";"yellow";"GO:0030574";"collagen catabolic process";"collagen catabolic process";12;3;0,16;0,00044;8,78296191055613
+"GO:0031345";"blue";"GO:0031345";"negative regulation of cell projection organization";"negative regulation of cell projection o...";114;5;1,5;0,01689;6,43955482304183
+"GO:0032879";"blue";"GO:0032879";"regulation of localization";"regulation of localization";1450;28;19,04;0,0192;3,25651345118284
+"GO:0032963";"yellow";"GO:0032963";"collagen metabolic process";"collagen metabolic process";31;3;0,41;0,00758;7,83388135585898
+"GO:0034698";"red";"GO:0034698";"response to gonadotropin";"response to gonadotropin";41;3;0,54;0,01636;7,53019894206076
+"GO:0035265";"green";"GO:0035265";"organ growth";"organ growth";101;4;1,33;0,04359;6,54048074163179
+"GO:0036302";"brown";"GO:0036302";"atrioventricular canal development";"atrioventricular canal development";11;2;0,14;0,0087;8,86997328754576
+"GO:0040012";"blue";"GO:0040012";"regulation of locomotion";"regulation of locomotion";514;12;6,75;0,03664;4,67345510059435
+"GO:0042133";"yellow";"GO:0042133";"neurotransmitter metabolic process";"neurotransmitter metabolic process";14;2;0,18;0,01403;8,55981835924192
+"GO:0042403";"turquoise";"GO:0042403";"thyroid hormone metabolic process";"thyroid hormone metabolic process";11;3;0,14;0,00034;8,86997328754576
+"GO:0042430";"turquoise";"GO:0042430";"indole-containing compound metabolic process";"indole-containing compound metabolic pro...";28;3;0,37;0,00568;7,83388135585898
+"GO:0042439";"turquoise";"GO:0042439";"ethanolamine-containing compound metabolic process";"ethanolamine-containing compound metabol...";8;2;0,11;0,00454;9,18842701866429
+"GO:0042445";"blue";"GO:0042445";"hormone metabolic process";"hormone metabolic process";96;7;1,26;0,00025;6,47207801474739
+"GO:0043094";"yellow";"GO:0043094";"cellular metabolic compound salvage";"cellular metabolic compound salvage";26;2;0,34;0,04526;7,48367892642587
+"GO:0043270";"blue";"GO:0043270";"positive regulation of ion transport";"positive regulation of ion transport";146;5;1,92;0,04285;5,95466258130234
+"GO:0044042";"black";"GO:0044042";"glucan metabolic process";"glucan metabolic process";37;3;0,49;0,01238;7,41772095863407
+"GO:0044106";"turquoise";"GO:0044106";"cellular amine metabolic process";"cellular amine metabolic process";75;6;0,99;0,00043;6,74607998329509
+"GO:0044247";"black";"GO:0044247";"cellular polysaccharide catabolic process";"cellular polysaccharide catabolic proces...";11;2;0,14;0,0087;8,70291920288259
+"GO:0044264";"black";"GO:0044264";"cellular polysaccharide metabolic process";"cellular polysaccharide metabolic proces...";50;3;0,66;0,02764;7,15699469617082
+"GO:0044275";"black";"GO:0044275";"cellular carbohydrate catabolic process";"cellular carbohydrate catabolic process";21;3;0,28;0,00247;8,08981472999618
+"GO:0045116";"turquoise";"GO:0045116";"protein neddylation";"protein neddylation";19;2;0,25;0,02527;8,27213628679014
+"GO:0045454";"blue";"GO:0045454";"cell redox homeostasis";"cell redox homeostasis";17;2;0,22;0,02044;8,43465521628791
+"GO:0045471";"red";"GO:0045471";"response to ethanol";"response to ethanol";89;6;1,17;0,00107;6,77923219061199
+"GO:0045861";"pink";"GO:0045861";"negative regulation of proteolysis";"negative regulation of proteolysis";98;5;1,29;0,0092;6,58573733321991
+"GO:0046148";"yellow";"GO:0046148";"pigment biosynthetic process";"pigment biosynthetic process";38;3;0,5;0,01332;7,48367892642587
+"GO:0046189";"turquoise";"GO:0046189";"phenol-containing compound biosynthetic process";"phenol-containing compound biosynthetic ...";17;2;0,22;0,02044;8,17682610698581
+"GO:0046460";"yellow";"GO:0046460";"neutral lipid biosynthetic process";"neutral lipid biosynthetic process";22;2;0,29;0,03328;8,08981472999618
+"GO:0046463";"yellow";"GO:0046463";"acylglycerol biosynthetic process";"acylglycerol biosynthetic process";22;2;0,29;0,03328;8,08981472999618
+"GO:0046496";"turquoise";"GO:0046496";"nicotinamide nucleotide metabolic process";"nicotinamide nucleotide metabolic proces...";15;2;0,2;0,01605;8,55981835924192
+"GO:0046620";"green";"GO:0046620";"regulation of organ growth";"regulation of organ growth";60;3;0,79;0,04396;7,06317594095316
+"GO:0046622";"green";"GO:0046622";"positive regulation of organ growth";"positive regulation of organ growth";21;2;0,28;0,03051;8,2233461226207
+"GO:0046697";"brown";"GO:0046697";"decidualization";"decidualization";17;2;0,22;0,02044;8,43465521628791
+"GO:0048332";"brown";"GO:0048332";"mesoderm morphogenesis";"mesoderm morphogenesis";65;4;0,85;0,01031;7,04836085516802
+"GO:0050680";"blue";"GO:0050680";"negative regulation of epithelial cell proliferation";"negative regulation of epithelial cell p...";44;3;0,58;0,01976;7,46120607057381
+"GO:0050803";"blue";"GO:0050803";"regulation of synapse structure or activity";"regulation of synapse structure or activ...";267;8;3,51;0,02395;5,4687759058836
+"GO:0050807";"blue";"GO:0050807";"regulation of synapse organization";"regulation of synapse organization";256;8;3,36;0,01915;5,50267745755928
+"GO:0050896";"red";"GO:0050896";"response to stimulus";"response to stimulus";4056;65;53,27;0,01462;1,61495999230828
+"GO:0051093";"blue";"GO:0051093";"negative regulation of developmental process";"negative regulation of developmental pro...";433;12;5,69;0,01105;4,84138010288644
+"GO:0051156";"yellow";"GO:0051156";"glucose 6-phosphate metabolic process";"glucose 6-phosphate metabolic process";12;4;0,16;1,3e-05;8,78296191055613
+"GO:0051270";"blue";"GO:0051270";"regulation of cellular component movement";"regulation of cellular component movemen...";489;12;6,42;0,02627;4,72972873657646
+"GO:0051346";"blue";"GO:0051346";"negative regulation of hydrolase activity";"negative regulation of hydrolase activit...";97;6;1,27;0,00168;6,57652067811498
+"GO:0051604";"turquoise";"GO:0051604";"protein maturation";"protein maturation";130;5;1,71;0,02797;6,23743063895169
+"GO:0052547";"pink";"GO:0052547";"regulation of peptidase activity";"regulation of peptidase activity";129;6;1,69;0,00689;6,27743597356539
+"GO:0052548";"pink";"GO:0052548";"regulation of endopeptidase activity";"regulation of endopeptidase activity";120;5;1,58;0,02062;6,39267123714298
+"GO:0055017";"green";"GO:0055017";"cardiac muscle tissue growth";"cardiac muscle tissue growth";42;3;0,55;0,01745;7,41772095863407
+"GO:0055021";"green";"GO:0055021";"regulation of cardiac muscle tissue growth";"regulation of cardiac muscle tissue grow...";32;3;0,42;0,00829;7,6569506476999
+"GO:0055022";"green";"GO:0055022";"negative regulation of cardiac muscle tissue growth";"negative regulation of cardiac muscle ti...";14;2;0,18;0,01403;8,62881123072887
+"GO:0055023";"green";"GO:0055023";"positive regulation of cardiac muscle tissue growth";"positive regulation of cardiac muscle ti...";15;2;0,2;0,01605;8,55981835924192
+"GO:0060038";"green";"GO:0060038";"cardiac muscle cell proliferation";"cardiac muscle cell proliferation";26;2;0,34;0,04526;7,86667117868197
+"GO:0060039";"brown";"GO:0060039";"pericardium development";"pericardium development";10;2;0,13;0,00718;8,96528346735008
+"GO:0060043";"green";"GO:0060043";"regulation of cardiac muscle cell proliferation";"regulation of cardiac muscle cell prolif...";23;2;0,3;0,03614;7,9720316943398
+"GO:0060045";"green";"GO:0060045";"positive regulation of cardiac muscle cell proliferation";"positive regulation of cardiac muscle ce...";12;2;0,16;0,01035;8,78296191055613
+"GO:0060413";"brown";"GO:0060413";"atrial septum morphogenesis";"atrial septum morphogenesis";13;2;0,17;0,01213;8,49527983810435
+"GO:0060419";"green";"GO:0060419";"heart growth";"heart growth";51;3;0,67;0,02909;7,24251686960898
+"GO:0060420";"green";"GO:0060420";"regulation of heart growth";"regulation of heart growth";34;3;0,45;0,00981;7,60430691421448
+"GO:0060421";"green";"GO:0060421";"positive regulation of heart growth";"positive regulation of heart growth";15;2;0,2;0,01605;8,55981835924192
+"GO:0061041";"blue";"GO:0061041";"regulation of wound healing";"regulation of wound healing";43;3;0,56;0,01859;7,48367892642587
+"GO:0061117";"green";"GO:0061117";"negative regulation of heart growth";"negative regulation of heart growth";14;2;0,18;0,01403;8,62881123072887
+"GO:0065008";"blue";"GO:0065008";"regulation of biological quality";"regulation of biological quality";2029;35;26,65;0,04172;3,00737570377094
+"GO:0072524";"turquoise";"GO:0072524";"pyridine-containing compound metabolic process";"pyridine-containing compound metabolic p...";22;3;0,29;0,00283;7,83388135585898
+"GO:0072525";"turquoise";"GO:0072525";"pyridine-containing compound biosynthetic process";"pyridine-containing compound biosyntheti...";20;3;0,26;0,00213;7,9720316943398
+"GO:0072593";"yellow";"GO:0072593";"reactive oxygen species metabolic process";"reactive oxygen species metabolic proces...";137;5;1,8;0,034;6,2505887235292
+"GO:0090303";"blue";"GO:0090303";"positive regulation of wound healing";"positive regulation of wound healing";22;2;0,29;0,03328;8,17682610698581
+"GO:0097066";"red";"GO:0097066";"response to thyroid hormone";"response to thyroid hormone";23;2;0,3;0,03614;8,13237434441498
+"GO:0097067";"red";"GO:0097067";"cellular response to thyroid hormone stimulus";"cellular response to thyroid hormone sti...";12;2;0,16;0,01035;8,78296191055613
+"GO:0097305";"red";"GO:0097305";"response to alcohol";"response to alcohol";212;7;2,78;0,02132;5,81254744498643
+"GO:0097484";"green";"GO:0097484";"dendrite extension";"dendrite extension";17;2;0,22;0,02044;8,43465521628791
+"GO:0098742";"blue";"GO:0098742";"cell-cell adhesion via plasma-membrane adhesion molecules";"cell-cell adhesion via plasma-membrane a...";85;5;1,12;0,00508;6,74607998329509
+"GO:0098869";"blue";"GO:0098869";"cellular oxidant detoxification";"cellular oxidant detoxification";16;2;0,21;0,01819;8,49527983810435
+"GO:0120180";"blue";"GO:0120180";"cell-substrate junction disassembly";"cell-substrate junction disassembly";8;2;0,11;0,00454;9,18842701866429
+"GO:0120181";"blue";"GO:0120181";"focal adhesion disassembly";"focal adhesion disassembly";8;2;0,11;0,00454;9,18842701866429
+"GO:0120182";"blue";"GO:0120182";"regulation of focal adhesion disassembly";"regulation of focal adhesion disassembly";8;2;0,11;0,00454;9,18842701866429
+"GO:0120183";"blue";"GO:0120183";"positive regulation of focal adhesion disassembly";"positive regulation of focal adhesion di...";8;2;0,11;0,00454;9,18842701866429
+"GO:0140448";"turquoise";"GO:0140448";"signaling receptor ligand precursor processing";"signaling receptor ligand precursor proc...";9;2;0,12;0,00579;8,96528346735008
+"GO:0150146";"blue";"GO:0150146";"cell junction disassembly";"cell junction disassembly";17;2;0,22;0,02044;8,43465521628791
+"GO:1900407";"blue";"GO:1900407";"regulation of cellular response to oxidative stress";"regulation of cellular response to oxida...";58;3;0,76;0,04038;7,19033111643841
+"GO:1901135";"yellow";"GO:1901135";"carbohydrate derivative metabolic process";"carbohydrate derivative metabolic proces...";544;14;7,14;0,01145;4,46881269828533
+"GO:1901605";"turquoise";"GO:1901605";"alpha-amino acid metabolic process";"alpha-amino acid metabolic process";159;6;2,09;0,01806;5,68813873435791
+"GO:1901615";"yellow";"GO:1901615";"organic hydroxy compound metabolic process";"organic hydroxy compound metabolic proce...";322;13;4,23;0,00029;5,13881835028358
+"GO:1901888";"blue";"GO:1901888";"regulation of cell junction assembly";"regulation of cell junction assembly";219;7;2,88;0,02493;5,75848022371615
+"GO:1902884";"blue";"GO:1902884";"positive regulation of response to oxidative stress";"positive regulation of response to oxida...";10;2;0,13;0,00718;8,96528346735008
+"GO:1903018";"pink";"GO:1903018";"regulation of glycoprotein metabolic process";"regulation of glycoprotein metabolic pro...";27;2;0,35;0,04847;7,90057273035765
+"GO:1903510";"yellow";"GO:1903510";"mucopolysaccharide metabolic process";"mucopolysaccharide metabolic process";23;2;0,3;0,03614;7,9720316943398
+"GO:1903859";"green";"GO:1903859";"regulation of dendrite extension";"regulation of dendrite extension";11;2;0,14;0,0087;8,86997328754576
+"GO:2000145";"blue";"GO:2000145";"regulation of cell motility";"regulation of cell motility";440;11;5,78;0,02922;4,8979675775159
+"GO:2001300";"yellow";"GO:2001300";"lipoxin metabolic process";"lipoxin metabolic process";22;2;0,29;0,03328;7,63028240061774
