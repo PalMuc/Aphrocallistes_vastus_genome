@@ -31,8 +31,6 @@ Using [prodigal](https://github.com/hyattpd/Prodigal) to identify CDS across all
 ~/prodigal-v2.6.3/prodigal -a Aphrocallistes_vastus_bacterial_Bin2.prot.fa -d Aphrocallistes_vastus_bacterial_Bin2.nucl.fa -f gff -o Aphrocallistes_vastus_bacterial_Bin2.gff -i Aphrocallistes_vastus_bacterial_Bin2.fasta
 ```
 
-The proteins were functionally annotated with the [blastKOALA](https://www.kegg.jp/blastkoala/) webserver. Pathway maps can be reconstructed with the [KEGG Mapper tool](https://www.kegg.jp/kegg/mapper/reconstruct.html) by uploading either of the `.user_ko_definition.txt` files.
-
 Using [*E. coli* atpA](https://www.uniprot.org/uniprotkb/P0ABB0/entry) as the query, we identified the putative homologs of `atpA` and `atpB` in the two bacteria. These were then used to search against the `nr` database on [NCBI BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) to identify the closest relatives for assignment of the most precise names.
 
 ```
@@ -65,5 +63,17 @@ Ribosomal RNA was identified using [barrnap](https://github.com/tseemann/barrnap
 ~/git/barrnap/bin/barrnap -o Aphrocallistes_vastus_bacterial_Bin2.barrnap.fa Aphrocallistes_vastus_bacterial_Bin2.fasta > Aphrocallistes_vastus_bacterial_Bin2.barrnap.gff
 ```
 
+### KEGG annotation ###
+The proteins were functionally annotated with the [blastKOALA](https://www.kegg.jp/blastkoala/) webserver.
+
+Pathway maps can be reconstructed with the [KEGG Mapper tool](https://www.kegg.jp/kegg/mapper/reconstruct.html) by uploading either of the `.user_ko_definition.txt` files.
+
+For bin 1, 1207/2131 proteins (56%) could be annotated:
+
+![blastkoala_bin1_screenshot.png](https://github.com/PalMuc/Aphrocallistes_vastus_genome/blob/main/bacteria/blastkoala_bin1_screenshot.png)
+
+For bin 2, the single scaffold, 987/1589 proteins (62%) could be annotated:
+
+![blastkoala_bin2_screenshot.png](https://github.com/PalMuc/Aphrocallistes_vastus_genome/blob/main/bacteria/blastkoala_bin2_screenshot.png)
 
 
