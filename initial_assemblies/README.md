@@ -8,7 +8,7 @@ A total of seven different assemblers were included in the pipeline:
 * [FLYE](https://github.com/fenderglass/Flye) by [Kolmogorov et al 2019](https://doi.org/10.1038/s41587-019-0072-8)
 * [CANU](https://github.com/marbl/canu) by [Koren et al 2017](https://doi.org/10.1101/gr.215087.116)
 * [WTDBG2](https://github.com/ruanjue/wtdbg2) by [Ruan and Li 2020](https://doi.org/10.1038/s41592-019-0669-3)
-* [MINIASM](https://github.com/lh3/miniasm) [Li 2016](https://doi.org/10.1093/bioinformatics/btw152)
+* [MINIASM](https://github.com/lh3/miniasm) by [Li 2016](https://doi.org/10.1093/bioinformatics/btw152)
 * [SHASTA](https://github.com/paoloshasta/shasta) by [Shafin et al 2020](https://doi.org/10.1038/s41587-020-0503-6)
 * [RA](https://github.com/lbcb-sci/ra), does not appear to be published
 * [RAVEN](https://github.com/lbcb-sci/raven) by [Vaser and Sikic 2021](http://dx.doi.org/10.1038/s43588-021-00073-4)
@@ -19,7 +19,7 @@ Error correction was done using:
 
 Additional polishing steps with:
 
-* [Medaka](https://github.com/nanoporetech/medaka)
+* [Medaka](https://github.com/nanoporetech/medaka) by [Oxford Nanopore Technologies](https://nanoporetech.com/)
 * [HyPo](https://github.com/kensung-lab/hypo) Hybrid Polisher by [Kundu et al 2019 preprint](https://www.biorxiv.org/content/10.1101/2019.12.19.882506v1)
 
 ### scaffolding ###
