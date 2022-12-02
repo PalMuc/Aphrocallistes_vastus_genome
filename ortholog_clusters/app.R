@@ -19,10 +19,10 @@ cluster_table_headers = c("clusterName", "num_sequences", "num_taxa",
 ################################################################################
 
 ### change this to output from makehomologs.py ###
-input_cluster_file = "~/git/Aphrocallistes_vastus_genome/ortholog_clusters/fasta_clusters.holozoa_allprots_v10_paralogs.tab"
+input_cluster_file = "~/git/Aphrocallistes_vastus_genome/ortholog_clusters/fasta_clusters.H.holozoa_allprots_v10_paralogs.tab"
 ### change this to the fasttree tre directory ###
-fasttree_folder = "~/git/Aphrocallistes_vastus_genome/ortholog_clusters/fasttree_v10/paralogs/"
-pfam_folder = "~/git/Aphrocallistes_vastus_genome/ortholog_clusters/pfam_v10/paralogs/"
+fasttree_folder = "~/git/Aphrocallistes_vastus_genome/ortholog_clusters/fasttree/"
+pfam_folder = "~/git/Aphrocallistes_vastus_genome/ortholog_clusters/pfam/"
 
 # DEBUG
 # domain_file = "~/git/pfam_v8/paralogs_E_holozoa_allprots_v8_00097.pfam.tab"
@@ -123,7 +123,7 @@ ui <- fluidPage(
         ),
         column(3,
                textInput("userCluster", label = "Cluster name, excluding .tree or .fasta", 
-                         value = "homologs_E_holozoa_allprots_v8_02701"),
+                         value = "paralog_cluster_00107"),
                textOutput("treeStats"),
                br(),
                actionButton("treeUpdateButton", label = "Refresh tree and domains")
@@ -205,8 +205,10 @@ server <- function(input, output) {
     })
 
     tf <- eventReactive(input$treeUpdateButton, {
-        tree_file = paste0(fasttree_folder, input$userCluster, ".fasta.aln.tre" )
-        read.tree(file = tree_file )
+      full_cluster_name = gsub("paralog_cluster_", "paralogs/paralogs_holozoa_allprots_v10_", 
+                               gsub("homolog_cluster_" , "homologs/homologs_holozoa_allprots_v10_", input$userCluster) )
+      tree_file = paste0(fasttree_folder, full_cluster_name, ".fasta.aln.tre" )
+      read.tree(file = tree_file )
     })
     output$treeStats <- renderText({
         t = tf()
@@ -224,8 +226,9 @@ server <- function(input, output) {
     })
     
     df <- eventReactive(input$treeUpdateButton, {
-        domain_file = paste0(pfam_folder, input$userCluster, ".pfam.tab" )
-
+      full_cluster_name = gsub("paralog_cluster_", "paralogs/paralogs_holozoa_allprots_v10_", 
+                               gsub("homolog_cluster_" , "homologs/homologs_holozoa_allprots_v10_", input$userCluster) )
+      domain_file = paste0(pfam_folder, full_cluster_name, ".pfam.tab" )
     })
     output$domainPlot <- renderPlot({
         domain_file = df()
