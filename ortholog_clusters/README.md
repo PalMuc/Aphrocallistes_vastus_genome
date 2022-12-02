@@ -3,7 +3,7 @@
 ### collection of datasets ###
 A total of 35 candidate species were selected. In the end, 326130 total proteins were used for 15 species. Not all species were used, based on whether the proteomes were complete enough as measured by [BUSCO](https://busco.ezlab.org/).
 
-| species | complete | S | duplicated | fragmented | missing |
+| species | complete | single | duplicated | fragmented | missing |
 | :--- | --- | --- | --- | --- | --- |
 | 01_COWC | 74.90% | 68.70% | 6.20% | 3.60% | 21.50% |
 | 02_MBRE | 68.70% | 68.00% | 0.70% | 4.80% | 26.50% |
@@ -42,7 +42,7 @@ A total of 35 candidate species were selected. In the end, 326130 total proteins
 | HEX14_WLEU | 65.40% | 36.40% | 29.00% | 14.00% | 20.60% |
 
 ### all-v-all BLAST and clustering ###
-Using [diamond](https://github.com/bbuchfink/diamond) instead of blastp, and using the script `makehomologs.py`, this requires `mcl` and some additional python libraries. Options refer to: 
+Using [diamond](https://github.com/bbuchfink/diamond) by [Buchfink et al 2017](https://www.nature.com/articles/nmeth.3176) instead of NCBI blastp, and using the script `makehomologs.py`, this requires `mcl` and some additional python libraries: [BioPython](https://biopython.org/) and [networkx](https://networkx.org/). Options refer to: 
 
 * `-s 1` cluster must have at least 1 taxon
 * `-z 2` cluster must have 2 or more
