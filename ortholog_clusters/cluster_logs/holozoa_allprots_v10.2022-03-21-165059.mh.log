@@ -1,0 +1,309 @@
+#TIME-Mon Mar 21 16:50:59 2022
+/home/ubuntu/tools/wrf-sequences/makehomologs_g1.2.py -i holozoa_allprots_v10.blastp.tab -f holozoa_allprots_v10.fasta -d _ -s 1 -z 2 -L 40000 -p 234 -M 3000 -H 1000 -T 40 -o holozoa_allprots_v10 -c
+#TIME-Mon Mar 21 16:50:59 2022
+# Using Python version: 3.7.5
+#TIME-Mon Mar 21 16:50:59 2022
+# holozoa_allprots_v10.blastp.tab input file detected
+#TIME-Mon Mar 21 16:50:59 2022
+# holozoa_allprots_v10.fasta used as fasta database
+#TIME-Mon Mar 21 16:51:02 2022
+# Counted 326130 total proteins for 15 species  Mon Mar 21 16:51:02 2022
+#TIME-Mon Mar 21 16:51:02 2022
+T_genes	AQUE	43615
+T_genes	AVAS	19514
+T_genes	BFLO	26529
+T_genes	CELE	20191
+T_genes	EMUE	39329
+T_genes	HCAL	14375
+T_genes	HEX06-EUSP	20491
+T_genes	HEX07-FOCC	21569
+T_genes	HHON	12010
+T_genes	HSAP	20375
+T_genes	MBRE	10864
+T_genes	NVEC	15355
+T_genes	RESC	17219
+T_genes	SCIL	32061
+T_genes	TADH	12633
+#TIME-Mon Mar 21 16:51:16 2022
+N_bhits	AQUE	29742
+N_bhits	AVAS	16474
+N_bhits	BFLO	15415
+N_bhits	CELE	8428
+N_bhits	EMUE	29422
+N_bhits	HCAL	5616
+N_bhits	HEX06-EUSP	16162
+N_bhits	HEX07-FOCC	16732
+N_bhits	HHON	10599
+N_bhits	HSAP	12608
+N_bhits	MBRE	3247
+N_bhits	NVEC	8262
+N_bhits	RESC	9931
+N_bhits	SCIL	9882
+N_bhits	TADH	10157
+#TIME-Mon Mar 21 16:51:16 2022
+# Counting nodes in subgraphs
+#TIME-Mon Mar 21 16:51:17 2022
+# Found 202677 subgraphs, pruning small subgraphs (0 nodes)
+#TIME-Mon Mar 21 16:51:20 2022
+F_edge	all	4869851
+F_edge	non-self	4545978
+F_edge	passed-min-overlap	4266863
+F_edge	passed-max-overlap	3288414
+F_edge	passed-bitscore	1373866
+F_edge	retained-edges	868082
+#TIME-Mon Mar 21 16:51:20 2022
+N_nodes	nodes	202677
+N_nodes	filtered-nodes	202677
+#TIME-Mon Mar 21 16:51:20 2022
+#CMD  mcl allvall_edges_holozoa_allprots_v10.abc --abc -I 1.2 -o mcl_gene_clusters_holozoa_allprots_v10.abc -te 40
+#TIME-Mon Mar 21 16:52:29 2022
+# fasta file contains 326130 records
+#TIME-Mon Mar 21 16:52:32 2022
+N_seqs	1617	1
+N_seqs	1235	1
+N_seqs	728	1
+N_seqs	661	1
+N_seqs	541	1
+N_seqs	487	1
+N_seqs	433	1
+N_seqs	430	1
+N_seqs	429	1
+N_seqs	408	2
+N_seqs	397	1
+N_seqs	394	1
+N_seqs	363	1
+N_seqs	339	1
+N_seqs	330	1
+N_seqs	319	1
+N_seqs	305	1
+N_seqs	300	1
+N_seqs	290	1
+N_seqs	288	1
+N_seqs	276	1
+N_seqs	274	1
+N_seqs	273	1
+N_seqs	263	1
+N_seqs	262	1
+N_seqs	245	1
+N_seqs	242	1
+N_seqs	240	2
+N_seqs	239	1
+N_seqs	236	1
+N_seqs	232	1
+N_seqs	231	1
+N_seqs	219	1
+N_seqs	216	1
+N_seqs	209	2
+N_seqs	205	1
+N_seqs	201	2
+N_seqs	200	1
+N_seqs	199	1
+N_seqs	195	2
+N_seqs	194	1
+N_seqs	189	2
+N_seqs	188	1
+N_seqs	187	2
+N_seqs	180	1
+N_seqs	175	1
+N_seqs	173	2
+N_seqs	169	1
+N_seqs	168	1
+N_seqs	164	1
+N_seqs	163	1
+N_seqs	162	2
+N_seqs	160	1
+N_seqs	156	2
+N_seqs	151	2
+N_seqs	150	1
+N_seqs	147	4
+N_seqs	145	1
+N_seqs	144	1
+N_seqs	142	2
+N_seqs	141	2
+N_seqs	140	1
+N_seqs	139	2
+N_seqs	138	3
+N_seqs	137	2
+N_seqs	135	1
+N_seqs	134	3
+N_seqs	132	1
+N_seqs	131	1
+N_seqs	129	2
+N_seqs	128	1
+N_seqs	127	1
+N_seqs	126	3
+N_seqs	125	1
+N_seqs	123	1
+N_seqs	122	3
+N_seqs	120	1
+N_seqs	119	1
+N_seqs	118	1
+N_seqs	117	2
+N_seqs	116	1
+N_seqs	115	2
+N_seqs	114	1
+N_seqs	113	3
+N_seqs	112	3
+N_seqs	109	2
+N_seqs	107	1
+N_seqs	105	4
+N_seqs	103	1
+N_seqs	102	3
+N_seqs	101	3
+N_seqs	100	1
+N_seqs	99	2
+N_seqs	98	1
+N_seqs	97	1
+N_seqs	96	4
+N_seqs	93	3
+N_seqs	92	1
+N_seqs	91	3
+N_seqs	90	2
+N_seqs	89	3
+N_seqs	88	3
+N_seqs	87	1
+N_seqs	86	3
+N_seqs	85	2
+N_seqs	83	2
+N_seqs	82	2
+N_seqs	81	1
+N_seqs	80	4
+N_seqs	79	1
+N_seqs	78	2
+N_seqs	77	3
+N_seqs	76	6
+N_seqs	75	3
+N_seqs	74	3
+N_seqs	73	8
+N_seqs	72	1
+N_seqs	71	5
+N_seqs	70	6
+N_seqs	69	5
+N_seqs	68	3
+N_seqs	67	3
+N_seqs	66	8
+N_seqs	65	6
+N_seqs	64	2
+N_seqs	63	3
+N_seqs	62	6
+N_seqs	61	2
+N_seqs	60	5
+N_seqs	59	12
+N_seqs	58	1
+N_seqs	57	5
+N_seqs	56	4
+N_seqs	55	10
+N_seqs	54	5
+N_seqs	53	4
+N_seqs	52	7
+N_seqs	51	11
+N_seqs	50	13
+N_seqs	49	10
+N_seqs	48	9
+N_seqs	47	14
+N_seqs	46	13
+N_seqs	45	7
+N_seqs	44	15
+N_seqs	43	17
+N_seqs	42	11
+N_seqs	41	18
+N_seqs	40	15
+N_seqs	39	21
+N_seqs	38	14
+N_seqs	37	16
+N_seqs	36	24
+N_seqs	35	25
+N_seqs	34	25
+N_seqs	33	33
+N_seqs	32	42
+N_seqs	31	31
+N_seqs	30	42
+N_seqs	29	40
+N_seqs	28	48
+N_seqs	27	55
+N_seqs	26	55
+N_seqs	25	48
+N_seqs	24	75
+N_seqs	23	74
+N_seqs	22	75
+N_seqs	21	98
+N_seqs	20	107
+N_seqs	19	143
+N_seqs	18	197
+N_seqs	17	255
+N_seqs	16	296
+N_seqs	15	382
+N_seqs	14	367
+N_seqs	13	357
+N_seqs	12	369
+N_seqs	11	372
+N_seqs	10	378
+N_seqs	9	439
+N_seqs	8	528
+N_seqs	7	655
+N_seqs	6	957
+N_seqs	5	1277
+N_seqs	4	2393
+N_seqs	3	7253
+N_seqs	2	15775
+#TIME-Mon Mar 21 16:52:36 2022
+F_clust	total-clusters: total number of clusters	33794
+F_clust	seq_under_max_len: total sequences shorter than length cutoff 40000	202677
+F_clust	max_sequences: clusters with fewer than 3000 sequences	33794
+F_clust	min_taxa: clusters with more than 1 taxa	33794
+F_clust	taxa_mean: clusters with fewer than 1000 seqs per taxon	33794
+F_clust	single_copy_gene: clusters of a single copy ortholog	12114
+F_clust	paralogous_gene: clusters with more than one copy in any taxon	21680
+#TIME-Mon Mar 21 16:52:36 2022
+# found 15 total taxa
+#TIME-Mon Mar 21 16:52:36 2022
+N_genes	AQUE	29742
+N_genes	AVAS	16474
+N_genes	BFLO	15415
+N_genes	CELE	8428
+N_genes	EMUE	29422
+N_genes	HCAL	5616
+N_genes	HEX06-EUSP	16162
+N_genes	HEX07-FOCC	16732
+N_genes	HHON	10599
+N_genes	HSAP	12608
+N_genes	MBRE	3247
+N_genes	NVEC	8262
+N_genes	RESC	9931
+N_genes	SCIL	9882
+N_genes	TADH	10157
+#TIME-Mon Mar 21 16:52:36 2022
+N_ortho	AQUE	1175
+N_ortho	AVAS	4631
+N_ortho	BFLO	1772
+N_ortho	CELE	345
+N_ortho	EMUE	971
+N_ortho	HCAL	473
+N_ortho	HEX06-EUSP	6062
+N_ortho	HEX07-FOCC	6104
+N_ortho	HHON	4548
+N_ortho	HSAP	1646
+N_ortho	MBRE	380
+N_ortho	NVEC	1740
+N_ortho	RESC	1494
+N_ortho	SCIL	753
+N_ortho	TADH	4560
+#TIME-Mon Mar 21 16:52:36 2022
+N_taxa	15	575
+N_taxa	14	517
+N_taxa	13	426
+N_taxa	12	310
+N_taxa	11	312
+N_taxa	10	275
+N_taxa	9	301
+N_taxa	8	303
+N_taxa	7	329
+N_taxa	6	419
+N_taxa	5	394
+N_taxa	4	538
+N_taxa	3	5596
+N_taxa	2	8648
+N_taxa	1	14851
+#TIME-Mon Mar 21 16:52:37 2022
+#TIME-Process completed in 1.6 minutes
+## Great success!!:  Mon Mar 21 16:52:37 2022

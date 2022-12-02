@@ -19,7 +19,7 @@ cluster_table_headers = c("clusterName", "num_sequences", "num_taxa",
 ################################################################################
 
 ### change this to output from makehomologs.py ###
-input_cluster_file = "~/git/Aphrocallistes_vastus_genome/ortholog_clusters/fasta_clusters.H.holozoa_allprots_v10_paralogs.tab"
+input_cluster_file = "~/git/Aphrocallistes_vastus_genome/ortholog_clusters/fasta_clusters.H.holozoa_allprots_v10.tab"
 ### change this to the fasttree tre directory ###
 fasttree_folder = "~/git/Aphrocallistes_vastus_genome/ortholog_clusters/fasttree/"
 pfam_folder = "~/git/Aphrocallistes_vastus_genome/ortholog_clusters/pfam/"
