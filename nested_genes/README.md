@@ -18,6 +18,7 @@ Nested gene count and base count were made using a strategy similar to that used
 gtfstats.py -i v1.29/Avas.v1.29_annotations.fr.gff -s v1.29/Avas.v1.29_scaffolds.fasta -G -N -M Parent
 gtfstats.py -N -i JAKMXF01.1.gbff.gff -s JAKMXF01.1.fsa_nt.fasta -w
 
+gtfstats.py -i Emu_augustus_vs_nb_sysnames.gff --exon-counter -N
 gtfstats.py -i Amphimedon_queenslandica.Aqu1.45.cleaned.gff -N -s Amphimedon_queenslandica.Aqu1.dna.toplevel.fa -w -G -M Parent
 gtfstats.py -i sycon.cds.gff3 -N -G -M Parent
 
@@ -41,6 +42,7 @@ Most of the differences are due to annotation method. This is pronounced as [AUG
 | :--- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- | --- |
 | Aphrocallistes vastus | 186 | 80.320 | 20060 | 49.161 | 27.127 | 2432 | 3105825 | 2083470 | v1.29 | v1.29 | manual |
 | Oopsacas minuta | 365 | 61.460 | 16340 | 29.089 | 20.650 | 83 | 60891 | 44676 | v1 | v1 | BRAKER |
+| Ephydatia muelleri | 1444 | 322.620 | 39329 | 179.121 | 51.532 | 0 | 0 | 0 | v1 | v1 | AUGUSTUS |
 | Amphimedon queenslandica | 13397 | 166.679 | 43615 | 95.006 | 47.162 | 3358 | 7584097 | 1612247 | V2.1 | v1 | RNAseq |
 | Sycon ciliatum | 7780 | 357.509 | 32309 | 181.138 | 37.581 | 5032 | 6704019 | 2648725 | cds_v1 | v1 | NA |
 | Mnemiopsis leidyi | 5100 | 155.865 | 16548 | 91.779 | 27.589 | 1324 | 2855571 | 1133446 | ML2.2 | ML2.2 | EVM |
