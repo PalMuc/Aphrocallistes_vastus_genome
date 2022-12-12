@@ -1,0 +1,78 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Sporozoite_P67       PF05642.11   727 Avas.s001.g482.i1    -            587      0.08   11.0   7.9   1   1   1.4e-05      0.13   10.4   7.9   153   238   490   575   463   586 0.66 Sporozoite P67 surface antigen
+ANATO                PF01821.18    36 Avas.s001.g482.i1    -            587      0.68   10.8   3.4   1   2     0.028   2.5e+02    2.6   0.1    24    35   152   164   141   164 0.74 Anaphylotoxin-like domain
+ANATO                PF01821.18    36 Avas.s001.g482.i1    -            587      0.68   10.8   3.4   2   2   0.00056       5.1    8.1   0.6     9    29   175   195   172   198 0.84 Anaphylotoxin-like domain
+Gly-zipper_YMGG      PF13441.6     46 Avas.s014.g167.i1    -            713   0.00028   20.6  18.8   1   1   1.8e-07   0.00046   19.9  18.8     3    42   671   707   670   709 0.86 YMGG-like Gly-zipper
+Gly-zipper_OmpA      PF13436.6     44 Avas.s014.g167.i1    -            713    0.0072   16.1  19.0   1   1   4.5e-06     0.011   15.4  19.0     4    42   671   707   669   709 0.87 Glycine-zipper domain
+Gly-zipper_Omp       PF13488.6     46 Avas.s014.g167.i1    -            713    0.0073   16.3  22.4   1   1   4.4e-06     0.011   15.7  22.4     2    35   674   705   673   709 0.94 Glycine zipper
+Bacteriocin_IIc      PF10439.9     62 Avas.s014.g167.i1    -            713      0.18   11.9  17.8   1   1   0.00014      0.35   11.0  17.8    24    59   671   705   669   708 0.92 Bacteriocin class II with double-glycine leader peptide
+GCD14                PF08704.10   247 Avas.s014.g167.i1    -            713       1.7    8.2   6.5   1   1    0.0021       5.4    6.6   6.5   155   220   491   560   483   582 0.67 tRNA methyltransferase complex GCD14 subunit
+Rick_17kDa_Anti      PF05433.15    42 Avas.s014.g167.i1    -            713       2.8    7.9  21.4   1   1    0.0018       4.6    7.2  21.4     2    34   674   705   673   708 0.74 Glycine zipper 2TM domain
+DUF1269              PF06897.12   100 Avas.s014.g167.i1    -            713       4.2    7.7  11.2   1   3       3.5   8.9e+03   -3.0   0.0    66    94    40    68    19    71 0.70 Protein of unknown function (DUF1269)
+DUF1269              PF06897.12   100 Avas.s014.g167.i1    -            713       4.2    7.7  11.2   2   3         4     1e+04   -3.2   0.0    47    62   218   233   203   250 0.61 Protein of unknown function (DUF1269)
+DUF1269              PF06897.12   100 Avas.s014.g167.i1    -            713       4.2    7.7  11.2   3   3    0.0067        17    5.8  10.6     2    34   676   706   675   711 0.89 Protein of unknown function (DUF1269)
+ubiquitin            PF00240.23    72 Avas.s022.g424.i1    -            573   3.2e-10   39.6   0.0   1   1   4.7e-13   1.2e-09   37.8   0.0    18    70    25    82     9    84 0.91 Ubiquitin family
+Rad60-SLD            PF11976.8     72 Avas.s022.g424.i1    -            573     0.041   13.7   0.2   1   2    0.0044        11    5.9   0.0    22    68    27    77    20    80 0.84 Ubiquitin-2 like Rad60 SUMO-like
+Rad60-SLD            PF11976.8     72 Avas.s022.g424.i1    -            573     0.041   13.7   0.2   2   2      0.01        27    4.7   0.0    19    54   375   411   372   416 0.88 Ubiquitin-2 like Rad60 SUMO-like
+Exonuc_VII_L         PF02601.15   304 Avas.s022.g424.i1    -            573      0.54    9.8  11.0   1   2     4e-05       0.1   12.2   6.8   144   238   116   223    72   304 0.60 Exonuclease VII, large subunit
+Exonuc_VII_L         PF02601.15   304 Avas.s022.g424.i1    -            573      0.54    9.8  11.0   2   2      0.46   1.2e+03   -1.2   0.1   184   197   392   405   313   484 0.51 Exonuclease VII, large subunit
+DUF3781              PF12636.7     72 Avas.s022.g424.i1    -            573      0.74    9.7   8.1   1   3      0.66   1.7e+03   -1.0   0.1    12    29   105   122   100   144 0.70 Protein of unknown function (DUF3781)
+DUF3781              PF12636.7     72 Avas.s022.g424.i1    -            573      0.74    9.7   8.1   2   3     0.014        37    4.3   0.5     9    29   141   161   133   169 0.82 Protein of unknown function (DUF3781)
+DUF3781              PF12636.7     72 Avas.s022.g424.i1    -            573      0.74    9.7   8.1   3   3   0.00074       1.9    8.4   0.4     9    52   180   226   172   234 0.80 Protein of unknown function (DUF3781)
+UPF0242              PF06785.11   193 Avas.s022.g424.i1    -            573      0.78    9.8  15.1   1   1    0.0011       2.9    8.0  15.1    71   180   101   207    71   232 0.65 Uncharacterised protein family (UPF0242) N-terminus
+DUF434               PF04256.12    56 Avas.s022.g424.i1    -            573       1.3    8.8  15.8   1   3     0.013        33    4.3   0.5    29    53   111   135   110   137 0.88 Protein of unknown function (DUF434)
+DUF434               PF04256.12    56 Avas.s022.g424.i1    -            573       1.3    8.8  15.8   2   3   0.00049       1.2    8.8   1.5    29    54   150   175   149   176 0.93 Protein of unknown function (DUF434)
+DUF434               PF04256.12    56 Avas.s022.g424.i1    -            573       1.3    8.8  15.8   3   3     0.015        38    4.1   1.2    29    53   189   213   188   216 0.87 Protein of unknown function (DUF434)
+DUF4407              PF14362.6    298 Avas.s022.g424.i1    -            573       1.3    8.3  10.1   1   1    0.0011       2.8    7.2  10.1   119   233   102   224    83   230 0.68 Domain of unknown function (DUF4407)
+SabA_adhesion        PF18304.1    299 Avas.s022.g426.i1    -            686      0.29   10.3   9.2   1   2    0.0027        49    3.0   1.5    91   200   191   300   183   309 0.61 SabA N-terminal extracellular adhesion domain
+SabA_adhesion        PF18304.1    299 Avas.s022.g426.i1    -            686      0.29   10.3   9.2   2   2   9.6e-06      0.17   11.1   1.2   110   175   414   480   381   509 0.71 SabA N-terminal extracellular adhesion domain
+ANATO                PF01821.18    36 Avas.s022.g429.i1    -            332       2.3    9.2   4.3   1   2     0.026   4.7e+02    1.8   0.1    25    35   192   202   183   202 0.76 Anaphylotoxin-like domain
+ANATO                PF01821.18    36 Avas.s022.g429.i1    -            332       2.3    9.2   4.3   2   2   0.00037       6.7    7.7   0.9     9    29   213   233   210   235 0.86 Anaphylotoxin-like domain
+ANATO                PF01821.18    36 Avas.s022.g429.i2    -            338       1.3    9.9   4.4   1   2     0.013   2.4e+02    2.7   0.1    19    35   191   208   188   208 0.75 Anaphylotoxin-like domain
+ANATO                PF01821.18    36 Avas.s022.g429.i2    -            338       1.3    9.9   4.4   2   2   0.00038       6.8    7.6   0.9     9    29   219   239   216   241 0.86 Anaphylotoxin-like domain
+Sds3                 PF08598.11   218 Avas.s022.g433.i1    -            592     0.022   14.8   0.1   1   2       1.1   3.8e+03   -2.4   2.3   115   115   237   237   166   404 0.57 Sds3-like
+Sds3                 PF08598.11   218 Avas.s022.g433.i1    -            592     0.022   14.8   0.1   2   2   6.2e-06     0.022   14.8   0.1    17    50   446   479   440   485 0.91 Sds3-like
+Pepdidase_M14_N      PF18027.1    108 Avas.s022.g433.i1    -            592       0.1   13.0   1.5   1   3      0.22   7.8e+02    0.5   0.3     8    61   181   233   178   261 0.80 Cytosolic carboxypeptidase N-terminal domain
+Pepdidase_M14_N      PF18027.1    108 Avas.s022.g433.i1    -            592       0.1   13.0   1.5   2   3   0.00025      0.91    9.9   0.0    29    73   376   422   340   434 0.82 Cytosolic carboxypeptidase N-terminal domain
+Pepdidase_M14_N      PF18027.1    108 Avas.s022.g433.i1    -            592       0.1   13.0   1.5   3   3       1.3   4.6e+03   -2.0   0.0    53    73   462   482   448   498 0.68 Cytosolic carboxypeptidase N-terminal domain
+Gly-zipper_Omp       PF13488.6     46 Avas.s022.g433.i1    -            592      0.14   12.2  24.2   1   1   6.9e-05      0.25   11.4  24.2     5    42   542   579   538   583 0.79 Glycine zipper
+zf-C2H2_9            PF16293.5     59 Avas.s022.g433.i1    -            592      0.16   11.8   0.3   1   1   0.00012      0.42   10.5   0.3    40    58   367   385   357   386 0.88 C2H2 type zinc-finger (1 copy)
+Gly-zipper_YMGG      PF13441.6     46 Avas.s022.g433.i1    -            592       2.5    7.9  22.6   1   1    0.0014       4.9    7.0  22.6     9    43   542   573   535   580 0.63 YMGG-like Gly-zipper
+DUF5354              PF17305.2    124 Avas.s022.g434.i1    -            596    0.0075   16.5   1.6   1   2   2.1e-06     0.019   15.2   0.4    46    94   168   220   147   252 0.73 Family of unknown function (DUF5354)
+DUF5354              PF17305.2    124 Avas.s022.g434.i1    -            596    0.0075   16.5   1.6   2   2      0.32   2.8e+03   -1.5   0.0    58    75   350   367   339   371 0.75 Family of unknown function (DUF5354)
+Sif                  PF06767.11   337 Avas.s022.g434.i1    -            596     0.018   14.1   0.2   1   1   2.3e-05       0.2   10.6   0.2   131   228   178   297   162   314 0.70 Sif protein
+SabA_adhesion        PF18304.1    299 Avas.s022.g435.i1    -            733       1.4    8.1   4.7   1   2      0.26   1.6e+03   -1.9   0.6   124   138   210   224   156   297 0.65 SabA N-terminal extracellular adhesion domain
+SabA_adhesion        PF18304.1    299 Avas.s022.g435.i1    -            733       1.4    8.1   4.7   2   2   3.7e-05      0.22   10.7   0.3   113   168   412   467   388   541 0.82 SabA N-terminal extracellular adhesion domain
+Atrophin-1           PF03154.15   980 Avas.s022.g435.i1    -            733       4.4    5.5  28.6   1   1    0.0012       7.1    4.8  28.6   573   643   525   597   520   602 0.86 Atrophin-1 family
+TraT                 PF05818.12   215 Avas.s022.g435.i1    -            733       4.9    6.8  14.3   1   2      0.12   7.3e+02   -0.3   0.7   140   161   466   516   429   574 0.66 Enterobacterial TraT complement resistance protein
+TraT                 PF05818.12   215 Avas.s022.g435.i1    -            733       4.9    6.8  14.3   2   2   7.9e-05      0.47   10.1   7.0    68   131   660   720   656   727 0.71 Enterobacterial TraT complement resistance protein
+Gly-zipper_Omp       PF13488.6     46 Avas.s022.g436.i1    -            727   6.3e-05   22.9  21.0   1   1     4e-08    0.0001   22.2  21.0     2    40   683   719   682   722 0.95 Glycine zipper
+Gly-zipper_YMGG      PF13441.6     46 Avas.s022.g436.i1    -            727   0.00014   21.5  19.2   1   1   9.5e-08   0.00024   20.8  19.2     4    45   681   719   679   723 0.82 YMGG-like Gly-zipper
+Rick_17kDa_Anti      PF05433.15    42 Avas.s022.g436.i1    -            727    0.0097   15.7  20.7   1   1   6.2e-06     0.016   15.1  20.7     2    39   683   719   682   722 0.88 Glycine zipper 2TM domain
+DUF4034              PF13226.6    274 Avas.s022.g436.i1    -            727     0.032   13.6   0.0   1   2   0.00076         2    7.7   0.0    65   101   158   194   110   198 0.81 Domain of unknown function (DUF4034)
+DUF4034              PF13226.6    274 Avas.s022.g436.i1    -            727     0.032   13.6   0.0   2   2     0.016        42    3.4   0.0    31    79   561   611   541   618 0.72 Domain of unknown function (DUF4034)
+SabA_adhesion        PF18304.1    299 Avas.s022.g436.i1    -            727      0.36   10.0   2.7   1   1   0.00024      0.61    9.3   1.6   113   166   417   470   391   525 0.76 SabA N-terminal extracellular adhesion domain
+Bacteriocin_IIc      PF10439.9     62 Avas.s022.g436.i1    -            727       0.4   10.8  18.8   1   1   0.00029      0.74   10.0  18.8    24    61   676   716   672   717 0.85 Bacteriocin class II with double-glycine leader peptide
+Gly-zipper_OmpA      PF13436.6     44 Avas.s022.g436.i1    -            727       3.1    7.7  24.0   1   2     0.002       5.1    7.0   6.4    25    44   680   699   673   699 0.76 Glycine-zipper domain
+Gly-zipper_OmpA      PF13436.6     44 Avas.s022.g436.i1    -            727       3.1    7.7  24.0   2   2    0.0033       8.5    6.3   9.7     3    21   702   720   701   722 0.92 Glycine-zipper domain
+DUF2062              PF09835.9    148 Avas.s022.g438.i1    -            469      0.19   11.6   1.1   1   1   6.9e-05      0.31   10.9   1.1    16    57   423   463   411   468 0.88 Uncharacterized protein conserved in bacteria (DUF2062)
+Bacteriocin_IIc      PF10439.9     62 Avas.s022.g438.i1    -            469      0.38   10.9  11.2   1   1   0.00015      0.68   10.1  11.2    27    61   423   456   416   457 0.85 Bacteriocin class II with double-glycine leader peptide
+HSP70                PF00012.20   599 Avas.s022.g438.i1    -            469       1.1    7.4  11.5   1   1   0.00038       1.7    6.7  11.5   485   581   274   375   235   386 0.70 Hsp70 protein
+Gly-zipper_YMGG      PF13441.6     46 Avas.s022.g438.i1    -            469       1.4    8.7  14.8   1   1    0.0005       2.2    8.1  14.8     3    37   424   455   422   457 0.89 YMGG-like Gly-zipper
+TraT                 PF05818.12   215 Avas.s022.g439.i1    -            473      0.52   10.0   8.6   1   2      0.16   7.4e+02   -0.3   0.5   139   180   244   287   210   321 0.69 Enterobacterial TraT complement resistance protein
+TraT                 PF05818.12   215 Avas.s022.g439.i1    -            473      0.52   10.0   8.6   2   2   1.2e-05     0.053   13.2   2.2    76   136   412   470   398   472 0.81 Enterobacterial TraT complement resistance protein
+Gly-zipper_YMGG      PF13441.6     46 Avas.s022.g439.i1    -            473      0.68    9.7  27.1   1   1   0.00024       1.1    9.1  27.1     3    45   424   463   422   464 0.90 YMGG-like Gly-zipper
+HSP70                PF00012.20   599 Avas.s022.g439.i1    -            473       1.1    7.3  11.5   1   1   0.00039       1.7    6.7  11.5   485   581   274   375   235   386 0.70 Hsp70 protein
+Bacteriocin_IIc      PF10439.9     62 Avas.s022.g439.i1    -            473       7.4    6.8  20.1   1   1    0.0037        16    5.7  20.1    26    61   426   464   418   465 0.58 Bacteriocin class II with double-glycine leader peptide
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      avas_s022_tandem_cluster_3.fasta
+# Target file:     /home/wrf/db/Pfam-A.hmm
+# Option settings: hmmscan --domtblout avas_s022_tandem_cluster_3.pfam.tab --cpu 1 /home/wrf/db/Pfam-A.hmm avas_s022_tandem_cluster_3.fasta 
+# Current dir:     /mnt/data/project/genomes/aphrocallistes_vastus_PORI/Aphrocallistes_vastus_genome/synteny/vs_oopsacas
+# Date:            Mon Dec 12 20:08:50 2022
+# [ok]
