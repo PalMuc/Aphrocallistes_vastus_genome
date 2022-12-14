@@ -4,7 +4,7 @@
 
 setwd("~/git/Aphrocallistes_vastus_genome/")
 
-all2Ddata = read.table("synteny/vs_oopsacas/Avas.1.29_vs_oopsacas_gb.scaffold2d_points.tab", sep="\t", stringsAsFactors=FALSE)
+all2Ddata = read.table("synteny/vs_oopsacas/Avas.1.29_vs_oopsacas_gb.scaffold2d_points.tab.gz", sep="\t", stringsAsFactors=FALSE)
 categories = all2Ddata[,1]
 is_scaf1 = which(categories=="s1")
 scafdata1 = all2Ddata[is_scaf1,]
@@ -183,10 +183,10 @@ dev.off()
 ################################################################################
 # FIGURE 2 - intron lengths on scaffold 022
 
-avas_intron_file = "~/git/Aphrocallistes_vastus_genome/genomic_overview/Avas.v1.29_annotations.fr.introns.txt"
+avas_intron_file = "~/git/Aphrocallistes_vastus_genome/genomic_overview/Avas.v1.29_annotations.fr.introns.txt.gz"
 avas_intron = read.table(avas_intron_file, sep = "\t")
 
-omin_intron_file = "~/git/Aphrocallistes_vastus_genome/genomic_overview/JAKMXF01.1.gbff.introns.txt"
+omin_intron_file = "~/git/Aphrocallistes_vastus_genome/genomic_overview/JAKMXF01.1.gbff.introns.txt.gz"
 omin_intron = read.table(omin_intron_file, sep = "\t")
 
 h1 = hist(avas_intron$V5, breaks=c(seq(0,5000,50),1000000), plot = FALSE )
@@ -245,18 +245,6 @@ legend(255,5000,bty = "n", legend = c("- scaffold 022","- scaffold 133") )
 text(110,1200,paste(s022_bp_diff,"intron kbp difference"), pos=4 )
 segments(90,600,120,1000, col = "#000000bb", lwd = 0.7)
 dev.off()
-
-# plot trace of introns on each scaffold alone
-# NOT USEFUL
-# int_hist_lines = function(x) {
-#   h = hist(x, breaks=c(seq(0,10000,100),1000000),plot=FALSE )
-#   #max_freq = max(h$counts)
-#   #rel_counts = h$counts / max_freq
-#   #lines(h$mids, rel_counts, col = "#101c9888")
-#   lines(h$mids, h$counts, col = "#101c9888")
-# }
-# aggregate(avas_intron$V5, list(avas_intron$V1), int_hist_lines)
-# list(omin_intron$V1)
 
 
 

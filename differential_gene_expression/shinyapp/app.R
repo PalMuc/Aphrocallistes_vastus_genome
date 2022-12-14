@@ -9,19 +9,19 @@ library(ape)
 library(ggtree)
 
 
-# CHANGE PATHS HERE
-# CHANGE PATHS HERE
+# CHANGE PATHS HERE | | |
+# CHANGE PATHS HERE v v v
 
 # SET THIS: this must point to the functional annotation table
-dge_data_file = "~/git/Aphrocallistes_vastus_genome/differential_gene_expression/Data/avas_v1_29_annotations_prot_fr_blastp_k10.annotation_table_clusters.tsv"
+dge_data_file = "~/git/Aphrocallistes_vastus_genome/differential_gene_expression/Data/avas_v1_29_annotations_prot_fr_blastp_k10.annotation_table_clusters.tsv.gz"
 # SET THIS: must point to files Avas_DGE_quant.csv and Avas_DGE_quant.info respectively
-dge_raw_counts_file = "~/git/Aphrocallistes_vastus_genome/differential_gene_expression/Data/Avas_DGE_quant.csv"
+dge_raw_counts_file = "~/git/Aphrocallistes_vastus_genome/differential_gene_expression/Data/Avas_DGE_quant.csv.gz"
 dge_sample_info_file = "~/git/Aphrocallistes_vastus_genome/differential_gene_expression/Data/Avas_DGE_quant.info"
 # SET THIS: must point to the FOLDER containing all fasttree trees from the ortholog clusters
 fasttree_folder = "~/git/Aphrocallistes_vastus_genome/ortholog_clusters/fasttree/"
 
-# CHANGE PATHS HERE
-# CHANGE PATHS HERE
+# CHANGE PATHS HERE ^ ^ ^
+# CHANGE PATHS HERE | | |
 
 ################################################################################
 # read in all data files

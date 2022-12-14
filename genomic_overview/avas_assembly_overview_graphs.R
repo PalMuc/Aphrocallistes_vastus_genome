@@ -40,12 +40,94 @@ dev.off()
 # bedgraph2histo.py -b Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bg > Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.cov_histo.tab
 
 genomecov_data = read.table("Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.cov_histo.tab", sep = "\t")
+pdf(file ="Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.cov_histo.pdf" , width = 6, height = 6)
+par(mar=c(4.5,4.5,2,2))
 plot(genomecov_data$V1, genomecov_data$V2/1000000, type="l", xlim = c(0,250), frame.plot=FALSE,
      xlab="Coverage", ylab="Total Mbp", 
      lwd=4, col="#334596ff",
      cex.axis=1.4, cex.lab=1.4)
+segments(which.max(genomecov_data$V2), 0, which.max(genomecov_data$V2), max(genomecov_data$V2)/1e6,
+         lty = 2, col = "#00000066")
 text( which.max(genomecov_data$V2), max(genomecov_data$V2)/1e6, 
       paste0(which.max(genomecov_data$V2),"x"), pos = 4, cex = 1.3)
+dev.off()
+
+################################################################################
+
+# scaffold length and number of genes from GFF
+count_genes = function(x){ table(x)[["gene"]] }
+get_scaffold_stat_from_gff = function(gff_file){
+  #gff_file = "Avas.v1.29_annotations.fr.gff"
+  MIN_GENES = 100
+  genome_gff = read.table(gff_file, sep="\t", stringsAsFactors = FALSE)
+  #entries_by_scaf = sort(table(genome_gff[,1]),decreasing = TRUE)
+  #top25_scafs = names(entries_by_scaf)[entries_by_scaf > 1000]
+  #is_top25_scafs = genome_gff[,1] %in% top25_scafs
+  gene_counts = aggregate(genome_gff[,3], list(genome_gff[,1]), count_genes )
+  max_scaf_lens = aggregate(x = genome_gff[,5], list(genome_gff[,1]), max )
+  gene_by_scaf = data.frame("scaffold_size"=max_scaf_lens$x, "n_genes"=gene_counts$x)
+  gene_by_scaf.long = gene_by_scaf[gene_by_scaf$n_genes > MIN_GENES,]
+  return( gene_by_scaf.long )
+}
+
+av_genome_gff_file = "Avas.v1.29_annotations.fr.gff"
+av_scaf_stats = get_scaffold_stat_from_gff(av_genome_gff_file)
+om_scaf_stats = get_scaffold_stat_from_gff("JAKMXF01.1.gbff.gff")
+em_scaf_stats = get_scaffold_stat_from_gff("Emu_augustus_vs_nb_sysnames.gff")
+nv_scaf_stats = get_scaffold_stat_from_gff("~/genomes/nematostella_vectensis_CNID/NVEC200.20200813.gff")
+ta_scaf_stats = get_scaffold_stat_from_gff("~/genomes/trichoplax_adhaerens/Trichoplax_scaffolds_JGI_AUGUSTUS_no_comment.gff")
+bf_scaf_stats = get_scaffold_stat_from_gff("~/genomes/branchiostoma_floridae/amphioxus_7u5tJ.gtf.gz")
+am_scaf_stats = get_scaffold_stat_from_gff("~/genomes/acropora_millipora/Amil.genes.gff")
+xs_scaf_stats = get_scaffold_stat_from_gff("~/genomes/xenia_sp_CNID/xenSp1.gff3")
+hc_scaf_stats = get_scaffold_stat_from_gff("~/genomes/hormiphora_californensis/Hcv1av93.gff.gz")
+sc_scaf_stats = get_scaffold_stat_from_gff("~/genomes/scolanthus_callimorphus_CNID/NY_Scal100_v1.20200813.gff.gz")
+#hs_scaf_stats = get_scaffold_stat_from_gff("~/genomes/human/GCF_000001405.39_GRCh38.p13_genomic.gff.gz")
+
+
+# linear plot
+plot( 1,1, type='n', xlim=c(2e5,4e7), ylim=c(-100,4000),
+      xlab="Scaffold size (Mb)", ylab="N genes on scaffold", log="", frame.plot=FALSE)
+points( av_scaf_stats, pch=16, col="#101c98aa", cex=2)
+points( om_scaf_stats, pch=16, col="#d76404aa", cex=2)
+points( em_scaf_stats, pch=16, col="#3a9d08aa", cex=2)
+points( nv_scaf_stats, pch=16, col="#950837aa", cex=2)
+points( ta_scaf_stats, pch=16, col="#43614caa", cex=2)
+points( am_scaf_stats, pch=16, col="#ef4da1aa", cex=2)
+points( xs_scaf_stats, pch=16, col="#09859baa", cex=2)
+points( hc_scaf_stats, pch=16, col="#6d18d3aa", cex=2)
+
+# log plot
+pdf(file="invert_chr_level_scaf_size_vs_genes.v1.pdf", width=6, height=6)
+par(mar=c(5,5,1,1))
+plot( 1,1, type='n', xlim=c(2e5,1e8), ylim=c(99,5e3),
+      xlab="Scaffold size (Mb)", ylab="N genes on scaffold", log="xy", frame.plot=FALSE, axes=FALSE)
+axis(2)
+axis(1, at=c(2e5,5e5,1e6,2e6,5e6,1e7,2e7,5e7), labels=c("0.2","0.5","1", "2", "5", "10", "20", "50"))
+points( av_scaf_stats, pch=16, col="#101c98aa", cex=2)
+text(2e6,1600, "A.vastus", font=3, col="#101c98", cex=1.2)
+points( om_scaf_stats, pch=16, col="#d76404aa", cex=2)
+text(9e5,7e2, "O.minuta", font=3, col="#d76404", cex=1.2)
+points( em_scaf_stats, pch=16, col="#3a9d08aa", cex=2)
+text(1e7,5e3, "E.muelleri", font=3, col="#3a9d08", cex=1.2)
+points( am_scaf_stats, pch=16, col="#ef4da1aa", cex=2)
+text(1e7,3800, "A.millepora", font=3, col="#ef4da1", cex=1.2)
+points( bf_scaf_stats, pch=16, col="#43614caa", cex=2)
+text(1e7,3e3, "B.floridae", font=3, col="#43614c", cex=1.2)
+points( nv_scaf_stats, pch=16, col="#950837aa", cex=2)
+text(1e7,100, "N.vectensis", font=3, col="#950837", cex=1.2)
+points( xs_scaf_stats, pch=16, col="#09859baa", cex=2)
+text(1e7,120, "Xenia", font=3, col="#09859b", cex=1.2)
+points( hc_scaf_stats, pch=16, col="#6d18d3aa", cex=2)
+text(2e6,2e3, "H.californensis", font=3, col="#6d18d3", cex=1.2)
+points( sc_scaf_stats, pch=16, col="#e81500aa", cex=2)
+text(1e7,150, "S.callimorphus", font=3, col="#e81500", cex=1.2)
+#points( hs_scaf_stats, pch=16, col="#3b4effaa", cex=2)
+dev.off()
+
+
+
+
+
 
 
 #
