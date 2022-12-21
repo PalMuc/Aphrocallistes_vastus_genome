@@ -1,0 +1,48 @@
+IND1_body_L001.SalmonQuant
+[2022-03-07 13:40:07.585] [jointLog] [info] Mapping rate = 79.2971%
+IND1_body_L002.SalmonQuant
+[2022-03-07 13:44:53.146] [jointLog] [info] Mapping rate = 79.3617%
+IND1_body_L003.SalmonQuant
+[2022-03-07 13:49:40.627] [jointLog] [info] Mapping rate = 79.3328%
+IND1_body_L004.SalmonQuant
+[2022-03-07 13:54:24.100] [jointLog] [info] Mapping rate = 79.3856%
+IND1_tip_L001.SalmonQuant
+[2022-03-07 14:09:20.871] [jointLog] [info] Mapping rate = 83.0433%
+IND1_tip_L002.SalmonQuant
+[2022-03-07 14:24:04.926] [jointLog] [info] Mapping rate = 83.118%
+IND1_tip_L003.SalmonQuant
+[2022-03-07 14:27:31.514] [jointLog] [info] Mapping rate = 83.0778%
+IND1_tip_L004.SalmonQuant
+[2022-03-07 14:30:55.742] [jointLog] [info] Mapping rate = 83.1265%
+IND2_tip_L001.SalmonQuant
+[2022-03-07 14:35:10.684] [jointLog] [info] Mapping rate = 82.2699%
+IND2_tip_L002.SalmonQuant
+[2022-03-07 14:43:36.003] [jointLog] [info] Mapping rate = 82.3815%
+IND2_tip_L003.SalmonQuant
+[2022-03-07 14:47:47.112] [jointLog] [info] Mapping rate = 82.3235%
+IND2_tip_L004.SalmonQuant
+[2022-03-07 14:51:52.257] [jointLog] [info] Mapping rate = 82.3786%
+IND3_tip_L001.SalmonQuant
+[2022-03-07 14:58:48.894] [jointLog] [info] Mapping rate = 80.9002%
+IND3_tip_L002.SalmonQuant
+[2022-03-07 15:05:32.673] [jointLog] [info] Mapping rate = 80.9812%
+IND3_tip_L003.SalmonQuant
+[2022-03-07 15:08:53.013] [jointLog] [info] Mapping rate = 80.9216%
+IND3_tip_L004.SalmonQuant
+[2022-03-07 15:12:09.233] [jointLog] [info] Mapping rate = 80.9828%
+IND4_body_L001.SalmonQuant
+[2022-03-07 15:15:49.062] [jointLog] [info] Mapping rate = 80.5236%
+IND4_body_L002.SalmonQuant
+[2022-03-07 15:19:25.189] [jointLog] [info] Mapping rate = 80.6073%
+IND4_body_L003.SalmonQuant
+[2022-03-07 15:23:03.873] [jointLog] [info] Mapping rate = 80.5686%
+IND4_body_L004.SalmonQuant
+[2022-03-07 15:26:37.922] [jointLog] [info] Mapping rate = 80.6284%
+IND5_body_L001.SalmonQuant
+[2022-03-07 15:29:54.188] [jointLog] [info] Mapping rate = 77.548%
+IND5_body_L002.SalmonQuant
+[2022-03-07 15:33:09.435] [jointLog] [info] Mapping rate = 77.6494%
+IND5_body_L003.SalmonQuant
+[2022-03-07 15:43:25.540] [jointLog] [info] Mapping rate = 77.5886%
+IND5_body_L004.SalmonQuant
+[2022-03-07 15:46:36.857] [jointLog] [info] Mapping rate = 77.6556%
