@@ -37,4 +37,20 @@ Hi-C reads were mapped to the draft assembly using:
 
 The assembly was then scaffolded using [instaGRAAL v0.1.6](https://github.com/koszullab/instaGRAAL) no-opengl branch by [Baudry et al 2020](https://doi.org/10.1186/s13059-020-02041-z) with parameters `-l 4 -n 50 -c 1 -N 5` and automatically curated using `instaGRAAL-polish`.
 
+### assembly evaluation ###
+Using code from [WRF's lavaLampPlot repo](https://github.com/wrf/lavaLampPlot) to get GC% and coverage, for plotting.
+
+```
+~/git/lavaLampPlot/hits_to_coverage.py -f v1.29/Avas.v1.29_scaffolds.fasta -g Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_hisat2.bg -l 1 > Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_hisat2.gc_cov.tab
+# 80320060 total bp, average coverage is 101.6
+Rscript ~/git/lavaLampPlot/contig_gc_coverage.R Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_hisat2.gc_cov.tab 400
+
+~/git/lavaLampPlot/hits_to_coverage.py -f v1.29/Avas.v1.29_scaffolds.fasta -g Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bg -l 1 > Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.gc_cov.tab
+# 80320060 total bp, average coverage is 99.7
+Rscript ~/git/lavaLampPlot/contig_gc_coverage.R Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.gc_cov.tab
+
+~/git/lavaLampPlot/hits_to_coverage.py -f v1.29/Avas.v1.29_scaffolds.fasta -g Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.ONT-DNA_minimap2.sorted.bg -l 1 > Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.ONT-DNA_minimap2.gc_cov.tab
+# 80320060 total bp, average coverage is 105.9
+Rscript ~/git/lavaLampPlot/contig_gc_coverage.R Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.ONT-DNA_minimap2.gc_cov.tab
+```
 
