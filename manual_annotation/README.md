@@ -66,3 +66,14 @@ rm Avas.current_v.annotations.gff ; ln -s v1.29/Avas.v1.29_annotations.fr.gff Av
 
 ```
 
+### comparison among annotations ###
+Using BUSCO 5.4.2 for dataset `metazoa_odb10` with 954 proteins:
+
+| annotation | complete | single | duplicated | fragmented | missing |
+| :--- | --- | --- | --- | --- | --- |
+| Avas.v1.29_annotations | 80.4% | 78.5% | 1.9% | 2.3% | 17.3% |
+| BRAKER2_ONT-RNA_augustus.hints_proteins | 77.8% | 74.7% | 3.1% | 3.4% | 18.8% |
+| PINFISH_pipeline | 69.9% | 54.6% | 15.3% | 4.7% | 25.4% |
+| STRG_ONT-RNA_minimap2_transdecoder| 76.6% | 58.5% | 18.1% | 3.1% | 20.3% |
+
+

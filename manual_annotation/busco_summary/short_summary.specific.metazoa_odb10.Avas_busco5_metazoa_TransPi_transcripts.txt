@@ -1,0 +1,18 @@
+# BUSCO version is: 5.2.2 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2021-02-17, number of genomes: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file /Users/michi/Library/Mobile Documents/com~apple~CloudDocs/WORK/AVAS/ANALYSES/10_BUSCO/Aphrocallistes_RNAseq_Ind_1-5_combined_f25_reheader.combined.okay.fa
+# BUSCO was run in mode: transcriptome
+
+	***** Results: *****
+
+	C:80.3%[S:44.0%,D:36.3%],F:4.6%,M:15.1%,n:954	   
+	766	Complete BUSCOs (C)			   
+	420	Complete and single-copy BUSCOs (S)	   
+	346	Complete and duplicated BUSCOs (D)	   
+	44	Fragmented BUSCOs (F)			   
+	144	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	metaeuk: 5.34c21f2

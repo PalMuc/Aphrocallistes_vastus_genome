@@ -1,0 +1,19 @@
+# BUSCO version is: 5.2.2 
+# The lineage dataset is: eukaryota_odb10 (Creation date: 2020-09-10, number of genomes: 70, number of BUSCOs: 255)
+# Summarized benchmarking in BUSCO notation for file /Users/michi/Library/Mobile Documents/com~apple~CloudDocs/WORK/AVAS/ANALYSES/10_BUSCO/Avas.v1.29_scaffolds.fasta
+# BUSCO was run in mode: genome
+# Gene predictor used: metaeuk
+
+	***** Results: *****
+
+	C:91.8%[S:90.6%,D:1.2%],F:4.7%,M:3.5%,n:255	   
+	234	Complete BUSCOs (C)			   
+	231	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	12	Fragmented BUSCOs (F)			   
+	9	Missing BUSCOs (M)			   
+	255	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	metaeuk: 5.34c21f2
