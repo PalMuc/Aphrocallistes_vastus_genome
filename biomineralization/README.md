@@ -23,7 +23,21 @@ Rscript ~/git/genomeGTFtools/draw_annotation_blocks.R JAKMXF01.1.gbff.scaf_288.2
 Rscript ~/git/genomeGTFtools/draw_annotation_blocks.R Avas.s014.2465k_2490k_glassin.tab
 ```
 
+Molecular weight of sequences and potential cleavage products assuming a cut at `XG'G`, where `X` is non-polar, and `'` is the cutting site:
 
+| sequence ID                   | molecular weight | pI    |
+| :---                                 |     ---: |   ---: |
+| Euplectella_curvistellata_LC012028.1 | 14772.07 | 10.140 |
+| Euplectella_curvistellata_BAS21356.1 | 19437.71 | 6.480 |
+| Euplectella_curvistellata_LC010923.1 | 26369.67 | 6.160 |
+| Euplectella_curvistellata_BAS21353.1 | 32797.34 | 4.890 |
+| Euplectella_curvistellata_LC012024.1 | 32797.34 | 4.890 |
+| Oopsacas_minuta_LOD99_3750.mRNA.1 | 47800.08 | 5.530 |
+| O.minuta_glassin-cut | 25692.17 | 5.890 |
+| Aphrocallistes_vastus_Avas.s014.g618.i1 | 48056.01 | 5.700 |
+| A.vastus_glassin-cut | 25754.69 | 6.390 |
+| Rosella_fibulata_TR13145_c0_g2_i1_2 | 50869.66 | 6.110 |
+| R.fibulata_glassin-cut | 28446.33 | 6.340 |
 
 
 ### TIL domain protein ###
@@ -215,7 +229,7 @@ DDSLYSYDDFGSIGFDLWQVKSGTIFDNVLITDDVEYAETFGADTWGKTKDAEKEMKKKL
 DEEQRKEEEAKRKAEEASKAKDDDDDDDDDDDDDDNDDHDHDHEAEAAPKEEL
 ```
 
-Identified as SLC39A7 solute carrier family 39 member 7 similar to zinc transporter, high expression in sclerocytes, low-medium expression outside. His repeats present in human [S39A7_HUMAN](https://www.uniprot.org/uniprotkb/Q92504/entry)
+Identified as SLC39A7 solute carrier family 39 member 7 similar to zinc transporter, high expression in sclerocytes, low-medium expression outside. Histidine repeats are also present in human [S39A7_HUMAN](https://www.uniprot.org/uniprotkb/Q92504/entry)
 
 ```
 >c103758_g1_i1|c103758_g1 3 2301 Rep:L-6 Rep:H-6 Com:H-10.93
