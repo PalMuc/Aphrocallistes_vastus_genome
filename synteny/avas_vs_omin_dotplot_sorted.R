@@ -7,7 +7,7 @@
 
 # read data file from scaffold_synteny.py
 #all2Dfile = args[1]
-all2Dfile = "~/genomes/aphrocallistes_vastus_PORI/Aphrocallistes_vastus_genome/synteny/vs_oopsacas/Avas.1.29_vs_oopsacas_gb.scaffold2d_points.local.tab"
+all2Dfile = "~/git/Aphrocallistes_vastus_genome/synteny/vs_oopsacas/Avas.1.29_vs_oopsacas_gb.scaffold2d_points.local.tab"
 
 # read optional species names
 # should match between query and subject in scaffold_synteny.py, as -f and -F
@@ -94,9 +94,8 @@ pointsize = log10(as.numeric(pointsdata[,8])) / 4
 dotcolor = "#18519388" # color blue
 
 # make PDF
-#outputfile = gsub("([\\w/]+)\\....$","\\1.pdf",all2Dfile,perl=TRUE)
-outputfile = "~/genomes/aphrocallistes_vastus_PORI/Aphrocallistes_vastus_genome/synteny/vs_oopsacas/Avas.1.29_vs_oopsacas_gb.scaffold2d_points.local.small.pdf"
-pdf(file=outputfile, width=5, height=7) # a4 size
+outputfile = "~/git/Aphrocallistes_vastus_genome/synteny/vs_oopsacas/Avas.1.29_vs_oopsacas_gb.scaffold2d_points.local.small.pdf"
+pdf(file=outputfile, width=5, height=7) # a5 size
 
 par( mar=c(4.5,4.5,1,1) )
 

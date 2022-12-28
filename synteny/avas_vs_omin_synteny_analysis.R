@@ -65,8 +65,8 @@ synteny2_color[allg2chr_genes[,2] %in% gsub("O_minuta\\|","",cluster2_names[,1])
 #
 outputfile = "synteny/vs_oopsacas/Avas.v1.29_vs_oopsacas_gb.scaf_22_synteny.pdf"
 #outputfile = "synteny/vs_oopsacas/Avas.v1.29_vs_oopsacas_gb.scaf_21_22_synteny.pdf"
-pdf(file=outputfile, width=8, height=8)
-par( mfrow=c(2,1) )
+pdf(file=outputfile, width=8, height=4)
+#par( mfrow=c(2,1) )
 par( mar=c(3,1,2,1) )
 # empty plot
 plot(0,0,type="n", xlim=c(-500,1800), ylim=c(-1,1), xlab="", ylab="", 
@@ -89,7 +89,7 @@ segments( center_offset + max_scaf_length-(allg2chr_genes[,7]-longscafs2[21])/10
           lwd=2, col=synteny2_color )
 text(-500, -0.5, "O. minuta \nJAKMXF010000133.1 \n(reversed)", cex=1.1, pos=4)
 
-linker_colors = rep("#00000066",nrow(selectedpoints))
+linker_colors = rep("#00006655",nrow(selectedpoints))
 linker_colors[selectedpoints[,2] %in% cluster1_names[,1]] = "#41ca3c66"
 linker_colors[selectedpoints[,2] %in% cluster2_names[,1]] = "#ae378666"
 #linker_colors[selectedpoints[,2] %in% cluster3_names[,1]] = "#37720c66"
