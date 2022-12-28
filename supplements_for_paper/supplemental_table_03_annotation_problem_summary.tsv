@@ -1,0 +1,12 @@
+Annotation problem	Number of genes/transcripts	Percent total
+Split gene/ fragmented across 2 or more	1362	6.9%
+Wrong exons	512	2.6%
+Removed isoform, contained unreal isoform, or part of another gene	441	2.2%
+Incomplete UTR only (no problem with CDS)	418	2.1%
+Fused, two or more genes joined into one	332	1.6%
+Missing exons, gene model excludes internal exons	191	0.9%
+No RNA support, gene does not appear supported by any RNAseq	102	0.5%
+Frameshift corrected, likely manually edited gene to deal with frameshift in the assembly, or misassembled region	32	0.1%
+Wrong starting exon, 5’ exon not supported by RNAseq	19	0.1%
+All other issues	84	0.4%
+Total	3493	17.8%

@@ -1,0 +1,17 @@
+species	code	total_genes	blast_hits	without_blast_hits	one-to-one-clusters	is_sponge
+Amphimedon queenslandica	AQUE	43615	29742	13873	1175	1
+Aphrocallistes vastus	AVAS	19514	16474	3040	4631	1
+Branchiostoma floridae	BFLO	26529	15415	11114	1772	0
+Caenorhabditis elegans	CELE	20191	8428	11763	345	0
+Ephydatia muelleri	EMUE	39329	29422	9907	971	1
+Hormiphora californensis	HCAL	14375	5616	8759	473	0
+Eurete sp	HEX06-EUSP	20491	16162	4329	6062	1
+Farrea occa	HEX07-FOCC	21569	16732	4837	6104	1
+Hoilungia hongkongensis	HHON	12010	10599	1411	4548	0
+Homo sapiens	HSAP	20375	12608	7767	1646	0
+Monosiga brevicollis	MBRE	10864	3247	7617	380	0
+Nematostella vectensis	NVEC	15355	8262	7093	1740	0
+Rhopilema esculentum	RESC	17219	9931	7288	1494	0
+Sycon ciliatum	SCIL	32061	9882	22179	753	1
+Trichoplax adhaerens	TADH	12633	10157	2476	4560	0
+totals	totals	326130	202677	123453	36654	6

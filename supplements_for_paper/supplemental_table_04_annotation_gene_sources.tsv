@@ -1,0 +1,12 @@
+Gene/transcript source used in final	Count	Percent	Comments about usage
+BRAKER2 with ONT-RNA	16416	81.8%	default
+PINFISH, whole pipeline	1129	5.6%	Had the most transcript options
+BRAKER2_ref_proteins_aln	1054	5.2%	
+StringTie, long mode with ONT-RNA	586	2.9%	Tended to over-fuse genes at overlapping UTRs
+Manually edited genes	294	1.4%	
+BRAKER2_PE-RNA	225	1.1%	
+STRG_PE-RNA_hisat2	180	0.9%	
+PINFISH_stranded	134	0.6%	
+STRG_PE-RNA_stranded	30	0.1%	
+PINFISH_stepwise	9	<0.1%	
+STRG_ONT-RNA_minimap2	3	<0.1%	

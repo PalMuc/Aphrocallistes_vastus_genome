@@ -1,0 +1,225 @@
+Species	common_name	Scaffolds	N50	Total	Exon	Genic	Intron gaps	Intergenic gaps	Exon Count	Avg exon length	Intron Count	Avg intron length	asm_version	annot_version	Ref	Year	group_set	notes
+Salpingoeca rosetta	Choanoflagellate	154	1.519	55.4	26.1	48.3	1.3	2.3	99545	264	87916	253	v1	v1	Fairclough2013	2013	0	
+Monosiga brevicollis	Choanoflagellate	218	1.073	41.6	19.3	28.7	0.1	2.8	69832	246	60636	171	Monbr1	Monbr1_augustus_v1	King2008	2008	0	annotation from Francis2017
+Oopsacas minuta	Glass sponge	365	0.676	61.5	20.7	29.1	0.1	0.4	41282	496	24886	342	JAKMXF01.1	JAKMXF01.1	Santini2022	2022	2	
+Aphrocallistes vastus	Glass sponge	186	3.377	80.3	27.1	49.2	0	0	50946	544	30886	842	Avas.v1.29	Avas.v1.29	Woerheide2022	2022	1	
+Tethya wilhelma	Sponge	5936	0.073	126	46.1	83.4	0.4	1	163897	291	131824	413	Twi1	Twi1	Mills2018	2017	0	no official version
+Amphimedon queenslandica	Sponge	13397	0.12	166.6	47.1	95	5.9	15.8	218909	224	173594	329	Aqu1	Aqu2.1	Srivastava2010	2010	0	
+Sycon ciliatum	Calcareous sponge	7780	0.169	357.5	37.5	181.1	27.7	51.3	187658	229	147278	1241	v1	v1__sycon.cds	Fortunato2014	2014	0	no official version
+Ephydatia muelleri	Freshwater sponge	1444	9.883	322.6	51.4	178.9	0.8	0.9	243903	211	211658	388	v1	v1	Kenny2020	2019	4	
+Xestospongia testudinaria	Barrel sponge	97640	0.004	257.9	51.1	71	4.3	27	156494	329	98724	204	1	1	Ryu2016	2016	0	
+Stylissa carteri	Sponge	97497	0.01	418.9	36.1	109.8	9.2	39.6	166691	219	116663	652	1	1	Ryu2016	2016	0	
+Mnemiopsis leidyi	Lobate ctenophore	5100	0.187	155.8	27.5	91.7	2.2	3.2	91489	313	74941	896	ML2.2	ML2.2	Ryan2013	2013	0	
+Pleurobrachia bachei	Cydippid ctenophore	21979	0.021	156.1	23.3	67.3	6.7	12.5	154506	237	128613	1199	AVPN01.1	av93-Pbac	Moroz2014	2014	0	annot from Schultz2021
+Hormiphora californensis	Cydippid ctenophore	45	8.537	110.6	29.5	88.9	0	0	161873	265	141795	996	Hcv1	Hcv1av93	Schultz2021	2021	0	
+Beroe ovata	Ctenophore	4989	0.234	91.6	21.4	63.9	3.5	3.2	153628	198	135079	494	Bova1.4	Bova1.4	x	2022	0	
+Trichoplax adherens	Placozoan	1415	5.978	105.6	20.3	47.2	0.4	10.4	201136	157	182628	243	Triad1	JGI_AUGUSTUS_maxtrack2	Srivastava2008	2008	0	annot from Eitel2018
+Trichoplax H2	Placozoan	1128	0.376	94.8	27.7	58.1	0	0	120716	235	109184	286	TrispH2_1.0	TrispH2_1.0	Kamm2018	2018	0	
+Hoilungia hongkongensis	Placozoan	669	0.407	87.1	34.6	64.7	0	0	137080	278	108948	336	v1__Hhon_final_contigs_unmasked	Hhon_BRAKER1_genes	Eitel2018	2018	0	
+Nematostella vectensis	Starlet sea anemone	30	16.736	252.2	37.9	141.5	0	0.1	147218	262	131863	794	Nvec200	NVEC200.20200813	Zimmermann2021	2020	0	
+Exaiptasia pallida	Sea anemone	4312	0.442	256.1	63.7	159.4	19.6	25.6	171812	358	147807	656	v1.1	v1.1	Baumgarten2015	2015	0	
+Scolanthus callimorphus	Worm anemone	15	32.44	487.8	36.3	221.5	0	0	209250	174	184655	2252	NY_Scal100_v1_minimap	NY_Scal100_v1_minimap	Zimmermann2021	2020	0	
+Acropora digitifera	Staghorn coral	2420	0.483	447.4	53.5	225.2	20.3	47.8	168148	273	141873	1014	Adig_1.1_chrUn	Adig_1.1	Shinzato2011	2011	0	
+Acropora tenuis	Staghorn coral	614	2.837	486.8	59.6	234.5	0	0	216537	281	186210	968	v0.11	aten_0.11.maker_post_001	x	2019	0	
+Acropora millipora	Staghorn coral	854	19.841	475.4	49	202.6	0	0	190939	257	162751	972	Amil.v2.01.chrs	Amil.coding__v2.01	Fuller2020	2020	0	
+Stylophora pistillata	coral	5688	0.457	400.1	53.9	215.2	14.5	27.6	222237	261	194853	914	Spis_v1	Spis_v1	Voolstra2017	2017	0	
+Amplexidiscus fenestrafer	Corallimorph	5631	0.51	370	30.4	153.7	11.3	53	139123	218	117751	1047	v1	v1	Wang2017b	2017	0	
+Discosoma sp	Corallimorph	6449	0.772	444.3	31.2	160.2	12.8	67.1	138376	226	115177	1119	v1	v1	Wang2017b	2017	0	
+Pocillopora damicornis	Cauliflower coral	4393	0.326	234.3	45	146.3	2.5	6	186973	244	160896	665	v1	v1	Cunning2018	2018	0	
+Montastrea cavernosa	coral	10835	0.248	540.5	42.9	143.5	0	8.9	178968	241	2956	190	v03012018	v03012018	x	2018	0	
+Orbicella faveolata	coral	1933	1.162	485.5	68.3	249.4	39	90.5	249259	349	213572	1322	ofav_dov_v1	ofav_dov_v1	Prada2016	2017	0	
+Montipora capitata	coral	3043	0.541	885.7	73.4	324.2	0	0	283926	258	221428	1526	1	1	Shumaker2019	2019	0	
+Galaxea fascicularis	coral	11269	0.088	334.1	42.2	170.9	2.2	5.1	166186	257	143768	922	v1.0	v1.0	x	2019	0	
+Goniastrea aspera	coral	5396	0.519	764.8	51.6	283	16.2	65.3	217171	238	181270	1313	v1.0	v1.0	x	2019	0	
+Porites lutea	coral	2975	0.661	552	55.8	249.9	11	37	204364	275	173238	1150	v2.1	v2.1	x	2019	0	
+Fungia sp	coral	7424	0.323	606.3	56.1	245.8	14.7	64.4	224889	250	186680	1039	fun_final_1.0	ffun_1.0.genes	x	2019	0	
+Actinia tenebrosa	Anemone	4003	0.189	238.2	43.2	139.7	7.5	15.9	226686	255	199230	907	v1	v1	Surm2019	2019	0	
+Renilla muelleri	Sea pansy	4984	0.07	172.5	38.8	104.6	0	0	155934	248	130118	505	v1__final_genome	v1__anno_1	Jiang2018	2018	0	
+Dendronephthya gigantea	Soft coral	1321	1.446	286.1	50	138.2	0	0	298489	234	262488	588	DenGig_1.0	DenGig_1.0	Jeon2019	2019	0	
+Xenia sp	Soft coral	168	14.832	222.6	37.9	107.1	0	0.1	195121	203	165254	447	xenSp1	xenSp1	Hu2020	2020	0	
+Aurelia coerulea	Moon jelly	25454	0.121	757.1	39.7	206.7	9.3	87.8	138637	308	106715	1969	v1.2	v1.2	Gold2018	2018	0	
+Aurelia aurita	Moon jelly	2710	1.042	376.9	74.3	285.8	11.9	13	271932	368	199397	1392	AUR21_r04_250316	AUR21_r04_wref	Khalturin2019	2019	0	
+Morbakka virulenta	Box jellyfish	4538	2.173	951.5	59.4	517.3	57.3	55.4	209450	351	164581	3572	MOR05_r06	MOR05_r06	Khalturin2019	2019	0	
+Nemopilema nomurai	Nomuras jellyfish	251	2.711	213.6	28.5	117.7	0	3.1	148922	191	129398	689	NemNom1.0	NNO.final_gene_set	Kim2019	2019	0	c
+Rhopilema esculentum	Flame jellyfish	1681	12.93	256.6	24.5	139.8	0	0.1	135418	196	118302	1049	v1	v1	Li2020	2020	0	
+Clytia hemisphaerica	Jellyfish	7644	0.366	445.2	65.1	245.1	24.2	49.7	487332	282	413477	1403	clytia_assembly_dl_issue48	merged_transcript_models	Leclere2019	2019	0	
+Chrysaora quinquecirrha	Medusa	2496	0.734	336.8	27.2	116.1	0	16.4	118568	229	99924	889	v1	v1	Xia2020	2020	0	
+Hydra magnipapillata	Underwhelming medusazoa	5525	1.002	853.8	47.7	419.8	23.1	45.2	236761	281	122341	3827	Hm105_DA_1.0	hydra_stringtie	Chapman2010a	2010	0	WRF annotation
+Hydractinia symbiolongicarpus	Colonial hydrozoan	4840	2.236	406.7	36.5	165.1	0	0	164563	221	142541	912	Hsym_primary_v1.0	Hsym_primary_v1.0	x	2022	0	
+Myxobolus honghuensis	Parasitic cnidarian	1118	1.273	161.1	12	50.6	0	0	91259	132	75826	510	v1	_EVM_v1	Guo2022	2022	0	
+Capitella teleta	Polychaete	21042	0.188	333.7	37.5	90.3	4.3	52.3	174244	215	141828	371	v1.0	v1.0	Simakov2013	2013	0	
+Helobdella robusta	Leech	1993	3.06	235.3	29	91.8	2.4	17.5	143303	202	119824	524	Helro1	Helro1	Simakov2013	2013	0	
+Lamellibrachia luymesi	Tube worm	11870	0.373	687.7	42	262.1	17.3	68.7	205996	204	165147	1332	v1	v1	Li2019	2019	0	
+Dimorphilus gyrociliatus	Worm	349	2.242	77.8	29.2	41.2	0	0.9	91095	346	72085	171	Dgyrociliatus_v1	Dgyrociliatus_filtered_genemodels	Martin-Duran2020	2020	0	g
+Owenia fusiformis	Worm	819	38.876	499.5	54.1	315.1	0	0.4	250730	262	218839	1754	chromosome_level_unmasked__v1	chromosome_level__v1	Liang2022	2022	0	
+Lingula anatina	Brachiopod	2677	0.46	406.2	46.3	231	6.5	10.7	249484	185	219577	841	lan_genome_v2.0	50_lan_v2	Luo2015	2018	0	
+Phoronis australis	Phoronid worm	3984	0.655	498.4	32.4	298.7	4.4	5.8	172985	187	152512	1745	pau_v2	pau_v2	Luo2017	2017	0	
+Notospermus geniculatus	Nemertean worm	11108	0.239	858.6	62.6	356	25.9	75.1	267426	234	224132	1309	nge_v2	nge_v2	Luo2017	2017	0	
+Pinctada fucata	Pearl oyster	29306	0.167	815.3	71.1	387.6	18.2	36.3	251418	301	205475	1440	pfu_genome2.0	pfu_genome2.0	Takeuchi2012	2012	0	
+Patinopectin yessoensis	Japanese scallop	82659	0.804	987.5	74.7	499.8	20.8	59	462391	328	418581	2609	v2	v2	Wang2017	2017	0	
+Octopus bimaculoides	Two-spotted octopus	379696	0.466	2371.5	140	919.6	92.6	262.7	279398	510	131886	6590	Obimaculoides_280	obi-rnaseq-stringtie	Albertin2015	2015	0	annotation from Francis2017
+Callistoctopus minor	Octopus	41584	0.196	5090.3	34.5	697	0	0	154580	224	124570	5404	v1	v1	Kim2018	2018	0	
+Octopus sinensis	Chinese octopus	13516	105.893	2719.1	37.9	860.2	0.1	0.5	264656	235	235559	7544	ASM634580v1	ASM634580v1	Li2020	2019	0	
+Architeuthis dux	Giant squid	7376	4.853	2693.6	34	497.4	53.9	397.5	169711	200	136305	3400	08Dec2015_3x4tf	prediction2.withevidence	DaFonseca2020	2020	0	g
+Nautilus pompilius	Nautilus	2743	1.095	729	33.9	267.4	0	0	127082	267	110546	2097	ASM1838910v1	GWHBECW00000000	Zhang2021	2021	0	
+Aplysia californica	Sea slug	4332	0.918	927.3	35.8	248.2	25	164.4	182863	234	161710	2459	AplCal3.0	AplCal3.0	x	2019	0	
+Crassostrea gigas	Oyster	236	58.463	647.8	88.3	382.3	0	0	786212	260	712555	1373	cgigas_uk_roslin_v1	cgigas_uk_roslin_v1	NA	2020	0	
+Crassostrea virginica	Virginia oyster	11	75.944	684.7	86.6	397.4	0	0	718820	244	651904	1237	C_virginica-3.0	C_virginica-3.0	x	2017	0	
+Bathymodiolus platifrons	Deep sea mussel	65664	0.343	1659.2	52	365.6	24.6	170.5	186034	280	152450	2061	Bpl_v1.0	Bpl_v1.0	Sun2017	2017	0	
+Modiolus philippinarum	Philippine horse mussel	74575	0.1	2629.6	56.2	436.4	17	110.1	174162	323	137613	2765	Mph_v1.0	Mph_v1.0	Sun2017	2017	0	
+Limnoperna fortunei	Golden mussel	20548	0.312	1673.1	56.9	556.7	1.3	2.5	226906	298	166189	3511	v1	v1	Uliano-Silva2018	2018	0	
+Saccostrea glomerata	Sydney rock oyster	10107	0.804	788.1	51.8	256.5	8.8	32.7	240822	215	211084	984	v1_SROG	v1_SROG	Powell2018	2018	0	
+#Sinonovacula constricta	Razor clam	362	65.929	1220.8	0	0	0	0	0	0	0	0	v1	v1	Dong2020	2020	0	
+Archivesica marissinica	Clam	4006	73.331	1524.7	40.8	393.9	1.6	3.8	146375	280	117426	3080	Ama_v1.0	Ama_v1.0	Ip2021	2021	0	
+Potamilus streckersoni	Freshwater mussel	2366	2.051	1776.7	47.2	511.4	0	0	211388	223	158981	2919	UT_Pstr_1.0	v1__Pstreck	Smith2021	2021	0	
+Mytilus coruscus	Mussel	4275	99.542	1552	48.3	552.2	0	0.1	222230	217	184752	2727	Mco_CDS_only	Mco_ProteinCodingGenes	Yang2021	2021	0	
+Chrysomallon squamiferum	Scaly foot snail	22	30.198	404.6	30.6	118.3	0	0.2	131150	234	114235	1097	Csq_v1.1	csq_1.1	Sun2020	2020	0	
+Lottia gigantea	Limpet	4475	1.87	359.5	30.6	124.7	5.3	55.2	143727	213	119865	785	Lotgi1	Lotgi1	Simakov2013	2013	0	
+Biomphalaria glabrata	Snail	331401	0.048	916.3	53.8	324	5.3	12.1	338613	262	295108	1754	BglaB1.6	BglaB1.6	Adema2017	2017	0	
+Radix auricularia	Snail	4823	0.579	909.7	25.2	196.5	0	58.4	147195	171	129857	1350	v1	v1	Schell2017	2017	0	
+Acanthopleura granulata	Chiton	87	23.921	606.5	57.7	274.7	0	61.8	276324	284	238452	1370	v1-scaffolds	v1__PASA	Varney2020	2020	0	
+Haliotis discus	Abalone	80032	0.2	1865.4	20.9	79.6	1.8	114.5	74745	280	45296	1295	v1	v1	Nam2017	2017	0	
+Elysia chlorotica	Green sea slug	9989	0.442	557.4	33.1	233.4	4.1	12.7	169465	198	144480	1433	Echl_v1	Echl_v1	Cai2019	2019	0	
+Pomacea canaliculata	Golden apple snail	23	31.531	440.1	32.2	184.8	0	0	179026	180	157493	968	P.canaliculata.chromosome	Chr.Final	Liu2018	2018	0	
+Achatina fulica	Giant African land snail	1500	59.589	1855.9	48.1	649.6	0	3.6	188785	283	153017	3931	rebuild.v1	v1	Guo2019	2019	0	cu
+Cyclina sinensis	Black clam	187	46.47	903.1	58.3	399.7	0	1	210709	278	183145	1879	ASM1293229v1	QG-2020	Wei2020	2020	0	
+Schmidtea mediterranea	Flatworm	15334	0.08	787.4	25.9	137.7	10.3	98.6	131192	198	107535	1060	SmedSxl4.0	SmedSxl4.0	Grohme2018	2018	0	
+Hymenolepis microstoma	Tapeworm	7	25.815	168.9	16.5	69.7	0	6.4	74473	217	63771	834	HMN_v3	PRJEB124.WBPS14	Tsai2013	2018	0	
+Limulus polyphemus	Horseshoe crab	286793	0.254	1828.2	34.5	537.2	31.2	91.2	172628	206	151487	4093	v2.1.2	v2.1.2	Nossa2014	2014	0	
+Carcinoscorpius rotundicauda	Horseshoe crab	728	102.344	1668.6	52	740.5	0	0.9	220195	237	194208	3644	IMCB_Crot_1.0	Mangrove_horseshoe_crab_annotation	Shingate2020	2020	0	
+Ixodes scapularis	Blacklegged tick	6476	0.836	2081.3	47.3	640.2	0	0	279320	236	241568	4038	ISE6_asm2.2_deduplicated	ISE6_asm2.2_deduplicated	Miller2018	2018	0	
+Dermatophagoides pteronyssinus	Dust mite	1323	0.45	70.7	19.5	33.3	0.1	2	49267	450	36825	519	ASM190122v2	ASM190122v2	Waldron2017	2019	0	
+Galendromus occidentalis	Mite	2211	0.897	151.7	20.4	58.2	0	0.3	71005	283	58922	659	Mocc_1.0	Mocc_1.0	Hoy2016	2019	0	
+Stegodyphus mimosarum	Velvet spider	68653	0.481	2738.7	25.6	603.9	6.8	37.6	119585	214	90569	6705	v1	v1	Sanggaard2014	2014	0	
+Parasteatoda tepidariorum	House spider	31445	0.466	1443.9	35.2	632.8	84.9	180	223929	197	196134	3527	Ptep01282013	Ptep01282013	Schwager2017	2017	0	
+Centruroides sculpturatus	Bark scorpion	10457	0.343	926.3	33.9	274.3	62.3	236.5	150727	228	120262	2116	CSCU_v1	CSCU_v1	Schwager2017	2017	0	
+Daphnia pulex	Water flea	5191	0.642	197.2	32.7	65.3	2.9	35.6	144893	226	113995	285	v1.1	v1.1	Colbourne2011	2011	0	
+Tigriopus californicus	Copepod	459	15.806	191.1	26.9	67	0.4	3.4	65493	378	51730	816	Tcal_SD_v2.1	Tcal_SD_v2.1	Barreto2018	2018	0	
+Eurytemora affinis	Calanoid copepod	6171	0.252	389	38	212.2	0.7	1.7	355911	172	322366	992	Eaff_2.0	Eaff_2.0	x	2014	0	
+Hyalella azteca	Amphipod	18000	0.215	550.8	43.1	191.5	0.4	2.1	160451	335	138118	1608	Hazt_2.0	Hazt_2.0	Poynton2018	2018	0	
+Litopenaeus vannamei	Shrimp	4683	0.606	1663.5	41.8	261.6	2.3	43.1	216744	240	183330	2009	v1	v1	Zhang2019	2018	0	
+Portunus trituberculatus	Horse crab	523	21.794	1005	24.6	188	0	0.9	110871	222	94075	1737	v1	v1	Tang2020	2020	0	
+Sarcoptes scabiei	Itch mite	66	2.966	56.6	15.7	24.8	0	0.1	36478	426	27384	333	ASM1459567v1	ASM1459567v1	Korhonen2020	2020	0	
+Lepeophtheirus salmonis	Salmon louse	36095	0.478	695.4	21.4	123.9	2.5	46.4	59207	375	45795	2433	LSalAtl2s	LSalAtl2s	Skern-Mauritzen2021	2021	0	
+Strigamia maritima	Centipede	14739	0.139	176.2	31.3	70.2	0.3	2.3	132512	247	117179	356	Smar1	Smar1	Chipman2014	2014	0	
+Zootermopsis nevadensis	Nevada termite	31662	0.751	485	18.1	122.5	3.2	17.4	86544	210	71703	1570	ZooNev1.0	ZooNev1.0	1	2010	0	
+Acyrthosiphon pisum	Pea aphid	23924	0.519	541.6	70.1	282.8	11.6	30.1	184396	393	146994	1668	Acyr_2.0	Acyr_2.0	IAGC2010	2010	0	
+Rhopalosiphum maidis	Corn aphid	220	93.299	326	26.7	168.2	0	0	192784	244	171881	1860	v3	v3	Chen2019	2019	0	
+Daktulosphaira vitifoliae	Phylloxera	3338	0.468	291	31.7	113.5	0	0	131187	244	106440	800	Dv_genome_V4.0	Dv4_OGS3.2	Rispe2020	2020	0	
+Blattella germanica	Cockroach	24820	1.056	2037.3	39.1	483.1	54.2	272.5	142422	286	111635	4332	BGER_OGSv1-0	BGER_OGSv1-0	1	2018	0	
+Bombyx mori	Silkmoth	43462	4.008	481.8	17.8	88.3	3.5	46.5	80905	220	65706	1675	v1	v1	Mita2004	2004	0	
+Apis mellifera	Honeybee	177	13.619	225.2	33.4	168.5	0.3	0.9	261073	367	232520	2782	Amel_HAv3.1	Amel_HAv3.1	Wallberg2019	2019	0	
+Bombus terrestris	Bumblebee	5609	12.869	248.6	32.7	165.3	4.1	8.1	200323	380	176390	2438	Bter_1.0	Bter_1.0	Sadd2015	2015	0	
+Nasonia vitripennis	Wasp	6098	0.897	295.7	29.3	115.5	14.6	42.5	103811	284	84586	1305	Nvit_2.1	Nvit_2.1	1	2009	0	
+Cotesia congregata	Parasitoid wasp	2039	20.028	199.2	24.9	81	0	13.4	69667	366	55517	1048	v2	OGS2.3_20170323	Gauthier2021	2020	0	
+Atta cephalotes	Leaf cutter ant	2835	5.154	317.7	18.5	122.4	11.1	25.4	72662	258	62005	1722	Attacep1.0	Attacep1.0	Suen2011	2011	0	
+Drosophila melanogaster	Fruitfly	1870	25.287	143.7	35.5	90.5	0	1	185424	484	152793	1667	BDGP6	BDGP6	Adams2000	2000	3	
+Anopheles gambiae	Mosquito	8	49.364	273.1	24.6	82.1	0.8	19.7	67161	424	51553	1592	AgamP4	AgamP4	1	2002	0	
+Aldrichina grahami	Blowfly	1604	1.925	600	21.4	169.7	0	0	59278	361	46455	3193	v1	v1	Meng2020	2020	0	
+Tribolium castaneum	Red flour beetle	2081	15.266	165.9	28.9	108.6	3.6	9.8	98874	360	79938	1425	Tcas5.2	Tcas5.2	Richards2008a	2008	0	
+Dendroctonus ponderosae	Pine beetle	8188	0.629	252.8	20.1	53.8	6	44.9	80188	260	66526	617	DendPond_male_1.0	DendPond_male_1.0	Keeling2013	2013	0	
+Pyrocoelia pectoralis	Firefly	474	3.035	760.4	40.2	121.5	0	0	131860	307	108768	756	1	1	Fu2017	2017	0	
+Photinus pyralis	Firefly	2160	47.017	471.5	23.3	120.8	0	0.7	82350	283	66580	1464	Ppyr1.3	Ppyr1.3	Fallon2018	2018	0	
+Aquatica lateralis	Firefly	5388	0.692	908.5	19.5	213.1	19	122	70506	277	56207	3269	Alat1.3	Alat_OGS1.0	Fallon2018	2018	0	
+Ignelater luminosus	Luminous click beetle	91325	0.095	842.9	29.5	145.3	4.3	32.7	109173	270	81619	1266	Ilumi1.1	ILUMI_OGS1.0	Fallon2018	2018	0	
+Folsomia candida	Collembola	162	6.519	221.7	59.1	126.4	0	0.2	360505	299	318011	551	ASM221717v1	ASM221717v1	x	2020	0	
+Pediculus humanus	Louse	1900	0.497	110.8	16.7	33.8	0.3	2	70235	239	58709	348	PhumU2	PhumU2	na	2018	0	
+Hypsibius dujardini	Tardigrade	1421	0.342	104.1	25	58.7	0	2.1	126775	212	106211	344	nHd.3.1.5	nHd.3.1.5	Yoshida2017	2017	0	
+Ramazzottius varieornatus	Tardigrade	199	4.74	55.8	19.5	31.9	0	0.3	88593	232	74061	178	Rv101	Rv101	Yoshida2017	2017	0	
+Caenorhabditis elegans	Nematode	7	17.494	100.2	31.9	62.8	0	0	269670	219	219979	391	WBcel235	WBcel235	1	1998	0	
+Hofstenia miamia	Acoel worm	18348	1.044	949.8	27.1	325.6	25	87.4	112711	240	90079	3314	1	1	Gehrke2019	2019	0	
+Strongylocentrotus purpuratus	Purple sea urchin	31896	0.419	936.5	46.7	288.3	13	107.5	203619	246	159460	1906	Spur4.2	Spur4.2	Sodergren2006	2006	0	
+Lytechinus variegatus	Green sea urchin	104	45.571	870.3	48.4	342.4	0	0.1	186714	259	159476	1850	Lva_genome.FINAL.from_draft	L_var_annotations	Davidson2020	2020	0	
+Acanthaster planci	Crown of thorns starfish	3274	0.917	383.5	34	198	4.2	5.7	167501	203	142754	1160	gbr-cotsv1.0	gbr-cotsv1.0	Hall2017	2017	0	
+Apostichopus japonicus	Sea cucumber	3281	0.486	804.9	35.8	235.8	0.3	5.3	185230	193	154880	1295	haishen_20161129	haishen_20161129	Zhang2017b	2018	0	
+Ptychodera flava	Hemichordate worm	218255	0.196	1228.6	64.4	627.4	0.1	102.2	260484	247	198742	2729	v0.7	v0.7	Simakov2015	2015	0	
+Saccoglossus kowalevskii	Hemichordate worm	7282	0.552	757.6	56.1	271.7	2.5	20.5	229134	300	159860	1367	v3.0	v3.0	Simakov2015	2015	0	
+Branchiostoma floridae	Lancelet	431	25.441	513.4	43.1	301	0	26.3	223692	193	195510	1319	Bfl_VNyyK	amphioxus_7u5tJ	Simakov2020	2020	0	
+Branchiostoma lancealatum	Lancelet	10247	1.295	495.3	134.6	390.4	11.1	9.2	487963	314	257711	1214	Bl71nemr	Bla_annot_final	Marletaz2018	2018	0	g
+Oikopleura dioica	Larvacean	1260	0.395	70.4	24.3	36.1	0.6	3.3	109672	269	73254	161	v3.0	v3.0	Denoeud2010	2010	0	
+Ciona intestinalis	Sea squirt	4390	2.572	173.4	19.2	63.7	1.7	30.5	101230	197	87195	511	v1	v1	Dehal2002	2002	0	
+Botryllus schlosseri	Sea squirt	14	18.286	580.4	53.1	165.7	0.1	0.2	245977	242	219950	850	botznik-chr	botznik-chr-all	Voskoboynik2013	2013	0	c
+Petromyzon marinus	Lamprey	12077	11.932	1130.4	31.9	331.1	1	86.2	156124	205	134903	2211	gPmar100	PMZ_v3.1_genes	Smith2018	2018	0	
+Lethenteron camtschaticum	Lamprey	86125	1.051	1030.6	53.8	400.6	53.8	123.4	435846	174	353072	1453	LetJap1.0	LetJap1.0	Mehta2013	2013	0	
+Eptatretus burgeri	Hagfish	10846	2.693	2608.4	48.1	1169.2	476.4	696.6	269893	310	240982	9428	Eburgeri_3.2	Eburgeri_3.2	Yamaguchi2020	2020	0	
+Callorhinchus milii	Elephant shark	21204	4.522	974.4	40.2	441.8	8.2	29.3	324197	208	283032	3096	Callorhinchus_milii-6.1.3	Callorhinchus_milii-6.1.3	Venkatesh2014	2014	0	
+Rhincodon typus	Whale shark	57334	0.144	2931.5	35.6	661.7	0	0	218268	192	189794	5084	v2	v2	Read2017	2017	0	
+Scyliorhinus torazame	Cloudy catshark	458049	0.282	4470.9	10.8	1338.7	247.1	570.1	33629	322	161757	8175	Storazame_v1.0	Storazame_v1.0	Hara2018	2018	0	
+Chiloscyllium punctatum	Brownbanded bamboo shark	280241	1.963	3375.6	10.7	1213.1	105.5	226.2	29722	360	173166	6784	Cpunctatum_v1.0	Cpunctatum_v1.0	Hara2018	2018	0	
+Carcharodon carcharias	Great white shark	9222	2.992	3915.2	33	701.8	0	294.5	158175	209	127931	5350	v1	v1	Marra2019	2019	0	
+Lepisosteus oculatus	Spotted gar	1926	50.349	945.8	68.8	556.8	22.2	54.1	579438	295	533894	3177	LepOcu1	LepOcu1	x	2016	0	
+Clupea harengus	Herring	6915	1.861	807.7	50	387.2	29.6	53.1	303648	202	274577	1559	v1	v1	1	2009	0	
+Amphiprion frenatus	Clownfish	17801	0.245	803.3	65.2	334.8	4	8.3	252051	262	223154	1211	v1	v1	Marcionetti2018	2018	0	
+Oncorhynchus mykiss	Rainbow trout	131961	71.056	2178.9	97.8	729.6	45.6	205.8	726419	239	652684	2353	Omyk_1.0	Omyk_1.0	Berthelot2014	2014	0	
+Salmo salar	Atlantic salmon	232155	80.503	2966.8	132.4	1047.6	21.8	326.1	1236624	257	1111844	2767	ICSASG_v2	ICSASG_v2	Lien2016	2013	0	
+Danio rerio	Zebrafish	1923	52.186	1679.2	89.5	920.7	1.9	2.7	754055	237	681436	3395	GRCz11	GRCz11	Howe2013	2013	0	
+Oryzias latipes	Japanese medaka	7189	29.6	869.8	58.3	353.9	31.2	138.2	469859	222	426994	1785	v1	v1	Kasahara2007	2007	0	
+Takifugu rubripes	Fugu	128	16.706	384.1	69.3	252.6	0.2	3.4	703177	240	648828	968	fTakRub1.2	fTakRub1.2	Aparicio2002	2004	0	
+Hippocampus comes	Tiger tail seahorse	37377	2.034	493.7	60.1	322.4	15.7	18.6	586063	227	538981	1352	H_comes_QL1_v1	H_comes_QL1_v1	Lin2016a	2016	0	
+Cyprinus carpio	Common carp	9378	7.829	1713.6	93.4	639.2	7.3	35.9	556559	187	482234	1750	common_carp	common_carp	x	2016	0	
+Boleophthalmus pectinirostris	Mudskipper	16620	2.376	955.7	44.7	439.4	19	46.7	276075	189	250467	1845	BP1	BP1	You2014	2014	0	
+Gadus morhua	Atlantic cod	226	28.733	669.9	61.4	362.5	1.5	22.1	862638	189	794192	1523	gadMor3.0	gadMor3.0	Star2011	2019	0	
+Dicentrarchus labrax	European seabass	25	26.44	675.9	55.9	364.3	2.3	5.3	897450	179	830711	1483	seabass_V1	seabass_V1	Tine2014	2014	0	
+Pelteobagrus fulvidraco	Yellow catfish	1227	25.786	732.8	62.2	329.4	0	1.2	262431	296	203780	1311	P.fulvidraco.female_v1	P.fulvidraco.female_v1	Gong2018	2018	0	
+Monopterus albus	Asian swamp eel	62978	2.07	689.5	51	331.7	0	54.9	237491	224	204471	1387	eel.scafSeq.FG	v1__Finless_Monopterus	Zhao2018	2018	0	cu
+Mastacembelus armatus	Zig zag eel	123	25.09	592	69.6	359.8	2.4	10.8	605439	252	559435	1396	fMasArm1.2	fMasArm1.2	Rhie2020	2020	0	
+Pseudoliparis swirei	Mariana snailfish	6094	0.418	683.8	37.7	277.2	0.3	1.8	227371	165	202109	1185	hadal_v1	hadal_v1	Wang2019	2019	0	
+Liparis tanakae	Tanakas snailfish	107905	1.137	533.8	36.7	212.3	14.6	26.7	211465	173	187689	935	tanaka_v1	tanaka_v1	Wang2019	2019	0	
+Oplegnathus fasciatus	Striped beakfish	1692	2.149	778.7	52.8	386.4	0	0	259689	224	218449	1527	1_assembly	2_coding_gene_anotations_genome	Xiao2019	2019	0	cu
+Acipenser ruthenus	European sterlet	3404	42.361	1830.5	104.1	919.9	0.3	0.9	894755	242	818714	2689	ASM1064508v1	ASM1064508v1	Du2020	2020	0	
+Latimeria chalumnae	Coelacanth	22819	0.925	2860.5	50.2	1107.2	184.8	492.1	349917	232	312752	6816	LatCha1	LatCha1	Amemiya2013	2013	0	
+Xenopus tropicalis	Frog	6822	135.135	1440.3	60	622.5	17.2	53.3	486126	255	441556	3240	v9.1	v9.1	Hellsten2010	2010	0	
+Xenopus laevis	Frog	108033	136.571	2718.4	86.2	1039.7	90.7	218.9	712522	239	653128	3406	v2	v2	Session2016	2016	0	
+Nanorana parkeri	Frog	25188	1.069	2053.8	35.4	832	23	53	261497	179	235751	5230	v1	v1	Sun2015	2015	0	
+Rhinella marina	Cane toad	31392	0.167	2551.7	71.4	1004.9	0	0	309718	233	251416	4078	canetoad.v2.2	canetoad.v2.2	Edwards2018	2018	0	
+Engystomops pustulosus	Tungara frog	108304	172.109	2555.5	54.2	697.6	1.8	7.9	610600	241	551577	3731	UCB_Epus_1.0	UCB_Epus_1.0	x	2021	0	
+Eleutherodactylus coqui	Puerto Rican coqui	105233	109.467	2789.3	38.3	634.6	70.3	351.3	282792	219	252476	4105	UCB_Ecoq_1.0	UCB_Ecoq_1.0	x	2021	0	
+Leptobrachium leishanense	Leishan spiny toad	5302	394.693	3549.1	65.6	1373.1	0.1	0.3	473905	239	422912	7842	ASM966780v1	ASM966780v1	Li2019	2019	0	
+Rhinatrema bivittatum	Two-lined caecilian	1330	486.875	5319.2	78.6	2794.7	4.2	29.7	638394	290	581298	14028	aRhiBiv1.1	aRhiBiv1.1	Rhie2020	2020	0	
+Anolis carolinensis	Green anole	6457	150.642	1799.1	46.9	705	16.2	81.5	344034	252	313458	5611	AnoCar2.0	AnoCar2.0	Alfoldi2011	2011	0	
+Python bivittatus	Burmese python	39113	0.214	1435	51.9	493.1	14.1	36.3	351890	262	319045	2977	v5.0.2	v5.0.2	Koning2013	2013	0	
+Pelodiscus sinensis	Chinese softshell turtle	19904	3.35	2202.4	56	984.1	30.2	65.6	385257	280	350593	6740	PelSin_1.0	PelSin_1.0	Wang2013d	2013	0	
+Chrysemys picta	Painted turtle	78595	7.072	2365.7	63.9	1091.6	58.8	133.7	568297	270	522371	6587	Chrysemys_picta_bellii-3.0.3	Chrysemys_picta_bellii-3.0.3	Shaffer2013	2013	0	
+Chelonia mydas	Green sea turtle	99	134.428	2134.5	77.1	1090.6	0.3	11.5	703654	299	645927	5889	rCheMyd1.pri	rCheMyd1.pri	G10K-VGP	2020	0	
+Chelonoidis abingdonii	Abingdon island giant tortoise	10618	1.277	2300.7	62.5	1024.6	44.7	86.4	589789	263	539896	5811	ASM359739v1	ASM359739v1	Quesada2019	2019	0	
+Gopherus evgoodei	Goodes thornscrub tortoise	383	147.425	2298.5	71.9	1179	1.7	27.8	712780	281	654405	6306	rGopEvg1_v1	rGopEvg1_v1	Rhie2020	2020	0	
+Alligator mississippiensis	Alligator	7094	18.601	2161.7	72.2	1095.7	19.5	27.7	565466	291	515692	6155	ASM28112v4	ASM28112v4	Green2014	2014	0	
+Crocodylus porosus	Australian saltwater crocodile	70	84.438	2049.5	52.5	906.7	20.6	87.9	403492	263	369864	6148	CroPor_comp1	CroPor_comp1	Ghosh2020	2020	0	
+Varanus komodoensis	Komodo dragon	1411	23.832	1507.9	38.4	566.5	0.9	13.7	359501	194	329770	3550	ASM479886v1	ASM479886v1	vanHoek2019	2019	0	
+Gekko japonicus	Gecko	191500	0.708	2490.2	39	779.4	19	69.1	233727	204	209848	4991	V1.1	V1.1	Liu2015	2015	0	
+Sphenodon punctatus	Tuatara	16536	3.053	4272.2	24.2	479.2	38.3	384.1	120528	201	103080	4525	Tuatara.DEVO.annot15102	Tuatara.DEVO.annot15102	Gemmell2020	2020	0	
+Struthio camelus	Ostrich	6915	3.593	1225	49.4	561.2	9.7	30.4	335547	282	307859	4088	ASM69896v1	ASM69896v1	1	2014	0	
+Gallus gallus	Chicken	23475	82.31	1230.2	78.8	585.2	0.2	11.4	674991	304	617587	3375	Gallus_gallus-5.0	Gallus_gallus-5.0	Hillier2004	2004	0	
+Anas platyrhynchos	Duck	21240	74.989	1136.4	45.8	575.1	12.3	44	349994	219	307122	3992	CAU_duck1.0	CAU_duck1.0	1	2014	0	
+Taeniopygia guttata	Zebra finch	37096	62.375	1232.1	34.9	437.9	2.1	7	198720	207	180300	3340	3.2.4	3.2.4	Warren2010	2010	0	
+Tyto alba	Barn owl	62122	0.053	1120.1	11.4	118.6	0.4	8.4	70339	97	62961	2152	v1	v1	1	2014	0	
+Falco peregrinus	Peregrine falcon	7021	3.936	1171.9	33.9	457.2	4.6	13.9	265076	200	242812	2898	v1.0	v1.0	1	2014	0	
+Aptenodytes forsteri	Emperor penguin	10672	5.072	1254.3	37	495.5	19.1	52.6	225955	223	206735	3378	ASM69914v1	ASM69914v1	x	2014	0	
+Apteryx mantelli	Kiwi	24720	5.679	1523.9	39.1	553	45.9	166.8	247781	220	223518	3854	AptMant0	AptMant0	LeDuc2015	2015	0	
+Calypte anna	Annas hummingbird	159	74.081	1059.6	44.1	510	0.6	15.4	380396	249	349293	3286	bCalAnn1_v1	bCalAnn1_v1	Rhie2020	2020	0	
+Strigops habroptilus	Kakapo	89	83.241	1148.5	65.4	623.2	1	9.4	678136	295	628206	4026	bStrHab1.2	bStrHab1.2	Rhie2020	2020	0	
+Ornithorhynchus anatinus	Platipus	305	83.338	1858.5	56.5	968.1	0.3	14.7	619082	237	561710	5644	mOrnAna1.p.v1	mOrnAna1.p.v1	Rhie2020	2008	0	
+Tachyglossus aculeatus	Echidna	310	63.38	2213	49.6	994.2	0.6	30.1	440971	219	397057	6064	mTacAcu1.pri	mTacAcu1.pri	Zhou2021	2021	0	
+Monodelphis domestica	Common opossum	5016	527.952	3598.4	81.1	1598	21.6	77.2	644285	286	577159	8049	MonDom5	MonDom5	Mikkelsen2007	2007	0	
+Phascolarctos cinereus	Koala	1907	11.588	3192.5	68.4	1383.8	0	0	614632	262	559547	7364	phaCin_unsw_v4.1	phaCin_unsw_v4.1	Johnson2018	2018	0	
+Loxodonta africana	African elephant	2352	46.401	3196.7	71.1	1105.3	18.3	59.8	489789	296	442836	6390	Loxafr3.0	Loxafr3.0	x	2011	0	
+Physeter catodon	Sperm whale	14677	122.182	2512.1	61.1	1064.3	28.8	74.5	688115	240	627577	5893	ASM283717v2	ASM283717v2	x	x	0	
+Monodon monoceros	Narwhal	6972	107.566	2355.5	63.2	1055.5	3.3	8	656697	257	604554	5579	NGI_Narwhal_1	NGI_Narwhal_1	Westbury2019	2019	0	
+Bos taurus	Cow	2211	103.309	2715.8	80	1174.5	0	0	907635	273	829046	5680	ARS-UCD1.2	ARS-UCD1.2	Rosen2020	2020	0	
+Cervus hanglu	Yarkand deer	17927	77.688	2594.1	32.5	764.6	0	33.5	170850	190	150203	4912	cey.glean_V1	cey.glean	Ba2020	2020	0	
+Canis lupus	Dog	376	64.037	2396.9	92.1	1299.2	1.1	11.6	1053060	274	952665	6473	ROS_Cfam_1.0	ROS_Cfam_1.0	Kirkness2003	2020	0	
+Felis catus	House cat	71	148.491	2425.7	106.6	1426	0	0	1188652	300	1088653	6635	F.catus_Fca126_mat1.0	F.catus_Fca126_mat1.0	Bredemeyer2021	2021	0	
+Panthera pardus	Leopard	50377	21.702	2578	45.9	941.4	36.5	62.6	316252	199	282528	6860	PanPar1.0	PanPar1.0	Figueiro2017	2017	0	
+Lynx canadensis	Lynx	54	147.276	2407.8	64.7	1015.6	0.3	2.4	567925	261	517089	5075	mLynCan4.pri.v2	mLynCan4.pri.v2	Rhie2020	2020	0	
+Giraffa camelopardalis	Giraffe	24	177.942	2437.1	32.9	869.2	0	90	184672	178	163051	5326	giraffeChromosomes	Giraffa_camelopardalis.v1	Farre2019	2019	0	c
+Rhinolophus ferrumequinum	Greater horseshoe bat	134	88.026	2075.7	64.7	969.9	0.2	7.2	663809	267	609804	5476	mRhiFer1_v1.p	mRhiFer1_v1.p	Jebb2020	2020	0	
+Rousettus aegyptiacus	Egyptian fruit bat	29	113.812	1893.6	88.6	971.6	1.4	25.2	836941	316	771460	5570	mRouAeg1.p	mRouAeg1.p	Jebb2020	2020	0	
+Phyllostomus discolor	Pale spear-nosed bat	77	171.743	2108.8	69.2	956.8	2.6	12.3	640824	271	585551	5180	mPhyDis1.pri.v3	mPhyDis1.pri.v3	Jebb2020	2020	0	
+Myotis myotis	Mouse-eared bat	93	94.449	2002.7	67.4	930.8	3.2	25.7	911155	251	840002	4734	mMyoMyo1.p	mMyoMyo1.p	Jebb2020	2020	0	
+Pipistrellus kuhlii	Kuhls pipistrelle	202	80.237	1775.6	51.9	857.3	2.1	10	787603	213	724162	4612	mPipKuh1.p	mPipKuh1.p	Jebb2020	2020	0	
+Molossus molossus	Pallas mastiff bat	60	110.665	2315.5	49.7	945.5	2.1	45.1	582814	211	534226	5210	mMolMol1.p	mMolMol1.p	Jebb2020	2020	0	
+Mus musculus	Common mouse	61	130.531	2728.2	127.9	1236.7	0.8	72.8	1518386	332	1385441	5964	GRCm39	GRCm39	Waterston2002	2020	0	
+Rattus rattus	Black rat	2173	158.825	2382.7	56.1	875.6	0	0.4	390578	250	350610	5102	Rrattus_CSIRO_v1	Rrattus_CSIRO_v1	x	2019	0	
+Cricetulus griseus	Chinese hamster	109152	1.147	2399.8	47.7	604.1	7.8	73.9	385140	224	344939	4209	CriGri_1.0	CriGri_1.0	Lewis2013	2020	0	
+Pan troglodytes	Chimpanzee	4346	130.783	3050.4	99.9	1400.6	3.3	28.5	1256478	288	1154390	6533	Clint_PTRv2	Clint_PTRv2	CSAC2005	2018	0	
+Homo sapiens	human	578	145.139	3253.8	128.2	1666.1	1.4	159.9	1798622	294	1638377	6793	GRCh38.p11	GRCh38.p11	x	2001	3	
