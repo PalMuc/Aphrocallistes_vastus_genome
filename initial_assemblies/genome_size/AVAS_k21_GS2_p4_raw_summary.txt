@@ -1,0 +1,45 @@
+Results
+
+GenomeScope version 2.0
+input file = user_uploads/07yqeaC3WsVktIoFEifg
+output directory = user_data/07yqeaC3WsVktIoFEifg
+p = 4
+k = 31
+
+property                      min               max               
+Homozygous (aaaa)             98.1476%          98.7702%          
+Heterozygous (not aaaa)       1.22978%          1.85242%          
+aaab                          0.989357%         1.02219%          
+aabb                          0.240423%         0.497164%         
+aabc                          0%                0.231364%         
+abcd                          0%                0.101702%         
+Genome Haploid Length         76,286,590 bp     76,422,000 bp     
+Genome Repeat Length          14,117,167 bp     14,142,225 bp     
+Genome Unique Length          62,169,423 bp     62,279,775 bp     
+Model Fit                     85.5182%          96.8439%          
+Read Error Rate               0.463676%         0.463676%  
+
+
+
+Model
+
+Formula: y_transform ~ x^transform_exp * length * predict4_0(r1, r2, r3, 
+    r4, k, d, kmercov, bias, x)
+
+Parameters:
+         Estimate Std. Error  t value Pr(>|t|)    
+d       4.075e-02  7.133e-04   57.128  < 2e-16 ***
+r1      1.006e-02  8.209e-05  122.525  < 2e-16 ***
+r2      3.688e-03  6.419e-04    5.746 1.06e-08 ***
+r3      1.000e-05  1.152e-03    0.009    0.993    
+r4      1.000e-05  5.035e-04    0.020    0.984    
+kmercov 2.520e+01  1.117e-02 2255.499  < 2e-16 ***
+bias    1.009e+00  9.979e-03  101.086  < 2e-16 ***
+length  6.487e+07  8.753e+04  741.127  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 648700 on 1992 degrees of freedom
+
+Number of iterations to convergence: 23 
+Achieved convergence tolerance: 1.49e-08
