@@ -85,12 +85,6 @@ species_colors = c("#4292c6", #"AQUE"
                    "#08306b", #"SCIL"
                    "gray" ) #"TADH"
 
-
-# for 10 sp "AQUE" "AVAS" "BFLO" "EMUE" "HHON" 
-#           "HSAP" "MBRE" "SCIL" "SROS" "TADH"
-#species_colors = c("#4292c6", "#00abff", "#fd8d3c", "#238443", "darkgrey",
-#                   "#800026", "#7a0177", "#08306b", "#3f007d", "gray" )
-
 #domplot_max_sp = 20 # cap at displaying 20 proteins with domains, to not clog view
 
 d = mutate(cluster_data[,1:clust_max_col],

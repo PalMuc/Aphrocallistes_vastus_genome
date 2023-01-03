@@ -11,12 +11,21 @@ This is the NCBI-uploaded version of the *O. minuta* [JAKMXF01](https://www.ncbi
 gzip Avas.v1.29_annotations.prot.vs_oopsacas_gb.tab
 
 # make dot plot for normal and randomized
+# must use --print-no-match for Figure 2
 ~/git/genomeGTFtools/scaffold_synteny.py -b Avas.v1.29_annotations.prot.vs_oopsacas_gb.tab.gz -q Avas.v1.29_annotations.fr.gff -d ~/genomes/oopsacas_minuta_PORI/JAKMXF01.1.gbff.gff -f Avas.v1.29_scaffolds.fasta -F ~/genomes/oopsacas_minuta_PORI/JAKMXF01.1.fsa_nt.fasta -l 80 -L 60 -G 50 --print-no-match --ignore-gene-features > Avas.1.29_vs_oopsacas_gb.scaffold2d_points.tab
 Rscript ~/git/genomeGTFtools/synteny_2d_plot.R Avas.1.29_vs_oopsacas_gb.scaffold2d_points.tab Aphrocallistes Oopsacas 175
+
+# for p-value tests
+~/git/genomeGTFtools/scaffold_synteny.py -b Avas.v1.29_annotations.prot.vs_oopsacas_gb.tab.gz -q Avas.v1.29_annotations.fr.gff -d ~/genomes/oopsacas_minuta_PORI/JAKMXF01.1.gbff.gff -f Avas.v1.29_scaffolds.fasta -F ~/genomes/oopsacas_minuta_PORI/JAKMXF01.1.fsa_nt.fasta -l 80 -L 60 -G 50 --ignore-gene-features > Avas.1.29_vs_oopsacas_gb.scaffold2d_points.noNA.tab
+Rscript ~/git/genomeGTFtools/synteny_2d_fishers_test.R Avas.1.29_vs_oopsacas_gb.scaffold2d_points.noNA.tab Aphrocallistes Oopsacas
+
+
+# against randomized points
 ~/git/genomeGTFtools/scaffold_synteny.py -b Avas.v1.29_annotations.prot.vs_oopsacas_gb.tab.gz -q Avas.v1.29_annotations.fr.gff -d ~/genomes/oopsacas_minuta_PORI/JAKMXF01.1.gbff.gff -f Avas.v1.29_scaffolds.fasta -F ~/genomes/oopsacas_minuta_PORI/JAKMXF01.1.fsa_nt.fasta -l 80 -L 60 -G 50 --print-no-match --ignore-gene-features -R > Avas.1.29_vs_oopsacas_gb.scaffold2d_points.rand.tab
 Rscript ~/git/genomeGTFtools/synteny_2d_plot.R Avas.1.29_vs_oopsacas_gb.scaffold2d_points.rand.tab Aphrocallistes Oopsacas 185
 
-# for schematic in Figure 2
+# for schematic in Figure 1
+# must use option --local-positions
 ~/git/genomeGTFtools/scaffold_synteny.py -b Avas.v1.29_annotations.prot.vs_oopsacas_gb.tab.gz -q Avas.v1.29_annotations.fr.gff -d ~/genomes/oopsacas_minuta_PORI/JAKMXF01.1.gbff.gff -f Avas.v1.29_scaffolds.fasta -F ~/genomes/oopsacas_minuta_PORI/JAKMXF01.1.fsa_nt.fasta -l 80 -L 60 -G 50 --local-positions > Avas.1.29_vs_oopsacas_gb.scaffold2d_points.local.tab
 
 ~/git/genomeGTFtools/microsynteny.py -b Avas.v1.29_annotations.prot.vs_oopsacas_gb.tab.gz -q Avas.v1.29_annotations.fr.gff -d ~/genomes/oopsacas_minuta_PORI/JAKMXF01.1.gbff.gff > Avas.v1.29_annotations.prot.vs_oopsacas_gb.microsynteny.tab
@@ -30,8 +39,21 @@ Schematic of scaffold 22 USP24 locus, made from [WRF's genomeGTFtools repo](http
 Rscript ~/git/genomeGTFtools/draw_annotation_blocks.R Avas.s022.60k_100k.tab
 ~/git/genomeGTFtools/extract_coordinates.py -g JAKMXF01.1.gbff.scaf_133.gff -b 760000 -e 800000 -s JAKMXF010000133.1 > JAKMXF01.1.gbff.scaf_133.760k_800k.tab
 Rscript ~/git/genomeGTFtools/draw_annotation_blocks.R JAKMXF01.1.gbff.scaf_133.760k_800k.tab
+```
+
+For non-syntenic gene analysis:
 
 ```
+# get only scaffold 022
+grep scaffold_022 Avas.1.29_vs_oopsacas_gb.scaffold2d_points.tab > Avas.1.29_vs_oopsacas_gb.scaffold2d_points.scaf22.tab
+# check for genes with multiple matches, one to many, etc
+cut -f 4 Avas.1.29_vs_oopsacas_gb.scaffold2d_points.scaf22.tab | sort | uniq -c | sort -nr
+# get only genes without any hit to Oopsacas
+grep -v LOD99 Avas.1.29_vs_oopsacas_gb.scaffold2d_points.scaf22.tab > Avas.1.29_vs_oopsacas_gb.scaffold2d_points.scaf22.no_match.tab
+cut -f 2 Avas.1.29_vs_oopsacas_gb.scaffold2d_points.scaf22.no_match.tab | grep -v i2 > Avas.1.29_vs_oopsacas_gb.scaffold2d_points.scaf22.no_match.names
+getAinB.py Avas.1.29_vs_oopsacas_gb.scaffold2d_points.scaf22.no_match.names avas_omin_proteins_combined.fasta > Avas.1.29_vs_oopsacas_gb.scaffold2d_points.scaf22.no_match.fasta
+```
+
 
 ### with *Ephydatia muelleri* ###
 This is the [version v1](https://spaces.facsci.ualberta.ca/ephybase/) from the *Ephydatia muelleri* genome paper by [Kenny et al 2020](https://doi.org/10.1038/s41467-020-17397-w)
