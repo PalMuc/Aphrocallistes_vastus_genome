@@ -1,0 +1,1213 @@
+# BUSCO version is: 5.4.2 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2021-02-17, number of genomes: 65, number of BUSCOs: 954)
+# Busco id	Status	Sequence	Score	Length
+5951at33208	Missing
+9639at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10406.1.p1	1086.0	897
+13816at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.425.1.p1	365.5	866
+14776at33208	Missing
+16244at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.18677.1.p1	1997.2	1088
+40200at33208	Missing
+45934at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11514.1.p1	785.9	842
+49474at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12874.1.p1	354.8	452
+50756at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11238.1.p1	757.0	863
+56573at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10829.1.p1	1077.0	918
+57158at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.8873.1.p1	571.0	423
+63697at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7724.1.p1	1781.5	964
+64435at33208	Missing
+65302at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9061.1.p1	723.1	975
+66018at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17291.1.p1	1442.9	865
+75406at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15534.1.p1	476.5	616
+76852at33208	Missing
+84980at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12054.1.p1	740.3	586
+88053at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10353.1.p1	418.0	512
+88053at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10353.3.p1	417.9	512
+92367at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2884.1.p1	256.1	472
+99614at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17554.1.p1	1291.7	945
+99987at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.18070.1.p1	431.1	576
+102804at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.18089.1.p1	1039.2	892
+103854at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.971.1.p1	557.1	634
+107151at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4161.1.p1	1164.2	782
+107574at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6395.1.p1	181.0	521
+108764at33208	Missing
+109109at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7996.1.p1	868.9	563
+111730at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.18361.1.p1	333.3	666
+111746at33208	Missing
+114954at33208	Missing
+115878at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5307.1.p1	440.7	411
+115878at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5307.3.p1	399.3	299
+118209at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14737.1.p1	1452.9	849
+119252at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5454.1.p2	725.9	548
+119252at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5454.2.p1	725.9	548
+119591at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7200.1.p1	1238.9	982
+121127at33208	Missing
+123923at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12148.1.p1	83.1	455
+124302at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1212.1.p1	530.9	712
+127766at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.6143.1.p1	361.2	610
+127766at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.6143.3.p1	329.0	430
+127766at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.6143.2.p1	316.2	408
+129179at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17751.1.p1	820.5	576
+130245at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8756.1.p1	313.7	411
+130256at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16600.1.p1	592.8	559
+131349at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12049.1.p1	1255.6	897
+131848at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7448.1.p1	595.7	533
+132087at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10609.1.p2	419.8	293
+134492at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7816.1.p1	769.4	865
+135294at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.15895.1.p1	423.7	261
+137383at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17513.1.p1	704.6	625
+139188at33208	Missing
+143619at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.8008.3.p1	227.4	288
+143619at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.8008.1.p1	227.3	288
+143997at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7387.1.p2	395.2	388
+146671at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16857.1.p1	699.4	544
+147873at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10874.1.p1	808.3	565
+148067at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1622.1.p1	538.8	821
+148325at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.3635.1.p2	307.7	298
+148325at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.3635.2.p1	307.7	298
+152327at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6986.1.p1	365.8	333
+152977at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15372.1.p1	313.3	448
+153034at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.8474.1.p1	561.6	495
+153034at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.8474.2.p1	561.4	495
+157109at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4166.1.p1	190.3	202
+157138at33208	Missing
+158845at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1304.1.p1	333.9	445
+158962at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.15366.1.p1	190.9	354
+162821at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4794.1.p1	538.8	409
+164767at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2856.1.p1	682.0	696
+166097at33208	Missing
+168850at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16871.1.p1	681.8	507
+168924at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7188.1.p1	359.5	594
+169864at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4509.1.p1	338.2	538
+172677at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4059.1.p1	148.2	192
+176247at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3669.1.p1	320.5	352
+177718at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5097.1.p1	333.1	390
+177858at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10.1.p1	846.7	584
+178537at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8626.1.p1	939.2	465
+179485at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4514.1.p1	481.6	497
+180808at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5297.1.p2	750.5	475
+180808at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5297.2.p2	747.5	474
+182834at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13026.1.p1	292.5	438
+184508at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13099.1.p1	281.3	491
+184717at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5597.1.p1	848.6	518
+186208at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.12447.1.p3	168.7	125
+186707at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1516.1.p1	347.0	519
+187280at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4764.1.p1	677.3	522
+189414at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17416.1.p1	385.7	431
+190726at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13036.1.p1	286.3	362
+190726at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13036.2.p1	247.6	365
+191938at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10685.1.p1	270.6	382
+192250at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3290.1.p1	210.1	206
+194754at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4523.1.p1	460.0	402
+195986at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6950.1.p1	747.5	603
+196950at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.12841.1.p1	346.2	315
+197549at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.863.1.p2	85.5	386
+197652at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8462.1.p1	639.0	433
+200997at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5245.1.p1	409.3	496
+200997at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5245.2.p2	409.3	496
+201397at33208	Missing
+202545at33208	Missing
+203128at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7324.1.p1	806.2	438
+203128at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.18928.1.p1	788.0	438
+203698at33208	Missing
+205220at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17078.1.p1	724.6	642
+206786at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7101.1.p1	381.1	382
+206858at33208	Missing
+207599at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10264.1.p1	362.6	367
+208219at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7236.1.p2	331.8	462
+210614at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16413.1.p1	490.8	657
+212972at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2564.1.p2	401.0	494
+214788at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1214.4.p1	384.8	518
+214788at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1218.1.p1	384.8	518
+214788at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1214.5.p1	332.4	400
+215654at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5075.1.p2	477.6	408
+216257at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1266.1.p1	229.6	328
+216563at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9039.1.p1	211.0	291
+218441at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9073.1.p1	240.6	292
+219795at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7386.1.p1	416.9	518
+219856at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12677.1.p1	600.4	394
+219856at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12677.2.p1	569.5	394
+222489at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.876.2.p1	610.0	367
+223234at33208	Missing
+224280at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1075.1.p1	722.3	439
+226335at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16394.3.p1	568.4	363
+226941at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9256.1.p1	501.7	392
+227087at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4964.1.p1	774.6	728
+227087at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4964.3.p1	691.7	629
+227453at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.3827.1.p1	150.2	356
+227453at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.3827.2.p1	150.2	356
+227979at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3045.3.p1	688.3	594
+231157at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1243.1.p1	309.7	276
+231700at33208	Missing
+234290at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10355.1.p1	576.9	472
+234290at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10355.4.p1	576.8	472
+234290at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10355.2.p1	576.8	472
+234290at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10355.3.p1	576.7	472
+235149at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3054.1.p1	223.2	490
+235430at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16866.1.p1	361.2	352
+235458at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10817.1.p1	379.9	356
+239016at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1324.1.p1	308.2	387
+239016at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1324.2.p1	288.8	330
+239149at33208	Missing
+239597at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1210.1.p2	370.4	503
+239597at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1210.2.p2	346.7	349
+240437at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10237.1.p1	351.2	203
+244863at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7131.1.p1	286.7	488
+245482at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2826.1.p1	419.8	403
+245567at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15400.2.p1	361.1	442
+246241at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8832.1.p1	457.2	380
+247183at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11380.2.p1	338.3	582
+247905at33208	Missing
+249486at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4725.4.p1	413.3	429
+251076at33208	Missing
+251577at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.938.1.p1	206.1	210
+251577at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.937.1.p1	205.6	214
+255117at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6494.1.p1	753.3	717
+255242at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5518.1.p2	236.2	259
+255924at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15351.1.p3	532.9	441
+257141at33208	Missing
+257339at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16467.1.p3	213.7	290
+259581at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16870.1.p1	102.9	374
+260752at33208	Missing
+261284at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1585.1.p1	408.4	610
+261614at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.610.34.p1	554.2	438
+262757at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6783.1.p2	230.0	259
+266460at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10174.1.p1	513.8	439
+266460at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10174.2.p1	483.5	368
+266460at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10174.4.p1	464.9	418
+266469at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16878.1.p1	119.9	191
+266808at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12707.1.p1	422.4	364
+267439at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7079.1.p1	675.8	398
+268134at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10700.1.p1	262.5	231
+268134at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10706.1.p1	261.4	227
+268397at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14024.1.p1	674.2	617
+270594at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.18014.1.p1	296.1	509
+271297at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17061.1.p1	263.0	232
+271742at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17536.1.p1	503.9	420
+272605at33208	Missing
+273040at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11609.1.p1	131.9	126
+273367at33208	Missing
+273989at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6327.1.p1	534.7	479
+274044at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7227.1.p2	416.2	579
+274044at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7227.2.p2	416.2	579
+274064at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12262.1.p1	390.6	262
+274769at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.749.1.p1	405.2	380
+274992at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15512.1.p1	513.3	352
+277935at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7827.1.p1	419.1	576
+278227at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14920.1.p1	347.6	350
+279631at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8914.1.p1	501.4	472
+279992at33208	Missing
+280914at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7134.1.p1	290.5	512
+281304at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2904.1.p1	189.5	336
+281304at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2905.1.p1	189.5	336
+281693at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5428.1.p1	723.2	592
+281693at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5428.2.p1	723.2	592
+281693at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5428.3.p1	723.2	592
+281693at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5428.4.p1	723.2	592
+281693at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5428.5.p1	723.2	592
+283637at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2458.1.p1	587.2	357
+284059at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15824.1.p1	304.9	280
+285146at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17739.1.p3	335.3	313
+285902at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17629.1.p1	331.4	348
+285966at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17757.1.p1	282.6	420
+286553at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.18795.1.p1	265.0	262
+289235at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4827.1.p2	113.7	213
+289928at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12585.1.p1	56.9	276
+289928at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1713.1.p1	54.7	178
+291505at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17071.1.p2	487.6	435
+291505at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17071.3.p1	487.6	435
+291505at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17071.4.p1	487.6	435
+291505at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17071.5.p1	487.6	435
+291505at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17071.6.p2	487.6	435
+291505at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17071.7.p1	487.6	435
+291505at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17071.8.p1	487.6	435
+291875at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14419.1.p1	302.5	437
+295556at33208	Missing
+295775at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3700.1.p3	230.2	267
+300303at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5269.1.p2	103.6	356
+301572at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1680.1.p1	479.6	387
+301572at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1680.2.p1	439.6	342
+302186at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3635.1.p1	105.1	289
+302279at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9832.1.p1	460.9	302
+302921at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.18674.1.p2	71.1	147
+303117at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8607.1.p1	302.7	309
+304388at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.587.1.p1	258.0	331
+305260at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9884.2.p2	349.4	265
+306101at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9073.1.p2	330.6	291
+307109at33208	Missing
+308610at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8153.1.p1	344.2	361
+311438at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3164.1.p2	297.7	254
+311758at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17741.1.p1	581.5	443
+311758at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17741.2.p1	512.3	420
+311761at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3274.1.p1	133.8	329
+312577at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4808.1.p1	186.2	311
+313091at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7223.1.p2	328.0	276
+315044at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4874.1.p1	488.0	411
+315393at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16.1.p1	508.8	327
+315393at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17.1.p1	453.4	327
+317470at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1763.2.p1	322.6	347
+318483at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8439.1.p1	391.7	318
+318532at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16832.1.p1	578.2	336
+319574at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7094.1.p1	255.0	240
+320390at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5327.1.p1	257.0	484
+321332at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10408.1.p1	200.1	394
+323399at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4940.1.p1	501.2	378
+323473at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12758.1.p1	444.8	285
+324249at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2150.1.p1	205.8	330
+325183at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14453.1.p2	490.9	296
+327301at33208	Missing
+331112at33208	Missing
+331186at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10720.1.p1	262.3	407
+332870at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15061.1.p1	118.3	172
+333062at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.851.1.p1	273.5	359
+333062at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.852.1.p1	273.5	359
+333800at33208	Missing
+334272at33208	Missing
+334331at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3712.1.p1	522.8	404
+334336at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7026.3.p1	315.8	401
+334336at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7026.1.p1	314.8	401
+334342at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7235.1.p1	355.7	617
+334764at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9794.1.p1	364.9	285
+334820at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5149.1.p1	373.7	309
+335107at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10707.1.p1	277.7	252
+336647at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1337.1.p1	57.0	323
+338191at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16846.1.p2	723.0	509
+338191at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16847.1.p1	723.0	509
+338482at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17071.1.p3	319.0	421
+339127at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16425.1.p1	221.2	360
+339319at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7064.1.p2	163.0	226
+340558at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4924.1.p1	339.8	306
+340577at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1561.1.p1	476.2	481
+344338at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7354.1.p1	256.5	315
+344346at33208	Missing
+344442at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1606.1.p1	129.3	192
+344581at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5245.2.p4	297.1	243
+344581at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5245.3.p4	297.1	243
+344581at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5245.4.p2	297.1	243
+344611at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4758.2.p1	177.2	235
+344611at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4758.1.p1	176.3	250
+345099at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13599.1.p1	451.3	644
+345959at33208	Missing
+346541at33208	Missing
+347600at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.15374.1.p1	390.9	307
+347600at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.15373.1.p1	380.0	268
+348449at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2025.1.p2	152.7	295
+348544at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7860.1.p1	257.4	321
+348761at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.8979.1.p1	219.6	223
+348761at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.8979.2.p1	219.6	223
+349064at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17620.1.p1	291.3	284
+349627at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7180.1.p1	184.3	261
+351226at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16397.1.p2	77.3	183
+352600at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12471.1.p1	484.2	302
+352854at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6514.1.p1	320.8	330
+353286at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11860.1.p1	141.6	256
+353768at33208	Missing
+354829at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2891.1.p7	447.1	280
+354829at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2891.2.p6	447.1	280
+354829at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2891.3.p6	447.1	280
+354949at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6896.1.p1	229.9	296
+355210at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13999.1.p1	212.4	348
+355210at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13999.2.p1	212.4	348
+355210at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13999.3.p1	212.4	348
+355210at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13999.4.p1	212.4	348
+355210at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13999.5.p1	212.4	348
+355739at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.848.1.p1	95.9	240
+355739at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.848.2.p2	95.9	240
+356175at33208	Missing
+356334at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11467.1.p1	572.6	711
+356503at33208	Missing
+357580at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10213.1.p1	333.6	252
+357580at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10214.1.p1	333.6	252
+357580at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10214.2.p1	333.6	252
+357580at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10215.1.p1	333.6	252
+359075at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8522.1.p1	361.4	335
+359324at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2703.1.p1	221.4	208
+359369at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12869.1.p1	316.9	245
+359532at33208	Missing
+360379at33208	Missing
+360753at33208	Missing
+361100at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5684.1.p1	330.4	269
+361203at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12794.1.p1	520.8	385
+361216at33208	Missing
+363634at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.11229.2.p1	42.3	101
+363840at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2666.2.p1	115.4	283
+363851at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17088.1.p1	280.1	294
+364383at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6763.1.p1	408.7	334
+364694at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7529.1.p1	526.3	409
+365323at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5203.1.p1	356.5	295
+365561at33208	Missing
+365691at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5385.1.p2	230.5	224
+365691at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5386.1.p2	230.5	224
+366124at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1194.1.p1	215.1	235
+366814at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5383.1.p1	452.7	380
+366936at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17624.1.p1	374.3	217
+367493at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12853.1.p1	170.9	332
+367551at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7891.1.p1	537.8	379
+367596at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.9305.1.p1	238.4	261
+367957at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4561.1.p2	351.6	291
+368565at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.18673.1.p1	483.3	329
+368670at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.983.1.p1	126.5	183
+368875at33208	Missing
+371241at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10626.1.p1	174.7	174
+371297at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4636.1.p1	531.5	328
+371297at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4636.2.p2	531.5	328
+371297at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4636.3.p1	531.5	328
+371526at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17366.1.p1	405.3	236
+371526at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17367.1.p1	405.3	236
+371526at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17367.2.p1	387.1	223
+372257at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2162.1.p1	223.5	219
+372707at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1908.1.p1	336.9	243
+373040at33208	Missing
+376982at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2947.1.p1	459.1	251
+378033at33208	Missing
+378316at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2967.2.p3	465.0	276
+378316at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2967.3.p4	465.0	276
+378768at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8508.1.p1	349.7	259
+378913at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1176.1.p2	192.6	151
+379076at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1725.1.p1	114.1	172
+379076at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1724.1.p1	113.4	172
+379636at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7926.1.p1	247.4	284
+379771at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5410.1.p1	237.8	233
+380583at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16847.1.p2	461.8	273
+381303at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16837.1.p1	109.3	229
+382000at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1849.1.p1	111.6	243
+382262at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7937.1.p1	98.0	146
+382750at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17060.1.p2	354.8	318
+383313at33208	Missing
+384187at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12081.1.p2	533.3	422
+386666at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16492.2.p1	146.0	198
+387079at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10336.1.p1	170.5	228
+387117at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1906.1.p1	128.8	212
+387878at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12961.1.p1	344.4	365
+387878at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12958.1.p1	326.2	329
+389367at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5419.1.p1	370.9	241
+389527at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4782.1.p1	547.1	595
+389570at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5174.1.p1	418.6	320
+389591at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7846.1.p1	212.7	215
+390192at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2496.2.p1	333.2	315
+390402at33208	Missing
+391896at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13651.1.p1	321.8	262
+393219at33208	Missing
+393291at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12459.1.p2	98.7	279
+393291at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12460.1.p2	98.7	279
+393419at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7209.2.p1	444.8	425
+393895at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7613.1.p1	580.1	394
+395147at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1772.1.p1	321.6	271
+395183at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17882.1.p1	251.4	173
+395556at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10686.1.p2	220.4	236
+395919at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.863.1.p1	246.8	256
+395948at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14684.1.p1	86.9	232
+396237at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10440.1.p1	301.2	270
+396237at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10441.1.p1	301.2	270
+397019at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5479.1.p2	394.9	290
+397659at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2959.1.p1	79.2	237
+398013at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4450.1.p1	445.7	278
+398202at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16750.1.p2	143.7	244
+398607at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15285.1.p1	209.0	184
+399092at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1513.1.p3	213.1	183
+399092at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1513.4.p2	213.1	183
+399092at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1514.1.p1	213.1	183
+399439at33208	Missing
+400042at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8473.1.p1	192.3	268
+401196at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.18571.1.p1	55.8	85
+401220at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12091.1.p1	343.7	314
+401679at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.800.1.p2	61.5	76
+401679at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.800.3.p1	61.5	76
+401779at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1188.2.p1	325.5	256
+403171at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5473.1.p1	173.9	275
+403817at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2894.1.p4	28.9	93
+403817at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2894.2.p3	28.9	93
+403817at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2894.3.p3	28.9	93
+404988at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14186.1.p1	258.9	310
+405257at33208	Missing
+406927at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11655.1.p2	106.2	159
+407472at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4719.1.p1	381.6	350
+407472at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4719.2.p1	381.6	350
+407472at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4719.3.p1	381.6	350
+407472at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4719.4.p1	381.6	350
+409006at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4509.1.p2	272.4	290
+409006at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4509.2.p2	272.4	290
+409186at33208	Missing
+411515at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9930.1.p1	296.2	257
+411664at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.16604.1.p2	22.0	70
+411755at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3646.1.p1	262.7	368
+412370at33208	Missing
+412542at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1177.1.p3	316.7	222
+412930at33208	Missing
+413334at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15360.1.p3	225.9	281
+414001at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1072.1.p1	358.0	274
+414571at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.18329.1.p1	311.3	239
+414579at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16374.1.p1	290.6	239
+414603at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17886.1.p1	81.6	304
+414603at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17886.2.p1	77.0	298
+415618at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8835.1.p1	196.4	199
+416175at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7861.1.p1	289.4	262
+418979at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12115.1.p1	161.4	135
+419502at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16687.2.p4	286.7	208
+419502at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16687.1.p1	286.7	208
+419914at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5596.1.p1	246.1	323
+419914at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5594.3.p1	246.0	323
+419914at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5594.4.p1	245.4	323
+421396at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5870.1.p1	330.8	237
+421396at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5870.2.p1	330.8	237
+421685at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.12845.1.p2	102.2	153
+421732at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17591.1.p1	114.3	272
+422158at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.6515.1.p1	331.8	296
+422158at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.6515.3.p1	305.3	295
+422751at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.6361.1.p1	395.3	333
+422751at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.6362.1.p1	395.3	333
+423799at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7400.1.p1	147.4	198
+423848at33208	Missing
+424392at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7228.1.p1	335.2	230
+424569at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10221.1.p1	219.5	158
+424569at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1939.1.p1	194.6	159
+424646at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.10805.1.p3	79.4	128
+427349at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14051.1.p2	372.2	242
+427349at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14051.2.p2	372.2	242
+427789at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5396.1.p1	394.2	396
+428202at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17496.1.p1	450.7	353
+428754at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2873.1.p2	214.8	335
+428754at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2873.2.p2	214.8	335
+429011at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1994.1.p1	148.9	167
+429274at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4685.1.p2	200.9	209
+429751at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7241.1.p1	166.4	438
+430701at33208	Missing
+432050at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.3587.1.p1	323.4	242
+432050at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.3586.1.p1	318.0	242
+432155at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1543.1.p1	182.1	158
+432287at33208	Missing
+432522at33208	Missing
+433216at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5291.1.p1	331.8	249
+433606at33208	Missing
+434068at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8664.1.p1	386.1	356
+434863at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12224.3.p1	199.9	238
+435253at33208	Missing
+435678at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15369.1.p1	247.3	318
+435921at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5548.1.p1	125.8	107
+435939at33208	Missing
+436007at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8992.1.p1	575.8	408
+436098at33208	Missing
+436539at33208	Missing
+437653at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10593.1.p1	122.9	135
+438133at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9572.1.p1	472.8	301
+438433at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16579.1.p1	311.8	202
+438453at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16862.1.p2	378.8	240
+438453at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16863.2.p2	378.8	240
+439736at33208	Missing
+440195at33208	Missing
+440493at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5057.1.p1	198.0	238
+441575at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8634.1.p1	449.2	630
+442169at33208	Missing
+442203at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16661.1.p1	385.4	346
+442823at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16503.1.p1	230.9	302
+443305at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13009.10.p1	187.9	370
+443518at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1091.1.p2	326.4	241
+443659at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11561.1.p1	100.8	123
+443928at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12058.1.p5	372.3	288
+443928at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12058.2.p2	372.3	288
+443928at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12058.3.p2	372.3	288
+444160at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15384.1.p3	270.7	197
+444231at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8603.1.p1	85.7	122
+445031at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10610.1.p1	248.5	309
+445034at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3871.1.p1	317.7	315
+445091at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3625.1.p1	44.3	184
+446000at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1768.1.p1	258.7	260
+446000at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1768.5.p2	258.7	260
+446031at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5103.1.p1	303.4	241
+446031at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5102.1.p1	277.1	241
+447320at33208	Missing
+447400at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12908.1.p2	99.3	149
+448196at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.9778.1.p4	355.8	219
+448196at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.9778.2.p4	355.8	219
+448196at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.9778.3.p3	355.8	219
+448514at33208	Missing
+449056at33208	Missing
+449139at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15332.1.p1	371.6	316
+449189at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1112.1.p1	237.3	341
+450643at33208	Missing
+450785at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17981.1.p1	115.5	101
+451242at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.933.1.p2	151.9	200
+451957at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17418.2.p1	396.7	263
+452208at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8534.1.p2	194.6	173
+452499at33208	Missing
+452574at33208	Missing
+453049at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.18100.1.p1	91.1	327
+453049at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.18099.1.p1	87.3	213
+453052at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5510.2.p8	327.2	321
+453052at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5510.4.p5	327.2	321
+453056at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17277.1.p1	350.3	367
+453687at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6319.1.p1	343.7	283
+454911at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10753.1.p1	328.1	637
+455512at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17564.4.p2	192.2	181
+455941at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8589.1.p1	170.4	233
+456998at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4711.1.p2	174.7	224
+456998at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4712.1.p3	174.7	224
+457777at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7638.1.p1	325.3	304
+458807at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10824.3.p2	264.0	259
+458807at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10824.1.p2	263.8	259
+458974at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3192.1.p1	101.9	131
+458988at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17558.1.p2	278.0	432
+459253at33208	Missing
+460044at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.958.1.p1	322.2	293
+460044at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.959.1.p1	322.2	293
+460518at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6372.1.p2	393.2	281
+461123at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5173.1.p1	168.0	217
+461193at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17756.1.p1	148.5	190
+462325at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16712.6.p1	280.4	272
+462897at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8562.1.p1	367.8	328
+463071at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7117.1.p1	190.7	234
+464204at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4757.1.p1	303.4	279
+464243at33208	Missing
+464286at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5598.2.p1	171.1	326
+464286at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5598.1.p1	170.9	325
+464312at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7187.1.p1	211.8	310
+464987at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12879.1.p1	201.9	165
+465092at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13822.1.p1	284.0	219
+465401at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12871.4.p1	239.5	203
+465512at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16757.1.p1	383.0	780
+465651at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9574.1.p1	103.6	128
+465703at33208	Missing
+465933at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2977.1.p1	289.6	222
+466616at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7155.1.p1	411.8	536
+466942at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7029.1.p1	120.5	194
+467106at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17362.1.p1	287.9	254
+467142at33208	Missing
+467744at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10833.1.p1	167.1	260
+467744at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10833.3.p1	167.1	260
+468248at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7006.1.p1	329.3	263
+468359at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.2921.1.p1	225.4	165
+468631at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13551.1.p2	119.7	161
+468710at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13288.1.p2	71.8	156
+468757at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11459.1.p1	345.7	269
+469367at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1493.1.p1	250.7	287
+470197at33208	Missing
+470523at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4791.1.p2	210.8	194
+471608at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4679.1.p2	285.2	214
+471608at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4680.1.p1	285.2	214
+471787at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7948.1.p1	343.7	328
+472313at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15243.1.p1	300.0	257
+472352at33208	Missing
+473106at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1614.1.p1	401.3	289
+474144at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6869.1.p2	202.0	232
+474302at33208	Missing
+474387at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.2987.1.p1	141.7	122
+475826at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3845.1.p1	88.9	169
+476036at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.10433.1.p1	202.9	156
+477052at33208	Missing
+477939at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4603.2.p1	242.9	296
+477998at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7233.1.p1	101.9	310
+478073at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4564.3.p1	365.1	226
+478984at33208	Missing
+480700at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.9815.1.p2	142.7	155
+480700at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.9815.2.p1	142.7	155
+480700at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.9815.3.p2	141.7	155
+480735at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7366.1.p2	243.9	236
+481557at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3691.1.p1	125.0	246
+482691at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14095.1.p1	350.3	240
+482691at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14095.4.p1	350.3	240
+483489at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16857.1.p2	245.6	278
+485003at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12820.1.p1	195.8	202
+485696at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3133.1.p1	115.4	222
+486370at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8573.1.p1	213.9	245
+486431at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7347.1.p1	199.9	379
+486743at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17623.1.p1	62.8	130
+486993at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4116.1.p1	265.5	247
+487873at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15395.1.p4	57.2	112
+487987at33208	Missing
+488559at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17098.1.p3	99.6	132
+488635at33208	Missing
+489359at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17958.1.p1	108.5	204
+489858at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5196.1.p1	122.6	145
+489997at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3699.1.p2	238.3	297
+490248at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5855.1.p1	181.5	167
+490961at33208	Missing
+491252at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10758.1.p1	174.2	178
+491289at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12587.1.p1	247.7	242
+492033at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5089.1.p1	245.5	164
+493148at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9287.1.p1	91.7	172
+493505at33208	Missing
+493913at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6909.1.p1	361.9	381
+494057at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8015.1.p1	138.3	170
+495100at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.27.1.p1	351.4	215
+495100at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.27.2.p1	341.7	208
+495175at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4141.1.p2	218.4	181
+495175at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.19190.1.p1	216.6	181
+495207at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.958.1.p2	206.5	250
+495207at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.959.1.p2	206.5	250
+495311at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7399.1.p1	219.4	163
+495329at33208	Missing
+495389at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8488.1.p2	99.9	146
+495605at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1904.1.p2	353.3	223
+495802at33208	Missing
+495926at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17945.1.p1	101.0	115
+496070at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10612.19.p1	73.4	150
+496070at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10612.22.p1	73.4	150
+496219at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17551.1.p2	355.2	247
+496219at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17551.2.p2	355.2	247
+496219at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17551.3.p2	355.2	247
+498535at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5659.1.p1	319.3	204
+498535at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5660.1.p1	319.3	204
+498535at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5661.2.p3	299.1	172
+500261at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4807.1.p1	236.5	271
+500808at33208	Missing
+501396at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1272.1.p1	273.6	169
+501396at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1272.2.p2	273.6	169
+501546at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4828.1.p5	74.1	139
+501546at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4828.2.p5	74.1	139
+501788at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6869.1.p1	119.6	155
+502128at33208	Missing
+502407at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7607.1.p1	217.7	173
+502429at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12857.1.p3	175.9	175
+502429at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12857.2.p3	175.9	175
+502584at33208	Missing
+502691at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5186.1.p1	321.5	204
+503333at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2985.2.p4	424.8	267
+503333at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2986.1.p1	424.8	267
+503828at33208	Missing
+504207at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2810.1.p2	371.6	293
+504207at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.19095.1.p1	371.2	293
+504207at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.19096.2.p1	347.1	293
+504292at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8234.1.p1	208.7	178
+504691at33208	Missing
+504731at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11351.1.p1	332.7	237
+504912at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.2944.1.p3	44.6	83
+505248at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10821.1.p1	179.7	167
+505248at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10822.1.p1	179.7	167
+505718at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1581.7.p1	54.5	75
+508188at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8915.1.p3	248.2	253
+508379at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4695.1.p2	133.3	131
+508986at33208	Missing
+509494at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7965.1.p2	209.1	144
+509494at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7966.1.p2	185.6	126
+509816at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11034.1.p1	102.1	144
+510174at33208	Missing
+510522at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12453.2.p1	164.0	195
+510581at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1226.1.p1	276.5	229
+511272at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16774.1.p2	124.1	194
+511386at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2984.1.p1	239.8	488
+511575at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9057.1.p2	198.7	150
+511668at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5301.1.p2	128.2	144
+514121at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16371.1.p1	219.3	193
+514121at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16372.1.p1	219.2	193
+514296at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9014.1.p1	178.8	135
+514565at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10377.1.p1	213.9	188
+514675at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4086.1.p1	128.1	194
+514698at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.907.1.p1	164.8	156
+514724at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2785.1.p1	77.8	140
+514727at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.918.1.p1	30.8	166
+514740at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5426.1.p1	200.6	175
+514740at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5426.2.p1	200.6	175
+514834at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5301.1.p1	116.2	199
+514892at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11984.1.p2	300.0	203
+515058at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16971.1.p1	349.6	353
+515058at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17012.1.p1	343.5	341
+515377at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12870.1.p2	142.4	182
+515377at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.8466.1.p1	139.3	192
+515410at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10418.1.p2	171.0	149
+515425at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10447.2.p1	155.6	187
+515425at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10447.1.p1	154.5	185
+515425at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4020.4.p1	146.1	200
+515425at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4020.1.p1	145.4	200
+515425at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4020.2.p1	145.4	200
+515528at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8029.1.p1	122.6	269
+515640at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12690.1.p1	308.5	195
+516078at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13959.1.p1	253.4	231
+516321at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16751.1.p2	186.3	135
+516321at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16752.1.p2	186.3	135
+516481at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7282.1.p1	99.4	170
+516659at33208	Missing
+516716at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5935.1.p1	273.0	311
+516716at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5935.3.p1	269.1	342
+517311at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5093.1.p1	199.3	155
+517311at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12740.1.p2	185.6	155
+517525at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13879.1.p1	339.6	269
+517686at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1418.1.p3	126.7	98
+517686at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1418.2.p3	126.7	98
+517686at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1419.1.p4	126.7	98
+517968at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2933.1.p4	130.1	106
+518288at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7056.1.p1	325.0	290
+518569at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15680.1.p1	225.7	305
+518635at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.11066.1.p1	275.6	348
+518635at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.11066.2.p1	274.9	348
+519030at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6767.1.p1	72.0	126
+519303at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10399.1.p2	321.4	346
+519303at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10400.1.p1	321.4	346
+519777at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16882.1.p1	122.2	248
+520011at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17420.1.p1	121.1	159
+521343at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10450.1.p1	65.0	142
+522886at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14037.1.p2	182.0	235
+522886at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14037.2.p2	182.0	235
+522886at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14037.3.p1	161.1	200
+522988at33208	Missing
+523206at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2916.1.p1	116.9	130
+523376at33208	Missing
+523534at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4699.1.p1	193.3	148
+524148at33208	Missing
+524165at33208	Missing
+524322at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16860.1.p1	108.1	128
+525542at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.9051.1.p1	158.4	173
+525542at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.9052.1.p2	158.4	173
+525542at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12543.1.p2	155.9	166
+525888at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4553.1.p1	185.2	153
+525888at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4553.3.p1	177.6	149
+526074at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16862.1.p3	240.7	160
+526487at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3694.1.p1	307.0	181
+526673at33208	Missing
+526839at33208	Missing
+527406at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16910.1.p1	320.6	275
+528325at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9046.1.p4	257.3	157
+529092at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7916.1.p2	114.5	95
+529092at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7917.1.p2	114.5	95
+529093at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.6686.1.p2	160.0	116
+529708at33208	Missing
+529852at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7970.1.p1	98.5	136
+530431at33208	Missing
+532406at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16725.1.p1	259.0	191
+532693at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5518.1.p3	227.8	224
+532728at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5095.1.p1	123.6	130
+532728at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5096.1.p1	107.2	116
+532930at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4544.1.p1	65.1	149
+533666at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1681.1.p2	83.7	169
+533690at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14011.1.p1	216.9	181
+534172at33208	Missing
+534206at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14244.4.p1	128.6	115
+534206at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14244.2.p1	128.3	123
+534206at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14244.1.p1	117.9	97
+534206at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14244.5.p1	117.9	97
+534206at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14244.3.p1	117.0	100
+534312at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12866.1.p4	194.0	122
+534757at33208	Missing
+534808at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12025.1.p1	314.6	276
+534808at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12026.1.p1	314.6	276
+535268at33208	Missing
+535367at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4778.1.p2	203.0	207
+535524at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5323.1.p1	233.2	160
+535650at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11075.1.p1	259.2	164
+535664at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17570.1.p4	94.9	98
+535782at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7599.1.p1	206.7	163
+535806at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5673.2.p3	132.4	132
+536251at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2595.1.p1	141.2	126
+537470at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6398.1.p1	236.7	155
+537548at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8784.1.p1	216.5	174
+537718at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3821.1.p1	127.2	214
+537923at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.18531.1.p2	216.2	151
+537923at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.18531.2.p2	216.2	151
+537923at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2098.1.p1	216.2	151
+537923at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2385.1.p1	216.2	151
+538442at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16802.1.p1	160.9	150
+539043at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12503.3.p3	180.7	144
+539043at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12503.4.p3	180.7	144
+539043at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12504.1.p2	180.7	144
+539215at33208	Missing
+539234at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7337.1.p1	151.8	130
+539234at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7337.2.p2	151.8	130
+539360at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1214.4.p5	153.3	164
+539360at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1214.5.p4	153.3	164
+539360at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1219.1.p3	153.3	164
+539600at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13009.2.p1	172.4	144
+540193at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17669.1.p3	120.1	148
+540193at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17669.2.p2	120.1	148
+540193at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17669.3.p3	120.1	148
+541231at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4509.1.p3	40.4	162
+541231at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4509.2.p3	40.4	162
+541260at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7890.1.p1	108.7	82
+541421at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12871.2.p4	167.3	161
+543124at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5134.1.p1	258.9	250
+543269at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7955.1.p1	140.2	160
+544546at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.1593.1.p2	80.7	86
+544849at33208	Missing
+544919at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.898.1.p1	78.8	251
+545063at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12151.1.p1	115.1	216
+545389at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17058.1.p2	228.7	166
+545641at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7532.1.p1	162.4	121
+545744at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.15397.1.p3	103.1	92
+545744at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.15397.2.p4	103.1	92
+545889at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12701.1.p1	116.9	133
+546305at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.4449.3.p3	75.7	84
+546751at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17514.1.p1	214.9	173
+547099at33208	Missing
+547341at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.8538.1.p2	157.6	169
+547341at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.8538.2.p2	157.6	169
+547766at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11822.1.p1	199.0	151
+548327at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4402.1.p1	156.5	135
+548444at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5200.1.p1	167.2	246
+548732at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6853.1.p3	190.9	133
+549156at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3946.1.p2	217.8	137
+549988at33208	Missing
+551166at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16228.2.p4	151.6	100
+551166at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16228.6.p2	151.6	100
+551620at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.4546.1.p1	73.8	147
+551632at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3291.1.p1	198.5	183
+551831at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10870.3.p1	229.2	202
+551831at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10870.4.p1	229.2	202
+551831at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.10870.1.p1	225.4	202
+552201at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7150.1.p1	284.0	178
+552359at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13961.1.p1	118.4	114
+552764at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7125.1.p1	287.7	169
+552949at33208	Missing
+553411at33208	Missing
+553585at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17555.1.p2	253.3	202
+553585at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17555.3.p2	230.1	154
+553585at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17555.2.p2	227.3	149
+554010at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.918.1.p5	275.0	196
+554815at33208	Missing
+555162at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10240.1.p1	207.5	144
+555390at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12220.1.p1	172.1	124
+555538at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.18723.1.p2	99.6	121
+556039at33208	Missing
+556189at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12922.1.p1	129.4	168
+556337at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4019.1.p2	202.6	124
+556337at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4033.1.p2	202.6	124
+556445at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.17687.2.p4	31.7	65
+556461at33208	Missing
+556510at33208	Missing
+556587at33208	Missing
+556750at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16466.1.p2	88.0	112
+556925at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7211.1.p2	59.3	116
+557292at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15338.1.p1	221.7	183
+557596at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10858.1.p2	283.8	177
+557694at33208	Missing
+557834at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9833.1.p1	239.5	328
+557962at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4382.1.p1	219.4	217
+558368at33208	Missing
+558385at33208	Missing
+558552at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4658.1.p3	210.6	124
+558552at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4658.2.p3	210.6	124
+558791at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2838.1.p2	198.1	124
+558897at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15395.3.p4	163.1	148
+558933at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.11525.1.p1	184.0	178
+559146at33208	Missing
+559501at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10111.1.p1	221.6	216
+559576at33208	Missing
+559732at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.9007.1.p1	23.8	43
+559883at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5106.1.p1	150.9	157
+560453at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1509.1.p2	241.1	143
+560566at33208	Missing
+560584at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13875.1.p1	114.7	86
+560694at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4987.1.p1	256.4	206
+561054at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12650.6.p1	158.7	126
+561248at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4788.1.p1	78.6	167
+561417at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1487.1.p3	152.0	122
+561688at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7702.1.p1	163.4	162
+561688at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7704.1.p1	163.4	162
+561878at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12925.1.p2	182.4	215
+561943at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2973.3.p2	314.5	243
+561943at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2973.5.p1	314.5	243
+561943at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2973.2.p3	283.6	221
+561943at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2973.4.p3	275.8	220
+562780at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12579.1.p1	194.8	161
+563084at33208	Missing
+563358at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5662.1.p2	120.3	104
+563359at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2834.1.p1	70.7	168
+563426at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1594.1.p1	228.7	222
+563679at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4675.1.p2	100.2	100
+563679at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4675.2.p2	100.2	100
+563679at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4676.1.p1	100.2	100
+563832at33208	Missing
+564234at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13955.1.p2	155.8	155
+564234at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13955.3.p3	155.8	155
+564234at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13956.1.p1	155.8	155
+564234at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13957.1.p2	155.8	155
+564286at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.9283.1.p1	188.3	115
+564286at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.9284.1.p1	186.0	115
+565053at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17411.1.p1	125.6	140
+566026at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.9386.1.p1	100.0	131
+566116at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5213.1.p1	284.2	215
+566262at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3615.1.p3	122.8	101
+566447at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4550.1.p5	118.7	157
+566447at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4550.2.p5	118.7	157
+566447at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4550.3.p5	118.7	157
+566527at33208	Missing
+566916at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.5310.1.p2	32.8	47
+567650at33208	Missing
+567750at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5285.1.p4	109.1	89
+567809at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13689.1.p3	180.5	116
+567809at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13689.2.p3	180.5	116
+568022at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14528.1.p5	179.4	151
+568022at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14528.2.p5	179.4	151
+568022at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14528.3.p1	179.4	151
+568170at33208	Missing
+568839at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1228.1.p3	120.8	187
+568949at33208	Missing
+569294at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16830.1.p1	124.3	119
+569303at33208	Missing
+569812at33208	Missing
+569878at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2914.1.p3	140.2	154
+570262at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8150.1.p1	209.3	174
+570646at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1069.1.p1	136.2	137
+570717at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5234.2.p1	205.8	169
+570717at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5234.1.p3	182.2	120
+571149at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12483.1.p1	65.0	86
+571944at33208	Missing
+572074at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1738.1.p2	126.7	178
+572434at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15937.1.p1	194.8	189
+572463at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17535.3.p2	210.7	192
+572463at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17535.1.p4	209.8	193
+572463at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17535.2.p4	209.8	193
+572754at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12707.1.p2	124.8	124
+572845at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8939.1.p1	222.1	157
+573203at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12845.1.p1	186.3	294
+573237at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5373.1.p1	225.5	184
+573313at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.6571.7.p1	240.7	499
+573313at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7920.1.p1	226.5	957
+573313at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12546.1.p1	219.1	550
+574311at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4806.1.p3	37.9	76
+575360at33208	Missing
+576633at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12256.2.p1	256.5	169
+576633at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12256.1.p1	253.4	155
+576938at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.17118.1.p2	50.6	71
+576997at33208	Missing
+577068at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7606.1.p1	154.3	192
+577339at33208	Missing
+577929at33208	Missing
+578354at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14398.1.p1	193.4	127
+578582at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14650.1.p1	180.6	137
+578684at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4828.1.p2	137.5	193
+578684at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4828.2.p2	137.5	193
+578726at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2712.1.p1	188.0	173
+578734at33208	Missing
+578959at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17369.1.p2	106.0	111
+578959at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17370.1.p2	106.0	111
+579029at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1391.1.p10	59.1	125
+579029at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1392.1.p6	59.1	125
+579029at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1392.2.p5	59.1	125
+580062at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.18745.1.p1	134.6	166
+580288at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16856.1.p1	209.4	116
+580851at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1932.1.p1	33.7	91
+580896at33208	Missing
+581006at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8952.1.p2	77.0	121
+581475at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16862.1.p4	89.4	124
+581475at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16863.1.p2	89.4	124
+581475at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.16863.2.p3	89.4	124
+581543at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1695.1.p1	103.4	155
+581547at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9814.1.p2	233.3	151
+581621at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16010.1.p1	290.8	159
+581717at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12840.1.p2	136.7	157
+581779at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10309.1.p1	121.7	189
+582265at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4512.1.p1	185.6	155
+582341at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10087.1.p1	186.6	103
+582473at33208	Missing
+582823at33208	Missing
+582951at33208	Missing
+583626at33208	Missing
+584023at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17287.1.p1	149.1	195
+584333at33208	Missing
+584373at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5225.1.p1	33.0	54
+585078at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17458.1.p1	60.7	72
+585078at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17438.1.p5	59.9	72
+585078at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17438.2.p5	59.9	72
+585078at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17438.3.p5	59.9	72
+585078at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17438.4.p5	59.9	72
+585078at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17439.1.p4	59.9	72
+585232at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17731.1.p1	99.6	129
+585305at33208	Missing
+585313at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.8721.1.p1	234.0	186
+585313at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.8721.4.p1	234.0	186
+585656at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4539.1.p8	139.4	145
+585656at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4540.1.p8	139.4	145
+585656at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4540.2.p8	139.4	145
+585656at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4541.1.p7	139.4	145
+585726at33208	Missing
+585809at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5494.1.p1	127.4	195
+586156at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7004.1.p1	115.5	115
+586310at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17102.1.p1	145.3	163
+586690at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4759.1.p1	144.9	109
+586719at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1176.1.p3	197.6	127
+587399at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1699.1.p3	69.2	97
+587399at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1699.2.p3	69.2	97
+587407at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5171.1.p1	141.7	163
+587513at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8503.1.p1	213.4	255
+587688at33208	Missing
+587958at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.3219.1.p1	164.3	82
+587958at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.3240.1.p1	164.3	82
+589773at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13071.1.p1	51.3	64
+589901at33208	Missing
+590221at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1632.1.p2	71.3	94
+590221at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1632.2.p3	71.3	94
+590221at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1632.3.p2	71.3	94
+590221at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1633.1.p3	71.3	94
+590347at33208	Missing
+590416at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15948.1.p1	208.4	174
+590470at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6.1.p1	146.8	189
+591316at33208	Missing
+591391at33208	Missing
+591498at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5631.1.p1	41.5	153
+591498at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5631.2.p1	41.5	153
+592087at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6707.1.p1	161.1	145
+592094at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7586.1.p1	179.9	165
+592759at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5434.3.p1	211.2	181
+592872at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1305.1.p1	161.5	140
+594172at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14349.1.p3	238.7	119
+594172at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14349.2.p3	238.7	119
+594271at33208	Missing
+594842at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5231.1.p1	129.6	121
+594937at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1251.1.p1	34.4	94
+595010at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16393.1.p1	248.4	258
+595316at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8512.1.p2	163.4	131
+595404at33208	Missing
+595858at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14327.1.p1	273.2	297
+596131at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8412.1.p1	128.8	101
+596973at33208	Missing
+597023at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3592.1.p2	90.3	130
+597816at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1915.1.p3	112.0	143
+598405at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.960.4.p1	136.9	92
+598405at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.960.2.p1	136.9	92
+598405at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.960.6.p1	136.7	92
+598405at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.960.3.p1	126.4	85
+598944at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1740.1.p1	131.9	281
+598944at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1740.2.p1	121.3	282
+599320at33208	Missing
+600462at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7257.1.p2	105.6	185
+600823at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5094.1.p1	95.3	137
+601242at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10879.1.p3	115.7	112
+601650at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12812.2.p2	113.0	109
+601768at33208	Missing
+601875at33208	Missing
+601886at33208	Missing
+601967at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.15917.1.p5	101.2	128
+601967at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.15917.2.p5	101.2	128
+601967at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.15917.3.p5	101.2	128
+601967at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.15917.4.p5	101.2	128
+601967at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.15917.5.p5	101.2	128
+601967at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.15917.6.p4	101.2	128
+602089at33208	Missing
+602148at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7286.1.p1	82.9	105
+602148at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7287.1.p1	82.9	105
+602587at33208	Missing
+603239at33208	Missing
+603370at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5297.1.p3	175.9	123
+603370at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5297.2.p4	175.9	123
+603609at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13967.1.p1	80.4	112
+603673at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8625.1.p3	155.1	112
+604211at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.18666.1.p2	126.8	161
+604943at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5301.1.p3	120.2	101
+605189at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.8963.1.p2	63.7	54
+606048at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6328.1.p1	127.9	121
+606539at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3980.1.p1	140.9	114
+606748at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4782.2.p2	92.6	83
+606748at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4783.1.p1	92.6	83
+606776at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.17421.1.p3	42.0	77
+606795at33208	Missing
+606958at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4594.1.p1	107.8	108
+606958at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.4593.1.p1	107.7	92
+607862at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12162.1.p5	106.1	115
+607862at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12163.1.p2	106.1	115
+608011at33208	Missing
+608074at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3951.1.p1	122.5	129
+608190at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14335.1.p1	74.6	97
+608669at33208	Missing
+608869at33208	Missing
+608924at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1391.1.p12	144.3	118
+608924at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1391.2.p1	144.3	118
+609899at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7495.1.p3	91.2	113
+609899at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7495.2.p3	91.2	113
+609899at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7495.3.p3	91.2	113
+610427at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7154.1.p1	100.1	97
+610541at33208	Missing
+611258at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7951.2.p1	199.3	181
+611258at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7951.1.p1	199.2	181
+611258at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.7951.3.p1	199.2	181
+611279at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14337.1.p3	164.2	182
+611373at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16774.1.p6	108.5	93
+611891at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3068.1.p1	45.6	79
+612760at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8031.1.p1	123.6	82
+612825at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.9413.1.p1	91.1	102
+613522at33208	Missing
+613580at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16991.1.p1	132.0	454
+613851at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14866.1.p1	78.6	107
+614305at33208	Missing
+615531at33208	Missing
+615585at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14295.1.p1	91.8	82
+615585at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.14295.2.p1	91.7	82
+615840at33208	Missing
+616120at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2549.1.p12	88.7	103
+616120at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.2549.2.p11	88.7	103
+616149at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10598.1.p1	69.1	79
+616613at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16406.1.p2	131.4	79
+616716at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.958.1.p3	160.4	121
+616716at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.959.1.p3	160.4	121
+617020at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1808.2.p4	189.2	184
+617441at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12131.1.p1	156.7	79
+617522at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.18755.1.p1	68.2	89
+617667at33208	Missing
+618339at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.8637.1.p1	101.5	80
+618421at33208	Missing
+618516at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.10229.2.p1	128.6	139
+618986at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17197.1.p1	124.3	117
+619250at33208	Missing
+619326at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4618.1.p4	142.6	90
+619415at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.989.1.p1	114.5	139
+620546at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.2714.1.p1	78.3	97
+620753at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7312.1.p2	96.9	130
+621585at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6946.1.p4	105.0	105
+621808at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.4460.1.p1	155.1	81
+622156at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9874.3.p3	120.0	118
+622172at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.1571.1.p2	41.4	93
+622270at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17499.1.p2	176.9	95
+622270at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17500.1.p2	176.9	95
+622270at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17500.2.p2	176.9	95
+622461at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.1849.1.p2	118.5	104
+622560at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13389.11.p1	162.3	136
+622560at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13389.2.p1	162.3	136
+622560at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13389.8.p1	162.3	136
+623138at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.15353.1.p3	51.9	90
+623324at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.19036.1.p5	194.3	117
+623324at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.19035.1.p1	194.0	117
+623444at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.86.1.p1	132.7	160
+623444at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.87.1.p1	132.7	160
+623995at33208	Missing
+625077at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.12594.1.p2	110.2	100
+625091at33208	Missing
+625769at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.15394.1.p1	119.2	91
+625769at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.15395.1.p6	119.2	91
+628082at33208	Missing
+628231at33208	Missing
+628247at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.13206.1.p1	99.2	83
+629763at33208	Missing
+630073at33208	Missing
+631107at33208	Fragmented	STRG_ONT-RNA_minimap2_transcripts.15341.1.p4	94.1	90
+631173at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13612.1.p2	53.9	82
+631173at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.13613.1.p2	53.9	82
+631196at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14907.1.p1	89.7	130
+631662at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.2545.1.p2	115.0	83
+631767at33208	Missing
+631798at33208	Missing
+631811at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1391.1.p6	88.9	141
+631811at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1392.1.p4	88.9	141
+631811at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.1392.2.p4	88.9	141
+632234at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.16923.1.p2	171.4	102
+632472at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.3646.1.p2	78.1	95
+632566at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.5229.1.p1	182.7	151
+633007at33208	Missing
+633282at33208	Missing
+633619at33208	Missing
+634446at33208	Missing
+634447at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5228.2.p2	121.9	89
+634447at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5230.1.p1	121.9	89
+636041at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17499.1.p3	89.7	91
+636041at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17500.1.p3	89.7	91
+636041at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17500.2.p3	89.7	91
+636070at33208	Missing
+636300at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9046.1.p5	131.8	73
+636423at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.6857.1.p3	31.5	78
+637971at33208	Missing
+638541at33208	Missing
+639252at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.11981.3.p2	92.3	104
+639252at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.11981.5.p1	92.3	104
+639252at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.11983.1.p2	92.3	104
+640187at33208	Missing
+640349at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.17118.1.p3	66.6	72
+641073at33208	Missing
+641257at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17517.1.p2	75.2	107
+641257at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17518.1.p1	75.2	107
+641257at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17518.2.p2	75.2	107
+641257at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.17518.3.p1	75.2	107
+642323at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.7262.1.p1	56.3	56
+642552at33208	Missing
+642773at33208	Missing
+643380at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12822.1.p3	72.9	81
+643380at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.12822.2.p2	72.9	81
+643883at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5786.2.p1	85.8	68
+643883at33208	Duplicated	STRG_ONT-RNA_minimap2_transcripts.5786.1.p1	85.5	68
+643954at33208	Missing
+644034at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.9936.1.p1	65.9	50
+648300at33208	Missing
+649979at33208	Complete	STRG_ONT-RNA_minimap2_transcripts.14019.1.p3	91.7	98
