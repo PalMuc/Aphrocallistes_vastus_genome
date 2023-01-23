@@ -1,0 +1,18 @@
+# BUSCO version is: 5.4.2 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2021-02-17, number of genomes: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file /netvolumes/srva229/home/svargas/2022/localspace/Sonne_transcriptomes/Unpublished datasets/Assemblies/Transcriptomes/PORI_SONNE/Hexactinellida/proteins/PORI_Hexa_Aulocalyx_serialis_comb.combined.okay.fa.transdecoder.pep
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:76.2%[S:48.5%,D:27.7%],F:7.2%,M:16.6%,n:954	   
+	727	Complete BUSCOs (C)			   
+	463	Complete and single-copy BUSCOs (S)	   
+	264	Complete and duplicated BUSCOs (D)	   
+	69	Fragmented BUSCOs (F)			   
+	158	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	busco: 5.4.2

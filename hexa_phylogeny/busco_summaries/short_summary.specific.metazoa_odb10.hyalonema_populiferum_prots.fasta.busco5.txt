@@ -1,0 +1,18 @@
+# BUSCO version is: 5.4.2 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2021-02-17, number of genomes: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file /home/svargas/Downloads/avastus/hyalonema_populiferum_prots.fasta
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:13.2%[S:10.9%,D:2.3%],F:17.7%,M:69.1%,n:954	   
+	126	Complete BUSCOs (C)			   
+	104	Complete and single-copy BUSCOs (S)	   
+	22	Complete and duplicated BUSCOs (D)	   
+	169	Fragmented BUSCOs (F)			   
+	659	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	busco: 5.4.2

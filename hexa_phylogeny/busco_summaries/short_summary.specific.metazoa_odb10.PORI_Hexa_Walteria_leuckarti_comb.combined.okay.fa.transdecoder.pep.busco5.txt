@@ -1,0 +1,18 @@
+# BUSCO version is: 5.4.2 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2021-02-17, number of genomes: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file /netvolumes/srva229/home/svargas/2022/localspace/Sonne_transcriptomes/Unpublished datasets/Assemblies/Transcriptomes/PORI_SONNE/Hexactinellida/proteins/PORI_Hexa_Walteria_leuckarti_comb.combined.okay.fa.transdecoder.pep
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:65.4%[S:36.4%,D:29.0%],F:14.0%,M:20.6%,n:954	   
+	624	Complete BUSCOs (C)			   
+	347	Complete and single-copy BUSCOs (S)	   
+	277	Complete and duplicated BUSCOs (D)	   
+	134	Fragmented BUSCOs (F)			   
+	196	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	busco: 5.4.2

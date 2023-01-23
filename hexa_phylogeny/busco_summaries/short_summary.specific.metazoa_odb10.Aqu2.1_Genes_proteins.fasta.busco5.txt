@@ -1,0 +1,18 @@
+# BUSCO version is: 5.4.2 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2021-02-17, number of genomes: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file /home/svargas/Downloads/avastus/Aqu2.1_Genes_proteins.fasta
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:89.9%[S:84.4%,D:5.5%],F:4.2%,M:5.9%,n:954	   
+	857	Complete BUSCOs (C)			   
+	805	Complete and single-copy BUSCOs (S)	   
+	52	Complete and duplicated BUSCOs (D)	   
+	40	Fragmented BUSCOs (F)			   
+	57	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	busco: 5.4.2

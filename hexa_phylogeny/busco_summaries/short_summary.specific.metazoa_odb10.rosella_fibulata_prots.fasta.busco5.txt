@@ -1,0 +1,18 @@
+# BUSCO version is: 5.4.2 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2021-02-17, number of genomes: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file /home/svargas/Downloads/avastus/rosella_fibulata_prots.fasta
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:46.9%[S:40.3%,D:6.6%],F:14.5%,M:38.6%,n:954	   
+	447	Complete BUSCOs (C)			   
+	384	Complete and single-copy BUSCOs (S)	   
+	63	Complete and duplicated BUSCOs (D)	   
+	138	Fragmented BUSCOs (F)			   
+	369	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	busco: 5.4.2
