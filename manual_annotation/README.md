@@ -100,9 +100,16 @@ Using BUSCO 5.4.2 for dataset `metazoa_odb10` with 954 proteins:
 
 | annotation | complete | single | duplicated | fragmented | missing |
 | :--- | --- | --- | --- | --- | --- |
+| *A.vastus* annotations |   |   |   |   |   |
 | Avas.v1.29_annotations | 80.4% | 78.5% | 1.9% | 2.3% | 17.3% |
 | BRAKER2_ONT-RNA_augustus.hints_proteins | 77.8% | 74.7% | 3.1% | 3.4% | 18.8% |
 | PINFISH_pipeline | 69.9% | 54.6% | 15.3% | 4.7% | 25.4% |
 | STRG_ONT-RNA_minimap2_transdecoder| 76.6% | 58.5% | 18.1% | 3.1% | 20.3% |
+| Other sponge genomes |   |   |   |   |   |
+| Omin.JAKMXF01.1.gbff.prot | 75.5% | 74.8% | 0.7% | 4.4% | 20.1% |
+| Aqu2.1_Genes_proteins | 89.9% | 84.4% | 5.5% | 4.2% | 5.9% |
+| Emu_augustus_sysnames_prots | 70.5% | 58.1% | 12.4% | 6.9% | 22.6% |
+| sycon.cds.prot | 77.1% | 72.7% | 4.4% | 10.2% | 12.7% |
+
 
 

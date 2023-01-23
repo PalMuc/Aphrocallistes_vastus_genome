@@ -1,7 +1,7 @@
 # steps to make ortholog clusters #
 
 ### collection of datasets ###
-A total of 35 candidate species were selected. In the end, 326130 total proteins were used for 15 species. Not all species were used, based on whether the proteomes were complete enough as measured by [BUSCO](https://busco.ezlab.org/).
+A total of 35 candidate species were selected. In the end, 326130 total proteins were used for 15 species. Not all species were used, based on whether the proteomes were complete enough as measured by [BUSCO](https://busco.ezlab.org/) using the Metazoa set (954 genes, in table below), as well as the Eukaryotic set.
 
 | species | complete | single | duplicated | fragmented | missing |
 | :--- | --- | --- | --- | --- | --- |

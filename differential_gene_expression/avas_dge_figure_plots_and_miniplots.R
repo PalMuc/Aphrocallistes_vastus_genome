@@ -105,7 +105,7 @@ miniplot_target_index = match( miniplot_target_names , dge_raw_counts$Name )
 
 miniplot_x = rep(c(0.2, 0.6, 0.7, 0.8, 0.3, 0.4), each=4)
 bt_order = sort(dge_sample_info$individum, index.return=TRUE)
-pdf("~/git/Aphrocallistes_vastus_genome/differential_gene_expression/fig3_gene_miniplots_v3.pdf", width=8, height=7)
+pdf("~/git/Aphrocallistes_vastus_genome/differential_gene_expression/dge_gene_miniplots_v3.pdf", width=8, height=7)
 par(mfrow = c(4,6), mar=c(3,3,3,1))
 for (mti in miniplot_target_index){
   target_gene_raw = as.numeric(dge_raw_counts[mti,2:25])[bt_order$ix]
@@ -144,21 +144,22 @@ avas_scaf_dge_df = data.frame(SeqName = all_avas_pointsdata[,2],
                               padj = -1*log10( (dge_data$padj)[points_dge_index]) )
 
 manhplot_target_names = c("Avas.s006.g1066.i1", "Avas.s006.g1068.i1", "Avas.s001.g969.i1", "Avas.s001.g970.i1",
-                          "Avas.s015.g314.i1", "Avas.s003.g260.i1", # collagen hydroxylases
-                          "Avas.s001.g887.i1", "Avas.s006.g483.i1", # proteases
+                          "Avas.s015.g314.i1", "Avas.s003.g260.i1", "Avas.s011.g507.i1", # collagen hydroxylases
+                          "Avas.s001.g887.i1", "Avas.s006.g483.i1", # metallo proteases
                           "Avas.s014.g618.i1", # glassin
                           "Avas.s003.g337.i1", #"Avas.s003.g335.i1", "Avas.s003.g336.i1", # TIL domains
                           "Avas.s006.g1096.i1", # aquaporin
                           "Avas.s019.g225.i1", "Avas.s019.g227.i1", # DUOX and DUOXA
-                          "Avas.s001.g868.i1", # TF
+                          "Avas.s001.g868.i1", # bZIP TF
+                          "Avas.s005.g703.i1", # the one actin out of 43
                           "Avas.s007.g465.i1", # cluster_00633
                           "Avas.s014.g646.i1", #protease
                           "Avas.s015.g491.i1" ) # cluster_00633
 
 avas_scaf_dge_df_short = filter(avas_scaf_dge_df, SeqName %in% manhplot_target_names)
 avas_scaf_dge_df_short
-show_functions = c("TF", "protease", "COL", "COL", "P4H", "TIL", "protease", "COL", "COL", 
-                   "aquaporin-9", "cluster_00633", "glassin", "protease", "PLOD", "cluster_00633", "DUOX", "DUOXA")
+show_functions = c("bZIP", "protease", "COL", "COL", "P4H", "TIL", "actin", "protease", "COL", "COL", 
+                   "aquaporin-9", "cluster_00633", "P3H", "glassin", "protease", "PLOD", "cluster_00633", "DUOX", "DUOXA")
 
 point_color = rep("#00000011", length(avas_scaf_dge_df$padj))
 is_pos_deg = avas_scaf_dge_df$padj > 4 & avas_scaf_dge_df$log2foldchange > 0
@@ -184,3 +185,4 @@ ggsave(file="~/git/Aphrocallistes_vastus_genome/differential_gene_expression/dge
 
 
 #
+
