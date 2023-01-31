@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 #
-# collate_busco_results.py created 2023-01-19
+# collate_busco_result_fasta.py created 2023-01-19
 
-"""collate_busco_results.py  last modified 2023-01-19
+"""collate_busco_result_fasta.py  last modified 2023-01-19
 
-./collate_busco_results.py -s species_to_dir_list.tab -o combined_buscos/
+./collate_busco_result_fasta.py -s species_to_dir_list.tab -o combined_buscos/
 
     species list is tab delimited of species and directory, like:
 
