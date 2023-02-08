@@ -1,0 +1,1949 @@
+Pilon version 1.23 Mon Nov 26 16:04:05 2018 -0500
+Genome: Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.fasta
+Fixing indels
+Input genome size: 80320060
+Processing Aphrocalllistes_vastus_HiC-scaffold_075:1-23036
+Processing Aphrocalllistes_vastus_HiC-scaffold_134:1-6886
+Processing Aphrocalllistes_vastus_HiC-scaffold_133:1-6896
+Processing Aphrocalllistes_vastus_HiC-scaffold_032:1-68828
+Processing Aphrocalllistes_vastus_HiC-scaffold_171:1-1611
+Processing Aphrocalllistes_vastus_HiC-scaffold_124:1-8410
+Processing Aphrocalllistes_vastus_HiC-scaffold_042:1-46594
+Processing Aphrocalllistes_vastus_HiC-scaffold_013:1-3117081
+Processing Aphrocalllistes_vastus_HiC-scaffold_126:1-8178
+Processing Aphrocalllistes_vastus_HiC-scaffold_109:1-15560
+Processing Aphrocalllistes_vastus_HiC-scaffold_033:1-66334
+Processing Aphrocalllistes_vastus_HiC-scaffold_119:1-9679
+Processing Aphrocalllistes_vastus_HiC-scaffold_155:1-3346
+Processing Aphrocalllistes_vastus_HiC-scaffold_146:1-4805
+Processing Aphrocalllistes_vastus_HiC-scaffold_105:1-17956
+Processing Aphrocalllistes_vastus_HiC-scaffold_161:1-2604
+Processing Aphrocalllistes_vastus_HiC-scaffold_173:1-1476
+Processing Aphrocalllistes_vastus_HiC-scaffold_029:1-77847
+Processing Aphrocalllistes_vastus_HiC-scaffold_102:1-18691
+Processing Aphrocalllistes_vastus_HiC-scaffold_160:1-2698
+Processing Aphrocalllistes_vastus_HiC-scaffold_177:1-1258
+Processing Aphrocalllistes_vastus_HiC-scaffold_019:1-2081888
+Processing Aphrocalllistes_vastus_HiC-scaffold_137:1-6016
+Processing Aphrocalllistes_vastus_HiC-scaffold_107:1-16170
+Processing Aphrocalllistes_vastus_HiC-scaffold_028:1-137539
+Processing Aphrocalllistes_vastus_HiC-scaffold_010:1-3376875
+Processing Aphrocalllistes_vastus_HiC-scaffold_009:1-3408767
+Processing Aphrocalllistes_vastus_HiC-scaffold_141:1-5210
+Aphrocalllistes_vastus_HiC-scaffold_177:1-1258 log:
+Aphrocalllistes_vastus_HiC-scaffold_173:1-1476 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 20
+Total Reads: 248, Coverage: 20, minDepth: 5
+Confirmed 1429 of 1476 bases (96.82%)
+Found 3 snps; corrected 2 small insertions totaling 2 bases, 0 small deletions totaling 0 bases
+Aphrocalllistes_vastus_HiC-scaffold_171:1-1611 log:
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_173:1-1476
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 21
+Total Reads: 214, Coverage: 21, minDepth: 5
+Confirmed 1128 of 1258 bases (89.67%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 22
+Total Reads: 292, Coverage: 22, minDepth: 5
+Confirmed 1522 of 1611 bases (94.48%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_177:1-1258
+Processing Aphrocalllistes_vastus_HiC-scaffold_142:1-5048
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_171:1-1611
+Processing Aphrocalllistes_vastus_HiC-scaffold_121:1-8910
+Processing Aphrocalllistes_vastus_HiC-scaffold_020:1-2037216
+Aphrocalllistes_vastus_HiC-scaffold_161:1-2604 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 36
+Total Reads: 778, Coverage: 36, minDepth: 5
+Confirmed 2461 of 2604 bases (94.51%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_161:1-2604
+Processing Aphrocalllistes_vastus_HiC-scaffold_021:1-1853725
+Aphrocalllistes_vastus_HiC-scaffold_160:1-2698 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 83
+Total Reads: 1840, Coverage: 83, minDepth: 8
+Confirmed 2591 of 2698 bases (96.03%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Aphrocalllistes_vastus_HiC-scaffold_155:1-3346 log:
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_160:1-2698
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 23
+Total Reads: 622, Coverage: 23, minDepth: 5
+Confirmed 3195 of 3346 bases (95.49%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_155:1-3346
+Processing Aphrocalllistes_vastus_HiC-scaffold_048:1-37886
+Processing Aphrocalllistes_vastus_HiC-scaffold_065:1-25784
+Aphrocalllistes_vastus_HiC-scaffold_146:1-4805 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 33
+Total Reads: 1310, Coverage: 33, minDepth: 5
+Confirmed 4260 of 4805 bases (88.66%)
+Found 5 snps; corrected 0 small insertions totaling 0 bases, 2 small deletions totaling 8 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_146:1-4805
+Processing Aphrocalllistes_vastus_HiC-scaffold_179:1-1179
+Aphrocalllistes_vastus_HiC-scaffold_137:1-6016 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 23
+Total Reads: 1158, Coverage: 23, minDepth: 5
+Confirmed 5876 of 6016 bases (97.67%)
+Found 5 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_137:1-6016
+Processing Aphrocalllistes_vastus_HiC-scaffold_183:1-1151
+Aphrocalllistes_vastus_HiC-scaffold_179:1-1179 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 62
+Total Reads: 632, Coverage: 62, minDepth: 6
+Confirmed 1133 of 1179 bases (96.10%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_179:1-1179
+Processing Aphrocalllistes_vastus_HiC-scaffold_011:1-3276734
+Aphrocalllistes_vastus_HiC-scaffold_133:1-6896 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 50
+Total Reads: 2838, Coverage: 50, minDepth: 5
+Confirmed 6820 of 6896 bases (98.90%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_133:1-6896
+Processing Aphrocalllistes_vastus_HiC-scaffold_050:1-34932
+Aphrocalllistes_vastus_HiC-scaffold_141:1-5210 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 106
+Total Reads: 4568, Coverage: 106, minDepth: 11
+Confirmed 5027 of 5210 bases (96.49%)
+Found 1 snps; corrected 1 small insertions totaling 1 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_141:1-5210
+Processing Aphrocalllistes_vastus_HiC-scaffold_066:1-25387
+Aphrocalllistes_vastus_HiC-scaffold_134:1-6886 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 22
+Total Reads: 1264, Coverage: 22, minDepth: 5
+Confirmed 6804 of 6886 bases (98.81%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_134:1-6886
+Processing Aphrocalllistes_vastus_HiC-scaffold_040:1-49909
+Aphrocalllistes_vastus_HiC-scaffold_183:1-1151 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 36
+Total Reads: 342, Coverage: 36, minDepth: 5
+Confirmed 1076 of 1151 bases (93.48%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_183:1-1151
+Processing Aphrocalllistes_vastus_HiC-scaffold_063:1-26842
+Aphrocalllistes_vastus_HiC-scaffold_142:1-5048 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 41
+Total Reads: 1716, Coverage: 41, minDepth: 5
+Confirmed 4966 of 5048 bases (98.38%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_142:1-5048
+Processing Aphrocalllistes_vastus_HiC-scaffold_074:1-23039
+Aphrocalllistes_vastus_HiC-scaffold_124:1-8410 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 22
+Total Reads: 1506, Coverage: 22, minDepth: 5
+Confirmed 8180 of 8410 bases (97.27%)
+Found 7 snps; corrected 0 small insertions totaling 0 bases, 2 small deletions totaling 3 bases
+Aphrocalllistes_vastus_HiC-scaffold_126:1-8178 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 37
+Total Reads: 2478, Coverage: 37, minDepth: 5
+Confirmed 8085 of 8178 bases (98.86%)
+Found 2 snps; corrected 2 small insertions totaling 2 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_124:1-8410
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_126:1-8178
+Processing Aphrocalllistes_vastus_HiC-scaffold_115:1-11276
+Processing Aphrocalllistes_vastus_HiC-scaffold_084:1-21885
+Aphrocalllistes_vastus_HiC-scaffold_119:1-9679 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 44
+Total Reads: 3568, Coverage: 44, minDepth: 5
+Confirmed 9494 of 9679 bases (98.09%)
+Found 8 snps; corrected 1 small insertions totaling 1 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_119:1-9679
+Processing Aphrocalllistes_vastus_HiC-scaffold_036:1-56191
+Aphrocalllistes_vastus_HiC-scaffold_121:1-8910 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 32
+Total Reads: 2392, Coverage: 32, minDepth: 5
+Confirmed 8423 of 8910 bases (94.53%)
+Found 8 snps; corrected 1 small insertions totaling 2 bases, 4 small deletions totaling 33 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_121:1-8910
+Processing Aphrocalllistes_vastus_HiC-scaffold_099:1-19525
+Aphrocalllistes_vastus_HiC-scaffold_107:1-16170 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 22
+Total Reads: 2952, Coverage: 22, minDepth: 5
+Confirmed 14535 of 16170 bases (89.89%)
+Found 12 snps; corrected 2 small insertions totaling 2 bases, 1 small deletions totaling 11 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_107:1-16170
+Processing Aphrocalllistes_vastus_HiC-scaffold_186:1-1024
+Aphrocalllistes_vastus_HiC-scaffold_109:1-15560 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 23
+Total Reads: 2954, Coverage: 23, minDepth: 5
+Confirmed 15270 of 15560 bases (98.14%)
+Found 6 snps; corrected 3 small insertions totaling 12 bases, 1 small deletions totaling 7 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_109:1-15560
+Processing Aphrocalllistes_vastus_HiC-scaffold_027:1-681210
+Aphrocalllistes_vastus_HiC-scaffold_115:1-11276 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 23
+Total Reads: 2100, Coverage: 23, minDepth: 5
+Confirmed 10752 of 11276 bases (95.35%)
+Found 10 snps; corrected 1 small insertions totaling 1 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_115:1-11276
+Processing Aphrocalllistes_vastus_HiC-scaffold_145:1-4901
+Aphrocalllistes_vastus_HiC-scaffold_186:1-1024 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 32
+Total Reads: 274, Coverage: 32, minDepth: 5
+Confirmed 924 of 1024 bases (90.23%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_186:1-1024
+Processing Aphrocalllistes_vastus_HiC-scaffold_149:1-4522
+Aphrocalllistes_vastus_HiC-scaffold_102:1-18691 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 45
+Total Reads: 7036, Coverage: 45, minDepth: 5
+Confirmed 18503 of 18691 bases (98.99%)
+Found 16 snps; corrected 3 small insertions totaling 24 bases, 5 small deletions totaling 16 bases
+Aphrocalllistes_vastus_HiC-scaffold_066:1-25387 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 28
+Total Reads: 5936, Coverage: 28, minDepth: 5
+Confirmed 24926 of 25387 bases (98.18%)
+Found 19 snps; corrected 0 small insertions totaling 0 bases, 3 small deletions totaling 3 bases
+Aphrocalllistes_vastus_HiC-scaffold_105:1-17956 log:
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_066:1-25387
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_102:1-18691
+Processing Aphrocalllistes_vastus_HiC-scaffold_016:1-2506003
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 263
+Total Reads: 41624, Coverage: 263, minDepth: 26
+Confirmed 15554 of 17956 bases (86.62%)
+Found 25 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_105:1-17956
+Processing Aphrocalllistes_vastus_HiC-scaffold_157:1-3206
+Processing Aphrocalllistes_vastus_HiC-scaffold_037:1-53510
+Aphrocalllistes_vastus_HiC-scaffold_099:1-19525 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 23
+Total Reads: 3660, Coverage: 23, minDepth: 5
+Confirmed 19279 of 19525 bases (98.74%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_099:1-19525
+Aphrocalllistes_vastus_HiC-scaffold_145:1-4901 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 22
+Total Reads: 896, Coverage: 22, minDepth: 5
+Confirmed 4828 of 4901 bases (98.51%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_145:1-4901
+Processing Aphrocalllistes_vastus_HiC-scaffold_097:1-19928
+Aphrocalllistes_vastus_HiC-scaffold_074:1-23039 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 25
+Total Reads: 4714, Coverage: 25, minDepth: 5
+Confirmed 22903 of 23039 bases (99.41%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_074:1-23039
+Processing Aphrocalllistes_vastus_HiC-scaffold_072:1-24051
+Aphrocalllistes_vastus_HiC-scaffold_084:1-21885 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 64
+Total Reads: 11534, Coverage: 64, minDepth: 6
+Confirmed 21682 of 21885 bases (99.07%)
+Found 4 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_084:1-21885
+Processing Aphrocalllistes_vastus_HiC-scaffold_130:1-7565
+Aphrocalllistes_vastus_HiC-scaffold_065:1-25784 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 67
+Total Reads: 14198, Coverage: 67, minDepth: 7
+Confirmed 24941 of 25684 bases (97.11%)
+Found 3 snps; corrected 1 small insertions totaling 13 bases, 2 small deletions totaling 2 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_065:1-25784
+Processing Aphrocalllistes_vastus_HiC-scaffold_030:1-74821
+Aphrocalllistes_vastus_HiC-scaffold_075:1-23036 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 77
+Total Reads: 14676, Coverage: 77, minDepth: 8
+Confirmed 22725 of 23036 bases (98.65%)
+Found 29 snps; corrected 3 small insertions totaling 19 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_075:1-23036
+Processing Aphrocalllistes_vastus_HiC-scaffold_078:1-22682
+Aphrocalllistes_vastus_HiC-scaffold_063:1-26842 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 45
+Total Reads: 10282, Coverage: 45, minDepth: 5
+Confirmed 18754 of 26842 bases (69.87%)
+Found 7 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_063:347-13877 size 13531
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_063:1-26842
+Processing Aphrocalllistes_vastus_HiC-scaffold_156:1-3223
+Aphrocalllistes_vastus_HiC-scaffold_050:1-34932 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 29
+Total Reads: 8382, Coverage: 29, minDepth: 5
+Confirmed 34603 of 34932 bases (99.06%)
+Found 16 snps; corrected 0 small insertions totaling 0 bases, 3 small deletions totaling 29 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_050:1-34932
+Processing Aphrocalllistes_vastus_HiC-scaffold_083:1-21938
+Aphrocalllistes_vastus_HiC-scaffold_042:1-46594 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 47
+Total Reads: 18466, Coverage: 47, minDepth: 5
+Confirmed 44253 of 46594 bases (94.98%)
+Found 53 snps; corrected 12 small insertions totaling 39 bases, 12 small deletions totaling 15 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_042:1-46594
+Processing Aphrocalllistes_vastus_HiC-scaffold_174:1-1375
+Aphrocalllistes_vastus_HiC-scaffold_157:1-3206 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 42
+Total Reads: 1114, Coverage: 42, minDepth: 5
+Confirmed 2790 of 3206 bases (87.02%)
+Found 2 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_157:1-3206
+Processing Aphrocalllistes_vastus_HiC-scaffold_144:1-4958
+Aphrocalllistes_vastus_HiC-scaffold_048:1-37886 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 24
+Total Reads: 7458, Coverage: 24, minDepth: 5
+Confirmed 36346 of 37886 bases (95.94%)
+Found 17 snps; corrected 3 small insertions totaling 4 bases, 4 small deletions totaling 17 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_048:1-37886
+Processing Aphrocalllistes_vastus_HiC-scaffold_060:1-27413
+Aphrocalllistes_vastus_HiC-scaffold_174:1-1375 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 40
+Total Reads: 454, Coverage: 40, minDepth: 5
+Confirmed 1358 of 1375 bases (98.76%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_174:1-1375
+Aphrocalllistes_vastus_HiC-scaffold_156:1-3223 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 21
+Total Reads: 554, Coverage: 21, minDepth: 5
+Confirmed 3107 of 3223 bases (96.40%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_156:1-3223
+Processing Aphrocalllistes_vastus_HiC-scaffold_038:1-51453
+Aphrocalllistes_vastus_HiC-scaffold_130:1-7565 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 25
+Total Reads: 1538, Coverage: 25, minDepth: 5
+Confirmed 7386 of 7565 bases (97.63%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_130:1-7565
+Processing Aphrocalllistes_vastus_HiC-scaffold_152:1-4153
+Aphrocalllistes_vastus_HiC-scaffold_149:1-4522 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 249
+Total Reads: 9362, Coverage: 249, minDepth: 25
+Confirmed 4316 of 4522 bases (95.44%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_149:1-4522
+Processing Aphrocalllistes_vastus_HiC-scaffold_071:1-24093
+Aphrocalllistes_vastus_HiC-scaffold_144:1-4958 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 95
+Total Reads: 3896, Coverage: 95, minDepth: 10
+Confirmed 4786 of 4958 bases (96.53%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_144:1-4958
+Processing Aphrocalllistes_vastus_HiC-scaffold_090:1-20989
+Aphrocalllistes_vastus_HiC-scaffold_097:1-19928 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 46
+Total Reads: 7554, Coverage: 46, minDepth: 5
+Confirmed 19269 of 19928 bases (96.69%)
+Found 11 snps; corrected 3 small insertions totaling 6 bases, 1 small deletions totaling 8 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_097:1-19928
+Processing Aphrocalllistes_vastus_HiC-scaffold_018:1-2087975
+Aphrocalllistes_vastus_HiC-scaffold_078:1-22682 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 26
+Total Reads: 4828, Coverage: 26, minDepth: 5
+Confirmed 22623 of 22682 bases (99.74%)
+Found 4 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 2 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_078:1-22682
+Processing Aphrocalllistes_vastus_HiC-scaffold_129:1-7581
+Aphrocalllistes_vastus_HiC-scaffold_040:1-49909 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 50
+Total Reads: 20836, Coverage: 50, minDepth: 5
+Confirmed 47913 of 49809 bases (96.19%)
+Found 26 snps; corrected 4 small insertions totaling 6 bases, 3 small deletions totaling 11 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_040:30926-49730 size 18805
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_040:1-49909
+Processing Aphrocalllistes_vastus_HiC-scaffold_113:1-11408
+Aphrocalllistes_vastus_HiC-scaffold_072:1-24051 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 34
+Total Reads: 6692, Coverage: 34, minDepth: 5
+Confirmed 23571 of 24051 bases (98.00%)
+Found 17 snps; corrected 3 small insertions totaling 37 bases, 3 small deletions totaling 11 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_072:1-24051
+Processing Aphrocalllistes_vastus_HiC-scaffold_015:1-2673677
+Aphrocalllistes_vastus_HiC-scaffold_032:1-68828 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 25
+Total Reads: 14194, Coverage: 25, minDepth: 5
+Confirmed 67487 of 68828 bases (98.05%)
+Found 3 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_032:1-68828
+Processing Aphrocalllistes_vastus_HiC-scaffold_059:1-27927
+Aphrocalllistes_vastus_HiC-scaffold_033:1-66334 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 40
+Total Reads: 21932, Coverage: 40, minDepth: 5
+Confirmed 65851 of 66334 bases (99.27%)
+Found 7 snps; corrected 3 small insertions totaling 20 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_033:1-66334
+Processing Aphrocalllistes_vastus_HiC-scaffold_045:1-39591
+Aphrocalllistes_vastus_HiC-scaffold_152:1-4153 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 172
+Total Reads: 5912, Coverage: 172, minDepth: 17
+Confirmed 3709 of 4153 bases (89.31%)
+Found 16 snps; corrected 6 small insertions totaling 6 bases, 4 small deletions totaling 8 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_152:1-4153
+Processing Aphrocalllistes_vastus_HiC-scaffold_176:1-1358
+Aphrocalllistes_vastus_HiC-scaffold_129:1-7581 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 24
+Total Reads: 1512, Coverage: 24, minDepth: 5
+Confirmed 7433 of 7581 bases (98.05%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Aphrocalllistes_vastus_HiC-scaffold_176:1-1358 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 89
+Total Reads: 996, Coverage: 89, minDepth: 9
+Confirmed 1326 of 1358 bases (97.64%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Aphrocalllistes_vastus_HiC-scaffold_113:1-11408 log:
+Aphrocalllistes_vastus_HiC-scaffold_029:1-77847 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 20
+Total Reads: 1914, Coverage: 20, minDepth: 5
+Confirmed 10446 of 11408 bases (91.57%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_113:1-11408
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_176:1-1358
+Processing Aphrocalllistes_vastus_HiC-scaffold_079:1-22502
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_129:1-7581
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 29
+Total Reads: 18626, Coverage: 29, minDepth: 5
+Confirmed 74902 of 77847 bases (96.22%)
+Found 9 snps; corrected 1 small insertions totaling 1 bases, 6 small deletions totaling 7 bases
+Processing Aphrocalllistes_vastus_HiC-scaffold_140:1-5656
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_029:1-77847
+Processing Aphrocalllistes_vastus_HiC-scaffold_132:1-7408
+Processing Aphrocalllistes_vastus_HiC-scaffold_172:1-1502
+Aphrocalllistes_vastus_HiC-scaffold_060:1-27413 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 24
+Total Reads: 5536, Coverage: 24, minDepth: 5
+Confirmed 26403 of 27413 bases (96.32%)
+Found 0 snps; corrected 1 small insertions totaling 1 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_060:1-27413
+Processing Aphrocalllistes_vastus_HiC-scaffold_064:1-26168
+Aphrocalllistes_vastus_HiC-scaffold_083:1-21938 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 90
+Total Reads: 16340, Coverage: 90, minDepth: 9
+Confirmed 21872 of 21938 bases (99.70%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_083:1-21938
+Processing Aphrocalllistes_vastus_HiC-scaffold_153:1-3578
+Aphrocalllistes_vastus_HiC-scaffold_090:1-20989 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 23
+Total Reads: 3980, Coverage: 23, minDepth: 5
+Confirmed 20158 of 20989 bases (96.04%)
+Found 5 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_090:1-20989
+Processing Aphrocalllistes_vastus_HiC-scaffold_089:1-21006
+Aphrocalllistes_vastus_HiC-scaffold_140:1-5656 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 37
+Total Reads: 1706, Coverage: 37, minDepth: 5
+Confirmed 5558 of 5656 bases (98.27%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_140:1-5656
+Processing Aphrocalllistes_vastus_HiC-scaffold_120:1-9383
+Aphrocalllistes_vastus_HiC-scaffold_153:1-3578 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 29
+Total Reads: 866, Coverage: 29, minDepth: 5
+Confirmed 3532 of 3578 bases (98.71%)
+Found 8 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_153:1-3578
+Processing Aphrocalllistes_vastus_HiC-scaffold_165:1-2078
+Aphrocalllistes_vastus_HiC-scaffold_132:1-7408 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 25
+Total Reads: 1540, Coverage: 25, minDepth: 5
+Confirmed 7350 of 7408 bases (99.22%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_132:1-7408
+Processing Aphrocalllistes_vastus_HiC-scaffold_026:1-688373
+Aphrocalllistes_vastus_HiC-scaffold_165:1-2078 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 27
+Total Reads: 462, Coverage: 27, minDepth: 5
+Confirmed 1970 of 2078 bases (94.80%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_165:1-2078
+Processing Aphrocalllistes_vastus_HiC-scaffold_178:1-1254
+Aphrocalllistes_vastus_HiC-scaffold_178:1-1254 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 24
+Total Reads: 252, Coverage: 24, minDepth: 5
+Confirmed 1233 of 1254 bases (98.33%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_178:1-1254
+Processing Aphrocalllistes_vastus_HiC-scaffold_035:1-56613
+Aphrocalllistes_vastus_HiC-scaffold_036:1-56191 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 46
+Total Reads: 21584, Coverage: 46, minDepth: 5
+Confirmed 54865 of 56191 bases (97.64%)
+Found 14 snps; corrected 5 small insertions totaling 17 bases, 2 small deletions totaling 7 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_036:1-56191
+Processing Aphrocalllistes_vastus_HiC-scaffold_138:1-5885
+Aphrocalllistes_vastus_HiC-scaffold_071:1-24093 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 27
+Total Reads: 5380, Coverage: 27, minDepth: 5
+Confirmed 23760 of 24093 bases (98.62%)
+Found 4 snps; corrected 1 small insertions totaling 10 bases, 1 small deletions totaling 4 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_071:1-24093
+Processing Aphrocalllistes_vastus_HiC-scaffold_139:1-5772
+Aphrocalllistes_vastus_HiC-scaffold_172:1-1502 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 584
+Total Reads: 7282, Coverage: 584, minDepth: 58
+Confirmed 1438 of 1502 bases (95.74%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 10 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_172:1-1502
+Processing Aphrocalllistes_vastus_HiC-scaffold_006:1-4021194
+Aphrocalllistes_vastus_HiC-scaffold_120:1-9383 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 25
+Total Reads: 1972, Coverage: 25, minDepth: 5
+Confirmed 9246 of 9383 bases (98.54%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_120:1-9383
+Aphrocalllistes_vastus_HiC-scaffold_037:1-53510 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 29
+Total Reads: 13054, Coverage: 29, minDepth: 5
+Confirmed 51070 of 53510 bases (95.44%)
+Found 35 snps; corrected 2 small insertions totaling 14 bases, 6 small deletions totaling 22 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_037:180-11991 size 11812
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_037:1-53510
+Processing Aphrocalllistes_vastus_HiC-scaffold_024:1-966628
+Aphrocalllistes_vastus_HiC-scaffold_079:1-22502 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 34
+Total Reads: 6334, Coverage: 34, minDepth: 5
+Confirmed 22331 of 22502 bases (99.24%)
+Found 5 snps; corrected 1 small insertions totaling 15 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_079:1-22502
+Processing Aphrocalllistes_vastus_HiC-scaffold_073:1-23624
+Aphrocalllistes_vastus_HiC-scaffold_138:1-5885 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 23
+Total Reads: 1128, Coverage: 23, minDepth: 5
+Confirmed 5639 of 5885 bases (95.82%)
+Found 2 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_138:1-5885
+Processing Aphrocalllistes_vastus_HiC-scaffold_151:1-4271
+Aphrocalllistes_vastus_HiC-scaffold_151:1-4271 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 23
+Total Reads: 808, Coverage: 23, minDepth: 5
+Confirmed 4146 of 4271 bases (97.07%)
+Found 3 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 2 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_151:1-4271
+Processing Aphrocalllistes_vastus_HiC-scaffold_164:1-2140
+Aphrocalllistes_vastus_HiC-scaffold_139:1-5772 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 26
+Total Reads: 1228, Coverage: 26, minDepth: 5
+Confirmed 5691 of 5772 bases (98.60%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_139:1-5772
+Aphrocalllistes_vastus_HiC-scaffold_164:1-2140 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 28
+Total Reads: 494, Coverage: 28, minDepth: 5
+Confirmed 2069 of 2140 bases (96.68%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_164:1-2140
+Processing Aphrocalllistes_vastus_HiC-scaffold_162:1-2561
+Aphrocalllistes_vastus_HiC-scaffold_059:1-27927 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 29
+Total Reads: 6766, Coverage: 29, minDepth: 5
+Confirmed 26344 of 27927 bases (94.33%)
+Found 6 snps; corrected 1 small insertions totaling 1 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_059:1-27927
+Processing Aphrocalllistes_vastus_HiC-scaffold_001:1-8199473
+Aphrocalllistes_vastus_HiC-scaffold_162:1-2561 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 19
+Total Reads: 408, Coverage: 19, minDepth: 5
+Confirmed 2371 of 2561 bases (92.58%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_162:1-2561
+Processing Aphrocalllistes_vastus_HiC-scaffold_114:1-11351
+Aphrocalllistes_vastus_HiC-scaffold_089:1-21006 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 25
+Total Reads: 4270, Coverage: 25, minDepth: 5
+Confirmed 20487 of 21006 bases (97.53%)
+Found 7 snps; corrected 1 small insertions totaling 2 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_089:1-21006
+Processing Aphrocalllistes_vastus_HiC-scaffold_023:1-1161316
+Aphrocalllistes_vastus_HiC-scaffold_064:1-26168 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 49
+Total Reads: 10780, Coverage: 49, minDepth: 5
+Confirmed 15593 of 26168 bases (59.59%)
+Found 1 snps; corrected 1 small insertions totaling 16 bases, 0 small deletions totaling 0 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_064:11193-25944 size 14752
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_064:1-26168
+Aphrocalllistes_vastus_HiC-scaffold_073:1-23624 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 49
+Total Reads: 9496, Coverage: 49, minDepth: 5
+Confirmed 23593 of 23624 bases (99.87%)
+Found 2 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_073:1-23624
+Processing Aphrocalllistes_vastus_HiC-scaffold_049:1-37051
+Aphrocalllistes_vastus_HiC-scaffold_028:1-137539 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 34
+Total Reads: 38510, Coverage: 34, minDepth: 5
+Confirmed 124942 of 136416 bases (91.59%)
+Found 56 snps; corrected 6 small insertions totaling 8 bases, 15 small deletions totaling 49 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_028:1-137539
+Processing Aphrocalllistes_vastus_HiC-scaffold_012:1-3255420
+Aphrocalllistes_vastus_HiC-scaffold_045:1-39591 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 25
+Total Reads: 8234, Coverage: 25, minDepth: 5
+Confirmed 37487 of 39591 bases (94.69%)
+Found 10 snps; corrected 2 small insertions totaling 11 bases, 4 small deletions totaling 20 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_045:1-39591
+Processing Aphrocalllistes_vastus_HiC-scaffold_158:1-3187
+Aphrocalllistes_vastus_HiC-scaffold_158:1-3187 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 43
+Total Reads: 1122, Coverage: 43, minDepth: 5
+Confirmed 3121 of 3187 bases (97.93%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_158:1-3187
+Processing Aphrocalllistes_vastus_HiC-scaffold_076:1-22685
+Aphrocalllistes_vastus_HiC-scaffold_038:1-51453 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 50
+Total Reads: 21266, Coverage: 50, minDepth: 5
+Confirmed 39397 of 51453 bases (76.57%)
+Found 7 snps; corrected 2 small insertions totaling 9 bases, 3 small deletions totaling 18 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_038:13556-26971 size 13416
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_038:1-51453
+Processing Aphrocalllistes_vastus_HiC-scaffold_154:1-3484
+Aphrocalllistes_vastus_HiC-scaffold_114:1-11351 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 59
+Total Reads: 5530, Coverage: 59, minDepth: 6
+Confirmed 9907 of 11351 bases (87.28%)
+Found 8 snps; corrected 1 small insertions totaling 1 bases, 2 small deletions totaling 2 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_114:1-11351
+Processing Aphrocalllistes_vastus_HiC-scaffold_047:1-38137
+Aphrocalllistes_vastus_HiC-scaffold_154:1-3484 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 47
+Total Reads: 1340, Coverage: 47, minDepth: 5
+Confirmed 3396 of 3484 bases (97.47%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_154:1-3484
+Processing Aphrocalllistes_vastus_HiC-scaffold_166:1-2005
+Aphrocalllistes_vastus_HiC-scaffold_166:1-2005 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 57
+Total Reads: 936, Coverage: 57, minDepth: 6
+Confirmed 1954 of 2005 bases (97.46%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_166:1-2005
+Processing Aphrocalllistes_vastus_HiC-scaffold_148:1-4696
+Aphrocalllistes_vastus_HiC-scaffold_030:1-74821 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 61
+Total Reads: 37708, Coverage: 61, minDepth: 6
+Confirmed 73464 of 74821 bases (98.19%)
+Found 23 snps; corrected 7 small insertions totaling 22 bases, 12 small deletions totaling 22 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_030:17903-32962 size 15060
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_030:1-74821
+Processing Aphrocalllistes_vastus_HiC-scaffold_080:1-22357
+Aphrocalllistes_vastus_HiC-scaffold_148:1-4696 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 29
+Total Reads: 1110, Coverage: 29, minDepth: 5
+Confirmed 4595 of 4696 bases (97.85%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_148:1-4696
+Processing Aphrocalllistes_vastus_HiC-scaffold_128:1-7919
+Aphrocalllistes_vastus_HiC-scaffold_035:1-56613 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 63
+Total Reads: 29320, Coverage: 63, minDepth: 6
+Confirmed 55681 of 56613 bases (98.35%)
+Found 8 snps; corrected 5 small insertions totaling 16 bases, 4 small deletions totaling 7 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_035:1-56613
+Processing Aphrocalllistes_vastus_HiC-scaffold_112:1-12841
+Aphrocalllistes_vastus_HiC-scaffold_128:1-7919 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 47
+Total Reads: 3054, Coverage: 47, minDepth: 5
+Confirmed 7897 of 7919 bases (99.72%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_128:1-7919
+Processing Aphrocalllistes_vastus_HiC-scaffold_056:1-29051
+Aphrocalllistes_vastus_HiC-scaffold_076:1-22685 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 54
+Total Reads: 10052, Coverage: 54, minDepth: 5
+Confirmed 22490 of 22685 bases (99.14%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 3 small deletions totaling 5 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_076:1-22685
+Processing Aphrocalllistes_vastus_HiC-scaffold_110:1-14499
+Aphrocalllistes_vastus_HiC-scaffold_080:1-22357 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 27
+Total Reads: 5032, Coverage: 27, minDepth: 5
+Confirmed 20870 of 22357 bases (93.35%)
+Found 17 snps; corrected 2 small insertions totaling 9 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_080:1-22357
+Processing Aphrocalllistes_vastus_HiC-scaffold_167:1-1980
+Aphrocalllistes_vastus_HiC-scaffold_112:1-12841 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 25
+Total Reads: 2630, Coverage: 25, minDepth: 5
+Confirmed 12682 of 12841 bases (98.76%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_112:1-12841
+Processing Aphrocalllistes_vastus_HiC-scaffold_044:1-40572
+Aphrocalllistes_vastus_HiC-scaffold_167:1-1980 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 28
+Total Reads: 458, Coverage: 28, minDepth: 5
+Confirmed 1846 of 1980 bases (93.23%)
+Found 5 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_167:1-1980
+Processing Aphrocalllistes_vastus_HiC-scaffold_052:1-31833
+Aphrocalllistes_vastus_HiC-scaffold_110:1-14499 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 38
+Total Reads: 4584, Coverage: 38, minDepth: 5
+Confirmed 12823 of 14499 bases (88.44%)
+Found 1 snps; corrected 1 small insertions totaling 1 bases, 1 small deletions totaling 20 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_110:1-14499
+Processing Aphrocalllistes_vastus_HiC-scaffold_103:1-18476
+Aphrocalllistes_vastus_HiC-scaffold_049:1-37051 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 81
+Total Reads: 24916, Coverage: 81, minDepth: 8
+Confirmed 34571 of 37051 bases (93.31%)
+Found 5 snps; corrected 7 small insertions totaling 30 bases, 4 small deletions totaling 16 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_049:1-37051
+Processing Aphrocalllistes_vastus_HiC-scaffold_046:1-38829
+Aphrocalllistes_vastus_HiC-scaffold_047:1-38137 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 71
+Total Reads: 22608, Coverage: 71, minDepth: 7
+Confirmed 34720 of 38137 bases (91.04%)
+Found 2 snps; corrected 1 small insertions totaling 1 bases, 2 small deletions totaling 13 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_047:1-38137
+Processing Aphrocalllistes_vastus_HiC-scaffold_055:1-30747
+Aphrocalllistes_vastus_HiC-scaffold_103:1-18476 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 31
+Total Reads: 4686, Coverage: 31, minDepth: 5
+Confirmed 18223 of 18476 bases (98.63%)
+Found 6 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_103:1-18476
+Processing Aphrocalllistes_vastus_HiC-scaffold_169:1-1717
+Aphrocalllistes_vastus_HiC-scaffold_169:1-1717 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 56
+Total Reads: 788, Coverage: 56, minDepth: 6
+Confirmed 1647 of 1717 bases (95.92%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_169:1-1717
+Processing Aphrocalllistes_vastus_HiC-scaffold_104:1-18066
+Aphrocalllistes_vastus_HiC-scaffold_052:1-31833 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 26
+Total Reads: 6782, Coverage: 26, minDepth: 5
+Confirmed 31389 of 31833 bases (98.61%)
+Found 12 snps; corrected 3 small insertions totaling 4 bases, 4 small deletions totaling 5 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_052:1-31833
+Processing Aphrocalllistes_vastus_HiC-scaffold_117:1-10978
+Aphrocalllistes_vastus_HiC-scaffold_056:1-29051 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 72
+Total Reads: 17212, Coverage: 72, minDepth: 7
+Confirmed 28761 of 29051 bases (99.00%)
+Found 13 snps; corrected 5 small insertions totaling 8 bases, 2 small deletions totaling 2 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_056:1-29051
+Processing Aphrocalllistes_vastus_HiC-scaffold_159:1-2926
+Aphrocalllistes_vastus_HiC-scaffold_159:1-2926 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 69
+Total Reads: 1676, Coverage: 69, minDepth: 7
+Confirmed 2876 of 2926 bases (98.29%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 7 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_159:1-2926
+Aphrocalllistes_vastus_HiC-scaffold_117:1-10978 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 19
+Total Reads: 1862, Coverage: 19, minDepth: 5
+Confirmed 9433 of 10978 bases (85.93%)
+Found 10 snps; corrected 0 small insertions totaling 0 bases, 3 small deletions totaling 3 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_117:1-10978
+Processing Aphrocalllistes_vastus_HiC-scaffold_181:1-1170
+Aphrocalllistes_vastus_HiC-scaffold_181:1-1170 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 75
+Total Reads: 726, Coverage: 75, minDepth: 8
+Confirmed 987 of 1170 bases (84.36%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_181:1-1170
+Processing Aphrocalllistes_vastus_HiC-scaffold_041:1-46786
+Aphrocalllistes_vastus_HiC-scaffold_055:1-30747 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 25
+Total Reads: 6490, Coverage: 25, minDepth: 5
+Confirmed 30282 of 30747 bases (98.49%)
+Found 14 snps; corrected 0 small insertions totaling 0 bases, 3 small deletions totaling 13 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_055:1-30747
+Aphrocalllistes_vastus_HiC-scaffold_044:1-40572 log:
+Processing Aphrocalllistes_vastus_HiC-scaffold_125:1-8239
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 34
+Total Reads: 11350, Coverage: 34, minDepth: 5
+Confirmed 40123 of 40572 bases (98.89%)
+Found 9 snps; corrected 1 small insertions totaling 1 bases, 3 small deletions totaling 14 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_044:1-40572
+Processing Aphrocalllistes_vastus_HiC-scaffold_106:1-16344
+Aphrocalllistes_vastus_HiC-scaffold_104:1-18066 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 69
+Total Reads: 10228, Coverage: 69, minDepth: 7
+Confirmed 17993 of 18066 bases (99.60%)
+Found 8 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_104:1-18066
+Processing Aphrocalllistes_vastus_HiC-scaffold_095:1-20066
+Aphrocalllistes_vastus_HiC-scaffold_125:1-8239 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 57
+Total Reads: 3880, Coverage: 57, minDepth: 6
+Confirmed 8131 of 8239 bases (98.69%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_125:1-8239
+Processing Aphrocalllistes_vastus_HiC-scaffold_093:1-20535
+Aphrocalllistes_vastus_HiC-scaffold_046:1-38829 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 67
+Total Reads: 21716, Coverage: 67, minDepth: 7
+Confirmed 30310 of 38829 bases (78.06%)
+Found 0 snps; corrected 1 small insertions totaling 1 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_046:1-38829
+Processing Aphrocalllistes_vastus_HiC-scaffold_002:1-4294562
+Aphrocalllistes_vastus_HiC-scaffold_093:1-20535 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 25
+Total Reads: 4172, Coverage: 25, minDepth: 5
+Confirmed 20128 of 20535 bases (98.02%)
+Found 10 snps; corrected 1 small insertions totaling 1 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_093:1-20535
+Processing Aphrocalllistes_vastus_HiC-scaffold_101:1-19074
+Aphrocalllistes_vastus_HiC-scaffold_106:1-16344 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 94
+Total Reads: 12698, Coverage: 94, minDepth: 9
+Confirmed 16122 of 16344 bases (98.64%)
+Found 2 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_106:1-16344
+Processing Aphrocalllistes_vastus_HiC-scaffold_127:1-7933
+Aphrocalllistes_vastus_HiC-scaffold_095:1-20066 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 89
+Total Reads: 14834, Coverage: 89, minDepth: 9
+Confirmed 19936 of 20066 bases (99.35%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_095:1-20066
+Processing Aphrocalllistes_vastus_HiC-scaffold_100:1-19302
+Processing Aphrocalllistes_vastus_HiC-scaffold_087:1-21571
+Aphrocalllistes_vastus_HiC-scaffold_127:1-7933 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 72
+Total Reads: 4730, Coverage: 72, minDepth: 7
+Confirmed 7831 of 7933 bases (98.71%)
+Found 0 snps; corrected 1 small insertions totaling 2 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_127:1-7933
+Processing Aphrocalllistes_vastus_HiC-scaffold_051:1-33292
+Aphrocalllistes_vastus_HiC-scaffold_041:1-46786 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 48
+Total Reads: 18676, Coverage: 48, minDepth: 5
+Confirmed 45218 of 46786 bases (96.65%)
+Found 1 snps; corrected 2 small insertions totaling 3 bases, 1 small deletions totaling 2 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_041:1-46786
+Processing Aphrocalllistes_vastus_HiC-scaffold_085:1-21866
+Aphrocalllistes_vastus_HiC-scaffold_100:1-19302 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 29
+Total Reads: 4674, Coverage: 29, minDepth: 5
+Confirmed 19144 of 19302 bases (99.18%)
+Found 17 snps; corrected 4 small insertions totaling 7 bases, 2 small deletions totaling 3 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_100:1-19302
+Processing Aphrocalllistes_vastus_HiC-scaffold_180:1-1176
+Aphrocalllistes_vastus_HiC-scaffold_087:1-21571 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 27
+Total Reads: 4738, Coverage: 27, minDepth: 5
+Confirmed 21404 of 21571 bases (99.23%)
+Found 21 snps; corrected 1 small insertions totaling 2 bases, 7 small deletions totaling 17 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_087:1-21571
+Processing Aphrocalllistes_vastus_HiC-scaffold_123:1-8722
+Aphrocalllistes_vastus_HiC-scaffold_180:1-1176 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 28
+Total Reads: 270, Coverage: 28, minDepth: 5
+Confirmed 1108 of 1176 bases (94.22%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_180:1-1176
+Aphrocalllistes_vastus_HiC-scaffold_101:1-19074 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 88
+Total Reads: 13920, Coverage: 88, minDepth: 9
+Confirmed 18492 of 19074 bases (96.95%)
+Found 2 snps; corrected 8 small insertions totaling 9 bases, 2 small deletions totaling 27 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_101:1-19074
+Processing Aphrocalllistes_vastus_HiC-scaffold_058:1-28054
+Processing Aphrocalllistes_vastus_HiC-scaffold_025:1-696597
+Aphrocalllistes_vastus_HiC-scaffold_123:1-8722 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 30
+Total Reads: 2130, Coverage: 30, minDepth: 5
+Confirmed 8661 of 8722 bases (99.30%)
+Found 4 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_123:1-8722
+Processing Aphrocalllistes_vastus_HiC-scaffold_077:1-22682
+Aphrocalllistes_vastus_HiC-scaffold_051:1-33292 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 28
+Total Reads: 7720, Coverage: 28, minDepth: 5
+Confirmed 32589 of 33292 bases (97.89%)
+Found 3 snps; corrected 2 small insertions totaling 10 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_051:1-33292
+Processing Aphrocalllistes_vastus_HiC-scaffold_017:1-2171203
+Aphrocalllistes_vastus_HiC-scaffold_085:1-21866 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 32
+Total Reads: 5728, Coverage: 32, minDepth: 5
+Confirmed 21723 of 21866 bases (99.35%)
+Found 8 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_085:1-21866
+Processing Aphrocalllistes_vastus_HiC-scaffold_031:1-70256
+Processing Aphrocalllistes_vastus_HiC-scaffold_068:1-24868
+Aphrocalllistes_vastus_HiC-scaffold_077:1-22682 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 31
+Total Reads: 5886, Coverage: 31, minDepth: 5
+Confirmed 21460 of 21682 bases (98.98%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_077:1-22682
+Processing Aphrocalllistes_vastus_HiC-scaffold_108:1-15633
+Aphrocalllistes_vastus_HiC-scaffold_058:1-28054 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 29
+Total Reads: 6672, Coverage: 29, minDepth: 5
+Confirmed 27110 of 28054 bases (96.64%)
+Found 9 snps; corrected 2 small insertions totaling 2 bases, 3 small deletions totaling 8 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_058:1-28054
+Processing Aphrocalllistes_vastus_HiC-scaffold_118:1-10518
+Aphrocalllistes_vastus_HiC-scaffold_068:1-24868 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 26
+Total Reads: 5366, Coverage: 26, minDepth: 5
+Confirmed 24393 of 24868 bases (98.09%)
+Found 6 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 2 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_068:1-24868
+Aphrocalllistes_vastus_HiC-scaffold_118:1-10518 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 25
+Total Reads: 2154, Coverage: 25, minDepth: 5
+Confirmed 10456 of 10518 bases (99.41%)
+Found 2 snps; corrected 1 small insertions totaling 1 bases, 1 small deletions totaling 5 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_118:1-10518
+Processing Aphrocalllistes_vastus_HiC-scaffold_175:1-1371
+Processing Aphrocalllistes_vastus_HiC-scaffold_004:1-4133620
+Aphrocalllistes_vastus_HiC-scaffold_175:1-1371 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 89
+Total Reads: 1010, Coverage: 89, minDepth: 9
+Confirmed 1336 of 1371 bases (97.45%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_175:1-1371
+Processing Aphrocalllistes_vastus_HiC-scaffold_182:1-1161
+Aphrocalllistes_vastus_HiC-scaffold_182:1-1161 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 37
+Total Reads: 352, Coverage: 37, minDepth: 5
+Confirmed 983 of 1161 bases (84.67%)
+Found 8 snps; corrected 2 small insertions totaling 4 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_182:1-1161
+Processing Aphrocalllistes_vastus_HiC-scaffold_096:1-19931
+Aphrocalllistes_vastus_HiC-scaffold_108:1-15633 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 95
+Total Reads: 12328, Coverage: 95, minDepth: 10
+Confirmed 14924 of 15633 bases (95.46%)
+Found 0 snps; corrected 1 small insertions totaling 3 bases, 1 small deletions totaling 12 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_108:1-15633
+Processing Aphrocalllistes_vastus_HiC-scaffold_150:1-4376
+Aphrocalllistes_vastus_HiC-scaffold_150:1-4376 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 49
+Total Reads: 1772, Coverage: 49, minDepth: 5
+Confirmed 4308 of 4376 bases (98.45%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 2 small deletions totaling 3 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_150:1-4376
+Processing Aphrocalllistes_vastus_HiC-scaffold_061:1-27308
+Aphrocalllistes_vastus_HiC-scaffold_096:1-19931 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 29
+Total Reads: 4788, Coverage: 29, minDepth: 5
+Confirmed 18820 of 19931 bases (94.43%)
+Found 3 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_096:1-19931
+Processing Aphrocalllistes_vastus_HiC-scaffold_135:1-6807
+Aphrocalllistes_vastus_HiC-scaffold_135:1-6807 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 23
+Total Reads: 1300, Coverage: 23, minDepth: 5
+Confirmed 6720 of 6807 bases (98.72%)
+Found 3 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_135:1-6807
+Processing Aphrocalllistes_vastus_HiC-scaffold_053:1-31072
+Aphrocalllistes_vastus_HiC-scaffold_061:1-27308 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 27
+Total Reads: 6164, Coverage: 27, minDepth: 5
+Confirmed 26535 of 27308 bases (97.17%)
+Found 14 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 6 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_061:1-27308
+Processing Aphrocalllistes_vastus_HiC-scaffold_136:1-6266
+Aphrocalllistes_vastus_HiC-scaffold_136:1-6266 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 21
+Total Reads: 1070, Coverage: 21, minDepth: 5
+Confirmed 5834 of 6266 bases (93.11%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_136:1-6266
+Processing Aphrocalllistes_vastus_HiC-scaffold_094:1-20297
+Aphrocalllistes_vastus_HiC-scaffold_031:1-70256 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 49
+Total Reads: 28398, Coverage: 49, minDepth: 5
+Confirmed 68125 of 70256 bases (96.97%)
+Found 22 snps; corrected 8 small insertions totaling 24 bases, 7 small deletions totaling 27 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_031:1-70256
+Processing Aphrocalllistes_vastus_HiC-scaffold_069:1-24588
+Aphrocalllistes_vastus_HiC-scaffold_053:1-31072 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 55
+Total Reads: 14274, Coverage: 55, minDepth: 6
+Confirmed 18996 of 31072 bases (61.14%)
+Found 2 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_053:12415-30770 size 18356
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_053:1-31072
+Processing Aphrocalllistes_vastus_HiC-scaffold_008:1-3730843
+Aphrocalllistes_vastus_HiC-scaffold_069:1-24588 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 38
+Total Reads: 7644, Coverage: 38, minDepth: 5
+Confirmed 24381 of 24588 bases (99.16%)
+Found 14 snps; corrected 0 small insertions totaling 0 bases, 2 small deletions totaling 2 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_069:1-24588
+Processing Aphrocalllistes_vastus_HiC-scaffold_086:1-21805
+Aphrocalllistes_vastus_HiC-scaffold_094:1-20297 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 89
+Total Reads: 15006, Coverage: 89, minDepth: 9
+Confirmed 20167 of 20297 bases (99.36%)
+Found 0 snps; corrected 1 small insertions totaling 5 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_094:1-20297
+Processing Aphrocalllistes_vastus_HiC-scaffold_005:1-4096128
+Aphrocalllistes_vastus_HiC-scaffold_086:1-21805 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 26
+Total Reads: 4638, Coverage: 26, minDepth: 5
+Confirmed 21728 of 21805 bases (99.65%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_086:1-21805
+Processing Aphrocalllistes_vastus_HiC-scaffold_054:1-30988
+Aphrocalllistes_vastus_HiC-scaffold_054:1-30988 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 61
+Total Reads: 15738, Coverage: 61, minDepth: 6
+Confirmed 25258 of 30988 bases (81.51%)
+Found 6 snps; corrected 20 small insertions totaling 42 bases, 2 small deletions totaling 2 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_054:1-30988
+Processing Aphrocalllistes_vastus_HiC-scaffold_170:1-1643
+Aphrocalllistes_vastus_HiC-scaffold_170:1-1643 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 18
+Total Reads: 242, Coverage: 18, minDepth: 5
+Confirmed 1546 of 1643 bases (94.10%)
+Found 6 snps; corrected 0 small insertions totaling 0 bases, 2 small deletions totaling 12 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_170:1-1643
+Processing Aphrocalllistes_vastus_HiC-scaffold_034:1-59617
+Aphrocalllistes_vastus_HiC-scaffold_034:1-59617 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 176
+Total Reads: 91804, Coverage: 176, minDepth: 18
+Confirmed 51625 of 59617 bases (86.59%)
+Found 72 snps; corrected 6 small insertions totaling 7 bases, 9 small deletions totaling 25 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_034:26929-42084 size 15156
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_034:1-59617
+Processing Aphrocalllistes_vastus_HiC-scaffold_131:1-7470
+Aphrocalllistes_vastus_HiC-scaffold_131:1-7470 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 24
+Total Reads: 1476, Coverage: 24, minDepth: 5
+Confirmed 7341 of 7470 bases (98.27%)
+Found 0 snps; corrected 1 small insertions totaling 2 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_131:1-7470
+Processing Aphrocalllistes_vastus_HiC-scaffold_163:1-2507
+Aphrocalllistes_vastus_HiC-scaffold_163:1-2507 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 79
+Total Reads: 1636, Coverage: 79, minDepth: 8
+Confirmed 2466 of 2507 bases (98.36%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_163:1-2507
+Processing Aphrocalllistes_vastus_HiC-scaffold_147:1-4744
+Aphrocalllistes_vastus_HiC-scaffold_147:1-4744 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 36
+Total Reads: 1406, Coverage: 36, minDepth: 5
+Confirmed 4596 of 4744 bases (96.88%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 2 small deletions totaling 11 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_147:1-4744
+Processing Aphrocalllistes_vastus_HiC-scaffold_067:1-25071
+Aphrocalllistes_vastus_HiC-scaffold_067:1-25071 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 31
+Total Reads: 6336, Coverage: 31, minDepth: 5
+Confirmed 24896 of 25071 bases (99.30%)
+Found 8 snps; corrected 1 small insertions totaling 1 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_067:1-25071
+Processing Aphrocalllistes_vastus_HiC-scaffold_111:1-13736
+Aphrocalllistes_vastus_HiC-scaffold_111:1-13736 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 47
+Total Reads: 5342, Coverage: 47, minDepth: 5
+Confirmed 13645 of 13736 bases (99.34%)
+Found 1 snps; corrected 2 small insertions totaling 29 bases, 1 small deletions totaling 2 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_111:1-13736
+Processing Aphrocalllistes_vastus_HiC-scaffold_122:1-8787
+Aphrocalllistes_vastus_HiC-scaffold_122:1-8787 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 22
+Total Reads: 1618, Coverage: 22, minDepth: 5
+Confirmed 8553 of 8787 bases (97.34%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_122:1-8787
+Processing Aphrocalllistes_vastus_HiC-scaffold_022:1-1744046
+Aphrocalllistes_vastus_HiC-scaffold_027:1-681210 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 92
+Total Reads: 520428, Coverage: 92, minDepth: 9
+Confirmed 666043 of 681010 bases (97.80%)
+Found 115 snps; corrected 79 small insertions totaling 213 bases, 54 small deletions totaling 177 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_027:4827-15637 size 10811
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_027:1-681210
+Processing Aphrocalllistes_vastus_HiC-scaffold_092:1-20770
+Aphrocalllistes_vastus_HiC-scaffold_092:1-20770 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 23
+Total Reads: 3890, Coverage: 23, minDepth: 5
+Confirmed 20668 of 20770 bases (99.51%)
+Found 9 snps; corrected 1 small insertions totaling 1 bases, 2 small deletions totaling 4 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_092:1-20770
+Aphrocalllistes_vastus_HiC-scaffold_026:1-688373 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 90
+Total Reads: 511176, Coverage: 90, minDepth: 9
+Confirmed 677046 of 688373 bases (98.35%)
+Found 101 snps; corrected 57 small insertions totaling 215 bases, 46 small deletions totaling 195 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_026:1-688373
+Aphrocalllistes_vastus_HiC-scaffold_025:1-696597 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 75
+Total Reads: 433396, Coverage: 75, minDepth: 8
+Confirmed 674535 of 696497 bases (96.85%)
+Found 251 snps; corrected 83 small insertions totaling 242 bases, 73 small deletions totaling 252 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_025:484118-505895 size 21778
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_025:634734-648420 size 13687
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_025:657794-677168 size 19375
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_025:1-696597
+Aphrocalllistes_vastus_HiC-scaffold_024:1-966628 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 87
+Total Reads: 696210, Coverage: 87, minDepth: 9
+Confirmed 942378 of 966628 bases (97.49%)
+Found 95 snps; corrected 107 small insertions totaling 302 bases, 63 small deletions totaling 269 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_024:1-966628
+Aphrocalllistes_vastus_HiC-scaffold_023:1-1161316 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 91
+Total Reads: 876242, Coverage: 91, minDepth: 9
+Confirmed 1147976 of 1161216 bases (98.86%)
+Found 94 snps; corrected 39 small insertions totaling 129 bases, 49 small deletions totaling 229 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_023:891250-912469 size 21220
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_023:1-1161316
+Aphrocalllistes_vastus_HiC-scaffold_021:1-1853725 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 84
+Total Reads: 1286490, Coverage: 84, minDepth: 8
+Confirmed 1796678 of 1853425 bases (96.94%)
+Found 232 snps; corrected 100 small insertions totaling 383 bases, 96 small deletions totaling 496 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_021:1-1853725
+Processing Aphrocalllistes_vastus_HiC-scaffold_014:1-2984250
+Aphrocalllistes_vastus_HiC-scaffold_020:1-2037216 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 88
+Total Reads: 1481958, Coverage: 88, minDepth: 9
+Confirmed 1990358 of 2037216 bases (97.70%)
+Found 251 snps; corrected 94 small insertions totaling 326 bases, 116 small deletions totaling 564 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_020:111229-122041 size 10813
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_020:1-2037216
+Processing Aphrocalllistes_vastus_HiC-scaffold_098:1-19812
+Aphrocalllistes_vastus_HiC-scaffold_098:1-19812 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 24
+Total Reads: 3912, Coverage: 24, minDepth: 5
+Confirmed 19741 of 19812 bases (99.64%)
+Found 5 snps; corrected 1 small insertions totaling 1 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_098:1-19812
+Aphrocalllistes_vastus_HiC-scaffold_022:1-1744046 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 78
+Total Reads: 1123720, Coverage: 78, minDepth: 8
+Confirmed 1676975 of 1743946 bases (96.16%)
+Found 474 snps; corrected 159 small insertions totaling 450 bases, 119 small deletions totaling 434 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_022:523862-534416 size 10555
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_022:1563337-1576113 size 12777
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_022:1-1744046
+Aphrocalllistes_vastus_HiC-scaffold_019:1-2081888 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 80
+Total Reads: 1387014, Coverage: 80, minDepth: 8
+Confirmed 2017333 of 2081888 bases (96.90%)
+Found 284 snps; corrected 176 small insertions totaling 582 bases, 128 small deletions totaling 525 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_019:1-2081888
+Aphrocalllistes_vastus_HiC-scaffold_018:1-2087975 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 97
+Total Reads: 1672608, Coverage: 97, minDepth: 10
+Confirmed 2067465 of 2087975 bases (99.02%)
+Found 375 snps; corrected 76 small insertions totaling 306 bases, 111 small deletions totaling 328 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_018:611474-626043 size 14570
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_018:640027-651585 size 11559
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_018:1-2087975
+Processing Aphrocalllistes_vastus_HiC-scaffold_184:1-1143
+Aphrocalllistes_vastus_HiC-scaffold_184:1-1143 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 45
+Total Reads: 432, Coverage: 45, minDepth: 5
+Confirmed 1048 of 1143 bases (91.69%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_184:1-1143
+Aphrocalllistes_vastus_HiC-scaffold_016:1-2506003 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 88
+Total Reads: 1823642, Coverage: 88, minDepth: 9
+Confirmed 2456974 of 2505803 bases (98.05%)
+Found 299 snps; corrected 105 small insertions totaling 427 bases, 125 small deletions totaling 441 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_016:1-2506003
+Processing Aphrocalllistes_vastus_HiC-scaffold_091:1-20844
+Aphrocalllistes_vastus_HiC-scaffold_091:1-20844 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 28
+Total Reads: 4784, Coverage: 28, minDepth: 5
+Confirmed 20403 of 20844 bases (97.88%)
+Found 8 snps; corrected 2 small insertions totaling 4 bases, 4 small deletions totaling 14 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_091:1-20844
+Processing Aphrocalllistes_vastus_HiC-scaffold_168:1-1907
+Aphrocalllistes_vastus_HiC-scaffold_168:1-1907 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 36
+Total Reads: 572, Coverage: 36, minDepth: 5
+Confirmed 1848 of 1907 bases (96.91%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_168:1-1907
+Aphrocalllistes_vastus_HiC-scaffold_017:1-2171203 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 89
+Total Reads: 1601526, Coverage: 89, minDepth: 9
+Confirmed 2097897 of 2170603 bases (96.65%)
+Found 462 snps; corrected 188 small insertions totaling 633 bases, 153 small deletions totaling 694 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_017:1763913-1783610 size 19698
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_017:1806680-1827398 size 20719
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_017:1875233-1888021 size 12789
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_017:1-2171203
+Processing Aphrocalllistes_vastus_HiC-scaffold_039:1-51115
+Aphrocalllistes_vastus_HiC-scaffold_039:1-51115 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 27
+Total Reads: 11294, Coverage: 27, minDepth: 5
+Confirmed 50240 of 51115 bases (98.29%)
+Found 13 snps; corrected 2 small insertions totaling 6 bases, 4 small deletions totaling 8 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_039:1-51115
+Processing Aphrocalllistes_vastus_HiC-scaffold_007:1-3750721
+Aphrocalllistes_vastus_HiC-scaffold_011:1-3276734 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 88
+Total Reads: 2381788, Coverage: 88, minDepth: 9
+Confirmed 3208414 of 3276134 bases (97.93%)
+Found 369 snps; corrected 155 small insertions totaling 565 bases, 178 small deletions totaling 797 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_011:1-3276734
+Aphrocalllistes_vastus_HiC-scaffold_015:1-2673677 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 98
+Total Reads: 2164896, Coverage: 98, minDepth: 10
+Confirmed 2594241 of 2668808 bases (97.21%)
+Found 570 snps; corrected 158 small insertions totaling 528 bases, 202 small deletions totaling 697 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_015:239613-288219 size 48607
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_015:292687-324669 size 31983
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_015:1170772-1189262 size 18491
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_015:2395891-2414776 size 18886
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_015:2430781-2445207 size 14427
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_015:2517760-2528355 size 10596
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_015:1-2673677
+Processing Aphrocalllistes_vastus_HiC-scaffold_081:1-22245
+Aphrocalllistes_vastus_HiC-scaffold_081:1-22245 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 24
+Total Reads: 4362, Coverage: 24, minDepth: 5
+Confirmed 21937 of 22245 bases (98.62%)
+Found 2 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_081:1-22245
+Aphrocalllistes_vastus_HiC-scaffold_013:1-3117081 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 83
+Total Reads: 2142182, Coverage: 83, minDepth: 8
+Confirmed 3045599 of 3115781 bases (97.75%)
+Found 555 snps; corrected 241 small insertions totaling 730 bases, 208 small deletions totaling 905 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_013:1-3117081
+Aphrocalllistes_vastus_HiC-scaffold_012:1-3255420 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 94
+Total Reads: 2523502, Coverage: 94, minDepth: 9
+Confirmed 3202877 of 3255320 bases (98.39%)
+Found 271 snps; corrected 170 small insertions totaling 495 bases, 102 small deletions totaling 386 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_012:1-3255420
+Processing Aphrocalllistes_vastus_HiC-scaffold_043:1-41589
+Aphrocalllistes_vastus_HiC-scaffold_043:1-41589 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 51
+Total Reads: 17698, Coverage: 51, minDepth: 5
+Confirmed 41303 of 41589 bases (99.31%)
+Found 2 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_043:1-41589
+Aphrocalllistes_vastus_HiC-scaffold_010:1-3376875 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 86
+Total Reads: 2400918, Coverage: 86, minDepth: 9
+Confirmed 3276327 of 3375352 bases (97.07%)
+Found 667 snps; corrected 256 small insertions totaling 775 bases, 242 small deletions totaling 844 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_010:2941034-2951125 size 10092
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_010:3306568-3346099 size 39532
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_010:1-3376875
+Aphrocalllistes_vastus_HiC-scaffold_009:1-3408767 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 86
+Total Reads: 2424260, Coverage: 86, minDepth: 9
+Confirmed 3317009 of 3406367 bases (97.38%)
+Found 504 snps; corrected 206 small insertions totaling 703 bases, 246 small deletions totaling 1065 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_009:108-17240 size 17133
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_009:1-3408767
+Aphrocalllistes_vastus_HiC-scaffold_005:1-4096128 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 88
+Total Reads: 2967732, Coverage: 88, minDepth: 9
+Confirmed 4027024 of 4096128 bases (98.31%)
+Found 278 snps; corrected 132 small insertions totaling 526 bases, 163 small deletions totaling 662 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_005:1-4096128
+Processing Aphrocalllistes_vastus_HiC-scaffold_070:1-24337
+Aphrocalllistes_vastus_HiC-scaffold_008:1-3730843 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 81
+Total Reads: 2500238, Coverage: 81, minDepth: 8
+Confirmed 3641190 of 3728320 bases (97.66%)
+Found 570 snps; corrected 198 small insertions totaling 657 bases, 214 small deletions totaling 832 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_008:1-3730843
+Aphrocalllistes_vastus_HiC-scaffold_070:1-24337 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 94
+Total Reads: 18816, Coverage: 94, minDepth: 9
+Confirmed 24291 of 24337 bases (99.81%)
+Found 1 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 11 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_070:1-24337
+Aphrocalllistes_vastus_HiC-scaffold_014:1-2984250 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 89
+Total Reads: 2196244, Coverage: 89, minDepth: 9
+Confirmed 2931679 of 2983027 bases (98.28%)
+Found 287 snps; corrected 151 small insertions totaling 530 bases, 159 small deletions totaling 613 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_014:689887-702694 size 12808
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_014:1-2984250
+Aphrocalllistes_vastus_HiC-scaffold_006:1-4021194 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 87
+Total Reads: 2881542, Coverage: 87, minDepth: 9
+Confirmed 3938598 of 4020694 bases (97.96%)
+Found 569 snps; corrected 238 small insertions totaling 905 bases, 233 small deletions totaling 941 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_006:1-4021194
+Aphrocalllistes_vastus_HiC-scaffold_004:1-4133620 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 77
+Total Reads: 2638954, Coverage: 77, minDepth: 8
+Confirmed 4028081 of 4131697 bases (97.49%)
+Found 1008 snps; corrected 340 small insertions totaling 1076 bases, 327 small deletions totaling 1190 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_004:728430-742571 size 14142
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_004:3433149-3446348 size 13200
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_004:3800813-3810947 size 10135
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_004:3940250-3954298 size 14049
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_004:1-4133620
+Aphrocalllistes_vastus_HiC-scaffold_002:1-4294562 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 82
+Total Reads: 2913584, Coverage: 82, minDepth: 8
+Confirmed 4191000 of 4290539 bases (97.68%)
+Found 757 snps; corrected 377 small insertions totaling 1413 bases, 310 small deletions totaling 1360 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_002:912708-928693 size 15986
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_002:1894589-1910243 size 15655
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_002:2102618-2122186 size 19569
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_002:2133969-2165263 size 31295
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_002:2208963-2220648 size 11686
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_002:2338728-2350314 size 11587
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_002:2353973-2366492 size 12520
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_002:2369847-2422715 size 52869
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_002:1-4294562
+Aphrocalllistes_vastus_HiC-scaffold_007:1-3750721 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 95
+Total Reads: 2969490, Coverage: 95, minDepth: 10
+Confirmed 3619446 of 3750121 bases (96.52%)
+Found 1616 snps; corrected 289 small insertions totaling 880 bases, 387 small deletions totaling 1179 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_007:367579-380108 size 12530
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_007:2188847-2203246 size 14400
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_007:2216934-2231024 size 14091
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_007:2250501-2272961 size 22461
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_007:2276106-2290581 size 14476
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_007:2310843-2323500 size 12658
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_007:2350361-2360902 size 10542
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_007:1-3750721
+Processing Aphrocalllistes_vastus_HiC-scaffold_088:1-21235
+Aphrocalllistes_vastus_HiC-scaffold_088:1-21235 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 96
+Total Reads: 16824, Coverage: 96, minDepth: 10
+Confirmed 20955 of 21235 bases (98.68%)
+Found 0 snps; corrected 1 small insertions totaling 1 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_088:1-21235
+Processing Aphrocalllistes_vastus_HiC-scaffold_062:1-27306
+Aphrocalllistes_vastus_HiC-scaffold_062:1-27306 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 48
+Total Reads: 10744, Coverage: 48, minDepth: 5
+Confirmed 26908 of 27306 bases (98.54%)
+Found 2 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_062:16377-27134 size 10758
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_062:1-27306
+Processing Aphrocalllistes_vastus_HiC-scaffold_082:1-22166
+Aphrocalllistes_vastus_HiC-scaffold_082:1-22166 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 28
+Total Reads: 5110, Coverage: 28, minDepth: 5
+Confirmed 21974 of 22166 bases (99.13%)
+Found 5 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_082:1-22166
+Processing Aphrocalllistes_vastus_HiC-scaffold_185:1-1141
+Aphrocalllistes_vastus_HiC-scaffold_185:1-1141 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 0
+Total Reads: 6, Coverage: 0, minDepth: 5
+Confirmed 0 of 1141 bases (0.00%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_185:1-1141
+Processing Aphrocalllistes_vastus_HiC-scaffold_003:1-4289346
+Aphrocalllistes_vastus_HiC-scaffold_003:1-4289346 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 82
+Total Reads: 2903104, Coverage: 82, minDepth: 8
+Confirmed 4204984 of 4288946 bases (98.04%)
+Found 796 snps; corrected 373 small insertions totaling 1263 bases, 258 small deletions totaling 954 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_003:1804159-1816351 size 12193
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_003:1825680-1851527 size 25848
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_003:1854220-1872533 size 18314
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_003:1945684-1961865 size 16182
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_003:1-4289346
+Processing Aphrocalllistes_vastus_HiC-scaffold_116:1-11153
+Aphrocalllistes_vastus_HiC-scaffold_116:1-11153 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 30
+Total Reads: 2746, Coverage: 30, minDepth: 5
+Confirmed 10903 of 11153 bases (97.76%)
+Found 5 snps; corrected 3 small insertions totaling 4 bases, 5 small deletions totaling 11 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_116:1-11153
+Processing Aphrocalllistes_vastus_HiC-scaffold_057:1-28745
+Aphrocalllistes_vastus_HiC-scaffold_057:1-28745 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 33
+Total Reads: 7816, Coverage: 33, minDepth: 5
+Confirmed 28650 of 28745 bases (99.67%)
+Found 3 snps; corrected 0 small insertions totaling 0 bases, 1 small deletions totaling 1 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_057:1-28745
+Processing Aphrocalllistes_vastus_HiC-scaffold_143:1-5019
+Aphrocalllistes_vastus_HiC-scaffold_143:1-5019 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 47
+Total Reads: 1936, Coverage: 47, minDepth: 5
+Confirmed 4999 of 5019 bases (99.60%)
+Found 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_143:1-5019
+Aphrocalllistes_vastus_HiC-scaffold_001:1-8199473 log:
+frags Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.PE-DNA_bowtie2.sorted.bam: coverage 92
+Total Reads: 6276148, Coverage: 92, minDepth: 9
+Confirmed 8037038 of 8197227 bases (98.05%)
+Found 1448 snps; corrected 478 small insertions totaling 1758 bases, 527 small deletions totaling 1923 bases
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:27115-52342 size 25228
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:70500-91206 size 20707
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:870495-885671 size 15177
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:1454728-1467119 size 12392
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:2292857-2304827 size 11971
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:2380939-2392780 size 11842
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:2412594-2425529 size 12936
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:2546007-2557899 size 11893
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:2855945-2870349 size 14405
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:2873922-2886722 size 12801
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:2893247-2920817 size 27571
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:2942953-2954409 size 11457
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:3567596-3578446 size 10851
+Large collapsed region: Aphrocalllistes_vastus_HiC-scaffold_001:5821914-5840977 size 19064
+Finished processing Aphrocalllistes_vastus_HiC-scaffold_001:1-8199473
+Writing Aphrocalllistes_vastus_HiC-scaffold_001:1-8199473 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_001:1-8199473 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_001_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_002:1-4294562 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_002:1-4294562 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_002_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_003:1-4289346 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_003:1-4289346 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_003_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_004:1-4133620 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_004:1-4133620 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_004_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_005:1-4096128 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_005:1-4096128 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_005_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_006:1-4021194 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_006:1-4021194 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_006_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_007:1-3750721 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_007:1-3750721 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_007_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_008:1-3730843 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_008:1-3730843 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_008_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_009:1-3408767 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_009:1-3408767 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_009_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_010:1-3376875 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_010:1-3376875 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_010_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_011:1-3276734 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_011:1-3276734 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_011_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_012:1-3255420 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_012:1-3255420 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_012_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_013:1-3117081 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_013:1-3117081 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_013_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_014:1-2984250 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_014:1-2984250 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_014_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_015:1-2673677 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_015:1-2673677 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_015_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_016:1-2506003 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_016:1-2506003 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_016_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_017:1-2171203 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_017:1-2171203 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_017_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_018:1-2087975 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_018:1-2087975 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_018_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_019:1-2081888 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_019:1-2081888 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_019_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_020:1-2037216 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_020:1-2037216 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_020_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_021:1-1853725 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_021:1-1853725 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_021_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_022:1-1744046 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_022:1-1744046 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_022_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_023:1-1161316 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_023:1-1161316 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_023_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_024:1-966628 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_024:1-966628 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_024_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_025:1-696597 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_025:1-696597 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_025_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_026:1-688373 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_026:1-688373 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_026_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_027:1-681210 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_027:1-681210 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_027_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_028:1-137539 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_028:1-137539 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_028_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_029:1-77847 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_029:1-77847 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_029_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_030:1-74821 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_030:1-74821 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_030_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_031:1-70256 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_031:1-70256 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_031_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_032:1-68828 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_032:1-68828 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_032_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_033:1-66334 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_033:1-66334 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_033_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_034:1-59617 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_034:1-59617 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_034_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_035:1-56613 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_035:1-56613 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_035_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_036:1-56191 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_036:1-56191 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_036_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_037:1-53510 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_037:1-53510 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_037_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_038:1-51453 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_038:1-51453 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_038_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_039:1-51115 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_039:1-51115 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_039_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_040:1-49909 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_040:1-49909 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_040_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_041:1-46786 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_041:1-46786 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_041_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_042:1-46594 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_042:1-46594 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_042_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_043:1-41589 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_043:1-41589 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_043_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_044:1-40572 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_044:1-40572 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_044_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_045:1-39591 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_045:1-39591 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_045_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_046:1-38829 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_046:1-38829 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_046_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_047:1-38137 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_047:1-38137 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_047_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_048:1-37886 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_048:1-37886 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_048_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_049:1-37051 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_049:1-37051 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_049_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_050:1-34932 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_050:1-34932 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_050_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_051:1-33292 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_051:1-33292 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_051_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_052:1-31833 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_052:1-31833 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_052_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_053:1-31072 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_053:1-31072 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_053_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_054:1-30988 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_054:1-30988 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_054_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_055:1-30747 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_055:1-30747 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_055_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_056:1-29051 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_056:1-29051 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_056_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_057:1-28745 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_057:1-28745 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_057_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_058:1-28054 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_058:1-28054 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_058_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_059:1-27927 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_059:1-27927 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_059_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_060:1-27413 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_060:1-27413 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_060_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_061:1-27308 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_061:1-27308 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_061_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_062:1-27306 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_062:1-27306 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_062_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_063:1-26842 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_063:1-26842 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_063_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_064:1-26168 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_064:1-26168 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_064_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_065:1-25784 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_065:1-25784 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_065_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_066:1-25387 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_066:1-25387 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_066_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_067:1-25071 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_067:1-25071 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_067_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_068:1-24868 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_068:1-24868 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_068_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_069:1-24588 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_069:1-24588 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_069_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_070:1-24337 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_070:1-24337 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_070_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_071:1-24093 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_071:1-24093 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_071_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_072:1-24051 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_072:1-24051 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_072_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_073:1-23624 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_073:1-23624 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_073_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_074:1-23039 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_074:1-23039 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_074_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_075:1-23036 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_075:1-23036 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_075_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_076:1-22685 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_076:1-22685 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_076_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_077:1-22682 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_077:1-22682 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_077_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_078:1-22682 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_078:1-22682 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_078_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_079:1-22502 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_079:1-22502 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_079_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_080:1-22357 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_080:1-22357 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_080_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_081:1-22245 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_081:1-22245 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_081_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_082:1-22166 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_082:1-22166 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_082_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_083:1-21938 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_083:1-21938 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_083_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_084:1-21885 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_084:1-21885 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_084_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_085:1-21866 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_085:1-21866 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_085_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_086:1-21805 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_086:1-21805 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_086_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_087:1-21571 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_087:1-21571 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_087_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_088:1-21235 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_088:1-21235 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_088_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_089:1-21006 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_089:1-21006 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_089_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_090:1-20989 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_090:1-20989 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_090_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_091:1-20844 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_091:1-20844 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_091_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_092:1-20770 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_092:1-20770 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_092_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_093:1-20535 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_093:1-20535 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_093_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_094:1-20297 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_094:1-20297 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_094_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_095:1-20066 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_095:1-20066 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_095_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_096:1-19931 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_096:1-19931 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_096_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_097:1-19928 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_097:1-19928 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_097_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_098:1-19812 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_098:1-19812 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_098_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_099:1-19525 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_099:1-19525 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_099_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_100:1-19302 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_100:1-19302 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_100_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_101:1-19074 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_101:1-19074 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_101_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_102:1-18691 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_102:1-18691 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_102_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_103:1-18476 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_103:1-18476 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_103_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_104:1-18066 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_104:1-18066 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_104_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_105:1-17956 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_105:1-17956 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_105_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_106:1-16344 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_106:1-16344 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_106_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_107:1-16170 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_107:1-16170 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_107_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_108:1-15633 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_108:1-15633 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_108_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_109:1-15560 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_109:1-15560 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_109_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_110:1-14499 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_110:1-14499 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_110_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_111:1-13736 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_111:1-13736 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_111_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_112:1-12841 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_112:1-12841 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_112_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_113:1-11408 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_113:1-11408 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_113_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_114:1-11351 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_114:1-11351 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_114_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_115:1-11276 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_115:1-11276 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_115_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_116:1-11153 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_116:1-11153 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_116_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_117:1-10978 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_117:1-10978 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_117_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_118:1-10518 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_118:1-10518 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_118_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_119:1-9679 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_119:1-9679 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_119_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_120:1-9383 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_120:1-9383 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_120_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_121:1-8910 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_121:1-8910 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_121_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_122:1-8787 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_122:1-8787 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_122_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_123:1-8722 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_123:1-8722 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_123_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_124:1-8410 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_124:1-8410 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_124_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_125:1-8239 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_125:1-8239 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_125_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_126:1-8178 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_126:1-8178 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_126_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_127:1-7933 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_127:1-7933 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_127_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_128:1-7919 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_128:1-7919 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_128_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_129:1-7581 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_129:1-7581 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_129_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_130:1-7565 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_130:1-7565 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_130_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_131:1-7470 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_131:1-7470 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_131_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_132:1-7408 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_132:1-7408 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_132_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_133:1-6896 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_133:1-6896 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_133_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_134:1-6886 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_134:1-6886 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_134_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_135:1-6807 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_135:1-6807 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_135_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_136:1-6266 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_136:1-6266 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_136_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_137:1-6016 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_137:1-6016 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_137_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_138:1-5885 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_138:1-5885 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_138_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_139:1-5772 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_139:1-5772 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_139_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_140:1-5656 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_140:1-5656 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_140_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_141:1-5210 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_141:1-5210 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_141_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_142:1-5048 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_142:1-5048 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_142_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_143:1-5019 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_143:1-5019 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_143_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_144:1-4958 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_144:1-4958 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_144_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_145:1-4901 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_145:1-4901 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_145_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_146:1-4805 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_146:1-4805 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_146_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_147:1-4744 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_147:1-4744 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_147_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_148:1-4696 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_148:1-4696 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_148_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_149:1-4522 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_149:1-4522 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_149_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_150:1-4376 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_150:1-4376 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_150_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_151:1-4271 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_151:1-4271 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_151_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_152:1-4153 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_152:1-4153 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_152_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_153:1-3578 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_153:1-3578 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_153_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_154:1-3484 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_154:1-3484 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_154_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_155:1-3346 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_155:1-3346 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_155_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_156:1-3223 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_156:1-3223 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_156_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_157:1-3206 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_157:1-3206 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_157_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_158:1-3187 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_158:1-3187 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_158_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_159:1-2926 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_159:1-2926 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_159_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_160:1-2698 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_160:1-2698 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_160_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_161:1-2604 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_161:1-2604 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_161_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_162:1-2561 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_162:1-2561 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_162_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_163:1-2507 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_163:1-2507 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_163_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_164:1-2140 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_164:1-2140 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_164_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_165:1-2078 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_165:1-2078 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_165_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_166:1-2005 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_166:1-2005 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_166_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_167:1-1980 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_167:1-1980 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_167_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_168:1-1907 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_168:1-1907 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_168_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_169:1-1717 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_169:1-1717 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_169_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_170:1-1643 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_170:1-1643 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_170_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_171:1-1611 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_171:1-1611 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_171_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_172:1-1502 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_172:1-1502 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_172_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_173:1-1476 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_173:1-1476 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_173_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_174:1-1375 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_174:1-1375 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_174_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_175:1-1371 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_175:1-1371 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_175_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_176:1-1358 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_176:1-1358 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_176_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_177:1-1258 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_177:1-1258 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_177_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_178:1-1254 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_178:1-1254 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_178_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_179:1-1179 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_179:1-1179 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_179_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_180:1-1176 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_180:1-1176 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_180_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_181:1-1170 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_181:1-1170 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_181_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_182:1-1161 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_182:1-1161 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_182_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_183:1-1151 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_183:1-1151 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_183_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_184:1-1143 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_184:1-1143 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_184_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_185:1-1141 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_185:1-1141 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_185_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Writing Aphrocalllistes_vastus_HiC-scaffold_186:1-1024 VCF to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.vcf
+Writing Aphrocalllistes_vastus_HiC-scaffold_186:1-1024 changes to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.changes
+Writing updated Aphrocalllistes_vastus_HiC-scaffold_186_pilon to Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilon.fasta
+Mean frags coverage: 86
+Mean total coverage: 86
+Creating Pilon track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonPilon.bed
+Creating Changes track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonChanges.wig
+Creating Unconfirmed track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonUnconfirmed.wig
+Creating Copy Number track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonCopyNumber.wig
+Creating Coverage track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonCoverage.wig
+Creating Bad Coverage track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonBadCoverage.wig
+Creating Pct Bad track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonPctBad.wig
+Creating Delta Coverage track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonDeltaCoverage.wig
+Creating Dip Coverage track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonDipCoverage.wig
+Creating Physical Coverage track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonPhysicalCoverage.wig
+Creating Clipped Alignments track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonClippedAlignments.wig
+Creating Weighted Qual track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonWeightedQual.wig
+Creating Weighted MQ track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonWeightedMq.wig
+Creating GC track in file Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted.pilonGC.wig

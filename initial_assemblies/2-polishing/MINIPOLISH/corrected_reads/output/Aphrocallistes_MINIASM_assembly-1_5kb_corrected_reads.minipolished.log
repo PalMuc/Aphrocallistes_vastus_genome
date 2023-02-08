@@ -1,0 +1,2979 @@
+
+[93m[1m[4mChecking requirements[0m
+[2m    Minipolish requires Minimap2 and Racon to run, so it checks for these tools[0m
+[2mnow.[0m
+
+Minimap2 found: /home/ubuntu/tools/minimap2/minimap2 (v2.17-r974-dirty)
+Racon found:    /home/ubuntu/tools/racon/build/bin/racon (v1.4.16)
+
+
+[93m[1m[4mLoading graph[0m
+[2m    Loading the miniasm GFA graph into memory.[0m
+
+Aphrocallistes_MINIASM_assembly-1_5kb_corrected_reads.gfa
+  443 segments (79,070,164 bp)
+  490 links
+
+
+[93m[1m[4mInitial polishing round[0m
+[2m    The first round of polishing is done on a per-segment basis and only uses[0m
+[2mreads which are definitely associated with the segment (because the GFA[0m
+[2mindicated that they were used to make the segment).[0m
+
+Running Racon on utg000001l:
+  reads:      /tmp/tmpd39nw7oj/utg000001l_reads.fasta (23 reads)
+  input:      /tmp/tmpd39nw7oj/utg000001l.fasta (243,118 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000001l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000001l_polished.fasta (0 bp)
+
+Removing empty segment: utg000001l
+
+Running Racon on utg000002l:
+  reads:      /tmp/tmpd39nw7oj/utg000002l_reads.fasta (40 reads)
+  input:      /tmp/tmpd39nw7oj/utg000002l.fasta (310,329 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000002l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000002l_polished.fasta (0 bp)
+
+Removing empty segment: utg000002l
+
+Running Racon on utg000003l:
+  reads:      /tmp/tmpd39nw7oj/utg000003l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000003l.fasta (115,354 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000003l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000003l_polished.fasta (0 bp)
+
+Removing empty segment: utg000003l
+
+Running Racon on utg000004l:
+  reads:      /tmp/tmpd39nw7oj/utg000004l_reads.fasta (27 reads)
+  input:      /tmp/tmpd39nw7oj/utg000004l.fasta (250,055 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000004l.paf (10 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000004l_polished.fasta (0 bp)
+
+Removing empty segment: utg000004l
+
+Running Racon on utg000005l:
+  reads:      /tmp/tmpd39nw7oj/utg000005l_reads.fasta (71 reads)
+  input:      /tmp/tmpd39nw7oj/utg000005l.fasta (432,210 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000005l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000005l_polished.fasta (0 bp)
+
+Removing empty segment: utg000005l
+
+Running Racon on utg000006l:
+  reads:      /tmp/tmpd39nw7oj/utg000006l_reads.fasta (35 reads)
+  input:      /tmp/tmpd39nw7oj/utg000006l.fasta (286,815 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000006l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000006l_polished.fasta (0 bp)
+
+Removing empty segment: utg000006l
+
+Running Racon on utg000007l:
+  reads:      /tmp/tmpd39nw7oj/utg000007l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000007l.fasta (53,861 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000007l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000007l_polished.fasta (0 bp)
+
+Removing empty segment: utg000007l
+
+Running Racon on utg000008l:
+  reads:      /tmp/tmpd39nw7oj/utg000008l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000008l.fasta (83,860 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000008l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000008l_polished.fasta (83,861 bp)
+
+Running Racon on utg000009l:
+  reads:      /tmp/tmpd39nw7oj/utg000009l_reads.fasta (20 reads)
+  input:      /tmp/tmpd39nw7oj/utg000009l.fasta (194,359 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000009l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000009l_polished.fasta (0 bp)
+
+Removing empty segment: utg000009l
+
+Running Racon on utg000010l:
+  reads:      /tmp/tmpd39nw7oj/utg000010l_reads.fasta (170 reads)
+  input:      /tmp/tmpd39nw7oj/utg000010l.fasta (1,361,901 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000010l.paf (31 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000010l_polished.fasta (1,361,901 bp)
+
+Running Racon on utg000011l:
+  reads:      /tmp/tmpd39nw7oj/utg000011l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000011l.fasta (64,667 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000011l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000011l_polished.fasta (0 bp)
+
+Removing empty segment: utg000011l
+
+Running Racon on utg000012l:
+  reads:      /tmp/tmpd39nw7oj/utg000012l_reads.fasta (8 reads)
+  input:      /tmp/tmpd39nw7oj/utg000012l.fasta (79,977 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000012l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000012l_polished.fasta (0 bp)
+
+Removing empty segment: utg000012l
+
+Running Racon on utg000013l:
+  reads:      /tmp/tmpd39nw7oj/utg000013l_reads.fasta (54 reads)
+  input:      /tmp/tmpd39nw7oj/utg000013l.fasta (407,153 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000013l.paf (8 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000013l_polished.fasta (0 bp)
+
+Removing empty segment: utg000013l
+
+Running Racon on utg000014l:
+  reads:      /tmp/tmpd39nw7oj/utg000014l_reads.fasta (19 reads)
+  input:      /tmp/tmpd39nw7oj/utg000014l.fasta (127,508 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000014l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000014l_polished.fasta (0 bp)
+
+Removing empty segment: utg000014l
+
+Running Racon on utg000015l:
+  reads:      /tmp/tmpd39nw7oj/utg000015l_reads.fasta (130 reads)
+  input:      /tmp/tmpd39nw7oj/utg000015l.fasta (1,024,499 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000015l.paf (18 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000015l_polished.fasta (0 bp)
+
+Removing empty segment: utg000015l
+
+Running Racon on utg000016l:
+  reads:      /tmp/tmpd39nw7oj/utg000016l_reads.fasta (118 reads)
+  input:      /tmp/tmpd39nw7oj/utg000016l.fasta (874,257 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000016l.paf (21 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000016l_polished.fasta (0 bp)
+
+Removing empty segment: utg000016l
+
+Running Racon on utg000017l:
+  reads:      /tmp/tmpd39nw7oj/utg000017l_reads.fasta (58 reads)
+  input:      /tmp/tmpd39nw7oj/utg000017l.fasta (455,115 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000017l.paf (10 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000017l_polished.fasta (0 bp)
+
+Removing empty segment: utg000017l
+
+Running Racon on utg000018l:
+  reads:      /tmp/tmpd39nw7oj/utg000018l_reads.fasta (79 reads)
+  input:      /tmp/tmpd39nw7oj/utg000018l.fasta (769,052 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000018l.paf (15 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000018l_polished.fasta (0 bp)
+
+Removing empty segment: utg000018l
+
+Running Racon on utg000019l:
+  reads:      /tmp/tmpd39nw7oj/utg000019l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000019l.fasta (133,692 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000019l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000019l_polished.fasta (0 bp)
+
+Removing empty segment: utg000019l
+
+Running Racon on utg000020l:
+  reads:      /tmp/tmpd39nw7oj/utg000020l_reads.fasta (83 reads)
+  input:      /tmp/tmpd39nw7oj/utg000020l.fasta (552,547 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000020l.paf (8 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000020l_polished.fasta (0 bp)
+
+Removing empty segment: utg000020l
+
+Running Racon on utg000021l:
+  reads:      /tmp/tmpd39nw7oj/utg000021l_reads.fasta (20 reads)
+  input:      /tmp/tmpd39nw7oj/utg000021l.fasta (221,536 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000021l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000021l_polished.fasta (0 bp)
+
+Removing empty segment: utg000021l
+
+Running Racon on utg000022l:
+  reads:      /tmp/tmpd39nw7oj/utg000022l_reads.fasta (192 reads)
+  input:      /tmp/tmpd39nw7oj/utg000022l.fasta (1,617,528 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000022l.paf (39 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000022l_polished.fasta (0 bp)
+
+Removing empty segment: utg000022l
+
+Running Racon on utg000023l:
+  reads:      /tmp/tmpd39nw7oj/utg000023l_reads.fasta (59 reads)
+  input:      /tmp/tmpd39nw7oj/utg000023l.fasta (427,214 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000023l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000023l_polished.fasta (0 bp)
+
+Removing empty segment: utg000023l
+
+Running Racon on utg000024l:
+  reads:      /tmp/tmpd39nw7oj/utg000024l_reads.fasta (44 reads)
+  input:      /tmp/tmpd39nw7oj/utg000024l.fasta (433,946 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000024l.paf (13 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000024l_polished.fasta (0 bp)
+
+Removing empty segment: utg000024l
+
+Running Racon on utg000025l:
+  reads:      /tmp/tmpd39nw7oj/utg000025l_reads.fasta (18 reads)
+  input:      /tmp/tmpd39nw7oj/utg000025l.fasta (147,951 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000025l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000025l_polished.fasta (0 bp)
+
+Removing empty segment: utg000025l
+
+Running Racon on utg000026l:
+  reads:      /tmp/tmpd39nw7oj/utg000026l_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000026l.fasta (20,537 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000026l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000026l_polished.fasta (0 bp)
+
+Removing empty segment: utg000026l
+
+Running Racon on utg000027l:
+  reads:      /tmp/tmpd39nw7oj/utg000027l_reads.fasta (79 reads)
+  input:      /tmp/tmpd39nw7oj/utg000027l.fasta (577,043 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000027l.paf (11 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000027l_polished.fasta (0 bp)
+
+Removing empty segment: utg000027l
+
+Running Racon on utg000028l:
+  reads:      /tmp/tmpd39nw7oj/utg000028l_reads.fasta (30 reads)
+  input:      /tmp/tmpd39nw7oj/utg000028l.fasta (248,628 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000028l.paf (13 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000028l_polished.fasta (0 bp)
+
+Removing empty segment: utg000028l
+
+Running Racon on utg000029l:
+  reads:      /tmp/tmpd39nw7oj/utg000029l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000029l.fasta (113,180 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000029l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000029l_polished.fasta (0 bp)
+
+Removing empty segment: utg000029l
+
+Running Racon on utg000030l:
+  reads:      /tmp/tmpd39nw7oj/utg000030l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000030l.fasta (60,234 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000030l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000030l_polished.fasta (0 bp)
+
+Removing empty segment: utg000030l
+
+Running Racon on utg000031c:
+  reads:      /tmp/tmpd39nw7oj/utg000031c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000031c.fasta (20,715 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000031c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000031c_polished.fasta (0 bp)
+
+Removing empty segment: utg000031c
+
+Running Racon on utg000032l:
+  reads:      /tmp/tmpd39nw7oj/utg000032l_reads.fasta (75 reads)
+  input:      /tmp/tmpd39nw7oj/utg000032l.fasta (624,964 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000032l.paf (11 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000032l_polished.fasta (0 bp)
+
+Removing empty segment: utg000032l
+
+Running Racon on utg000033l:
+  reads:      /tmp/tmpd39nw7oj/utg000033l_reads.fasta (19 reads)
+  input:      /tmp/tmpd39nw7oj/utg000033l.fasta (132,333 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000033l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000033l_polished.fasta (0 bp)
+
+Removing empty segment: utg000033l
+
+Running Racon on utg000034l:
+  reads:      /tmp/tmpd39nw7oj/utg000034l_reads.fasta (26 reads)
+  input:      /tmp/tmpd39nw7oj/utg000034l.fasta (212,188 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000034l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000034l_polished.fasta (0 bp)
+
+Removing empty segment: utg000034l
+
+Running Racon on utg000035l:
+  reads:      /tmp/tmpd39nw7oj/utg000035l_reads.fasta (15 reads)
+  input:      /tmp/tmpd39nw7oj/utg000035l.fasta (121,054 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000035l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000035l_polished.fasta (0 bp)
+
+Removing empty segment: utg000035l
+
+Running Racon on utg000036l:
+  reads:      /tmp/tmpd39nw7oj/utg000036l_reads.fasta (42 reads)
+  input:      /tmp/tmpd39nw7oj/utg000036l.fasta (345,656 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000036l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000036l_polished.fasta (0 bp)
+
+Removing empty segment: utg000036l
+
+Running Racon on utg000037l:
+  reads:      /tmp/tmpd39nw7oj/utg000037l_reads.fasta (13 reads)
+  input:      /tmp/tmpd39nw7oj/utg000037l.fasta (99,321 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000037l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000037l_polished.fasta (0 bp)
+
+Removing empty segment: utg000037l
+
+Running Racon on utg000038l:
+  reads:      /tmp/tmpd39nw7oj/utg000038l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000038l.fasta (44,686 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000038l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000038l_polished.fasta (0 bp)
+
+Removing empty segment: utg000038l
+
+Running Racon on utg000039c:
+  reads:      /tmp/tmpd39nw7oj/utg000039c_reads.fasta (11 reads)
+  input:      /tmp/tmpd39nw7oj/utg000039c.fasta (124,861 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000039c.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000039c_polished.fasta (0 bp)
+
+Removing empty segment: utg000039c
+
+Running Racon on utg000040l:
+  reads:      /tmp/tmpd39nw7oj/utg000040l_reads.fasta (47 reads)
+  input:      /tmp/tmpd39nw7oj/utg000040l.fasta (289,332 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000040l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000040l_polished.fasta (0 bp)
+
+Removing empty segment: utg000040l
+
+Running Racon on utg000041l:
+  reads:      /tmp/tmpd39nw7oj/utg000041l_reads.fasta (47 reads)
+  input:      /tmp/tmpd39nw7oj/utg000041l.fasta (349,722 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000041l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000041l_polished.fasta (0 bp)
+
+Removing empty segment: utg000041l
+
+Running Racon on utg000042l:
+  reads:      /tmp/tmpd39nw7oj/utg000042l_reads.fasta (60 reads)
+  input:      /tmp/tmpd39nw7oj/utg000042l.fasta (510,076 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000042l.paf (17 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000042l_polished.fasta (0 bp)
+
+Removing empty segment: utg000042l
+
+Running Racon on utg000043l:
+  reads:      /tmp/tmpd39nw7oj/utg000043l_reads.fasta (119 reads)
+  input:      /tmp/tmpd39nw7oj/utg000043l.fasta (1,010,704 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000043l.paf (19 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000043l_polished.fasta (1,010,705 bp)
+
+Running Racon on utg000044l:
+  reads:      /tmp/tmpd39nw7oj/utg000044l_reads.fasta (173 reads)
+  input:      /tmp/tmpd39nw7oj/utg000044l.fasta (1,278,061 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000044l.paf (25 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000044l_polished.fasta (0 bp)
+
+Removing empty segment: utg000044l
+
+Running Racon on utg000045l:
+  reads:      /tmp/tmpd39nw7oj/utg000045l_reads.fasta (265 reads)
+  input:      /tmp/tmpd39nw7oj/utg000045l.fasta (2,408,862 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000045l.paf (39 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000045l_polished.fasta (0 bp)
+
+Removing empty segment: utg000045l
+
+Running Racon on utg000046l:
+  reads:      /tmp/tmpd39nw7oj/utg000046l_reads.fasta (247 reads)
+  input:      /tmp/tmpd39nw7oj/utg000046l.fasta (1,881,866 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000046l.paf (47 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000046l_polished.fasta (0 bp)
+
+Removing empty segment: utg000046l
+
+Running Racon on utg000047l:
+  reads:      /tmp/tmpd39nw7oj/utg000047l_reads.fasta (45 reads)
+  input:      /tmp/tmpd39nw7oj/utg000047l.fasta (350,800 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000047l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000047l_polished.fasta (0 bp)
+
+Removing empty segment: utg000047l
+
+Running Racon on utg000048l:
+  reads:      /tmp/tmpd39nw7oj/utg000048l_reads.fasta (48 reads)
+  input:      /tmp/tmpd39nw7oj/utg000048l.fasta (411,698 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000048l.paf (11 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000048l_polished.fasta (0 bp)
+
+Removing empty segment: utg000048l
+
+Running Racon on utg000049l:
+  reads:      /tmp/tmpd39nw7oj/utg000049l_reads.fasta (66 reads)
+  input:      /tmp/tmpd39nw7oj/utg000049l.fasta (540,582 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000049l.paf (11 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000049l_polished.fasta (0 bp)
+
+Removing empty segment: utg000049l
+
+Running Racon on utg000050l:
+  reads:      /tmp/tmpd39nw7oj/utg000050l_reads.fasta (37 reads)
+  input:      /tmp/tmpd39nw7oj/utg000050l.fasta (357,736 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000050l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000050l_polished.fasta (357,736 bp)
+
+Running Racon on utg000051l:
+  reads:      /tmp/tmpd39nw7oj/utg000051l_reads.fasta (68 reads)
+  input:      /tmp/tmpd39nw7oj/utg000051l.fasta (584,259 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000051l.paf (8 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000051l_polished.fasta (0 bp)
+
+Removing empty segment: utg000051l
+
+Running Racon on utg000052l:
+  reads:      /tmp/tmpd39nw7oj/utg000052l_reads.fasta (20 reads)
+  input:      /tmp/tmpd39nw7oj/utg000052l.fasta (147,540 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000052l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000052l_polished.fasta (0 bp)
+
+Removing empty segment: utg000052l
+
+Running Racon on utg000053l:
+  reads:      /tmp/tmpd39nw7oj/utg000053l_reads.fasta (87 reads)
+  input:      /tmp/tmpd39nw7oj/utg000053l.fasta (670,208 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000053l.paf (25 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000053l_polished.fasta (670,209 bp)
+
+Running Racon on utg000054l:
+  reads:      /tmp/tmpd39nw7oj/utg000054l_reads.fasta (76 reads)
+  input:      /tmp/tmpd39nw7oj/utg000054l.fasta (552,811 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000054l.paf (19 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000054l_polished.fasta (0 bp)
+
+Removing empty segment: utg000054l
+
+Running Racon on utg000055l:
+  reads:      /tmp/tmpd39nw7oj/utg000055l_reads.fasta (34 reads)
+  input:      /tmp/tmpd39nw7oj/utg000055l.fasta (358,835 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000055l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000055l_polished.fasta (0 bp)
+
+Removing empty segment: utg000055l
+
+Running Racon on utg000056l:
+  reads:      /tmp/tmpd39nw7oj/utg000056l_reads.fasta (71 reads)
+  input:      /tmp/tmpd39nw7oj/utg000056l.fasta (552,655 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000056l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000056l_polished.fasta (0 bp)
+
+Removing empty segment: utg000056l
+
+Running Racon on utg000057l:
+  reads:      /tmp/tmpd39nw7oj/utg000057l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000057l.fasta (30,589 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000057l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000057l_polished.fasta (0 bp)
+
+Removing empty segment: utg000057l
+
+Running Racon on utg000058l:
+  reads:      /tmp/tmpd39nw7oj/utg000058l_reads.fasta (53 reads)
+  input:      /tmp/tmpd39nw7oj/utg000058l.fasta (439,118 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000058l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000058l_polished.fasta (0 bp)
+
+Removing empty segment: utg000058l
+
+Running Racon on utg000059l:
+  reads:      /tmp/tmpd39nw7oj/utg000059l_reads.fasta (43 reads)
+  input:      /tmp/tmpd39nw7oj/utg000059l.fasta (361,729 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000059l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000059l_polished.fasta (0 bp)
+
+Removing empty segment: utg000059l
+
+Running Racon on utg000060l:
+  reads:      /tmp/tmpd39nw7oj/utg000060l_reads.fasta (45 reads)
+  input:      /tmp/tmpd39nw7oj/utg000060l.fasta (382,152 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000060l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000060l_polished.fasta (382,152 bp)
+
+Running Racon on utg000061l:
+  reads:      /tmp/tmpd39nw7oj/utg000061l_reads.fasta (39 reads)
+  input:      /tmp/tmpd39nw7oj/utg000061l.fasta (361,387 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000061l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000061l_polished.fasta (0 bp)
+
+Removing empty segment: utg000061l
+
+Running Racon on utg000062l:
+  reads:      /tmp/tmpd39nw7oj/utg000062l_reads.fasta (23 reads)
+  input:      /tmp/tmpd39nw7oj/utg000062l.fasta (325,419 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000062l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000062l_polished.fasta (0 bp)
+
+Removing empty segment: utg000062l
+
+Running Racon on utg000063l:
+  reads:      /tmp/tmpd39nw7oj/utg000063l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000063l.fasta (49,074 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000063l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000063l_polished.fasta (0 bp)
+
+Removing empty segment: utg000063l
+
+Running Racon on utg000064l:
+  reads:      /tmp/tmpd39nw7oj/utg000064l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000064l.fasta (88,865 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000064l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000064l_polished.fasta (0 bp)
+
+Removing empty segment: utg000064l
+
+Running Racon on utg000065l:
+  reads:      /tmp/tmpd39nw7oj/utg000065l_reads.fasta (48 reads)
+  input:      /tmp/tmpd39nw7oj/utg000065l.fasta (488,788 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000065l.paf (11 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000065l_polished.fasta (0 bp)
+
+Removing empty segment: utg000065l
+
+Running Racon on utg000066l:
+  reads:      /tmp/tmpd39nw7oj/utg000066l_reads.fasta (54 reads)
+  input:      /tmp/tmpd39nw7oj/utg000066l.fasta (346,435 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000066l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000066l_polished.fasta (0 bp)
+
+Removing empty segment: utg000066l
+
+Running Racon on utg000067l:
+  reads:      /tmp/tmpd39nw7oj/utg000067l_reads.fasta (81 reads)
+  input:      /tmp/tmpd39nw7oj/utg000067l.fasta (672,087 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000067l.paf (18 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000067l_polished.fasta (0 bp)
+
+Removing empty segment: utg000067l
+
+Running Racon on utg000068l:
+  reads:      /tmp/tmpd39nw7oj/utg000068l_reads.fasta (80 reads)
+  input:      /tmp/tmpd39nw7oj/utg000068l.fasta (605,360 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000068l.paf (10 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000068l_polished.fasta (0 bp)
+
+Removing empty segment: utg000068l
+
+Running Racon on utg000069l:
+  reads:      /tmp/tmpd39nw7oj/utg000069l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000069l.fasta (60,067 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000069l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000069l_polished.fasta (0 bp)
+
+Removing empty segment: utg000069l
+
+Running Racon on utg000070l:
+  reads:      /tmp/tmpd39nw7oj/utg000070l_reads.fasta (40 reads)
+  input:      /tmp/tmpd39nw7oj/utg000070l.fasta (352,190 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000070l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000070l_polished.fasta (0 bp)
+
+Removing empty segment: utg000070l
+
+Running Racon on utg000071l:
+  reads:      /tmp/tmpd39nw7oj/utg000071l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000071l.fasta (92,503 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000071l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000071l_polished.fasta (0 bp)
+
+Removing empty segment: utg000071l
+
+Running Racon on utg000072l:
+  reads:      /tmp/tmpd39nw7oj/utg000072l_reads.fasta (93 reads)
+  input:      /tmp/tmpd39nw7oj/utg000072l.fasta (859,818 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000072l.paf (11 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000072l_polished.fasta (0 bp)
+
+Removing empty segment: utg000072l
+
+Running Racon on utg000073l:
+  reads:      /tmp/tmpd39nw7oj/utg000073l_reads.fasta (87 reads)
+  input:      /tmp/tmpd39nw7oj/utg000073l.fasta (738,713 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000073l.paf (20 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000073l_polished.fasta (0 bp)
+
+Removing empty segment: utg000073l
+
+Running Racon on utg000074l:
+  reads:      /tmp/tmpd39nw7oj/utg000074l_reads.fasta (18 reads)
+  input:      /tmp/tmpd39nw7oj/utg000074l.fasta (155,123 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000074l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000074l_polished.fasta (0 bp)
+
+Removing empty segment: utg000074l
+
+Running Racon on utg000075l:
+  reads:      /tmp/tmpd39nw7oj/utg000075l_reads.fasta (39 reads)
+  input:      /tmp/tmpd39nw7oj/utg000075l.fasta (316,773 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000075l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000075l_polished.fasta (0 bp)
+
+Removing empty segment: utg000075l
+
+Running Racon on utg000076l:
+  reads:      /tmp/tmpd39nw7oj/utg000076l_reads.fasta (53 reads)
+  input:      /tmp/tmpd39nw7oj/utg000076l.fasta (414,551 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000076l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000076l_polished.fasta (0 bp)
+
+Removing empty segment: utg000076l
+
+Running Racon on utg000077l:
+  reads:      /tmp/tmpd39nw7oj/utg000077l_reads.fasta (93 reads)
+  input:      /tmp/tmpd39nw7oj/utg000077l.fasta (690,724 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000077l.paf (27 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000077l_polished.fasta (690,724 bp)
+
+Running Racon on utg000078l:
+  reads:      /tmp/tmpd39nw7oj/utg000078l_reads.fasta (15 reads)
+  input:      /tmp/tmpd39nw7oj/utg000078l.fasta (64,068 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000078l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000078l_polished.fasta (0 bp)
+
+Removing empty segment: utg000078l
+
+Running Racon on utg000079l:
+  reads:      /tmp/tmpd39nw7oj/utg000079l_reads.fasta (12 reads)
+  input:      /tmp/tmpd39nw7oj/utg000079l.fasta (103,527 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000079l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000079l_polished.fasta (0 bp)
+
+Removing empty segment: utg000079l
+
+Running Racon on utg000080l:
+  reads:      /tmp/tmpd39nw7oj/utg000080l_reads.fasta (12 reads)
+  input:      /tmp/tmpd39nw7oj/utg000080l.fasta (126,471 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000080l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000080l_polished.fasta (0 bp)
+
+Removing empty segment: utg000080l
+
+Running Racon on utg000081l:
+  reads:      /tmp/tmpd39nw7oj/utg000081l_reads.fasta (20 reads)
+  input:      /tmp/tmpd39nw7oj/utg000081l.fasta (161,179 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000081l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000081l_polished.fasta (0 bp)
+
+Removing empty segment: utg000081l
+
+Running Racon on utg000082l:
+  reads:      /tmp/tmpd39nw7oj/utg000082l_reads.fasta (85 reads)
+  input:      /tmp/tmpd39nw7oj/utg000082l.fasta (809,577 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000082l.paf (16 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000082l_polished.fasta (0 bp)
+
+Removing empty segment: utg000082l
+
+Running Racon on utg000083l:
+  reads:      /tmp/tmpd39nw7oj/utg000083l_reads.fasta (64 reads)
+  input:      /tmp/tmpd39nw7oj/utg000083l.fasta (466,798 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000083l.paf (10 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000083l_polished.fasta (0 bp)
+
+Removing empty segment: utg000083l
+
+Running Racon on utg000084l:
+  reads:      /tmp/tmpd39nw7oj/utg000084l_reads.fasta (35 reads)
+  input:      /tmp/tmpd39nw7oj/utg000084l.fasta (357,257 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000084l.paf (8 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000084l_polished.fasta (0 bp)
+
+Removing empty segment: utg000084l
+
+Running Racon on utg000085l:
+  reads:      /tmp/tmpd39nw7oj/utg000085l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000085l.fasta (30,192 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000085l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000085l_polished.fasta (0 bp)
+
+Removing empty segment: utg000085l
+
+Running Racon on utg000086l:
+  reads:      /tmp/tmpd39nw7oj/utg000086l_reads.fasta (79 reads)
+  input:      /tmp/tmpd39nw7oj/utg000086l.fasta (729,775 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000086l.paf (12 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000086l_polished.fasta (0 bp)
+
+Removing empty segment: utg000086l
+
+Running Racon on utg000087l:
+  reads:      /tmp/tmpd39nw7oj/utg000087l_reads.fasta (34 reads)
+  input:      /tmp/tmpd39nw7oj/utg000087l.fasta (228,297 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000087l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000087l_polished.fasta (228,297 bp)
+
+Running Racon on utg000088l:
+  reads:      /tmp/tmpd39nw7oj/utg000088l_reads.fasta (13 reads)
+  input:      /tmp/tmpd39nw7oj/utg000088l.fasta (103,924 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000088l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000088l_polished.fasta (0 bp)
+
+Removing empty segment: utg000088l
+
+Running Racon on utg000089l:
+  reads:      /tmp/tmpd39nw7oj/utg000089l_reads.fasta (58 reads)
+  input:      /tmp/tmpd39nw7oj/utg000089l.fasta (509,403 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000089l.paf (8 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000089l_polished.fasta (0 bp)
+
+Removing empty segment: utg000089l
+
+Running Racon on utg000090l:
+  reads:      /tmp/tmpd39nw7oj/utg000090l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000090l.fasta (54,009 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000090l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000090l_polished.fasta (0 bp)
+
+Removing empty segment: utg000090l
+
+Running Racon on utg000091l:
+  reads:      /tmp/tmpd39nw7oj/utg000091l_reads.fasta (12 reads)
+  input:      /tmp/tmpd39nw7oj/utg000091l.fasta (105,294 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000091l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000091l_polished.fasta (0 bp)
+
+Removing empty segment: utg000091l
+
+Running Racon on utg000092l:
+  reads:      /tmp/tmpd39nw7oj/utg000092l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000092l.fasta (26,348 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000092l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000092l_polished.fasta (0 bp)
+
+Removing empty segment: utg000092l
+
+Running Racon on utg000093l:
+  reads:      /tmp/tmpd39nw7oj/utg000093l_reads.fasta (17 reads)
+  input:      /tmp/tmpd39nw7oj/utg000093l.fasta (135,169 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000093l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000093l_polished.fasta (0 bp)
+
+Removing empty segment: utg000093l
+
+Running Racon on utg000094l:
+  reads:      /tmp/tmpd39nw7oj/utg000094l_reads.fasta (71 reads)
+  input:      /tmp/tmpd39nw7oj/utg000094l.fasta (599,416 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000094l.paf (10 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000094l_polished.fasta (599,417 bp)
+
+Running Racon on utg000095l:
+  reads:      /tmp/tmpd39nw7oj/utg000095l_reads.fasta (11 reads)
+  input:      /tmp/tmpd39nw7oj/utg000095l.fasta (92,924 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000095l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000095l_polished.fasta (0 bp)
+
+Removing empty segment: utg000095l
+
+Running Racon on utg000096l:
+  reads:      /tmp/tmpd39nw7oj/utg000096l_reads.fasta (65 reads)
+  input:      /tmp/tmpd39nw7oj/utg000096l.fasta (419,783 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000096l.paf (15 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000096l_polished.fasta (0 bp)
+
+Removing empty segment: utg000096l
+
+Running Racon on utg000097l:
+  reads:      /tmp/tmpd39nw7oj/utg000097l_reads.fasta (23 reads)
+  input:      /tmp/tmpd39nw7oj/utg000097l.fasta (191,690 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000097l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000097l_polished.fasta (0 bp)
+
+Removing empty segment: utg000097l
+
+Running Racon on utg000098l:
+  reads:      /tmp/tmpd39nw7oj/utg000098l_reads.fasta (16 reads)
+  input:      /tmp/tmpd39nw7oj/utg000098l.fasta (146,699 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000098l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000098l_polished.fasta (0 bp)
+
+Removing empty segment: utg000098l
+
+Running Racon on utg000099l:
+  reads:      /tmp/tmpd39nw7oj/utg000099l_reads.fasta (15 reads)
+  input:      /tmp/tmpd39nw7oj/utg000099l.fasta (156,081 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000099l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000099l_polished.fasta (0 bp)
+
+Removing empty segment: utg000099l
+
+Running Racon on utg000100l:
+  reads:      /tmp/tmpd39nw7oj/utg000100l_reads.fasta (36 reads)
+  input:      /tmp/tmpd39nw7oj/utg000100l.fasta (204,959 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000100l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000100l_polished.fasta (0 bp)
+
+Removing empty segment: utg000100l
+
+Running Racon on utg000101l:
+  reads:      /tmp/tmpd39nw7oj/utg000101l_reads.fasta (31 reads)
+  input:      /tmp/tmpd39nw7oj/utg000101l.fasta (287,321 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000101l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000101l_polished.fasta (0 bp)
+
+Removing empty segment: utg000101l
+
+Running Racon on utg000102l:
+  reads:      /tmp/tmpd39nw7oj/utg000102l_reads.fasta (17 reads)
+  input:      /tmp/tmpd39nw7oj/utg000102l.fasta (159,740 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000102l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000102l_polished.fasta (0 bp)
+
+Removing empty segment: utg000102l
+
+Running Racon on utg000103l:
+  reads:      /tmp/tmpd39nw7oj/utg000103l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000103l.fasta (59,844 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000103l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000103l_polished.fasta (0 bp)
+
+Removing empty segment: utg000103l
+
+Running Racon on utg000104l:
+  reads:      /tmp/tmpd39nw7oj/utg000104l_reads.fasta (11 reads)
+  input:      /tmp/tmpd39nw7oj/utg000104l.fasta (85,950 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000104l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000104l_polished.fasta (0 bp)
+
+Removing empty segment: utg000104l
+
+Running Racon on utg000105l:
+  reads:      /tmp/tmpd39nw7oj/utg000105l_reads.fasta (34 reads)
+  input:      /tmp/tmpd39nw7oj/utg000105l.fasta (294,617 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000105l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000105l_polished.fasta (0 bp)
+
+Removing empty segment: utg000105l
+
+Running Racon on utg000106l:
+  reads:      /tmp/tmpd39nw7oj/utg000106l_reads.fasta (18 reads)
+  input:      /tmp/tmpd39nw7oj/utg000106l.fasta (209,377 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000106l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000106l_polished.fasta (0 bp)
+
+Removing empty segment: utg000106l
+
+Running Racon on utg000107l:
+  reads:      /tmp/tmpd39nw7oj/utg000107l_reads.fasta (65 reads)
+  input:      /tmp/tmpd39nw7oj/utg000107l.fasta (483,657 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000107l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000107l_polished.fasta (0 bp)
+
+Removing empty segment: utg000107l
+
+Running Racon on utg000108l:
+  reads:      /tmp/tmpd39nw7oj/utg000108l_reads.fasta (97 reads)
+  input:      /tmp/tmpd39nw7oj/utg000108l.fasta (690,445 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000108l.paf (8 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000108l_polished.fasta (0 bp)
+
+Removing empty segment: utg000108l
+
+Running Racon on utg000109l:
+  reads:      /tmp/tmpd39nw7oj/utg000109l_reads.fasta (37 reads)
+  input:      /tmp/tmpd39nw7oj/utg000109l.fasta (301,036 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000109l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000109l_polished.fasta (0 bp)
+
+Removing empty segment: utg000109l
+
+Running Racon on utg000110l:
+  reads:      /tmp/tmpd39nw7oj/utg000110l_reads.fasta (46 reads)
+  input:      /tmp/tmpd39nw7oj/utg000110l.fasta (376,319 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000110l.paf (10 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000110l_polished.fasta (0 bp)
+
+Removing empty segment: utg000110l
+
+Skipping Racon for utg000111l (not enough reads)
+Removing empty segment: utg000111l
+
+Running Racon on utg000112l:
+  reads:      /tmp/tmpd39nw7oj/utg000112l_reads.fasta (3 reads)
+  input:      /tmp/tmpd39nw7oj/utg000112l.fasta (19,371 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000112l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000112l_polished.fasta (0 bp)
+
+Removing empty segment: utg000112l
+
+Running Racon on utg000113l:
+  reads:      /tmp/tmpd39nw7oj/utg000113l_reads.fasta (27 reads)
+  input:      /tmp/tmpd39nw7oj/utg000113l.fasta (201,407 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000113l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000113l_polished.fasta (0 bp)
+
+Removing empty segment: utg000113l
+
+Running Racon on utg000114l:
+  reads:      /tmp/tmpd39nw7oj/utg000114l_reads.fasta (31 reads)
+  input:      /tmp/tmpd39nw7oj/utg000114l.fasta (181,903 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000114l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000114l_polished.fasta (0 bp)
+
+Removing empty segment: utg000114l
+
+Running Racon on utg000115l:
+  reads:      /tmp/tmpd39nw7oj/utg000115l_reads.fasta (39 reads)
+  input:      /tmp/tmpd39nw7oj/utg000115l.fasta (419,518 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000115l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000115l_polished.fasta (0 bp)
+
+Removing empty segment: utg000115l
+
+Running Racon on utg000116l:
+  reads:      /tmp/tmpd39nw7oj/utg000116l_reads.fasta (23 reads)
+  input:      /tmp/tmpd39nw7oj/utg000116l.fasta (173,042 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000116l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000116l_polished.fasta (0 bp)
+
+Removing empty segment: utg000116l
+
+Running Racon on utg000117l:
+  reads:      /tmp/tmpd39nw7oj/utg000117l_reads.fasta (130 reads)
+  input:      /tmp/tmpd39nw7oj/utg000117l.fasta (1,093,440 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000117l.paf (21 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000117l_polished.fasta (0 bp)
+
+Removing empty segment: utg000117l
+
+Running Racon on utg000118l:
+  reads:      /tmp/tmpd39nw7oj/utg000118l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000118l.fasta (45,193 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000118l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000118l_polished.fasta (0 bp)
+
+Removing empty segment: utg000118l
+
+Running Racon on utg000119l:
+  reads:      /tmp/tmpd39nw7oj/utg000119l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000119l.fasta (47,774 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000119l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000119l_polished.fasta (0 bp)
+
+Removing empty segment: utg000119l
+
+Running Racon on utg000120l:
+  reads:      /tmp/tmpd39nw7oj/utg000120l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000120l.fasta (93,326 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000120l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000120l_polished.fasta (0 bp)
+
+Removing empty segment: utg000120l
+
+Running Racon on utg000121l:
+  reads:      /tmp/tmpd39nw7oj/utg000121l_reads.fasta (62 reads)
+  input:      /tmp/tmpd39nw7oj/utg000121l.fasta (406,745 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000121l.paf (13 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000121l_polished.fasta (0 bp)
+
+Removing empty segment: utg000121l
+
+Running Racon on utg000122l:
+  reads:      /tmp/tmpd39nw7oj/utg000122l_reads.fasta (28 reads)
+  input:      /tmp/tmpd39nw7oj/utg000122l.fasta (207,455 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000122l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000122l_polished.fasta (0 bp)
+
+Removing empty segment: utg000122l
+
+Running Racon on utg000123l:
+  reads:      /tmp/tmpd39nw7oj/utg000123l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000123l.fasta (132,201 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000123l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000123l_polished.fasta (0 bp)
+
+Removing empty segment: utg000123l
+
+Running Racon on utg000124c:
+  reads:      /tmp/tmpd39nw7oj/utg000124c_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000124c.fasta (42,119 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000124c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000124c_polished.fasta (0 bp)
+
+Removing empty segment: utg000124c
+
+Running Racon on utg000125l:
+  reads:      /tmp/tmpd39nw7oj/utg000125l_reads.fasta (33 reads)
+  input:      /tmp/tmpd39nw7oj/utg000125l.fasta (232,049 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000125l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000125l_polished.fasta (0 bp)
+
+Removing empty segment: utg000125l
+
+Running Racon on utg000126l:
+  reads:      /tmp/tmpd39nw7oj/utg000126l_reads.fasta (31 reads)
+  input:      /tmp/tmpd39nw7oj/utg000126l.fasta (239,259 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000126l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000126l_polished.fasta (0 bp)
+
+Removing empty segment: utg000126l
+
+Running Racon on utg000127l:
+  reads:      /tmp/tmpd39nw7oj/utg000127l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000127l.fasta (48,036 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000127l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000127l_polished.fasta (0 bp)
+
+Removing empty segment: utg000127l
+
+Running Racon on utg000128l:
+  reads:      /tmp/tmpd39nw7oj/utg000128l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000128l.fasta (76,925 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000128l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000128l_polished.fasta (0 bp)
+
+Removing empty segment: utg000128l
+
+Running Racon on utg000129l:
+  reads:      /tmp/tmpd39nw7oj/utg000129l_reads.fasta (29 reads)
+  input:      /tmp/tmpd39nw7oj/utg000129l.fasta (238,418 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000129l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000129l_polished.fasta (0 bp)
+
+Removing empty segment: utg000129l
+
+Running Racon on utg000130c:
+  reads:      /tmp/tmpd39nw7oj/utg000130c_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000130c.fasta (22,198 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000130c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000130c_polished.fasta (0 bp)
+
+Removing empty segment: utg000130c
+
+Running Racon on utg000131l:
+  reads:      /tmp/tmpd39nw7oj/utg000131l_reads.fasta (36 reads)
+  input:      /tmp/tmpd39nw7oj/utg000131l.fasta (312,204 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000131l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000131l_polished.fasta (0 bp)
+
+Removing empty segment: utg000131l
+
+Running Racon on utg000132l:
+  reads:      /tmp/tmpd39nw7oj/utg000132l_reads.fasta (53 reads)
+  input:      /tmp/tmpd39nw7oj/utg000132l.fasta (500,098 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000132l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000132l_polished.fasta (0 bp)
+
+Removing empty segment: utg000132l
+
+Running Racon on utg000133l:
+  reads:      /tmp/tmpd39nw7oj/utg000133l_reads.fasta (39 reads)
+  input:      /tmp/tmpd39nw7oj/utg000133l.fasta (419,663 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000133l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000133l_polished.fasta (0 bp)
+
+Removing empty segment: utg000133l
+
+Running Racon on utg000134l:
+  reads:      /tmp/tmpd39nw7oj/utg000134l_reads.fasta (88 reads)
+  input:      /tmp/tmpd39nw7oj/utg000134l.fasta (711,431 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000134l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000134l_polished.fasta (0 bp)
+
+Removing empty segment: utg000134l
+
+Running Racon on utg000135l:
+  reads:      /tmp/tmpd39nw7oj/utg000135l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000135l.fasta (21,759 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000135l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000135l_polished.fasta (0 bp)
+
+Removing empty segment: utg000135l
+
+Running Racon on utg000136l:
+  reads:      /tmp/tmpd39nw7oj/utg000136l_reads.fasta (26 reads)
+  input:      /tmp/tmpd39nw7oj/utg000136l.fasta (234,662 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000136l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000136l_polished.fasta (0 bp)
+
+Removing empty segment: utg000136l
+
+Running Racon on utg000137l:
+  reads:      /tmp/tmpd39nw7oj/utg000137l_reads.fasta (11 reads)
+  input:      /tmp/tmpd39nw7oj/utg000137l.fasta (69,005 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000137l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000137l_polished.fasta (0 bp)
+
+Removing empty segment: utg000137l
+
+Running Racon on utg000138l:
+  reads:      /tmp/tmpd39nw7oj/utg000138l_reads.fasta (12 reads)
+  input:      /tmp/tmpd39nw7oj/utg000138l.fasta (90,750 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000138l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000138l_polished.fasta (0 bp)
+
+Removing empty segment: utg000138l
+
+Running Racon on utg000139l:
+  reads:      /tmp/tmpd39nw7oj/utg000139l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000139l.fasta (79,392 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000139l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000139l_polished.fasta (0 bp)
+
+Removing empty segment: utg000139l
+
+Running Racon on utg000140l:
+  reads:      /tmp/tmpd39nw7oj/utg000140l_reads.fasta (8 reads)
+  input:      /tmp/tmpd39nw7oj/utg000140l.fasta (71,863 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000140l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000140l_polished.fasta (0 bp)
+
+Removing empty segment: utg000140l
+
+Running Racon on utg000141l:
+  reads:      /tmp/tmpd39nw7oj/utg000141l_reads.fasta (16 reads)
+  input:      /tmp/tmpd39nw7oj/utg000141l.fasta (195,076 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000141l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000141l_polished.fasta (0 bp)
+
+Removing empty segment: utg000141l
+
+Running Racon on utg000142l:
+  reads:      /tmp/tmpd39nw7oj/utg000142l_reads.fasta (8 reads)
+  input:      /tmp/tmpd39nw7oj/utg000142l.fasta (75,831 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000142l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000142l_polished.fasta (0 bp)
+
+Removing empty segment: utg000142l
+
+Running Racon on utg000143l:
+  reads:      /tmp/tmpd39nw7oj/utg000143l_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000143l.fasta (28,711 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000143l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000143l_polished.fasta (0 bp)
+
+Removing empty segment: utg000143l
+
+Skipping Racon for utg000144l (not enough reads)
+Removing empty segment: utg000144l
+
+Running Racon on utg000145l:
+  reads:      /tmp/tmpd39nw7oj/utg000145l_reads.fasta (18 reads)
+  input:      /tmp/tmpd39nw7oj/utg000145l.fasta (126,369 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000145l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000145l_polished.fasta (0 bp)
+
+Removing empty segment: utg000145l
+
+Running Racon on utg000146l:
+  reads:      /tmp/tmpd39nw7oj/utg000146l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000146l.fasta (52,400 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000146l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000146l_polished.fasta (0 bp)
+
+Removing empty segment: utg000146l
+
+Running Racon on utg000147l:
+  reads:      /tmp/tmpd39nw7oj/utg000147l_reads.fasta (14 reads)
+  input:      /tmp/tmpd39nw7oj/utg000147l.fasta (79,980 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000147l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000147l_polished.fasta (0 bp)
+
+Removing empty segment: utg000147l
+
+Running Racon on utg000148l:
+  reads:      /tmp/tmpd39nw7oj/utg000148l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000148l.fasta (85,627 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000148l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000148l_polished.fasta (0 bp)
+
+Removing empty segment: utg000148l
+
+Running Racon on utg000149l:
+  reads:      /tmp/tmpd39nw7oj/utg000149l_reads.fasta (19 reads)
+  input:      /tmp/tmpd39nw7oj/utg000149l.fasta (169,840 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000149l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000149l_polished.fasta (0 bp)
+
+Removing empty segment: utg000149l
+
+Running Racon on utg000150l:
+  reads:      /tmp/tmpd39nw7oj/utg000150l_reads.fasta (33 reads)
+  input:      /tmp/tmpd39nw7oj/utg000150l.fasta (260,328 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000150l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000150l_polished.fasta (0 bp)
+
+Removing empty segment: utg000150l
+
+Running Racon on utg000151l:
+  reads:      /tmp/tmpd39nw7oj/utg000151l_reads.fasta (116 reads)
+  input:      /tmp/tmpd39nw7oj/utg000151l.fasta (784,636 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000151l.paf (16 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000151l_polished.fasta (0 bp)
+
+Removing empty segment: utg000151l
+
+Running Racon on utg000152l:
+  reads:      /tmp/tmpd39nw7oj/utg000152l_reads.fasta (41 reads)
+  input:      /tmp/tmpd39nw7oj/utg000152l.fasta (322,724 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000152l.paf (8 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000152l_polished.fasta (0 bp)
+
+Removing empty segment: utg000152l
+
+Running Racon on utg000153l:
+  reads:      /tmp/tmpd39nw7oj/utg000153l_reads.fasta (38 reads)
+  input:      /tmp/tmpd39nw7oj/utg000153l.fasta (274,647 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000153l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000153l_polished.fasta (274,647 bp)
+
+Running Racon on utg000154l:
+  reads:      /tmp/tmpd39nw7oj/utg000154l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000154l.fasta (58,853 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000154l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000154l_polished.fasta (0 bp)
+
+Removing empty segment: utg000154l
+
+Running Racon on utg000155l:
+  reads:      /tmp/tmpd39nw7oj/utg000155l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000155l.fasta (28,056 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000155l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000155l_polished.fasta (0 bp)
+
+Removing empty segment: utg000155l
+
+Running Racon on utg000156l:
+  reads:      /tmp/tmpd39nw7oj/utg000156l_reads.fasta (18 reads)
+  input:      /tmp/tmpd39nw7oj/utg000156l.fasta (111,321 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000156l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000156l_polished.fasta (0 bp)
+
+Removing empty segment: utg000156l
+
+Running Racon on utg000157l:
+  reads:      /tmp/tmpd39nw7oj/utg000157l_reads.fasta (19 reads)
+  input:      /tmp/tmpd39nw7oj/utg000157l.fasta (98,078 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000157l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000157l_polished.fasta (0 bp)
+
+Removing empty segment: utg000157l
+
+Running Racon on utg000158l:
+  reads:      /tmp/tmpd39nw7oj/utg000158l_reads.fasta (58 reads)
+  input:      /tmp/tmpd39nw7oj/utg000158l.fasta (468,033 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000158l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000158l_polished.fasta (0 bp)
+
+Removing empty segment: utg000158l
+
+Running Racon on utg000159l:
+  reads:      /tmp/tmpd39nw7oj/utg000159l_reads.fasta (8 reads)
+  input:      /tmp/tmpd39nw7oj/utg000159l.fasta (80,926 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000159l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000159l_polished.fasta (0 bp)
+
+Removing empty segment: utg000159l
+
+Running Racon on utg000160l:
+  reads:      /tmp/tmpd39nw7oj/utg000160l_reads.fasta (64 reads)
+  input:      /tmp/tmpd39nw7oj/utg000160l.fasta (541,638 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000160l.paf (12 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000160l_polished.fasta (0 bp)
+
+Removing empty segment: utg000160l
+
+Running Racon on utg000161l:
+  reads:      /tmp/tmpd39nw7oj/utg000161l_reads.fasta (20 reads)
+  input:      /tmp/tmpd39nw7oj/utg000161l.fasta (165,424 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000161l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000161l_polished.fasta (0 bp)
+
+Removing empty segment: utg000161l
+
+Running Racon on utg000162l:
+  reads:      /tmp/tmpd39nw7oj/utg000162l_reads.fasta (22 reads)
+  input:      /tmp/tmpd39nw7oj/utg000162l.fasta (189,151 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000162l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000162l_polished.fasta (0 bp)
+
+Removing empty segment: utg000162l
+
+Running Racon on utg000163l:
+  reads:      /tmp/tmpd39nw7oj/utg000163l_reads.fasta (45 reads)
+  input:      /tmp/tmpd39nw7oj/utg000163l.fasta (465,931 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000163l.paf (10 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000163l_polished.fasta (0 bp)
+
+Removing empty segment: utg000163l
+
+Running Racon on utg000164l:
+  reads:      /tmp/tmpd39nw7oj/utg000164l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000164l.fasta (112,976 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000164l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000164l_polished.fasta (0 bp)
+
+Removing empty segment: utg000164l
+
+Skipping Racon for utg000165l (not enough reads)
+Removing empty segment: utg000165l
+
+Running Racon on utg000166l:
+  reads:      /tmp/tmpd39nw7oj/utg000166l_reads.fasta (24 reads)
+  input:      /tmp/tmpd39nw7oj/utg000166l.fasta (183,196 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000166l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000166l_polished.fasta (183,198 bp)
+
+Running Racon on utg000167l:
+  reads:      /tmp/tmpd39nw7oj/utg000167l_reads.fasta (25 reads)
+  input:      /tmp/tmpd39nw7oj/utg000167l.fasta (175,613 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000167l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000167l_polished.fasta (0 bp)
+
+Removing empty segment: utg000167l
+
+Running Racon on utg000168c:
+  reads:      /tmp/tmpd39nw7oj/utg000168c_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000168c.fasta (16,290 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000168c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000168c_polished.fasta (0 bp)
+
+Removing empty segment: utg000168c
+
+Running Racon on utg000169l:
+  reads:      /tmp/tmpd39nw7oj/utg000169l_reads.fasta (52 reads)
+  input:      /tmp/tmpd39nw7oj/utg000169l.fasta (442,256 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000169l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000169l_polished.fasta (442,253 bp)
+
+Running Racon on utg000170l:
+  reads:      /tmp/tmpd39nw7oj/utg000170l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000170l.fasta (41,913 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000170l.paf (12 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000170l_polished.fasta (41,912 bp)
+
+Running Racon on utg000171l:
+  reads:      /tmp/tmpd39nw7oj/utg000171l_reads.fasta (47 reads)
+  input:      /tmp/tmpd39nw7oj/utg000171l.fasta (281,631 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000171l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000171l_polished.fasta (0 bp)
+
+Removing empty segment: utg000171l
+
+Running Racon on utg000172l:
+  reads:      /tmp/tmpd39nw7oj/utg000172l_reads.fasta (86 reads)
+  input:      /tmp/tmpd39nw7oj/utg000172l.fasta (516,289 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000172l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000172l_polished.fasta (0 bp)
+
+Removing empty segment: utg000172l
+
+Running Racon on utg000173l:
+  reads:      /tmp/tmpd39nw7oj/utg000173l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000173l.fasta (49,397 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000173l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000173l_polished.fasta (0 bp)
+
+Removing empty segment: utg000173l
+
+Running Racon on utg000174l:
+  reads:      /tmp/tmpd39nw7oj/utg000174l_reads.fasta (42 reads)
+  input:      /tmp/tmpd39nw7oj/utg000174l.fasta (279,079 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000174l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000174l_polished.fasta (0 bp)
+
+Removing empty segment: utg000174l
+
+Running Racon on utg000175l:
+  reads:      /tmp/tmpd39nw7oj/utg000175l_reads.fasta (50 reads)
+  input:      /tmp/tmpd39nw7oj/utg000175l.fasta (298,430 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000175l.paf (14 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000175l_polished.fasta (0 bp)
+
+Removing empty segment: utg000175l
+
+Running Racon on utg000176c:
+  reads:      /tmp/tmpd39nw7oj/utg000176c_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000176c.fasta (39,074 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000176c.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000176c_polished.fasta (0 bp)
+
+Removing empty segment: utg000176c
+
+Running Racon on utg000177l:
+  reads:      /tmp/tmpd39nw7oj/utg000177l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000177l.fasta (65,822 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000177l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000177l_polished.fasta (0 bp)
+
+Removing empty segment: utg000177l
+
+Running Racon on utg000178l:
+  reads:      /tmp/tmpd39nw7oj/utg000178l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000178l.fasta (27,352 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000178l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000178l_polished.fasta (0 bp)
+
+Removing empty segment: utg000178l
+
+Running Racon on utg000179l:
+  reads:      /tmp/tmpd39nw7oj/utg000179l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000179l.fasta (98,067 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000179l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000179l_polished.fasta (0 bp)
+
+Removing empty segment: utg000179l
+
+Running Racon on utg000180l:
+  reads:      /tmp/tmpd39nw7oj/utg000180l_reads.fasta (17 reads)
+  input:      /tmp/tmpd39nw7oj/utg000180l.fasta (155,313 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000180l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000180l_polished.fasta (0 bp)
+
+Removing empty segment: utg000180l
+
+Running Racon on utg000181l:
+  reads:      /tmp/tmpd39nw7oj/utg000181l_reads.fasta (3 reads)
+  input:      /tmp/tmpd39nw7oj/utg000181l.fasta (44,859 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000181l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000181l_polished.fasta (0 bp)
+
+Removing empty segment: utg000181l
+
+Running Racon on utg000182l:
+  reads:      /tmp/tmpd39nw7oj/utg000182l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000182l.fasta (37,642 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000182l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000182l_polished.fasta (0 bp)
+
+Removing empty segment: utg000182l
+
+Running Racon on utg000183l:
+  reads:      /tmp/tmpd39nw7oj/utg000183l_reads.fasta (86 reads)
+  input:      /tmp/tmpd39nw7oj/utg000183l.fasta (736,441 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000183l.paf (16 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000183l_polished.fasta (0 bp)
+
+Removing empty segment: utg000183l
+
+Running Racon on utg000184l:
+  reads:      /tmp/tmpd39nw7oj/utg000184l_reads.fasta (8 reads)
+  input:      /tmp/tmpd39nw7oj/utg000184l.fasta (68,251 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000184l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000184l_polished.fasta (68,251 bp)
+
+Running Racon on utg000185l:
+  reads:      /tmp/tmpd39nw7oj/utg000185l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000185l.fasta (11,898 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000185l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000185l_polished.fasta (0 bp)
+
+Removing empty segment: utg000185l
+
+Running Racon on utg000186l:
+  reads:      /tmp/tmpd39nw7oj/utg000186l_reads.fasta (13 reads)
+  input:      /tmp/tmpd39nw7oj/utg000186l.fasta (110,556 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000186l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000186l_polished.fasta (0 bp)
+
+Removing empty segment: utg000186l
+
+Running Racon on utg000187l:
+  reads:      /tmp/tmpd39nw7oj/utg000187l_reads.fasta (12 reads)
+  input:      /tmp/tmpd39nw7oj/utg000187l.fasta (90,909 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000187l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000187l_polished.fasta (0 bp)
+
+Removing empty segment: utg000187l
+
+Running Racon on utg000188l:
+  reads:      /tmp/tmpd39nw7oj/utg000188l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000188l.fasta (28,291 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000188l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000188l_polished.fasta (0 bp)
+
+Removing empty segment: utg000188l
+
+Running Racon on utg000189l:
+  reads:      /tmp/tmpd39nw7oj/utg000189l_reads.fasta (3 reads)
+  input:      /tmp/tmpd39nw7oj/utg000189l.fasta (60,449 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000189l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000189l_polished.fasta (0 bp)
+
+Removing empty segment: utg000189l
+
+Running Racon on utg000190l:
+  reads:      /tmp/tmpd39nw7oj/utg000190l_reads.fasta (26 reads)
+  input:      /tmp/tmpd39nw7oj/utg000190l.fasta (168,559 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000190l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000190l_polished.fasta (0 bp)
+
+Removing empty segment: utg000190l
+
+Running Racon on utg000191l:
+  reads:      /tmp/tmpd39nw7oj/utg000191l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000191l.fasta (50,523 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000191l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000191l_polished.fasta (0 bp)
+
+Removing empty segment: utg000191l
+
+Running Racon on utg000192l:
+  reads:      /tmp/tmpd39nw7oj/utg000192l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000192l.fasta (54,846 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000192l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000192l_polished.fasta (0 bp)
+
+Removing empty segment: utg000192l
+
+Running Racon on utg000193l:
+  reads:      /tmp/tmpd39nw7oj/utg000193l_reads.fasta (40 reads)
+  input:      /tmp/tmpd39nw7oj/utg000193l.fasta (328,993 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000193l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000193l_polished.fasta (0 bp)
+
+Removing empty segment: utg000193l
+
+Running Racon on utg000194l:
+  reads:      /tmp/tmpd39nw7oj/utg000194l_reads.fasta (13 reads)
+  input:      /tmp/tmpd39nw7oj/utg000194l.fasta (142,682 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000194l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000194l_polished.fasta (0 bp)
+
+Removing empty segment: utg000194l
+
+Running Racon on utg000195l:
+  reads:      /tmp/tmpd39nw7oj/utg000195l_reads.fasta (26 reads)
+  input:      /tmp/tmpd39nw7oj/utg000195l.fasta (131,396 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000195l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000195l_polished.fasta (0 bp)
+
+Removing empty segment: utg000195l
+
+Running Racon on utg000196l:
+  reads:      /tmp/tmpd39nw7oj/utg000196l_reads.fasta (70 reads)
+  input:      /tmp/tmpd39nw7oj/utg000196l.fasta (571,704 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000196l.paf (10 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000196l_polished.fasta (0 bp)
+
+Removing empty segment: utg000196l
+
+Running Racon on utg000197l:
+  reads:      /tmp/tmpd39nw7oj/utg000197l_reads.fasta (16 reads)
+  input:      /tmp/tmpd39nw7oj/utg000197l.fasta (141,359 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000197l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000197l_polished.fasta (0 bp)
+
+Removing empty segment: utg000197l
+
+Running Racon on utg000198l:
+  reads:      /tmp/tmpd39nw7oj/utg000198l_reads.fasta (57 reads)
+  input:      /tmp/tmpd39nw7oj/utg000198l.fasta (531,259 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000198l.paf (10 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000198l_polished.fasta (0 bp)
+
+Removing empty segment: utg000198l
+
+Running Racon on utg000199l:
+  reads:      /tmp/tmpd39nw7oj/utg000199l_reads.fasta (16 reads)
+  input:      /tmp/tmpd39nw7oj/utg000199l.fasta (134,379 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000199l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000199l_polished.fasta (0 bp)
+
+Removing empty segment: utg000199l
+
+Running Racon on utg000200l:
+  reads:      /tmp/tmpd39nw7oj/utg000200l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000200l.fasta (52,708 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000200l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000200l_polished.fasta (0 bp)
+
+Removing empty segment: utg000200l
+
+Running Racon on utg000201l:
+  reads:      /tmp/tmpd39nw7oj/utg000201l_reads.fasta (18 reads)
+  input:      /tmp/tmpd39nw7oj/utg000201l.fasta (136,871 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000201l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000201l_polished.fasta (0 bp)
+
+Removing empty segment: utg000201l
+
+Running Racon on utg000202l:
+  reads:      /tmp/tmpd39nw7oj/utg000202l_reads.fasta (28 reads)
+  input:      /tmp/tmpd39nw7oj/utg000202l.fasta (190,282 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000202l.paf (10 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000202l_polished.fasta (0 bp)
+
+Removing empty segment: utg000202l
+
+Running Racon on utg000203l:
+  reads:      /tmp/tmpd39nw7oj/utg000203l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000203l.fasta (24,659 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000203l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000203l_polished.fasta (0 bp)
+
+Removing empty segment: utg000203l
+
+Running Racon on utg000204l:
+  reads:      /tmp/tmpd39nw7oj/utg000204l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000204l.fasta (65,021 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000204l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000204l_polished.fasta (0 bp)
+
+Removing empty segment: utg000204l
+
+Running Racon on utg000205l:
+  reads:      /tmp/tmpd39nw7oj/utg000205l_reads.fasta (12 reads)
+  input:      /tmp/tmpd39nw7oj/utg000205l.fasta (119,894 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000205l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000205l_polished.fasta (0 bp)
+
+Removing empty segment: utg000205l
+
+Running Racon on utg000206l:
+  reads:      /tmp/tmpd39nw7oj/utg000206l_reads.fasta (20 reads)
+  input:      /tmp/tmpd39nw7oj/utg000206l.fasta (157,575 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000206l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000206l_polished.fasta (0 bp)
+
+Removing empty segment: utg000206l
+
+Running Racon on utg000207l:
+  reads:      /tmp/tmpd39nw7oj/utg000207l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000207l.fasta (53,358 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000207l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000207l_polished.fasta (0 bp)
+
+Removing empty segment: utg000207l
+
+Running Racon on utg000208l:
+  reads:      /tmp/tmpd39nw7oj/utg000208l_reads.fasta (3 reads)
+  input:      /tmp/tmpd39nw7oj/utg000208l.fasta (45,877 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000208l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000208l_polished.fasta (0 bp)
+
+Removing empty segment: utg000208l
+
+Running Racon on utg000209c:
+  reads:      /tmp/tmpd39nw7oj/utg000209c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000209c.fasta (10,152 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000209c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000209c_polished.fasta (0 bp)
+
+Removing empty segment: utg000209c
+
+Running Racon on utg000210l:
+  reads:      /tmp/tmpd39nw7oj/utg000210l_reads.fasta (69 reads)
+  input:      /tmp/tmpd39nw7oj/utg000210l.fasta (561,466 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000210l.paf (15 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000210l_polished.fasta (0 bp)
+
+Removing empty segment: utg000210l
+
+Running Racon on utg000211l:
+  reads:      /tmp/tmpd39nw7oj/utg000211l_reads.fasta (18 reads)
+  input:      /tmp/tmpd39nw7oj/utg000211l.fasta (109,850 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000211l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000211l_polished.fasta (0 bp)
+
+Removing empty segment: utg000211l
+
+Running Racon on utg000212l:
+  reads:      /tmp/tmpd39nw7oj/utg000212l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000212l.fasta (48,237 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000212l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000212l_polished.fasta (0 bp)
+
+Removing empty segment: utg000212l
+
+Running Racon on utg000213l:
+  reads:      /tmp/tmpd39nw7oj/utg000213l_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000213l.fasta (29,958 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000213l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000213l_polished.fasta (0 bp)
+
+Removing empty segment: utg000213l
+
+Running Racon on utg000214l:
+  reads:      /tmp/tmpd39nw7oj/utg000214l_reads.fasta (71 reads)
+  input:      /tmp/tmpd39nw7oj/utg000214l.fasta (484,412 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000214l.paf (25 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000214l_polished.fasta (0 bp)
+
+Removing empty segment: utg000214l
+
+Running Racon on utg000215l:
+  reads:      /tmp/tmpd39nw7oj/utg000215l_reads.fasta (62 reads)
+  input:      /tmp/tmpd39nw7oj/utg000215l.fasta (474,302 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000215l.paf (13 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000215l_polished.fasta (0 bp)
+
+Removing empty segment: utg000215l
+
+Running Racon on utg000216l:
+  reads:      /tmp/tmpd39nw7oj/utg000216l_reads.fasta (36 reads)
+  input:      /tmp/tmpd39nw7oj/utg000216l.fasta (195,345 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000216l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000216l_polished.fasta (0 bp)
+
+Removing empty segment: utg000216l
+
+Running Racon on utg000217l:
+  reads:      /tmp/tmpd39nw7oj/utg000217l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000217l.fasta (73,679 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000217l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000217l_polished.fasta (0 bp)
+
+Removing empty segment: utg000217l
+
+Running Racon on utg000218l:
+  reads:      /tmp/tmpd39nw7oj/utg000218l_reads.fasta (23 reads)
+  input:      /tmp/tmpd39nw7oj/utg000218l.fasta (201,104 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000218l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000218l_polished.fasta (0 bp)
+
+Removing empty segment: utg000218l
+
+Running Racon on utg000219l:
+  reads:      /tmp/tmpd39nw7oj/utg000219l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000219l.fasta (61,117 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000219l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000219l_polished.fasta (0 bp)
+
+Removing empty segment: utg000219l
+
+Running Racon on utg000220l:
+  reads:      /tmp/tmpd39nw7oj/utg000220l_reads.fasta (14 reads)
+  input:      /tmp/tmpd39nw7oj/utg000220l.fasta (103,075 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000220l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000220l_polished.fasta (0 bp)
+
+Removing empty segment: utg000220l
+
+Running Racon on utg000221l:
+  reads:      /tmp/tmpd39nw7oj/utg000221l_reads.fasta (53 reads)
+  input:      /tmp/tmpd39nw7oj/utg000221l.fasta (330,009 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000221l.paf (12 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000221l_polished.fasta (330,009 bp)
+
+Running Racon on utg000222l:
+  reads:      /tmp/tmpd39nw7oj/utg000222l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000222l.fasta (60,007 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000222l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000222l_polished.fasta (0 bp)
+
+Removing empty segment: utg000222l
+
+Running Racon on utg000223l:
+  reads:      /tmp/tmpd39nw7oj/utg000223l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000223l.fasta (116,796 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000223l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000223l_polished.fasta (0 bp)
+
+Removing empty segment: utg000223l
+
+Running Racon on utg000224l:
+  reads:      /tmp/tmpd39nw7oj/utg000224l_reads.fasta (11 reads)
+  input:      /tmp/tmpd39nw7oj/utg000224l.fasta (111,360 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000224l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000224l_polished.fasta (0 bp)
+
+Removing empty segment: utg000224l
+
+Running Racon on utg000225l:
+  reads:      /tmp/tmpd39nw7oj/utg000225l_reads.fasta (13 reads)
+  input:      /tmp/tmpd39nw7oj/utg000225l.fasta (97,634 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000225l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000225l_polished.fasta (0 bp)
+
+Removing empty segment: utg000225l
+
+Running Racon on utg000226l:
+  reads:      /tmp/tmpd39nw7oj/utg000226l_reads.fasta (38 reads)
+  input:      /tmp/tmpd39nw7oj/utg000226l.fasta (256,688 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000226l.paf (11 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000226l_polished.fasta (0 bp)
+
+Removing empty segment: utg000226l
+
+Running Racon on utg000227l:
+  reads:      /tmp/tmpd39nw7oj/utg000227l_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000227l.fasta (37,263 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000227l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000227l_polished.fasta (0 bp)
+
+Removing empty segment: utg000227l
+
+Running Racon on utg000228l:
+  reads:      /tmp/tmpd39nw7oj/utg000228l_reads.fasta (47 reads)
+  input:      /tmp/tmpd39nw7oj/utg000228l.fasta (409,682 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000228l.paf (12 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000228l_polished.fasta (0 bp)
+
+Removing empty segment: utg000228l
+
+Running Racon on utg000229l:
+  reads:      /tmp/tmpd39nw7oj/utg000229l_reads.fasta (22 reads)
+  input:      /tmp/tmpd39nw7oj/utg000229l.fasta (178,692 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000229l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000229l_polished.fasta (0 bp)
+
+Removing empty segment: utg000229l
+
+Running Racon on utg000230c:
+  reads:      /tmp/tmpd39nw7oj/utg000230c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000230c.fasta (23,460 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000230c.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000230c_polished.fasta (0 bp)
+
+Removing empty segment: utg000230c
+
+Running Racon on utg000231l:
+  reads:      /tmp/tmpd39nw7oj/utg000231l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000231l.fasta (51,986 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000231l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000231l_polished.fasta (0 bp)
+
+Removing empty segment: utg000231l
+
+Running Racon on utg000232l:
+  reads:      /tmp/tmpd39nw7oj/utg000232l_reads.fasta (11 reads)
+  input:      /tmp/tmpd39nw7oj/utg000232l.fasta (74,181 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000232l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000232l_polished.fasta (0 bp)
+
+Removing empty segment: utg000232l
+
+Running Racon on utg000233l:
+  reads:      /tmp/tmpd39nw7oj/utg000233l_reads.fasta (14 reads)
+  input:      /tmp/tmpd39nw7oj/utg000233l.fasta (85,507 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000233l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000233l_polished.fasta (0 bp)
+
+Removing empty segment: utg000233l
+
+Running Racon on utg000234l:
+  reads:      /tmp/tmpd39nw7oj/utg000234l_reads.fasta (12 reads)
+  input:      /tmp/tmpd39nw7oj/utg000234l.fasta (104,121 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000234l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000234l_polished.fasta (0 bp)
+
+Removing empty segment: utg000234l
+
+Running Racon on utg000235l:
+  reads:      /tmp/tmpd39nw7oj/utg000235l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000235l.fasta (12,768 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000235l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000235l_polished.fasta (0 bp)
+
+Removing empty segment: utg000235l
+
+Running Racon on utg000236l:
+  reads:      /tmp/tmpd39nw7oj/utg000236l_reads.fasta (11 reads)
+  input:      /tmp/tmpd39nw7oj/utg000236l.fasta (84,831 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000236l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000236l_polished.fasta (0 bp)
+
+Removing empty segment: utg000236l
+
+Running Racon on utg000237l:
+  reads:      /tmp/tmpd39nw7oj/utg000237l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000237l.fasta (57,028 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000237l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000237l_polished.fasta (0 bp)
+
+Removing empty segment: utg000237l
+
+Running Racon on utg000238l:
+  reads:      /tmp/tmpd39nw7oj/utg000238l_reads.fasta (33 reads)
+  input:      /tmp/tmpd39nw7oj/utg000238l.fasta (329,527 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000238l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000238l_polished.fasta (0 bp)
+
+Removing empty segment: utg000238l
+
+Running Racon on utg000239l:
+  reads:      /tmp/tmpd39nw7oj/utg000239l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000239l.fasta (50,638 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000239l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000239l_polished.fasta (0 bp)
+
+Removing empty segment: utg000239l
+
+Running Racon on utg000240l:
+  reads:      /tmp/tmpd39nw7oj/utg000240l_reads.fasta (18 reads)
+  input:      /tmp/tmpd39nw7oj/utg000240l.fasta (176,389 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000240l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000240l_polished.fasta (0 bp)
+
+Removing empty segment: utg000240l
+
+Running Racon on utg000241l:
+  reads:      /tmp/tmpd39nw7oj/utg000241l_reads.fasta (46 reads)
+  input:      /tmp/tmpd39nw7oj/utg000241l.fasta (459,847 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000241l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000241l_polished.fasta (0 bp)
+
+Removing empty segment: utg000241l
+
+Running Racon on utg000242l:
+  reads:      /tmp/tmpd39nw7oj/utg000242l_reads.fasta (13 reads)
+  input:      /tmp/tmpd39nw7oj/utg000242l.fasta (110,978 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000242l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000242l_polished.fasta (0 bp)
+
+Removing empty segment: utg000242l
+
+Running Racon on utg000243l:
+  reads:      /tmp/tmpd39nw7oj/utg000243l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000243l.fasta (16,690 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000243l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000243l_polished.fasta (0 bp)
+
+Removing empty segment: utg000243l
+
+Running Racon on utg000244l:
+  reads:      /tmp/tmpd39nw7oj/utg000244l_reads.fasta (27 reads)
+  input:      /tmp/tmpd39nw7oj/utg000244l.fasta (215,414 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000244l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000244l_polished.fasta (0 bp)
+
+Removing empty segment: utg000244l
+
+Running Racon on utg000245l:
+  reads:      /tmp/tmpd39nw7oj/utg000245l_reads.fasta (18 reads)
+  input:      /tmp/tmpd39nw7oj/utg000245l.fasta (150,519 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000245l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000245l_polished.fasta (0 bp)
+
+Removing empty segment: utg000245l
+
+Running Racon on utg000246l:
+  reads:      /tmp/tmpd39nw7oj/utg000246l_reads.fasta (14 reads)
+  input:      /tmp/tmpd39nw7oj/utg000246l.fasta (61,958 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000246l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000246l_polished.fasta (0 bp)
+
+Removing empty segment: utg000246l
+
+Running Racon on utg000247l:
+  reads:      /tmp/tmpd39nw7oj/utg000247l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000247l.fasta (69,267 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000247l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000247l_polished.fasta (69,265 bp)
+
+Running Racon on utg000248l:
+  reads:      /tmp/tmpd39nw7oj/utg000248l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000248l.fasta (103,566 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000248l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000248l_polished.fasta (0 bp)
+
+Removing empty segment: utg000248l
+
+Running Racon on utg000249l:
+  reads:      /tmp/tmpd39nw7oj/utg000249l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000249l.fasta (37,956 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000249l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000249l_polished.fasta (0 bp)
+
+Removing empty segment: utg000249l
+
+Running Racon on utg000250l:
+  reads:      /tmp/tmpd39nw7oj/utg000250l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000250l.fasta (64,162 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000250l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000250l_polished.fasta (0 bp)
+
+Removing empty segment: utg000250l
+
+Running Racon on utg000251l:
+  reads:      /tmp/tmpd39nw7oj/utg000251l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000251l.fasta (49,925 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000251l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000251l_polished.fasta (0 bp)
+
+Removing empty segment: utg000251l
+
+Running Racon on utg000252l:
+  reads:      /tmp/tmpd39nw7oj/utg000252l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000252l.fasta (91,410 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000252l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000252l_polished.fasta (0 bp)
+
+Removing empty segment: utg000252l
+
+Running Racon on utg000253l:
+  reads:      /tmp/tmpd39nw7oj/utg000253l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000253l.fasta (46,438 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000253l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000253l_polished.fasta (0 bp)
+
+Removing empty segment: utg000253l
+
+Running Racon on utg000254l:
+  reads:      /tmp/tmpd39nw7oj/utg000254l_reads.fasta (16 reads)
+  input:      /tmp/tmpd39nw7oj/utg000254l.fasta (74,697 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000254l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000254l_polished.fasta (0 bp)
+
+Removing empty segment: utg000254l
+
+Running Racon on utg000255l:
+  reads:      /tmp/tmpd39nw7oj/utg000255l_reads.fasta (39 reads)
+  input:      /tmp/tmpd39nw7oj/utg000255l.fasta (269,916 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000255l.paf (5 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000255l_polished.fasta (0 bp)
+
+Removing empty segment: utg000255l
+
+Running Racon on utg000256l:
+  reads:      /tmp/tmpd39nw7oj/utg000256l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000256l.fasta (72,689 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000256l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000256l_polished.fasta (0 bp)
+
+Removing empty segment: utg000256l
+
+Running Racon on utg000257l:
+  reads:      /tmp/tmpd39nw7oj/utg000257l_reads.fasta (8 reads)
+  input:      /tmp/tmpd39nw7oj/utg000257l.fasta (37,139 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000257l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000257l_polished.fasta (0 bp)
+
+Removing empty segment: utg000257l
+
+Running Racon on utg000258c:
+  reads:      /tmp/tmpd39nw7oj/utg000258c_reads.fasta (3 reads)
+  input:      /tmp/tmpd39nw7oj/utg000258c.fasta (21,379 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000258c.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000258c_polished.fasta (0 bp)
+
+Removing empty segment: utg000258c
+
+Running Racon on utg000259l:
+  reads:      /tmp/tmpd39nw7oj/utg000259l_reads.fasta (23 reads)
+  input:      /tmp/tmpd39nw7oj/utg000259l.fasta (155,923 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000259l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000259l_polished.fasta (0 bp)
+
+Removing empty segment: utg000259l
+
+Running Racon on utg000260l:
+  reads:      /tmp/tmpd39nw7oj/utg000260l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000260l.fasta (97,138 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000260l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000260l_polished.fasta (0 bp)
+
+Removing empty segment: utg000260l
+
+Running Racon on utg000261l:
+  reads:      /tmp/tmpd39nw7oj/utg000261l_reads.fasta (32 reads)
+  input:      /tmp/tmpd39nw7oj/utg000261l.fasta (221,652 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000261l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000261l_polished.fasta (0 bp)
+
+Removing empty segment: utg000261l
+
+Running Racon on utg000262l:
+  reads:      /tmp/tmpd39nw7oj/utg000262l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000262l.fasta (78,952 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000262l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000262l_polished.fasta (0 bp)
+
+Removing empty segment: utg000262l
+
+Running Racon on utg000263l:
+  reads:      /tmp/tmpd39nw7oj/utg000263l_reads.fasta (29 reads)
+  input:      /tmp/tmpd39nw7oj/utg000263l.fasta (215,386 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000263l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000263l_polished.fasta (0 bp)
+
+Removing empty segment: utg000263l
+
+Running Racon on utg000264l:
+  reads:      /tmp/tmpd39nw7oj/utg000264l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000264l.fasta (70,157 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000264l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000264l_polished.fasta (0 bp)
+
+Removing empty segment: utg000264l
+
+Running Racon on utg000265l:
+  reads:      /tmp/tmpd39nw7oj/utg000265l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000265l.fasta (54,322 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000265l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000265l_polished.fasta (0 bp)
+
+Removing empty segment: utg000265l
+
+Running Racon on utg000266l:
+  reads:      /tmp/tmpd39nw7oj/utg000266l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000266l.fasta (69,394 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000266l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000266l_polished.fasta (0 bp)
+
+Removing empty segment: utg000266l
+
+Running Racon on utg000267l:
+  reads:      /tmp/tmpd39nw7oj/utg000267l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000267l.fasta (41,305 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000267l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000267l_polished.fasta (0 bp)
+
+Removing empty segment: utg000267l
+
+Running Racon on utg000268l:
+  reads:      /tmp/tmpd39nw7oj/utg000268l_reads.fasta (33 reads)
+  input:      /tmp/tmpd39nw7oj/utg000268l.fasta (202,886 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000268l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000268l_polished.fasta (0 bp)
+
+Removing empty segment: utg000268l
+
+Running Racon on utg000269l:
+  reads:      /tmp/tmpd39nw7oj/utg000269l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000269l.fasta (25,214 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000269l.paf (10 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000269l_polished.fasta (0 bp)
+
+Removing empty segment: utg000269l
+
+Running Racon on utg000270l:
+  reads:      /tmp/tmpd39nw7oj/utg000270l_reads.fasta (14 reads)
+  input:      /tmp/tmpd39nw7oj/utg000270l.fasta (102,177 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000270l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000270l_polished.fasta (0 bp)
+
+Removing empty segment: utg000270l
+
+Running Racon on utg000271l:
+  reads:      /tmp/tmpd39nw7oj/utg000271l_reads.fasta (55 reads)
+  input:      /tmp/tmpd39nw7oj/utg000271l.fasta (319,862 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000271l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000271l_polished.fasta (0 bp)
+
+Removing empty segment: utg000271l
+
+Running Racon on utg000272l:
+  reads:      /tmp/tmpd39nw7oj/utg000272l_reads.fasta (8 reads)
+  input:      /tmp/tmpd39nw7oj/utg000272l.fasta (89,889 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000272l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000272l_polished.fasta (0 bp)
+
+Removing empty segment: utg000272l
+
+Running Racon on utg000273l:
+  reads:      /tmp/tmpd39nw7oj/utg000273l_reads.fasta (19 reads)
+  input:      /tmp/tmpd39nw7oj/utg000273l.fasta (163,586 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000273l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000273l_polished.fasta (0 bp)
+
+Removing empty segment: utg000273l
+
+Running Racon on utg000274l:
+  reads:      /tmp/tmpd39nw7oj/utg000274l_reads.fasta (33 reads)
+  input:      /tmp/tmpd39nw7oj/utg000274l.fasta (255,280 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000274l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000274l_polished.fasta (0 bp)
+
+Removing empty segment: utg000274l
+
+Running Racon on utg000275c:
+  reads:      /tmp/tmpd39nw7oj/utg000275c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000275c.fasta (12,779 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000275c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000275c_polished.fasta (0 bp)
+
+Removing empty segment: utg000275c
+
+Running Racon on utg000276l:
+  reads:      /tmp/tmpd39nw7oj/utg000276l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000276l.fasta (50,852 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000276l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000276l_polished.fasta (0 bp)
+
+Removing empty segment: utg000276l
+
+Running Racon on utg000277l:
+  reads:      /tmp/tmpd39nw7oj/utg000277l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000277l.fasta (97,051 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000277l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000277l_polished.fasta (0 bp)
+
+Removing empty segment: utg000277l
+
+Running Racon on utg000278l:
+  reads:      /tmp/tmpd39nw7oj/utg000278l_reads.fasta (19 reads)
+  input:      /tmp/tmpd39nw7oj/utg000278l.fasta (109,424 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000278l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000278l_polished.fasta (0 bp)
+
+Removing empty segment: utg000278l
+
+Running Racon on utg000279l:
+  reads:      /tmp/tmpd39nw7oj/utg000279l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000279l.fasta (111,680 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000279l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000279l_polished.fasta (0 bp)
+
+Removing empty segment: utg000279l
+
+Running Racon on utg000280l:
+  reads:      /tmp/tmpd39nw7oj/utg000280l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000280l.fasta (105,352 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000280l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000280l_polished.fasta (0 bp)
+
+Removing empty segment: utg000280l
+
+Running Racon on utg000281l:
+  reads:      /tmp/tmpd39nw7oj/utg000281l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000281l.fasta (60,993 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000281l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000281l_polished.fasta (0 bp)
+
+Removing empty segment: utg000281l
+
+Running Racon on utg000282l:
+  reads:      /tmp/tmpd39nw7oj/utg000282l_reads.fasta (27 reads)
+  input:      /tmp/tmpd39nw7oj/utg000282l.fasta (303,291 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000282l.paf (8 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000282l_polished.fasta (0 bp)
+
+Removing empty segment: utg000282l
+
+Running Racon on utg000283l:
+  reads:      /tmp/tmpd39nw7oj/utg000283l_reads.fasta (13 reads)
+  input:      /tmp/tmpd39nw7oj/utg000283l.fasta (168,126 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000283l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000283l_polished.fasta (0 bp)
+
+Removing empty segment: utg000283l
+
+Running Racon on utg000284l:
+  reads:      /tmp/tmpd39nw7oj/utg000284l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000284l.fasta (74,040 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000284l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000284l_polished.fasta (0 bp)
+
+Removing empty segment: utg000284l
+
+Running Racon on utg000285l:
+  reads:      /tmp/tmpd39nw7oj/utg000285l_reads.fasta (8 reads)
+  input:      /tmp/tmpd39nw7oj/utg000285l.fasta (90,647 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000285l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000285l_polished.fasta (0 bp)
+
+Removing empty segment: utg000285l
+
+Running Racon on utg000286l:
+  reads:      /tmp/tmpd39nw7oj/utg000286l_reads.fasta (3 reads)
+  input:      /tmp/tmpd39nw7oj/utg000286l.fasta (39,623 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000286l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000286l_polished.fasta (0 bp)
+
+Removing empty segment: utg000286l
+
+Running Racon on utg000287l:
+  reads:      /tmp/tmpd39nw7oj/utg000287l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000287l.fasta (40,945 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000287l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000287l_polished.fasta (0 bp)
+
+Removing empty segment: utg000287l
+
+Running Racon on utg000288l:
+  reads:      /tmp/tmpd39nw7oj/utg000288l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000288l.fasta (108,352 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000288l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000288l_polished.fasta (0 bp)
+
+Removing empty segment: utg000288l
+
+Running Racon on utg000289l:
+  reads:      /tmp/tmpd39nw7oj/utg000289l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000289l.fasta (49,198 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000289l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000289l_polished.fasta (0 bp)
+
+Removing empty segment: utg000289l
+
+Running Racon on utg000290l:
+  reads:      /tmp/tmpd39nw7oj/utg000290l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000290l.fasta (20,032 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000290l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000290l_polished.fasta (0 bp)
+
+Removing empty segment: utg000290l
+
+Running Racon on utg000291l:
+  reads:      /tmp/tmpd39nw7oj/utg000291l_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000291l.fasta (33,777 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000291l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000291l_polished.fasta (0 bp)
+
+Removing empty segment: utg000291l
+
+Running Racon on utg000292l:
+  reads:      /tmp/tmpd39nw7oj/utg000292l_reads.fasta (44 reads)
+  input:      /tmp/tmpd39nw7oj/utg000292l.fasta (338,515 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000292l.paf (12 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000292l_polished.fasta (0 bp)
+
+Removing empty segment: utg000292l
+
+Running Racon on utg000293l:
+  reads:      /tmp/tmpd39nw7oj/utg000293l_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000293l.fasta (19,373 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000293l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000293l_polished.fasta (0 bp)
+
+Removing empty segment: utg000293l
+
+Running Racon on utg000294l:
+  reads:      /tmp/tmpd39nw7oj/utg000294l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000294l.fasta (91,532 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000294l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000294l_polished.fasta (0 bp)
+
+Removing empty segment: utg000294l
+
+Running Racon on utg000295l:
+  reads:      /tmp/tmpd39nw7oj/utg000295l_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000295l.fasta (32,000 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000295l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000295l_polished.fasta (0 bp)
+
+Removing empty segment: utg000295l
+
+Running Racon on utg000296l:
+  reads:      /tmp/tmpd39nw7oj/utg000296l_reads.fasta (12 reads)
+  input:      /tmp/tmpd39nw7oj/utg000296l.fasta (71,403 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000296l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000296l_polished.fasta (0 bp)
+
+Removing empty segment: utg000296l
+
+Running Racon on utg000297l:
+  reads:      /tmp/tmpd39nw7oj/utg000297l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000297l.fasta (63,320 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000297l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000297l_polished.fasta (0 bp)
+
+Removing empty segment: utg000297l
+
+Running Racon on utg000298l:
+  reads:      /tmp/tmpd39nw7oj/utg000298l_reads.fasta (72 reads)
+  input:      /tmp/tmpd39nw7oj/utg000298l.fasta (572,183 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000298l.paf (11 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000298l_polished.fasta (0 bp)
+
+Removing empty segment: utg000298l
+
+Running Racon on utg000299l:
+  reads:      /tmp/tmpd39nw7oj/utg000299l_reads.fasta (42 reads)
+  input:      /tmp/tmpd39nw7oj/utg000299l.fasta (274,005 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000299l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000299l_polished.fasta (0 bp)
+
+Removing empty segment: utg000299l
+
+Running Racon on utg000300l:
+  reads:      /tmp/tmpd39nw7oj/utg000300l_reads.fasta (22 reads)
+  input:      /tmp/tmpd39nw7oj/utg000300l.fasta (249,711 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000300l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000300l_polished.fasta (0 bp)
+
+Removing empty segment: utg000300l
+
+Running Racon on utg000301l:
+  reads:      /tmp/tmpd39nw7oj/utg000301l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000301l.fasta (30,347 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000301l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000301l_polished.fasta (0 bp)
+
+Removing empty segment: utg000301l
+
+Running Racon on utg000302l:
+  reads:      /tmp/tmpd39nw7oj/utg000302l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000302l.fasta (60,937 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000302l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000302l_polished.fasta (0 bp)
+
+Removing empty segment: utg000302l
+
+Running Racon on utg000303l:
+  reads:      /tmp/tmpd39nw7oj/utg000303l_reads.fasta (14 reads)
+  input:      /tmp/tmpd39nw7oj/utg000303l.fasta (86,243 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000303l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000303l_polished.fasta (0 bp)
+
+Removing empty segment: utg000303l
+
+Running Racon on utg000304l:
+  reads:      /tmp/tmpd39nw7oj/utg000304l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000304l.fasta (83,414 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000304l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000304l_polished.fasta (0 bp)
+
+Removing empty segment: utg000304l
+
+Running Racon on utg000305c:
+  reads:      /tmp/tmpd39nw7oj/utg000305c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000305c.fasta (6,265 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000305c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000305c_polished.fasta (0 bp)
+
+Removing empty segment: utg000305c
+
+Running Racon on utg000306l:
+  reads:      /tmp/tmpd39nw7oj/utg000306l_reads.fasta (17 reads)
+  input:      /tmp/tmpd39nw7oj/utg000306l.fasta (121,798 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000306l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000306l_polished.fasta (0 bp)
+
+Removing empty segment: utg000306l
+
+Running Racon on utg000307c:
+  reads:      /tmp/tmpd39nw7oj/utg000307c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000307c.fasta (14,408 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000307c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000307c_polished.fasta (0 bp)
+
+Removing empty segment: utg000307c
+
+Running Racon on utg000308l:
+  reads:      /tmp/tmpd39nw7oj/utg000308l_reads.fasta (11 reads)
+  input:      /tmp/tmpd39nw7oj/utg000308l.fasta (103,951 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000308l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000308l_polished.fasta (0 bp)
+
+Removing empty segment: utg000308l
+
+Running Racon on utg000309l:
+  reads:      /tmp/tmpd39nw7oj/utg000309l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000309l.fasta (38,396 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000309l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000309l_polished.fasta (0 bp)
+
+Removing empty segment: utg000309l
+
+Running Racon on utg000310l:
+  reads:      /tmp/tmpd39nw7oj/utg000310l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000310l.fasta (48,332 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000310l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000310l_polished.fasta (0 bp)
+
+Removing empty segment: utg000310l
+
+Running Racon on utg000311l:
+  reads:      /tmp/tmpd39nw7oj/utg000311l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000311l.fasta (90,311 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000311l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000311l_polished.fasta (0 bp)
+
+Removing empty segment: utg000311l
+
+Running Racon on utg000312l:
+  reads:      /tmp/tmpd39nw7oj/utg000312l_reads.fasta (13 reads)
+  input:      /tmp/tmpd39nw7oj/utg000312l.fasta (92,199 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000312l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000312l_polished.fasta (0 bp)
+
+Removing empty segment: utg000312l
+
+Running Racon on utg000313l:
+  reads:      /tmp/tmpd39nw7oj/utg000313l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000313l.fasta (93,402 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000313l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000313l_polished.fasta (0 bp)
+
+Removing empty segment: utg000313l
+
+Running Racon on utg000314c:
+  reads:      /tmp/tmpd39nw7oj/utg000314c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000314c.fasta (811 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000314c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000314c_polished.fasta (0 bp)
+
+Removing empty segment: utg000314c
+
+Running Racon on utg000315l:
+  reads:      /tmp/tmpd39nw7oj/utg000315l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000315l.fasta (103,784 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000315l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000315l_polished.fasta (0 bp)
+
+Removing empty segment: utg000315l
+
+Running Racon on utg000316l:
+  reads:      /tmp/tmpd39nw7oj/utg000316l_reads.fasta (11 reads)
+  input:      /tmp/tmpd39nw7oj/utg000316l.fasta (90,277 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000316l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000316l_polished.fasta (0 bp)
+
+Removing empty segment: utg000316l
+
+Running Racon on utg000317l:
+  reads:      /tmp/tmpd39nw7oj/utg000317l_reads.fasta (29 reads)
+  input:      /tmp/tmpd39nw7oj/utg000317l.fasta (242,591 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000317l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000317l_polished.fasta (0 bp)
+
+Removing empty segment: utg000317l
+
+Running Racon on utg000318l:
+  reads:      /tmp/tmpd39nw7oj/utg000318l_reads.fasta (15 reads)
+  input:      /tmp/tmpd39nw7oj/utg000318l.fasta (90,901 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000318l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000318l_polished.fasta (0 bp)
+
+Removing empty segment: utg000318l
+
+Running Racon on utg000319l:
+  reads:      /tmp/tmpd39nw7oj/utg000319l_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000319l.fasta (26,148 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000319l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000319l_polished.fasta (0 bp)
+
+Removing empty segment: utg000319l
+
+Skipping Racon for utg000320l (not enough reads)
+Removing empty segment: utg000320l
+
+Running Racon on utg000321l:
+  reads:      /tmp/tmpd39nw7oj/utg000321l_reads.fasta (17 reads)
+  input:      /tmp/tmpd39nw7oj/utg000321l.fasta (96,716 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000321l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000321l_polished.fasta (0 bp)
+
+Removing empty segment: utg000321l
+
+Running Racon on utg000322l:
+  reads:      /tmp/tmpd39nw7oj/utg000322l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000322l.fasta (44,585 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000322l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000322l_polished.fasta (0 bp)
+
+Removing empty segment: utg000322l
+
+Running Racon on utg000323l:
+  reads:      /tmp/tmpd39nw7oj/utg000323l_reads.fasta (8 reads)
+  input:      /tmp/tmpd39nw7oj/utg000323l.fasta (61,763 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000323l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000323l_polished.fasta (0 bp)
+
+Removing empty segment: utg000323l
+
+Running Racon on utg000324l:
+  reads:      /tmp/tmpd39nw7oj/utg000324l_reads.fasta (12 reads)
+  input:      /tmp/tmpd39nw7oj/utg000324l.fasta (110,282 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000324l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000324l_polished.fasta (0 bp)
+
+Removing empty segment: utg000324l
+
+Running Racon on utg000325c:
+  reads:      /tmp/tmpd39nw7oj/utg000325c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000325c.fasta (13,739 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000325c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000325c_polished.fasta (0 bp)
+
+Removing empty segment: utg000325c
+
+Running Racon on utg000326l:
+  reads:      /tmp/tmpd39nw7oj/utg000326l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000326l.fasta (81,626 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000326l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000326l_polished.fasta (0 bp)
+
+Removing empty segment: utg000326l
+
+Running Racon on utg000327l:
+  reads:      /tmp/tmpd39nw7oj/utg000327l_reads.fasta (8 reads)
+  input:      /tmp/tmpd39nw7oj/utg000327l.fasta (51,356 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000327l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000327l_polished.fasta (0 bp)
+
+Removing empty segment: utg000327l
+
+Running Racon on utg000328l:
+  reads:      /tmp/tmpd39nw7oj/utg000328l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000328l.fasta (58,829 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000328l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000328l_polished.fasta (0 bp)
+
+Removing empty segment: utg000328l
+
+Running Racon on utg000329l:
+  reads:      /tmp/tmpd39nw7oj/utg000329l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000329l.fasta (66,616 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000329l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000329l_polished.fasta (0 bp)
+
+Removing empty segment: utg000329l
+
+Running Racon on utg000330l:
+  reads:      /tmp/tmpd39nw7oj/utg000330l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000330l.fasta (57,691 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000330l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000330l_polished.fasta (0 bp)
+
+Removing empty segment: utg000330l
+
+Running Racon on utg000331l:
+  reads:      /tmp/tmpd39nw7oj/utg000331l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000331l.fasta (60,396 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000331l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000331l_polished.fasta (0 bp)
+
+Removing empty segment: utg000331l
+
+Running Racon on utg000332l:
+  reads:      /tmp/tmpd39nw7oj/utg000332l_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000332l.fasta (20,336 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000332l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000332l_polished.fasta (0 bp)
+
+Removing empty segment: utg000332l
+
+Running Racon on utg000333l:
+  reads:      /tmp/tmpd39nw7oj/utg000333l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000333l.fasta (98,984 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000333l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000333l_polished.fasta (0 bp)
+
+Removing empty segment: utg000333l
+
+Running Racon on utg000334l:
+  reads:      /tmp/tmpd39nw7oj/utg000334l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000334l.fasta (94,747 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000334l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000334l_polished.fasta (0 bp)
+
+Removing empty segment: utg000334l
+
+Running Racon on utg000335l:
+  reads:      /tmp/tmpd39nw7oj/utg000335l_reads.fasta (8 reads)
+  input:      /tmp/tmpd39nw7oj/utg000335l.fasta (40,393 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000335l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000335l_polished.fasta (0 bp)
+
+Removing empty segment: utg000335l
+
+Running Racon on utg000336l:
+  reads:      /tmp/tmpd39nw7oj/utg000336l_reads.fasta (8 reads)
+  input:      /tmp/tmpd39nw7oj/utg000336l.fasta (45,029 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000336l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000336l_polished.fasta (0 bp)
+
+Removing empty segment: utg000336l
+
+Running Racon on utg000337l:
+  reads:      /tmp/tmpd39nw7oj/utg000337l_reads.fasta (19 reads)
+  input:      /tmp/tmpd39nw7oj/utg000337l.fasta (201,196 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000337l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000337l_polished.fasta (0 bp)
+
+Removing empty segment: utg000337l
+
+Running Racon on utg000338c:
+  reads:      /tmp/tmpd39nw7oj/utg000338c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000338c.fasta (2,286 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000338c.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000338c_polished.fasta (0 bp)
+
+Removing empty segment: utg000338c
+
+Running Racon on utg000339c:
+  reads:      /tmp/tmpd39nw7oj/utg000339c_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000339c.fasta (22,742 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000339c.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000339c_polished.fasta (0 bp)
+
+Removing empty segment: utg000339c
+
+Running Racon on utg000340l:
+  reads:      /tmp/tmpd39nw7oj/utg000340l_reads.fasta (22 reads)
+  input:      /tmp/tmpd39nw7oj/utg000340l.fasta (127,946 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000340l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000340l_polished.fasta (0 bp)
+
+Removing empty segment: utg000340l
+
+Running Racon on utg000341l:
+  reads:      /tmp/tmpd39nw7oj/utg000341l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000341l.fasta (67,241 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000341l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000341l_polished.fasta (0 bp)
+
+Removing empty segment: utg000341l
+
+Running Racon on utg000342c:
+  reads:      /tmp/tmpd39nw7oj/utg000342c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000342c.fasta (6,958 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000342c.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000342c_polished.fasta (0 bp)
+
+Removing empty segment: utg000342c
+
+Running Racon on utg000343c:
+  reads:      /tmp/tmpd39nw7oj/utg000343c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000343c.fasta (6,044 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000343c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000343c_polished.fasta (0 bp)
+
+Removing empty segment: utg000343c
+
+Running Racon on utg000344l:
+  reads:      /tmp/tmpd39nw7oj/utg000344l_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000344l.fasta (20,835 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000344l.paf (6 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000344l_polished.fasta (0 bp)
+
+Removing empty segment: utg000344l
+
+Running Racon on utg000345c:
+  reads:      /tmp/tmpd39nw7oj/utg000345c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000345c.fasta (5,364 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000345c.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000345c_polished.fasta (0 bp)
+
+Removing empty segment: utg000345c
+
+Running Racon on utg000346l:
+  reads:      /tmp/tmpd39nw7oj/utg000346l_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000346l.fasta (38,928 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000346l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000346l_polished.fasta (0 bp)
+
+Removing empty segment: utg000346l
+
+Running Racon on utg000347l:
+  reads:      /tmp/tmpd39nw7oj/utg000347l_reads.fasta (3 reads)
+  input:      /tmp/tmpd39nw7oj/utg000347l.fasta (24,394 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000347l.paf (7 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000347l_polished.fasta (0 bp)
+
+Removing empty segment: utg000347l
+
+Running Racon on utg000348l:
+  reads:      /tmp/tmpd39nw7oj/utg000348l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000348l.fasta (30,925 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000348l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000348l_polished.fasta (0 bp)
+
+Removing empty segment: utg000348l
+
+Running Racon on utg000349l:
+  reads:      /tmp/tmpd39nw7oj/utg000349l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000349l.fasta (30,989 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000349l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000349l_polished.fasta (0 bp)
+
+Removing empty segment: utg000349l
+
+Running Racon on utg000350l:
+  reads:      /tmp/tmpd39nw7oj/utg000350l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000350l.fasta (38,344 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000350l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000350l_polished.fasta (0 bp)
+
+Removing empty segment: utg000350l
+
+Running Racon on utg000351l:
+  reads:      /tmp/tmpd39nw7oj/utg000351l_reads.fasta (10 reads)
+  input:      /tmp/tmpd39nw7oj/utg000351l.fasta (177,391 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000351l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000351l_polished.fasta (0 bp)
+
+Removing empty segment: utg000351l
+
+Running Racon on utg000352c:
+  reads:      /tmp/tmpd39nw7oj/utg000352c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000352c.fasta (9,806 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000352c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000352c_polished.fasta (0 bp)
+
+Removing empty segment: utg000352c
+
+Running Racon on utg000353c:
+  reads:      /tmp/tmpd39nw7oj/utg000353c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000353c.fasta (4,398 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000353c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000353c_polished.fasta (0 bp)
+
+Removing empty segment: utg000353c
+
+Running Racon on utg000354l:
+  reads:      /tmp/tmpd39nw7oj/utg000354l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000354l.fasta (25,002 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000354l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000354l_polished.fasta (0 bp)
+
+Removing empty segment: utg000354l
+
+Running Racon on utg000355l:
+  reads:      /tmp/tmpd39nw7oj/utg000355l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000355l.fasta (47,746 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000355l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000355l_polished.fasta (0 bp)
+
+Removing empty segment: utg000355l
+
+Running Racon on utg000356l:
+  reads:      /tmp/tmpd39nw7oj/utg000356l_reads.fasta (3 reads)
+  input:      /tmp/tmpd39nw7oj/utg000356l.fasta (30,453 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000356l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000356l_polished.fasta (0 bp)
+
+Removing empty segment: utg000356l
+
+Running Racon on utg000357l:
+  reads:      /tmp/tmpd39nw7oj/utg000357l_reads.fasta (13 reads)
+  input:      /tmp/tmpd39nw7oj/utg000357l.fasta (62,811 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000357l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000357l_polished.fasta (0 bp)
+
+Removing empty segment: utg000357l
+
+Running Racon on utg000358l:
+  reads:      /tmp/tmpd39nw7oj/utg000358l_reads.fasta (14 reads)
+  input:      /tmp/tmpd39nw7oj/utg000358l.fasta (131,042 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000358l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000358l_polished.fasta (0 bp)
+
+Removing empty segment: utg000358l
+
+Running Racon on utg000359c:
+  reads:      /tmp/tmpd39nw7oj/utg000359c_reads.fasta (3 reads)
+  input:      /tmp/tmpd39nw7oj/utg000359c.fasta (13,426 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000359c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000359c_polished.fasta (0 bp)
+
+Removing empty segment: utg000359c
+
+Running Racon on utg000360l:
+  reads:      /tmp/tmpd39nw7oj/utg000360l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000360l.fasta (24,237 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000360l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000360l_polished.fasta (0 bp)
+
+Removing empty segment: utg000360l
+
+Running Racon on utg000361l:
+  reads:      /tmp/tmpd39nw7oj/utg000361l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000361l.fasta (22,209 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000361l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000361l_polished.fasta (0 bp)
+
+Removing empty segment: utg000361l
+
+Running Racon on utg000362l:
+  reads:      /tmp/tmpd39nw7oj/utg000362l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000362l.fasta (46,344 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000362l.paf (13 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000362l_polished.fasta (0 bp)
+
+Removing empty segment: utg000362l
+
+Running Racon on utg000363l:
+  reads:      /tmp/tmpd39nw7oj/utg000363l_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000363l.fasta (22,347 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000363l.paf (9 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000363l_polished.fasta (0 bp)
+
+Removing empty segment: utg000363l
+
+Running Racon on utg000364c:
+  reads:      /tmp/tmpd39nw7oj/utg000364c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000364c.fasta (18,808 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000364c.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000364c_polished.fasta (0 bp)
+
+Removing empty segment: utg000364c
+
+Running Racon on utg000365l:
+  reads:      /tmp/tmpd39nw7oj/utg000365l_reads.fasta (7 reads)
+  input:      /tmp/tmpd39nw7oj/utg000365l.fasta (86,873 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000365l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000365l_polished.fasta (0 bp)
+
+Removing empty segment: utg000365l
+
+Running Racon on utg000366l:
+  reads:      /tmp/tmpd39nw7oj/utg000366l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000366l.fasta (37,237 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000366l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000366l_polished.fasta (0 bp)
+
+Removing empty segment: utg000366l
+
+Running Racon on utg000367l:
+  reads:      /tmp/tmpd39nw7oj/utg000367l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000367l.fasta (41,332 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000367l.paf (4 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000367l_polished.fasta (0 bp)
+
+Removing empty segment: utg000367l
+
+Running Racon on utg000368l:
+  reads:      /tmp/tmpd39nw7oj/utg000368l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000368l.fasta (51,597 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000368l.paf (3 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000368l_polished.fasta (0 bp)
+
+Removing empty segment: utg000368l
+
+Running Racon on utg000369l:
+  reads:      /tmp/tmpd39nw7oj/utg000369l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000369l.fasta (37,852 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000369l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000369l_polished.fasta (0 bp)
+
+Removing empty segment: utg000369l
+
+Running Racon on utg000370l:
+  reads:      /tmp/tmpd39nw7oj/utg000370l_reads.fasta (13 reads)
+  input:      /tmp/tmpd39nw7oj/utg000370l.fasta (59,966 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000370l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000370l_polished.fasta (0 bp)
+
+Removing empty segment: utg000370l
+
+Running Racon on utg000371l:
+  reads:      /tmp/tmpd39nw7oj/utg000371l_reads.fasta (4 reads)
+  input:      /tmp/tmpd39nw7oj/utg000371l.fasta (67,312 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000371l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000371l_polished.fasta (0 bp)
+
+Removing empty segment: utg000371l
+
+Running Racon on utg000372l:
+  reads:      /tmp/tmpd39nw7oj/utg000372l_reads.fasta (6 reads)
+  input:      /tmp/tmpd39nw7oj/utg000372l.fasta (61,907 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000372l.paf (0 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000372l_polished.fasta (0 bp)
+
+Removing empty segment: utg000372l
+
+Running Racon on utg000373l:
+  reads:      /tmp/tmpd39nw7oj/utg000373l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000373l.fasta (110,447 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000373l.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000373l_polished.fasta (0 bp)
+
+Removing empty segment: utg000373l
+
+Running Racon on utg000374l:
+  reads:      /tmp/tmpd39nw7oj/utg000374l_reads.fasta (5 reads)
+  input:      /tmp/tmpd39nw7oj/utg000374l.fasta (20,460 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000374l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000374l_polished.fasta (0 bp)
+
+Removing empty segment: utg000374l
+
+Running Racon on utg000375l:
+  reads:      /tmp/tmpd39nw7oj/utg000375l_reads.fasta (9 reads)
+  input:      /tmp/tmpd39nw7oj/utg000375l.fasta (77,046 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000375l.paf (1 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000375l_polished.fasta (0 bp)
+
+Removing empty segment: utg000375l
+
+Running Racon on utg000376c:
+  reads:      /tmp/tmpd39nw7oj/utg000376c_reads.fasta (2 reads)
+  input:      /tmp/tmpd39nw7oj/utg000376c.fasta (2,335 bp)
+  alignments: /tmp/tmpd39nw7oj/utg000376c.paf (2 alignments)
+  output:     /tmp/tmpd39nw7oj/utg000376c_polished.fasta (0 bp)
+
+Removing empty segment: utg000376c
+
+Error: could not find /tmp/tmpd39nw7oj/utg000377c_reads.fasta
