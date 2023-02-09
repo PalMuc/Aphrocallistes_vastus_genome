@@ -1,0 +1,19 @@
+GMAP version 2020-06-30 called with args: gmap.sse42 -d Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_transdecoder_CDS.fasta -f 3 -B 4 -t 4 -n 1
+Note: -n 1 will not report chimeric alignments.  If you want a single alignment plus chimeras, use -n 0 instead.
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (30,120,032 bytes, 0.01 sec)
+Looking for genome Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked in directory /home/meitel/anaconda3/envs/mappings/share/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked
+Looking for index files in directory /home/meitel/anaconda3/envs/mappings/share/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked
+  Pointers file is Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.ref153offsets64meta
+  Offsets file is Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.ref153offsets64strm
+  Positions file is Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.07 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (157,811,904 bytes, 0.07 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (105,221,896 bytes, 0.05 sec)
+Starting alignment
+No paths found for 5822a2ca-8a0d-4c03-9933-5f0894c4cfa0.p1
+Processed 16518 queries in 30.15 seconds (547.86 queries/sec)

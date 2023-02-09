@@ -1,0 +1,1797 @@
+-parsing cufflinks output: PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed.gtf
+-parsing genome fasta: Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.fasta
+-done parsing genome.
+// processing Aphrocalllistes_vastus_HiC-scaffold_001
+// processing Aphrocalllistes_vastus_HiC-scaffold_002
+// processing Aphrocalllistes_vastus_HiC-scaffold_003
+// processing Aphrocalllistes_vastus_HiC-scaffold_004
+// processing Aphrocalllistes_vastus_HiC-scaffold_005
+// processing Aphrocalllistes_vastus_HiC-scaffold_006
+// processing Aphrocalllistes_vastus_HiC-scaffold_007
+// processing Aphrocalllistes_vastus_HiC-scaffold_008
+// processing Aphrocalllistes_vastus_HiC-scaffold_009
+// processing Aphrocalllistes_vastus_HiC-scaffold_010
+// processing Aphrocalllistes_vastus_HiC-scaffold_011
+// processing Aphrocalllistes_vastus_HiC-scaffold_012
+// processing Aphrocalllistes_vastus_HiC-scaffold_013
+// processing Aphrocalllistes_vastus_HiC-scaffold_014
+// processing Aphrocalllistes_vastus_HiC-scaffold_015
+// processing Aphrocalllistes_vastus_HiC-scaffold_016
+// processing Aphrocalllistes_vastus_HiC-scaffold_017
+// processing Aphrocalllistes_vastus_HiC-scaffold_018
+// processing Aphrocalllistes_vastus_HiC-scaffold_019
+// processing Aphrocalllistes_vastus_HiC-scaffold_020
+// processing Aphrocalllistes_vastus_HiC-scaffold_021
+// processing Aphrocalllistes_vastus_HiC-scaffold_022
+// processing Aphrocalllistes_vastus_HiC-scaffold_023
+// processing Aphrocalllistes_vastus_HiC-scaffold_024
+// processing Aphrocalllistes_vastus_HiC-scaffold_025
+// processing Aphrocalllistes_vastus_HiC-scaffold_026
+// processing Aphrocalllistes_vastus_HiC-scaffold_027
+// processing Aphrocalllistes_vastus_HiC-scaffold_028
+// processing Aphrocalllistes_vastus_HiC-scaffold_030
+// processing Aphrocalllistes_vastus_HiC-scaffold_031
+// processing Aphrocalllistes_vastus_HiC-scaffold_032
+// processing Aphrocalllistes_vastus_HiC-scaffold_033
+// processing Aphrocalllistes_vastus_HiC-scaffold_035
+// processing Aphrocalllistes_vastus_HiC-scaffold_036
+// processing Aphrocalllistes_vastus_HiC-scaffold_037
+// processing Aphrocalllistes_vastus_HiC-scaffold_038
+// processing Aphrocalllistes_vastus_HiC-scaffold_040
+// processing Aphrocalllistes_vastus_HiC-scaffold_041
+// processing Aphrocalllistes_vastus_HiC-scaffold_043
+// processing Aphrocalllistes_vastus_HiC-scaffold_044
+// processing Aphrocalllistes_vastus_HiC-scaffold_045
+// processing Aphrocalllistes_vastus_HiC-scaffold_046
+// processing Aphrocalllistes_vastus_HiC-scaffold_047
+// processing Aphrocalllistes_vastus_HiC-scaffold_048
+// processing Aphrocalllistes_vastus_HiC-scaffold_049
+// processing Aphrocalllistes_vastus_HiC-scaffold_050
+// processing Aphrocalllistes_vastus_HiC-scaffold_051
+// processing Aphrocalllistes_vastus_HiC-scaffold_053
+// processing Aphrocalllistes_vastus_HiC-scaffold_054
+// processing Aphrocalllistes_vastus_HiC-scaffold_055
+// processing Aphrocalllistes_vastus_HiC-scaffold_056
+// processing Aphrocalllistes_vastus_HiC-scaffold_061
+// processing Aphrocalllistes_vastus_HiC-scaffold_062
+// processing Aphrocalllistes_vastus_HiC-scaffold_063
+// processing Aphrocalllistes_vastus_HiC-scaffold_064
+// processing Aphrocalllistes_vastus_HiC-scaffold_065
+// processing Aphrocalllistes_vastus_HiC-scaffold_067
+// processing Aphrocalllistes_vastus_HiC-scaffold_068
+// processing Aphrocalllistes_vastus_HiC-scaffold_069
+// processing Aphrocalllistes_vastus_HiC-scaffold_070
+// processing Aphrocalllistes_vastus_HiC-scaffold_071
+// processing Aphrocalllistes_vastus_HiC-scaffold_073
+// processing Aphrocalllistes_vastus_HiC-scaffold_075
+// processing Aphrocalllistes_vastus_HiC-scaffold_076
+// processing Aphrocalllistes_vastus_HiC-scaffold_077
+// processing Aphrocalllistes_vastus_HiC-scaffold_079
+// processing Aphrocalllistes_vastus_HiC-scaffold_081
+// processing Aphrocalllistes_vastus_HiC-scaffold_082
+// processing Aphrocalllistes_vastus_HiC-scaffold_083
+// processing Aphrocalllistes_vastus_HiC-scaffold_084
+// processing Aphrocalllistes_vastus_HiC-scaffold_085
+// processing Aphrocalllistes_vastus_HiC-scaffold_086
+// processing Aphrocalllistes_vastus_HiC-scaffold_087
+// processing Aphrocalllistes_vastus_HiC-scaffold_088
+// processing Aphrocalllistes_vastus_HiC-scaffold_091
+// processing Aphrocalllistes_vastus_HiC-scaffold_094
+// processing Aphrocalllistes_vastus_HiC-scaffold_095
+// processing Aphrocalllistes_vastus_HiC-scaffold_098
+// processing Aphrocalllistes_vastus_HiC-scaffold_099
+// processing Aphrocalllistes_vastus_HiC-scaffold_100
+// processing Aphrocalllistes_vastus_HiC-scaffold_102
+// processing Aphrocalllistes_vastus_HiC-scaffold_106
+// processing Aphrocalllistes_vastus_HiC-scaffold_108
+// processing Aphrocalllistes_vastus_HiC-scaffold_117
+// processing Aphrocalllistes_vastus_HiC-scaffold_120
+// processing Aphrocalllistes_vastus_HiC-scaffold_123
+// processing Aphrocalllistes_vastus_HiC-scaffold_125
+// processing Aphrocalllistes_vastus_HiC-scaffold_127
+// processing Aphrocalllistes_vastus_HiC-scaffold_129
+// processing Aphrocalllistes_vastus_HiC-scaffold_131
+// processing Aphrocalllistes_vastus_HiC-scaffold_132
+// processing Aphrocalllistes_vastus_HiC-scaffold_135
+// processing Aphrocalllistes_vastus_HiC-scaffold_142
+// processing Aphrocalllistes_vastus_HiC-scaffold_145
+// processing Aphrocalllistes_vastus_HiC-scaffold_149
+// processing Aphrocalllistes_vastus_HiC-scaffold_155
+// processing Aphrocalllistes_vastus_HiC-scaffold_159
+// processing Aphrocalllistes_vastus_HiC-scaffold_162
+// processing Aphrocalllistes_vastus_HiC-scaffold_169
+// processing Aphrocalllistes_vastus_HiC-scaffold_172
+// processing Aphrocalllistes_vastus_HiC-scaffold_176
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/compute_base_probs.pl PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta 0 > /home/meitel/data/avas/pinfish/scaffolded_HiC/stepwise/PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/base_freqs.dat
+
+
+-first extracting base frequencies, we'll need them later.
+
+
+- extracting ORFs from transcripts.
+-total transcripts to examine: 31209
+[100/31209] = 0.32% done    [200/31209] = 0.64% done    [300/31209] = 0.96% done    [400/31209] = 1.28% done    [500/31209] = 1.60% done    [600/31209] = 1.92% done    [700/31209] = 2.24% done    [800/31209] = 2.56% done    [900/31209] = 2.88% done    [1000/31209] = 3.20% done    [1100/31209] = 3.52% done    [1200/31209] = 3.85% done    [1300/31209] = 4.17% done    [1400/31209] = 4.49% done    [1500/31209] = 4.81% done    [1600/31209] = 5.13% done    [1700/31209] = 5.45% done    [1800/31209] = 5.77% done    [1900/31209] = 6.09% done    [2000/31209] = 6.41% done    [2100/31209] = 6.73% done    [2200/31209] = 7.05% done    [2300/31209] = 7.37% done    [2400/31209] = 7.69% done    [2500/31209] = 8.01% done    [2600/31209] = 8.33% done    [2700/31209] = 8.65% done    [2800/31209] = 8.97% done    [2900/31209] = 9.29% done    [3000/31209] = 9.61% done    [3100/31209] = 9.93% done    [3200/31209] = 10.25% done    [3300/31209] = 10.57% done    [3400/31209] = 10.89% done    [3500/31209] = 11.21% done    [3600/31209] = 11.54% done    [3700/31209] = 11.86% done    [3800/31209] = 12.18% done    [3900/31209] = 12.50% done    [4000/31209] = 12.82% done    [4100/31209] = 13.14% done    [4200/31209] = 13.46% done    [4300/31209] = 13.78% done    [4400/31209] = 14.10% done    [4500/31209] = 14.42% done    [4600/31209] = 14.74% done    [4700/31209] = 15.06% done    [4800/31209] = 15.38% done    [4900/31209] = 15.70% done    [5000/31209] = 16.02% done    [5100/31209] = 16.34% done    [5200/31209] = 16.66% done    [5300/31209] = 16.98% done    [5400/31209] = 17.30% done    [5500/31209] = 17.62% done    [5600/31209] = 17.94% done    [5700/31209] = 18.26% done    [5800/31209] = 18.58% done    [5900/31209] = 18.90% done    [6000/31209] = 19.23% done    [6100/31209] = 19.55% done    [6200/31209] = 19.87% done    [6300/31209] = 20.19% done    [6400/31209] = 20.51% done    [6500/31209] = 20.83% done    [6600/31209] = 21.15% done    [6700/31209] = 21.47% done    [6800/31209] = 21.79% done    [6900/31209] = 22.11% done    [7000/31209] = 22.43% done    [7100/31209] = 22.75% done    [7200/31209] = 23.07% done    [7300/31209] = 23.39% done    [7400/31209] = 23.71% done    [7500/31209] = 24.03% done    [7600/31209] = 24.35% done    [7700/31209] = 24.67% done    [7800/31209] = 24.99% done    [7900/31209] = 25.31% done    [8000/31209] = 25.63% done    [8100/31209] = 25.95% done    [8200/31209] = 26.27% done    [8300/31209] = 26.59% done    [8400/31209] = 26.92% done    [8500/31209] = 27.24% done    [8600/31209] = 27.56% done    [8700/31209] = 27.88% done    [8800/31209] = 28.20% done    [8900/31209] = 28.52% done    [9000/31209] = 28.84% done    [9100/31209] = 29.16% done    [9200/31209] = 29.48% done    [9300/31209] = 29.80% done    [9400/31209] = 30.12% done    [9500/31209] = 30.44% done    [9600/31209] = 30.76% done    [9700/31209] = 31.08% done    [9800/31209] = 31.40% done    [9900/31209] = 31.72% done    [10000/31209] = 32.04% done    [10100/31209] = 32.36% done    [10200/31209] = 32.68% done    [10300/31209] = 33.00% done    [10400/31209] = 33.32% done    [10500/31209] = 33.64% done    [10600/31209] = 33.96% done    [10700/31209] = 34.28% done    [10800/31209] = 34.61% done    [10900/31209] = 34.93% done    [11000/31209] = 35.25% done    [11100/31209] = 35.57% done    [11200/31209] = 35.89% done    [11300/31209] = 36.21% done    [11400/31209] = 36.53% done    [11500/31209] = 36.85% done    [11600/31209] = 37.17% done    [11700/31209] = 37.49% done    [11800/31209] = 37.81% done    [11900/31209] = 38.13% done    [12000/31209] = 38.45% done    [12100/31209] = 38.77% done    [12200/31209] = 39.09% done    [12300/31209] = 39.41% done    [12400/31209] = 39.73% done    [12500/31209] = 40.05% done    [12600/31209] = 40.37% done    [12700/31209] = 40.69% done    [12800/31209] = 41.01% done    [12900/31209] = 41.33% done    [13000/31209] = 41.65% done    [13100/31209] = 41.98% done    [13200/31209] = 42.30% done    [13300/31209] = 42.62% done    [13400/31209] = 42.94% done    [13500/31209] = 43.26% done    [13600/31209] = 43.58% done    [13700/31209] = 43.90% done    [13800/31209] = 44.22% done    [13900/31209] = 44.54% done    [14000/31209] = 44.86% done    [14100/31209] = 45.18% done    [14200/31209] = 45.50% done    [14300/31209] = 45.82% done    [14400/31209] = 46.14% done    [14500/31209] = 46.46% done    [14600/31209] = 46.78% done    [14700/31209] = 47.10% done    [14800/31209] = 47.42% done    [14900/31209] = 47.74% done    [15000/31209] = 48.06% done    [15100/31209] = 48.38% done    [15200/31209] = 48.70% done    [15300/31209] = 49.02% done    [15400/31209] = 49.34% done    [15500/31209] = 49.67% done    [15600/31209] = 49.99% done    [15700/31209] = 50.31% done    [15800/31209] = 50.63% done    [15900/31209] = 50.95% done    [16000/31209] = 51.27% done    [16100/31209] = 51.59% done    [16200/31209] = 51.91% done    [16300/31209] = 52.23% done    [16400/31209] = 52.55% done    [16500/31209] = 52.87% done    [16600/31209] = 53.19% done    [16700/31209] = 53.51% done    [16800/31209] = 53.83% done    [16900/31209] = 54.15% done    [17000/31209] = 54.47% done    [17100/31209] = 54.79% done    [17200/31209] = 55.11% done    [17300/31209] = 55.43% done    [17400/31209] = 55.75% done    [17500/31209] = 56.07% done    [17600/31209] = 56.39% done    [17700/31209] = 56.71% done    [17800/31209] = 57.03% done    [17900/31209] = 57.36% done    [18000/31209] = 57.68% done    [18100/31209] = 58.00% done    [18200/31209] = 58.32% done    [18300/31209] = 58.64% done    [18400/31209] = 58.96% done    [18500/31209] = 59.28% done    [18600/31209] = 59.60% done    [18700/31209] = 59.92% done    [18800/31209] = 60.24% done    [18900/31209] = 60.56% done    [19000/31209] = 60.88% done    [19100/31209] = 61.20% done    [19200/31209] = 61.52% done    [19300/31209] = 61.84% done    [19400/31209] = 62.16% done    [19500/31209] = 62.48% done    [19600/31209] = 62.80% done    [19700/31209] = 63.12% done    [19800/31209] = 63.44% done    [19900/31209] = 63.76% done    [20000/31209] = 64.08% done    [20100/31209] = 64.40% done    [20200/31209] = 64.72% done    [20300/31209] = 65.05% done    [20400/31209] = 65.37% done    [20500/31209] = 65.69% done    [20600/31209] = 66.01% done    [20700/31209] = 66.33% done    [20800/31209] = 66.65% done    [20900/31209] = 66.97% done    [21000/31209] = 67.29% done    [21100/31209] = 67.61% done    [21200/31209] = 67.93% done    [21300/31209] = 68.25% done    [21400/31209] = 68.57% done    [21500/31209] = 68.89% done    [21600/31209] = 69.21% done    [21700/31209] = 69.53% done    [21800/31209] = 69.85% done    [21900/31209] = 70.17% done    [22000/31209] = 70.49% done    [22100/31209] = 70.81% done    [22200/31209] = 71.13% done    [22300/31209] = 71.45% done    [22400/31209] = 71.77% done    [22500/31209] = 72.09% done    [22600/31209] = 72.42% done    [22700/31209] = 72.74% done    [22800/31209] = 73.06% done    [22900/31209] = 73.38% done    [23000/31209] = 73.70% done    [23100/31209] = 74.02% done    [23200/31209] = 74.34% done    [23300/31209] = 74.66% done    [23400/31209] = 74.98% done    [23500/31209] = 75.30% done    [23600/31209] = 75.62% done    [23700/31209] = 75.94% done    [23800/31209] = 76.26% done    [23900/31209] = 76.58% done    [24000/31209] = 76.90% done    [24100/31209] = 77.22% done    [24200/31209] = 77.54% done    [24300/31209] = 77.86% done    [24400/31209] = 78.18% done    [24500/31209] = 78.50% done    [24600/31209] = 78.82% done    [24700/31209] = 79.14% done    [24800/31209] = 79.46% done    [24900/31209] = 79.78% done    [25000/31209] = 80.11% done    [25100/31209] = 80.43% done    [25200/31209] = 80.75% done    [25300/31209] = 81.07% done    [25400/31209] = 81.39% done    [25500/31209] = 81.71% done    [25600/31209] = 82.03% done    [25700/31209] = 82.35% done    [25800/31209] = 82.67% done    [25900/31209] = 82.99% done    [26000/31209] = 83.31% done    [26100/31209] = 83.63% done    [26200/31209] = 83.95% done    [26300/31209] = 84.27% done    [26400/31209] = 84.59% done    [26500/31209] = 84.91% done    [26600/31209] = 85.23% done    [26700/31209] = 85.55% done    [26800/31209] = 85.87% done    [26900/31209] = 86.19% done    [27000/31209] = 86.51% done    [27100/31209] = 86.83% done    [27200/31209] = 87.15% done    [27300/31209] = 87.47% done    [27400/31209] = 87.80% done    [27500/31209] = 88.12% done    [27600/31209] = 88.44% done    [27700/31209] = 88.76% done    [27800/31209] = 89.08% done    [27900/31209] = 89.40% done    [28000/31209] = 89.72% done    [28100/31209] = 90.04% done    [28200/31209] = 90.36% done    [28300/31209] = 90.68% done    [28400/31209] = 91.00% done    [28500/31209] = 91.32% done    [28600/31209] = 91.64% done    [28700/31209] = 91.96% done    [28800/31209] = 92.28% done    [28900/31209] = 92.60% done    [29000/31209] = 92.92% done    [29100/31209] = 93.24% done    [29200/31209] = 93.56% done    [29300/31209] = 93.88% done    [29400/31209] = 94.20% done    [29500/31209] = 94.52% done    [29600/31209] = 94.84% done    [29700/31209] = 95.16% done    [29800/31209] = 95.49% done    [29900/31209] = 95.81% done    [30000/31209] = 96.13% done    [30100/31209] = 96.45% done    [30200/31209] = 96.77% done    [30300/31209] = 97.09% done    [30400/31209] = 97.41% done    [30500/31209] = 97.73% done    [30600/31209] = 98.05% done    [30700/31209] = 98.37% done    [30800/31209] = 98.69% done    [30900/31209] = 99.01% done    [31000/31209] = 99.33% done    [31100/31209] = 99.65% done    [31200/31209] = 99.97% done    
+
+#################################
+### Done preparing long ORFs.  ###
+##################################
+
+	Use file: /home/meitel/data/avas/pinfish/scaffolded_HiC/stepwise/PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.pep  for Pfam and/or BlastP searches to enable homology-based coding region identification.
+
+	Then, run TransDecoder.Predict for your final coding region predictions.
+
+
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/get_top_longest_fasta_entries.pl PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds 5000 5000 > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.top_longest_5000
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/exclude_similar_proteins.pl PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.top_longest_5000 > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.top_longest_5000.nr
+-skipping training candidate: a9502391-fac2-4bb0-a20e-fbd665469731.p1, not unique enough
+-skipping training candidate: f4a356bf-df52-47b8-ad0e-4580cc6dd648.p1, not unique enough
+-skipping training candidate: 35957ee8-6d18-4ae8-a7cf-79586793f486.p1, not unique enough
+-skipping training candidate: 021438b9-2fc7-4975-9847-2d24ec8a04fe.p1, not unique enough
+-skipping training candidate: 4e60684b-f060-4eea-9229-ae56df345fdb.p1, not unique enough
+-skipping training candidate: e2807951-3c10-4f0e-a412-94aca0ac5ed8.p1, not unique enough
+-skipping training candidate: 35503c7a-7620-492b-9cf5-bcc65d7047cd.p1, not unique enough
+-skipping training candidate: fed70a63-8de5-4050-ae34-4ea80de62869.p1, not unique enough
+-skipping training candidate: 55cd8f41-0954-4d6b-adad-9250c8bdc654.p1, not unique enough
+-skipping training candidate: 3ece23e3-2f86-414d-a197-23d8433c0148.p1, not unique enough
+-skipping training candidate: d7b69626-4cc0-4db1-8ca8-f328fc346cea.p1, not unique enough
+-skipping training candidate: ce940caa-4570-4cb1-874c-ba19b8a4dfbb.p1, not unique enough
+-skipping training candidate: 940b2b56-5f9a-46d2-8ef0-42b91f228249.p1, not unique enough
+-skipping training candidate: 7bc2846f-1ebe-4636-982b-d787a64fa15b.p1, not unique enough
+-skipping training candidate: 79e6cd5d-f93e-47a1-8300-ae73ffcc6a12.p1, not unique enough
+-skipping training candidate: 3c3c2f35-ad70-4c2c-a361-1940eb378274.p1, not unique enough
+-skipping training candidate: c258ee0a-4ab2-4fd1-9798-51a6f939916c.p1, not unique enough
+-skipping training candidate: 97700ca4-ba15-4acf-aa74-6717af3d8c0c.p1, not unique enough
+-skipping training candidate: ac84523a-acb6-4dee-914d-2d026cdeaca4.p1, not unique enough
+-skipping training candidate: 0fdc3401-289e-4e87-a4ab-b1f9652f70e0.p1, not unique enough
+-skipping training candidate: cd16ec73-7f1e-40a4-854a-c50cab29dc95.p1, not unique enough
+-skipping training candidate: bf1c5352-6a69-4fd4-990d-0171b3b538ea.p1, not unique enough
+-skipping training candidate: 86275dbb-6737-4292-a419-e60c0f6e6caa.p1, not unique enough
+-skipping training candidate: f161e4c2-fd30-44ce-bc25-4a0afd88a63f.p1, not unique enough
+-skipping training candidate: 184ccd87-8305-45a8-82b1-fb58f498325c.p1, not unique enough
+-skipping training candidate: 344c5581-28f4-481a-b2f7-7e03fe5ea976.p1, not unique enough
+-skipping training candidate: 4f627b68-a15e-4858-902c-a8f88dabda60.p1, not unique enough
+-skipping training candidate: 1ccee4a6-667b-46a9-abed-9df6b58bee8e.p1, not unique enough
+-skipping training candidate: cc5c677a-99c4-4e34-89fa-19c9fecea384.p1, not unique enough
+-skipping training candidate: 4bf45fcf-1e71-4812-b4bd-71cda936bf3c.p1, not unique enough
+-skipping training candidate: 25945118-7004-4b4e-a3b7-20537c95a04d.p1, not unique enough
+-skipping training candidate: c93be5b5-ec48-4ad4-873a-4527a54500ac.p1, not unique enough
+-skipping training candidate: 1a9ff02d-9e5f-4567-b65f-7bab7720ef85.p1, not unique enough
+-skipping training candidate: 6beb0841-2edb-4b01-abfd-751844479915.p1, not unique enough
+-skipping training candidate: 1243ced2-49ed-46ee-8d83-175f8f5b0588.p1, not unique enough
+-skipping training candidate: 5b97edfc-5b01-4779-b664-ef7c8276f7db.p1, not unique enough
+-skipping training candidate: 35338f44-c01f-45cc-b3c3-00e2fa5bad86.p1, not unique enough
+-skipping training candidate: 532fb10e-4a5c-48a9-8f6b-fb4d0e7fc21a.p1, not unique enough
+-skipping training candidate: 5baaf75d-0b23-402a-9810-07a4201ef267.p1, not unique enough
+-skipping training candidate: ab303c05-dc93-4ba3-8817-a7fda7931831.p1, not unique enough
+-skipping training candidate: a05bceb9-7c7a-448f-8c81-d6059e43936d.p1, not unique enough
+-skipping training candidate: 2d7063ee-dc6b-4454-a4ca-ffc11e6e6f25.p1, not unique enough
+-skipping training candidate: 994e023d-3a9f-44cb-8c9b-62e6d90052be.p1, not unique enough
+-skipping training candidate: 8644e8b3-29b5-4f27-86b2-a71070e0907e.p1, not unique enough
+-skipping training candidate: 286a314d-3c57-405c-860c-9afe0b8e1fdb.p1, not unique enough
+-skipping training candidate: dc3d5ab7-189c-44aa-9548-9c87362e4b25.p1, not unique enough
+-skipping training candidate: 09245de7-1e60-4ef6-8589-ec576d39cd26.p1, not unique enough
+-skipping training candidate: d571b57c-5242-46d4-94aa-2aad8d64822c.p1, not unique enough
+-skipping training candidate: 40e600cf-8c73-4435-bae7-cf6d3ff12a19.p1, not unique enough
+-skipping training candidate: 5131da65-ca33-4f27-80d6-3488a237947e.p1, not unique enough
+-skipping training candidate: b19fa3a8-a0af-4e3e-872d-4367b6ef4a23.p1, not unique enough
+-skipping training candidate: 5d2db7b7-2d91-4c01-b878-e80701cf580c.p1, not unique enough
+-skipping training candidate: ef64cf5a-8920-4f5c-98c2-ffc93fd4aad7.p1, not unique enough
+-skipping training candidate: 6fbd625e-a0c6-4b3d-9553-9102257d5e67.p1, not unique enough
+-skipping training candidate: ac724115-5672-4939-8aa8-a30ec6217a5e.p1, not unique enough
+-skipping training candidate: eaaf199d-35a9-412a-9ee6-5b47e6323577.p1, not unique enough
+-skipping training candidate: d007ed3b-47c1-4d6f-9536-aae339308226.p1, not unique enough
+-skipping training candidate: ef6228c9-a1bd-47b1-b6e2-e2d4e562125a.p1, not unique enough
+-skipping training candidate: b821f34a-823b-4edf-90c6-fa4b5ac88e82.p1, not unique enough
+-skipping training candidate: 7f8c3bc5-4208-4b6b-954f-08fd2a354648.p1, not unique enough
+-skipping training candidate: 86bbefc9-a7e7-4d8f-b98b-5b4f25f86a84.p1, not unique enough
+-skipping training candidate: 020a753e-aa60-4666-904a-e581ff4c05c8.p1, not unique enough
+-skipping training candidate: a8ca0d3e-317d-4b0f-b47f-7187613586b0.p1, not unique enough
+-skipping training candidate: 19eb1505-11db-4381-bd15-df00d13d667b.p1, not unique enough
+-skipping training candidate: ebf28f3b-f634-41c7-8e97-ca012a0a5c8d.p1, not unique enough
+-skipping training candidate: b99799f1-8682-47bd-8dd0-ebcdb9e4b133.p1, not unique enough
+-skipping training candidate: cd1c4077-d848-4682-b900-51fa20ae99db.p1, not unique enough
+-skipping training candidate: 2a0047f1-cce5-4e88-9a89-1835127527fe.p1, not unique enough
+-skipping training candidate: 732e67d4-9212-4f20-b2e5-958bc046028d.p1, not unique enough
+-skipping training candidate: 8726ddf1-c90a-4e82-aec0-10c1ad63530e.p1, not unique enough
+-skipping training candidate: 64a6ba61-0dcd-4534-9824-360ae4912a91.p1, not unique enough
+-skipping training candidate: 966595fd-d22c-46fb-943b-075102a1bc2e.p1, not unique enough
+-skipping training candidate: 9193d655-c496-47be-ac89-65972198404c.p1, not unique enough
+-skipping training candidate: bedbfd88-1f87-405b-818e-33b9d69f2b8a.p1, not unique enough
+-skipping training candidate: 9f0d52fe-95cd-4d37-9e79-05c06d649424.p1, not unique enough
+-skipping training candidate: faf1fe4a-b690-45e1-ba5f-26d24c5a0afe.p1, not unique enough
+-skipping training candidate: 8397a4d4-3a30-41a4-a792-7d604aec5492.p1, not unique enough
+-skipping training candidate: 950e3d20-c56e-48cd-a012-633e23726fb2.p1, not unique enough
+-skipping training candidate: 829da608-437b-4678-a5ea-330ceea62aa0.p1, not unique enough
+-skipping training candidate: 611c41bb-a745-473e-90f4-8f5ea47876ad.p1, not unique enough
+-skipping training candidate: 108d893a-3660-4a86-915f-600f16193b79.p1, not unique enough
+-skipping training candidate: f4d3a035-fa4c-4465-ae9d-75bf44450364.p1, not unique enough
+-skipping training candidate: f8ab2958-5423-4904-8559-7aec9b445246.p1, not unique enough
+-skipping training candidate: 130ac2ca-5523-4d75-84fc-f261ca4e578e.p1, not unique enough
+-skipping training candidate: 209751ac-6ccd-481c-8fb9-a5f1603167e0.p1, not unique enough
+-skipping training candidate: 0563a1c1-daf3-4291-8700-835885bc1ae5.p1, not unique enough
+-skipping training candidate: 3f417d3c-6dad-4e6f-ba21-85d70654b2ce.p1, not unique enough
+-skipping training candidate: c7dbb956-a342-465d-8dfc-f4798b4edab6.p1, not unique enough
+-skipping training candidate: 93b6e545-a3b9-418a-bed6-18502c29d8c6.p1, not unique enough
+-skipping training candidate: 955de026-321f-455a-a3b1-00f61ed972d4.p1, not unique enough
+-skipping training candidate: 2e07a67c-a996-42dc-8f47-4c8afb1311f4.p1, not unique enough
+-skipping training candidate: fc844e7c-59d8-4aaa-a4e5-b3b916bbbbe9.p1, not unique enough
+-skipping training candidate: d12277b6-dd93-477f-b91e-4d67475aaad2.p1, not unique enough
+-skipping training candidate: e6b79b2b-d08c-43ee-bd3a-115e871a8928.p1, not unique enough
+-skipping training candidate: 909330a2-98bc-4e99-a488-238c33865c08.p1, not unique enough
+-skipping training candidate: 54fac4a2-2ec8-4214-9c7f-c1a91178b5b1.p1, not unique enough
+-skipping training candidate: 16872fb7-8e84-49e4-bdfa-aa293e78f681.p1, not unique enough
+-skipping training candidate: 59f27fd2-e743-4391-b490-c61a101f90cf.p1, not unique enough
+-skipping training candidate: d2c43e05-7bdc-4809-9070-565b0ac6d075.p1, not unique enough
+-skipping training candidate: a401db4a-f3d6-424a-89dd-0e8a9a751fba.p1, not unique enough
+-skipping training candidate: 09da52fc-5848-4ae4-986e-f1f4187de077.p1, not unique enough
+-skipping training candidate: a5a5200f-200e-418f-a1b8-95eb00612adc.p1, not unique enough
+-skipping training candidate: 24e176a1-b728-4e62-8d8a-c50b72ec3186.p1, not unique enough
+-skipping training candidate: b0cd0b8b-bc30-445a-beac-755e977537fc.p1, not unique enough
+-skipping training candidate: c7fa0d0b-d16b-49b6-b261-b23438e1f059.p1, not unique enough
+-skipping training candidate: 1c282707-b1f3-4e5d-be62-e661558b50d0.p1, not unique enough
+-skipping training candidate: 2ca002ad-75e7-40a2-be37-5068819da967.p1, not unique enough
+-skipping training candidate: 95728c95-3f99-4bea-ab23-a742879def0b.p1, not unique enough
+-skipping training candidate: 92f8e4c1-fbc8-4b9a-ba8d-a479ef1d8a2d.p1, not unique enough
+-skipping training candidate: a09a569e-4e01-4e93-a39a-b7d32d076af1.p1, not unique enough
+-skipping training candidate: 276a2d0c-aaad-4fb4-9f2b-44800bf493c4.p1, not unique enough
+-skipping training candidate: 9444de98-ddd7-4537-8496-74950a7b4e9f.p1, not unique enough
+-skipping training candidate: 5c2c8dd9-370b-4b16-ab82-a5b585fee5a4.p1, not unique enough
+-skipping training candidate: 9a8b944d-b57f-42bc-8bfc-9016d16788c8.p1, not unique enough
+-skipping training candidate: fc094c6e-341c-4d91-b0a8-e73fc8541699.p1, not unique enough
+-skipping training candidate: 86667142-38ba-48ee-b55f-834d9b633628.p1, not unique enough
+-skipping training candidate: 4830c3a7-d6cf-4631-b24e-392d595d48e1.p1, not unique enough
+-skipping training candidate: 6880a6ad-eceb-47ac-b2a1-6e1277f415d0.p1, not unique enough
+-skipping training candidate: f2792e11-4e93-4d2b-bbf6-3fc0611bd792.p1, not unique enough
+-skipping training candidate: cc3e06c0-663e-4535-9b85-3fb2a7c7bf6c.p1, not unique enough
+-skipping training candidate: 302adb0b-2a71-4058-aed2-c6296df07bff.p1, not unique enough
+-skipping training candidate: a432c171-2f4f-4f1a-b9dd-46ec7400fae3.p1, not unique enough
+-skipping training candidate: 0c774748-9d93-410f-bd2e-2c560059f034.p1, not unique enough
+-skipping training candidate: a3fdc416-c130-4538-8920-1ee04ba3ee73.p1, not unique enough
+-skipping training candidate: 60e60ebd-3f7f-4193-83d6-926aff9dbcd2.p1, not unique enough
+-skipping training candidate: 5891d880-794f-48f6-bcb1-bfb8c5c1ec47.p1, not unique enough
+-skipping training candidate: ac4cb383-6c88-46e6-8d26-15ef540d2993.p1, not unique enough
+-skipping training candidate: 8980370f-62ea-4115-b1ae-82f33f038ce4.p1, not unique enough
+-skipping training candidate: c6872e38-f70b-48c0-8b2b-bce9a467a458.p1, not unique enough
+-skipping training candidate: ca4e276c-06c0-4346-b72f-121e3efaa59d.p1, not unique enough
+-skipping training candidate: cbb6162c-be75-4667-b373-088e1eca87f0.p1, not unique enough
+-skipping training candidate: 2443fe63-f6fb-49ce-ad0a-8cdc91f68d4e.p1, not unique enough
+-skipping training candidate: 2a0dc938-784a-4126-9a1a-b1ca4aa4d1fa.p1, not unique enough
+-skipping training candidate: e030c403-7c1c-40aa-8e86-677e2e7cec98.p1, not unique enough
+-skipping training candidate: 0cb0f820-6fe8-41eb-94aa-facaad8aeed7.p1, not unique enough
+-skipping training candidate: 291cfe0e-3090-4223-b243-8fc4b61103e5.p1, not unique enough
+-skipping training candidate: bef749be-b9a0-4ac0-8015-234a1ce58d7f.p1, not unique enough
+-skipping training candidate: 3715cafa-4ca8-4995-b061-a3b1abada35b.p1, not unique enough
+-skipping training candidate: 6b23c846-3f4b-4437-96b9-bee2a64b1b90.p1, not unique enough
+-skipping training candidate: 464c125a-f5df-4d04-8146-65671659bba4.p1, not unique enough
+-skipping training candidate: e0bf9ba3-7b39-4a86-a350-1faeac05e028.p1, not unique enough
+-skipping training candidate: 289c1c2e-2e56-4811-8416-3db7fb3be0fa.p1, not unique enough
+-skipping training candidate: 205bd324-48bc-4031-8d01-fdc8dd90c5ba.p1, not unique enough
+-skipping training candidate: 0850b0ef-5c39-4c99-a456-1e41db7f6676.p1, not unique enough
+-skipping training candidate: 34e1051b-1040-4a0c-8aa2-1129a13f2480.p1, not unique enough
+-skipping training candidate: d283d58d-8033-4440-b98d-a0b69fc4a4e9.p1, not unique enough
+-skipping training candidate: 51c2b3f6-8898-4c2d-ae9f-08a0d9a44ba0.p1, not unique enough
+-skipping training candidate: 3108833a-8381-44a5-81fc-c4ab96970b1d.p1, not unique enough
+-skipping training candidate: 8afce0ac-fefa-4a9c-9ce4-1016634684f4.p1, not unique enough
+-skipping training candidate: a82b31ad-a45c-40cb-841b-b10cec0b4b5a.p1, not unique enough
+-skipping training candidate: ddd382ae-b683-4b80-9a33-353fc05045f8.p1, not unique enough
+-skipping training candidate: 3ffbc250-f4ed-41af-a62f-7f9134d444f9.p1, not unique enough
+-skipping training candidate: c32c74ac-6db6-4db1-8806-e0cbbaf32171.p1, not unique enough
+-skipping training candidate: b0525c81-07ab-4bc1-b408-3362f8e1a25c.p1, not unique enough
+-skipping training candidate: f5645431-c1f4-4383-ba67-955d23d91756.p1, not unique enough
+-skipping training candidate: ca9ee839-b452-44fb-b322-c832715dfd4e.p1, not unique enough
+-skipping training candidate: 328d05ef-cb4b-484f-ad74-dc350057b7cf.p1, not unique enough
+-skipping training candidate: dcdcb7d8-07cc-4552-9d4b-d4524609d59e.p1, not unique enough
+-skipping training candidate: e087f3a3-c8c1-40a6-a40e-6537d2ecb48d.p1, not unique enough
+-skipping training candidate: 163a944b-3fc9-46ee-9393-939a2ce3a0ac.p1, not unique enough
+-skipping training candidate: 412f8efb-eede-46b5-95a1-a276b1c8a563.p1, not unique enough
+-skipping training candidate: 777f011c-a1e0-42a1-b378-6cf508954b76.p1, not unique enough
+-skipping training candidate: 0ddf833d-8d87-4c71-8ef3-d171343efc7f.p1, not unique enough
+-skipping training candidate: 50196cf3-21fb-45f1-a198-8de6c987f9d3.p1, not unique enough
+-skipping training candidate: b3b3e988-ead7-40c8-b6a9-92c20090b6ca.p1, not unique enough
+-skipping training candidate: dd3f31c1-faba-444d-bbf8-255a715c1e4b.p1, not unique enough
+-skipping training candidate: ecc3becb-a553-486c-9494-3b93ea150bee.p1, not unique enough
+-skipping training candidate: 19bdebe8-4c37-43b4-b995-2e559469dd53.p1, not unique enough
+-skipping training candidate: 74ee16aa-8f96-4880-9258-3b400168dac2.p1, not unique enough
+-skipping training candidate: 64fdc318-044c-4fd1-836e-fc9fbec95e1f.p1, not unique enough
+-skipping training candidate: e3abff67-dd7b-4e79-b51f-c43ab2340926.p1, not unique enough
+-skipping training candidate: 2a1703db-d5f7-457a-987d-2cf96703ca2d.p1, not unique enough
+-skipping training candidate: a889a1d4-4ead-4419-b8b7-e1986c876bae.p1, not unique enough
+-skipping training candidate: 0319731f-3112-446b-8259-5c381207d434.p1, not unique enough
+-skipping training candidate: a5fe419e-9349-4b0d-8f96-7807c2db4916.p1, not unique enough
+-skipping training candidate: 0942b199-3381-4ec9-a133-36ea2558cb50.p1, not unique enough
+-skipping training candidate: 08f47481-f85e-4aee-91a0-7a09f39cf418.p1, not unique enough
+-skipping training candidate: 7124f06f-91ad-49e3-b606-61984f3e324f.p1, not unique enough
+-skipping training candidate: 2849fed5-8ae0-42a3-a70c-8b124c13ee69.p1, not unique enough
+-skipping training candidate: 5b4c6432-d8b1-4eb0-8098-d78791874674.p1, not unique enough
+-skipping training candidate: aa445797-128b-4cca-b0ee-3e0b3d601655.p1, not unique enough
+-skipping training candidate: b3a57213-21da-46f9-b803-69433a044968.p1, not unique enough
+-skipping training candidate: 8f5fa44c-43fa-42b1-8a71-19543c472c6e.p1, not unique enough
+-skipping training candidate: 1273ef2a-983e-4968-941f-2c7e4f812bf3.p1, not unique enough
+-skipping training candidate: 5a70d67b-14cd-4282-bbd0-edf90eabad04.p1, not unique enough
+-skipping training candidate: 043a3e85-8f79-44e1-87ba-72cc5f6a1c62.p1, not unique enough
+-skipping training candidate: 732954c4-7bc8-4106-a537-0846e81988dc.p1, not unique enough
+-skipping training candidate: dfa74c60-0497-4ec7-84c9-f342dd199282.p1, not unique enough
+-skipping training candidate: 6e9e0873-1d84-4fed-8d30-d641bb35a512.p1, not unique enough
+-skipping training candidate: a1f58914-9729-42ff-90d9-5e628e1b1327.p1, not unique enough
+-skipping training candidate: 0ab62d66-94f0-4005-9104-b4f2d8ed3f53.p1, not unique enough
+-skipping training candidate: 29f6897d-a439-4896-9d01-09232cf421de.p1, not unique enough
+-skipping training candidate: bc5bb2fe-be82-4b6f-9c27-2450da5c0ee8.p1, not unique enough
+-skipping training candidate: a9aa9549-8100-4879-9f88-86bb540714d7.p1, not unique enough
+-skipping training candidate: aaa32f08-ac6d-4a89-9bb2-43b954be1d4e.p1, not unique enough
+-skipping training candidate: f7603b92-1ef2-4d77-aa3b-88484a2e9dde.p1, not unique enough
+-skipping training candidate: ce0c0088-f551-417b-9f2b-14b84079a0f7.p1, not unique enough
+-skipping training candidate: 92bb5af1-d6d2-46fe-a67c-a690a629bf76.p1, not unique enough
+-skipping training candidate: 0b0dfad8-5fd7-4e94-be5b-02bf14cbf469.p1, not unique enough
+-skipping training candidate: b6175994-d614-4013-8ab2-79435695914a.p1, not unique enough
+-skipping training candidate: 130b761d-f221-4127-837f-dfc2e4f8005a.p1, not unique enough
+-skipping training candidate: 3358546d-73e4-40d7-8fba-51128d80f234.p1, not unique enough
+-skipping training candidate: d1cb5be6-1602-4376-bac5-3f90146ca2ab.p1, not unique enough
+-skipping training candidate: 86d3f6e7-199d-4fa4-b823-dbc4ba5c4c5c.p1, not unique enough
+-skipping training candidate: 470c23af-31cc-488b-8c3e-25ebb8c5a169.p1, not unique enough
+-skipping training candidate: fdfbcb0d-3618-49c3-a05f-21cea4444ec1.p1, not unique enough
+-skipping training candidate: 4e43c4f6-43ca-47aa-84a6-eab900ba5114.p1, not unique enough
+-skipping training candidate: e61e6813-c179-410e-a931-a92c7154404c.p1, not unique enough
+-skipping training candidate: f2dd9a0d-e166-464b-bdc5-4b0773e29cca.p1, not unique enough
+-skipping training candidate: 942a9edb-3224-4c4e-aeeb-d65a2d940c10.p1, not unique enough
+-skipping training candidate: 5b03b5c6-7dd3-4d6a-874e-7c744c5d7c25.p1, not unique enough
+-skipping training candidate: cf62a890-2fc0-46a0-abeb-a0e1e8512e71.p1, not unique enough
+-skipping training candidate: cc35acd3-4a7f-4bda-a107-3787048e7ea6.p1, not unique enough
+-skipping training candidate: ac325102-6400-4264-b752-a8a5ec86a857.p1, not unique enough
+-skipping training candidate: c427fc46-f5e0-41a7-b731-6405c6a95c82.p1, not unique enough
+-skipping training candidate: af41f34d-e6a5-4f23-b72b-bc054f01298a.p1, not unique enough
+-skipping training candidate: 63cbcf6c-8edb-4e42-b3e2-e41663bbcfdb.p1, not unique enough
+-skipping training candidate: d1f9330f-e6aa-489a-b1f5-0ac816aa20de.p1, not unique enough
+-skipping training candidate: 84f2e90f-10fb-4761-bb02-62c7732bb71e.p1, not unique enough
+-skipping training candidate: 3743d13c-dcfc-4567-8f15-d7316015eced.p1, not unique enough
+-skipping training candidate: 40fb7fae-a458-45eb-b8b5-260b99a8556f.p1, not unique enough
+-skipping training candidate: 41ed5c40-8600-4e6f-8717-b83c3edc2a4c.p1, not unique enough
+-skipping training candidate: 4b64e8a5-b23f-4a53-8ec2-d7642fc0e1d9.p1, not unique enough
+-skipping training candidate: 653aa931-be8a-487e-8c4a-8be2fe15fe21.p1, not unique enough
+-skipping training candidate: f8d969ff-f2a2-4665-be65-ad16d9ca791f.p1, not unique enough
+-skipping training candidate: e7145c8e-ce26-4333-b252-ee5c7920785d.p1, not unique enough
+-skipping training candidate: 5ad47dfb-f99f-4d0c-bd95-8a46bfd2fa05.p1, not unique enough
+-skipping training candidate: 8486f465-6714-4f58-ac33-8aa53808686b.p1, not unique enough
+-skipping training candidate: 89b1f2d3-9303-4ebf-88f3-039e2486039d.p1, not unique enough
+-skipping training candidate: a625708f-227b-48e6-a47c-c267032e46d5.p1, not unique enough
+-skipping training candidate: 81781272-121f-44cb-9411-727c4999df9f.p1, not unique enough
+-skipping training candidate: 756bb1a4-e295-43a9-90ac-bd47ea78e1b4.p1, not unique enough
+-skipping training candidate: f7115836-228f-417d-bdda-8bc7a006676a.p1, not unique enough
+-skipping training candidate: d2bcc72b-4e8a-4efd-aff7-dd3661a3e92d.p1, not unique enough
+-skipping training candidate: 1a2ebda6-216e-4dfc-8e8b-4edc649efcdf.p1, not unique enough
+-skipping training candidate: 4b9cf8e3-5d80-43b9-ab23-13d9bc7edf8a.p1, not unique enough
+-skipping training candidate: 28c01418-0ab7-4bc9-8320-5fdf0a0e1042.p1, not unique enough
+-skipping training candidate: c550bea8-84ec-462d-8f3e-17fe052a83de.p1, not unique enough
+-skipping training candidate: b86fe0b1-7cb0-4e72-8e20-68bd04da2f52.p1, not unique enough
+-skipping training candidate: 98872da3-e427-4699-9ab3-509d08dd1410.p1, not unique enough
+-skipping training candidate: ead87064-1d53-4867-a1ec-014e284ed1d7.p1, not unique enough
+-skipping training candidate: 150bc38f-3a92-4dec-8e91-64de7c6370ed.p1, not unique enough
+-skipping training candidate: 4f88632d-b4fd-435c-b4f0-b66e0febdcc6.p1, not unique enough
+-skipping training candidate: d7d2e844-2e21-4242-9087-2e7e7437b176.p1, not unique enough
+-skipping training candidate: 7bed241c-9e9a-49c2-af7b-68c243d73be6.p1, not unique enough
+-skipping training candidate: 12ae6ce4-c969-4b4e-a0f7-98de45d34ec9.p1, not unique enough
+-skipping training candidate: 6b20b576-c0e0-4b2c-b0b6-d0e8661787df.p1, not unique enough
+-skipping training candidate: 1c061147-8031-40ba-adec-f74956ba78ed.p1, not unique enough
+-skipping training candidate: 6d4c1251-836d-4eb7-b5f3-31ed9f3cf30c.p1, not unique enough
+-skipping training candidate: 763eae44-0875-4401-815e-3878fb91eb4b.p1, not unique enough
+-skipping training candidate: d38221f0-7d26-4507-89cb-6ab113410dd0.p1, not unique enough
+-skipping training candidate: c6f5919b-b15f-4f60-913b-f61761abae5d.p1, not unique enough
+-skipping training candidate: 323673cd-5ef4-494b-8759-6e05548c2612.p1, not unique enough
+-skipping training candidate: d1e6eaee-ab4d-454c-9b3d-49e197c0057d.p1, not unique enough
+-skipping training candidate: 5d05dd30-8c6d-4f60-8426-4e61b8994ca1.p1, not unique enough
+-skipping training candidate: 7d6a6fb8-6f5a-4e32-bb95-1e0c42d4e420.p1, not unique enough
+-skipping training candidate: f70186a5-6ce2-481d-bed6-18a7f4a61164.p1, not unique enough
+-skipping training candidate: 4681a8bf-2e01-44ae-88a2-898d4ebf5508.p1, not unique enough
+-skipping training candidate: 48409d9c-4c78-4374-a6c1-e1dbb59db37c.p1, not unique enough
+-skipping training candidate: f6d826e5-c9d2-4ed8-88e5-85bd4b87e5d8.p1, not unique enough
+-skipping training candidate: eea2abe6-6cba-47bf-ada6-1907ea169af4.p1, not unique enough
+-skipping training candidate: 325e6f8d-d7c6-45a4-82f0-b3d34326a5f6.p1, not unique enough
+-skipping training candidate: df5221f4-ec4c-4e66-b48c-2a71b60879ee.p1, not unique enough
+-skipping training candidate: bc8c5dc3-acfe-440e-a76e-04c5056d9562.p1, not unique enough
+-skipping training candidate: 521a06ca-5eb3-48b2-9a67-4055ba81d9ac.p1, not unique enough
+-skipping training candidate: ee83da79-6430-4145-a6f1-b9b6015159ff.p1, not unique enough
+-skipping training candidate: c46be013-fe02-4eee-a948-0e8e6e77099a.p1, not unique enough
+-skipping training candidate: 0fa452ea-2c4a-41bc-985a-91aff7475ede.p1, not unique enough
+-skipping training candidate: 919d5e9c-fd2a-44ca-a57b-e20fe27fa215.p1, not unique enough
+-skipping training candidate: ec47695f-b23c-4271-a055-6fb433723b3f.p1, not unique enough
+-skipping training candidate: f8c1547a-ca8e-4fae-bb46-02c491566ea0.p1, not unique enough
+-skipping training candidate: 4b026b9f-0248-4ddd-83f1-eb155fcb2bf7.p1, not unique enough
+-skipping training candidate: ae61c29c-1fb9-4531-b48f-f9b4a7cde2c5.p1, not unique enough
+-skipping training candidate: fcc35551-1645-4895-b1d3-85237c70e5c4.p1, not unique enough
+-skipping training candidate: f2587cb0-1bac-4e28-9eef-15adc7bbe03c.p1, not unique enough
+-skipping training candidate: 1b39580c-e112-4a5c-908b-fecfe1b74fb4.p1, not unique enough
+-skipping training candidate: 5ff9401c-10c4-4c54-9355-687980013c44.p1, not unique enough
+-skipping training candidate: d0c32fe5-8be4-4942-b07f-7fd09671c465.p1, not unique enough
+-skipping training candidate: dcc43de2-c910-406a-943d-9b0acfb9684d.p1, not unique enough
+-skipping training candidate: f1e258cb-6f5c-46b4-a9ba-9242a9d046bd.p1, not unique enough
+-skipping training candidate: a5d18c47-dec7-43b3-bf02-117148d273b6.p1, not unique enough
+-skipping training candidate: cb1a01f7-5a38-43d7-aa90-ffa8fd7c887a.p1, not unique enough
+-skipping training candidate: c4e18f34-510a-488a-9ea6-51b055eb72ef.p1, not unique enough
+-skipping training candidate: aaace839-91d8-4d16-a23c-cc68571372e0.p1, not unique enough
+-skipping training candidate: ca6d488d-07e8-4e3f-b4db-b3bdfb2e87a2.p1, not unique enough
+-skipping training candidate: 583ced62-a5ee-4bbc-9e06-951a0ce96475.p1, not unique enough
+-skipping training candidate: e8ea7613-6189-4029-bb53-a16fe1f0f876.p1, not unique enough
+-skipping training candidate: db434be9-91d8-4d1c-964f-d8055d08e5e2.p1, not unique enough
+-skipping training candidate: fd47e736-b78a-4426-9797-1c2e6669404f.p1, not unique enough
+-skipping training candidate: a7f585fd-b931-445f-804e-77e0ca77f04f.p1, not unique enough
+-skipping training candidate: 993c8bf8-8dce-4851-a90d-2c8641a8a6d2.p1, not unique enough
+-skipping training candidate: 9cc184a8-0a9c-4db1-a9b7-a69acb8cdc8c.p1, not unique enough
+-skipping training candidate: 7c16c5f4-4b9e-4019-92c6-73aa345c0439.p1, not unique enough
+-skipping training candidate: 6c65f952-e578-4116-92e9-73d324589bcf.p1, not unique enough
+-skipping training candidate: 8b55a683-e57b-495b-b841-8704dc832e37.p1, not unique enough
+-skipping training candidate: 5a07135b-070b-4ba9-a878-86f1ae7cb8e8.p1, not unique enough
+-skipping training candidate: 9379c06e-103d-481b-af2b-fc65f3c7255f.p1, not unique enough
+-skipping training candidate: 1c079e04-59c8-40be-a49b-370fc72e212e.p1, not unique enough
+-skipping training candidate: 2833748b-9732-42f1-9e04-79ca92498e1e.p1, not unique enough
+-skipping training candidate: bcd62310-ced0-4cef-90f5-f95fac9fef46.p1, not unique enough
+-skipping training candidate: cbd73056-258b-447c-ba05-1074545bdcd8.p1, not unique enough
+-skipping training candidate: c663a406-54b1-4471-ab59-ccbef44f52cf.p1, not unique enough
+-skipping training candidate: 102df8ee-da47-47ae-805a-8b1c3c117716.p1, not unique enough
+-skipping training candidate: cffa1ed7-1dbb-42a3-a549-e11747bb0a01.p1, not unique enough
+-skipping training candidate: 71a33a0d-c714-44b0-ba38-7f0da72ba2d7.p1, not unique enough
+-skipping training candidate: 19873758-a95c-4ea1-aeab-e4089e797f0d.p1, not unique enough
+-skipping training candidate: f740042d-f8dc-4405-bf29-85aeb2622aee.p1, not unique enough
+-skipping training candidate: 38a5ef5f-6573-4512-96e9-cd0748678c8c.p1, not unique enough
+-skipping training candidate: 6f2eec30-eb56-4460-8396-a7c98987344b.p1, not unique enough
+-skipping training candidate: 05083c4a-1d4b-48cd-ba20-e79faaaf52a6.p1, not unique enough
+-skipping training candidate: e5efb708-9ec2-4fdf-b30d-ae7a4a26f98a.p1, not unique enough
+-skipping training candidate: 1ee34a82-258e-4c05-a27d-9ad4088448e4.p1, not unique enough
+-skipping training candidate: d684df5e-766e-46a1-9dae-98d3d9beae83.p1, not unique enough
+-skipping training candidate: 96cedcf8-c310-47ca-9711-d3b7da623468.p1, not unique enough
+-skipping training candidate: a92bc224-bb85-411f-b18d-07e5161d79e9.p1, not unique enough
+-skipping training candidate: b9c40e0d-013f-43a6-9525-1ff709dd1ec4.p1, not unique enough
+-skipping training candidate: d1965029-1857-4c35-bb29-fdb986c08695.p1, not unique enough
+-skipping training candidate: e1ecbd4f-9bd1-47a3-a19c-5c6b42a6284f.p1, not unique enough
+-skipping training candidate: e8e63279-568e-41d1-916e-869f099296da.p1, not unique enough
+-skipping training candidate: b6878df7-86f6-4fa9-894a-aa2b5bf0904f.p1, not unique enough
+-skipping training candidate: 113093ea-8198-4d9d-a153-9edf266f5784.p1, not unique enough
+-skipping training candidate: b9477951-a19b-4a30-b5da-4a371c29e9a4.p1, not unique enough
+-skipping training candidate: 3546b40c-57b1-40eb-af2b-5c496abcc65f.p1, not unique enough
+-skipping training candidate: 0caa8257-02a7-4ec2-a98d-80f75f281076.p1, not unique enough
+-skipping training candidate: 6879aafc-437d-4733-8633-54cc88b9b2ba.p1, not unique enough
+-skipping training candidate: a1c15bae-7e22-4d62-bba7-e57ef2513d2b.p1, not unique enough
+-skipping training candidate: 320d2b7c-79a4-4086-bc41-1cf97f3a93c5.p1, not unique enough
+-skipping training candidate: 3eac3a77-a635-484c-a5e9-83e11307ec00.p1, not unique enough
+-skipping training candidate: 60d18ab2-914e-46da-a277-564bec6386af.p1, not unique enough
+-skipping training candidate: 4f2c5a0e-841d-4e38-8234-6aa62b164cfa.p1, not unique enough
+-skipping training candidate: f97de841-7557-4778-8b78-f1ecb7e21ba6.p1, not unique enough
+-skipping training candidate: d60dd1f2-623a-433f-bfe6-3c4984d98e64.p1, not unique enough
+-skipping training candidate: cd586851-43be-41eb-aa1c-cf7a82486555.p1, not unique enough
+-skipping training candidate: 731e3b47-d2bd-48c3-80e5-1bc7d18b11fe.p1, not unique enough
+-skipping training candidate: c8a0597a-6657-4b7b-a6ca-31d8569dca1a.p1, not unique enough
+-skipping training candidate: f2129ee4-27f9-4617-862a-db2f485dfc19.p1, not unique enough
+-skipping training candidate: b4e0bf5b-f815-4ea6-8a1b-bd69bb22de3a.p1, not unique enough
+-skipping training candidate: 0414a05b-40c7-4f72-bfc0-c3dcc59b836d.p1, not unique enough
+-skipping training candidate: 20c6ac57-e3be-4f42-903e-c13731cd2e6b.p1, not unique enough
+-skipping training candidate: b7f7fef9-b662-4bfb-90bc-712ecf334888.p1, not unique enough
+-skipping training candidate: 72fb17c2-c113-411d-a427-31d777bd4acf.p1, not unique enough
+-skipping training candidate: 3340575e-a87c-4d7c-8b2c-d25945948a69.p1, not unique enough
+-skipping training candidate: 3f042c2a-090e-454f-aaa4-fd3bc0fabc87.p1, not unique enough
+-skipping training candidate: a002b4db-c768-4b3d-b7e5-b8f4feb52234.p1, not unique enough
+-skipping training candidate: eb079edc-2c6d-4bac-8875-6a8c541e2c21.p1, not unique enough
+-skipping training candidate: ab23b998-0913-4c67-9ca1-08e1858bc096.p1, not unique enough
+-skipping training candidate: f9df5332-f593-428a-add9-11a73674ba7a.p1, not unique enough
+-skipping training candidate: 149026fd-3563-4836-a360-b44b4988873d.p1, not unique enough
+-skipping training candidate: 291486c9-d44b-4681-85d8-e3e70d426622.p1, not unique enough
+-skipping training candidate: 4cd599a6-9860-4197-98e3-5705a956e6e4.p1, not unique enough
+-skipping training candidate: 31bea41d-c4b2-478a-852a-334abd648d34.p1, not unique enough
+-skipping training candidate: 7034288e-d5b9-4cf2-bac6-f2cb308bc981.p1, not unique enough
+-skipping training candidate: b89d8327-a826-4f36-8d38-ececee92c0bc.p1, not unique enough
+-skipping training candidate: db9e8223-b546-428c-9568-521cfebae522.p1, not unique enough
+-skipping training candidate: ad84e982-680e-4e18-bec7-a7d0250cc281.p1, not unique enough
+-skipping training candidate: 43419076-90d5-4ef9-b2a4-1c2b5258984a.p1, not unique enough
+-skipping training candidate: 4649dbfc-074c-4c34-a70e-9170f5cfa1b5.p1, not unique enough
+-skipping training candidate: c124121d-8b90-4047-ab1d-137a660088a5.p1, not unique enough
+-skipping training candidate: 1d2140f8-fb63-49b9-9397-8feeb2030dd2.p1, not unique enough
+-skipping training candidate: 842147ed-2ea4-4ae9-83df-717f54d9642b.p1, not unique enough
+-skipping training candidate: 6bb73e83-6782-410f-b4aa-2d9e78bada15.p1, not unique enough
+-skipping training candidate: 19ed6aaf-5615-4cf3-afc7-f92077341ba8.p1, not unique enough
+-skipping training candidate: 48c21fca-443a-4ca2-88d4-54d00b245bf8.p1, not unique enough
+-skipping training candidate: 01f507b9-62eb-41e0-87ac-4be8a8b2dccc.p1, not unique enough
+-skipping training candidate: f58528de-d506-46e8-ac99-5c8f80a14608.p1, not unique enough
+-skipping training candidate: 59d1932e-bde2-4259-9b99-a1da55702abf.p1, not unique enough
+-skipping training candidate: 8b2eb90e-6929-44ee-b887-facb3d289762.p1, not unique enough
+-skipping training candidate: 475c566f-4de1-4670-a27a-60385a2c66ab.p1, not unique enough
+-skipping training candidate: b90a7609-e315-4036-8ffe-64317ced0c75.p1, not unique enough
+-skipping training candidate: 19caae73-a35e-44c1-b8ec-e7bdfc504fc5.p1, not unique enough
+-skipping training candidate: df909b12-33e0-4b6c-8b65-2514d856dad2.p1, not unique enough
+-skipping training candidate: d00dd9b7-d9d8-4d93-8e34-ba53f5098c50.p1, not unique enough
+-skipping training candidate: 95ef6c95-1640-4401-bc31-83feca7ea60a.p1, not unique enough
+-skipping training candidate: bc329043-547b-4aeb-bd6e-7a392eac6b0d.p1, not unique enough
+-skipping training candidate: cc3cf4b2-b207-48e1-8d31-c487de770915.p1, not unique enough
+-skipping training candidate: 372d9b6b-23d6-4175-bdb4-7be6420b5dc0.p1, not unique enough
+-skipping training candidate: 2ee4b3b9-6bcf-468a-acfe-dac4168d78e4.p1, not unique enough
+-skipping training candidate: 3209a8bd-81bc-4d2a-a353-1e643d2b7da1.p1, not unique enough
+-skipping training candidate: 996b280e-ea93-41e1-bec5-d62b3a12caff.p1, not unique enough
+-skipping training candidate: 8a510af2-682e-4422-a3ee-750a41b6a831.p1, not unique enough
+-skipping training candidate: 72db162a-bf7f-4b3e-b4bf-d865a7b44876.p1, not unique enough
+-skipping training candidate: bacb0a12-dbad-43bd-a6fc-b0e148006428.p1, not unique enough
+-skipping training candidate: fb05ab4e-6b37-479f-9652-0a821d7c9e2a.p1, not unique enough
+-skipping training candidate: e724d958-08d8-4e80-aee1-1252546255dc.p1, not unique enough
+-skipping training candidate: 1ae92435-059b-4f7c-80ee-ddaff07968a5.p1, not unique enough
+-skipping training candidate: 0e64eadd-ab8f-48ef-a07d-34074a81fecb.p1, not unique enough
+-skipping training candidate: 09f79b7f-ffb9-4faa-b15b-9077368458af.p1, not unique enough
+-skipping training candidate: ba2bae6f-72df-47d1-ae6a-8076db4a4885.p1, not unique enough
+-skipping training candidate: e8426b1f-ff9d-47e4-964c-28d3d53f18b9.p1, not unique enough
+-skipping training candidate: 49b6cb43-c14f-4b1b-937a-acf2d8ae0723.p1, not unique enough
+-skipping training candidate: 925fe9c5-eb34-4700-b5b7-380254c26f44.p1, not unique enough
+-skipping training candidate: e411765f-0560-4676-9ffd-ee3522317dfe.p1, not unique enough
+-skipping training candidate: eb68e0fa-cb8b-4af0-974a-c9ddf5ec1757.p1, not unique enough
+-skipping training candidate: ae64abf0-a0a4-4176-bd78-438886fa5f27.p1, not unique enough
+-skipping training candidate: e29b19cc-11c2-4f0e-969b-54b2025db6dd.p1, not unique enough
+-skipping training candidate: a4663eb1-7c59-4e4b-959f-a8dbd2a81a74.p1, not unique enough
+-skipping training candidate: d5ec8758-e13e-449e-94d2-0ae043e5fc3f.p1, not unique enough
+-skipping training candidate: 912773a8-da27-40f9-8647-9aef91c5b464.p1, not unique enough
+-skipping training candidate: 1756e60e-2de9-4963-80d5-47e0f5eebb9d.p1, not unique enough
+-skipping training candidate: 01fc41b0-dcdc-4a5b-aab4-60b0c2672e85.p1, not unique enough
+-skipping training candidate: 3782f006-8894-4dea-ae98-f449b3c749c5.p1, not unique enough
+-skipping training candidate: f50a3797-a38e-49da-8636-699da8cec5f0.p1, not unique enough
+-skipping training candidate: 9463d8cb-c601-4004-9df6-78a1b542ff6c.p1, not unique enough
+-skipping training candidate: c4afccd1-7df4-4a2f-bfc0-c429b2501b77.p1, not unique enough
+-skipping training candidate: 8c956c5f-3786-4274-96d0-e64203931427.p1, not unique enough
+-skipping training candidate: f96cd4fd-4c84-4dd0-8930-1ec4064f5214.p1, not unique enough
+-skipping training candidate: 0d068f39-0050-478f-b84a-444b0bf693b5.p1, not unique enough
+-skipping training candidate: 6bb64842-7472-40b0-9e5c-37aee8a51452.p1, not unique enough
+-skipping training candidate: 61c87827-707b-423c-b6e8-ef18923a04de.p1, not unique enough
+-skipping training candidate: d9634f34-5941-4ebd-93a3-129050e9a932.p1, not unique enough
+-skipping training candidate: 71eb4062-ba32-4f9b-8482-26f1373581c0.p1, not unique enough
+-skipping training candidate: 553cd433-8c52-46f8-b339-87d57f3fec3b.p1, not unique enough
+-skipping training candidate: 7cdaffd7-bc3d-4274-b3e6-7112349ac440.p1, not unique enough
+-skipping training candidate: c335614e-24cf-43f6-b169-59eeb525a8ea.p1, not unique enough
+-skipping training candidate: 6d6b4a1a-f018-43c4-aad7-59885feaca23.p1, not unique enough
+-skipping training candidate: df7b85dc-664b-4d8d-8894-f5835ab39214.p1, not unique enough
+-skipping training candidate: 575beb2d-97af-4274-91a5-1f7f66628347.p1, not unique enough
+-skipping training candidate: 447113b7-a40d-4875-852d-98c04a32fdb6.p1, not unique enough
+-skipping training candidate: 31983c8c-4264-4502-92ac-68b037ac0e56.p1, not unique enough
+-skipping training candidate: 83d6b053-888c-426d-89e1-10641ba08f55.p1, not unique enough
+-skipping training candidate: 7469c20f-ea23-47c0-9e02-bd8ee34a161e.p1, not unique enough
+-skipping training candidate: 481cd293-3ac7-41bc-bb67-ffebfbe9e0ac.p1, not unique enough
+-skipping training candidate: cc27c95e-3130-4126-bf1b-f98608a9d548.p1, not unique enough
+-skipping training candidate: 17044685-a495-43ea-9cb0-a5232bd78114.p1, not unique enough
+-skipping training candidate: 0cb0e8ec-58db-4850-9ece-79adf739d9c4.p1, not unique enough
+-skipping training candidate: 7ae3d33c-a302-4409-9af8-c0ac1716e955.p1, not unique enough
+-skipping training candidate: 2d2333d6-8773-42ae-b438-2d9c23ebd1f9.p1, not unique enough
+-skipping training candidate: 44a0da86-fbb1-4b98-98a3-4c8d78475991.p1, not unique enough
+-skipping training candidate: 7fe18498-c0f9-45bd-b078-5cbfaf1271ca.p1, not unique enough
+-skipping training candidate: b6760e82-6dba-4ed3-b6a1-24b5fae9999a.p1, not unique enough
+-skipping training candidate: 61b5a27b-f00b-4fde-b157-46eaec458914.p1, not unique enough
+-skipping training candidate: a3d42850-ae10-4d43-86da-2195a781ec6c.p1, not unique enough
+-skipping training candidate: 3cca2e70-53f0-4da4-874d-57eb3a2e54b5.p1, not unique enough
+-skipping training candidate: 5f788812-3ad6-4df3-9bdd-796382c14c64.p1, not unique enough
+-skipping training candidate: fe4defad-42a1-4538-b2e6-4e7628b48115.p1, not unique enough
+-skipping training candidate: 8c69ef75-5082-4512-9b4b-b488967590e8.p1, not unique enough
+-skipping training candidate: 9f7ca084-053f-40e6-a2a8-a8359c82ca34.p1, not unique enough
+-skipping training candidate: 8fe6429a-658d-407d-b14e-d6359638ff7d.p1, not unique enough
+-skipping training candidate: 2c29685e-8cb0-4a17-ae1a-0fa77cc7308b.p1, not unique enough
+-skipping training candidate: 6c7a752d-8059-4af8-a002-8cda805e3cbb.p1, not unique enough
+-skipping training candidate: 180a4f8f-32cf-4b57-a15b-3e4c7db4fab2.p1, not unique enough
+-skipping training candidate: c3eaeaef-f5ae-4c91-94ed-aaba63e66554.p1, not unique enough
+-skipping training candidate: d50dad89-9a32-4ea3-bebd-8861bf6c13ae.p1, not unique enough
+-skipping training candidate: 5092cefa-d7ca-449a-a08d-cc4e0a6e708c.p1, not unique enough
+-skipping training candidate: d95a4896-97a1-46ad-a9af-288b1922fa18.p1, not unique enough
+-skipping training candidate: d4092c53-ec09-4d6c-b6e8-45c81f808606.p1, not unique enough
+-skipping training candidate: 4bc48b74-20bc-43a2-8904-5babc4f22ce1.p1, not unique enough
+-skipping training candidate: c96f9f1f-738f-414d-a8e4-2a6e938a7f95.p1, not unique enough
+-skipping training candidate: 8e45dc2c-0454-49f5-ba1b-2b75e40fea92.p1, not unique enough
+-skipping training candidate: bfd43da8-94fd-46ee-b06e-bfbc030c3995.p1, not unique enough
+-skipping training candidate: f4ed6689-f607-4db4-8ec3-926431bf6175.p1, not unique enough
+-skipping training candidate: c56739cc-6075-4a15-9546-b85d48c693b2.p1, not unique enough
+-skipping training candidate: af3dee3a-9b15-4d3d-8811-1c10f3cbdbc6.p1, not unique enough
+-skipping training candidate: ed34c196-1ae9-4fc7-a001-8cc39044d095.p1, not unique enough
+-skipping training candidate: 82ef2918-97e3-4112-add3-972752dfad88.p1, not unique enough
+-skipping training candidate: a7022f2d-e5bf-4f67-a113-4565346515e6.p1, not unique enough
+-skipping training candidate: 954a9183-aa61-4ec0-a0a0-eeb9ccd72c3e.p1, not unique enough
+-skipping training candidate: 83cc87b7-6c81-4548-b501-0ae718bffdc9.p1, not unique enough
+-skipping training candidate: daf5c552-c067-4d59-a5c2-3ee992962b70.p1, not unique enough
+-skipping training candidate: 98a9ae58-2fac-4107-a75f-2c8d6978e0ae.p1, not unique enough
+-skipping training candidate: b8b3d153-6036-4c7e-86c9-9818d679ccb0.p1, not unique enough
+-skipping training candidate: 98989c06-2e31-4a33-a972-392b91cc7bfb.p1, not unique enough
+-skipping training candidate: 2b36186b-3f2f-454f-a7bc-1eabf3d02080.p1, not unique enough
+-skipping training candidate: b1b31796-35d7-4a90-97ad-52627ff1fdd6.p1, not unique enough
+-skipping training candidate: 431b1704-9837-4af0-bae8-fcf4e8ec8ef9.p1, not unique enough
+-skipping training candidate: aae928a1-9169-43c2-b3ca-18159c802474.p1, not unique enough
+-skipping training candidate: 0ea5e917-d62d-453a-a0f8-9bbd89ed6648.p1, not unique enough
+-skipping training candidate: 3f47310e-ca73-4296-ab88-f9d910423ac6.p1, not unique enough
+-skipping training candidate: 9eec0e25-930a-42a3-aab7-929b7722119b.p1, not unique enough
+-skipping training candidate: ec119c9c-7dd5-42e0-baa8-e00b59a9c407.p1, not unique enough
+-skipping training candidate: 1d7d3183-9933-48f9-b421-b0d7bbf31090.p1, not unique enough
+-skipping training candidate: 8bd95745-28fb-4aab-af38-369bf1d21f1b.p1, not unique enough
+-skipping training candidate: 7107d353-d273-4088-9190-15473692613c.p1, not unique enough
+-skipping training candidate: 92d86dbd-b6cb-43c3-9c84-b62cb075e987.p1, not unique enough
+-skipping training candidate: ce91eca9-b414-4d67-8fff-cfff7e27f90f.p1, not unique enough
+-skipping training candidate: e794e0c3-ab51-4a99-b6be-cce071846cc0.p1, not unique enough
+-skipping training candidate: 42afb0dd-8299-475e-b645-8b6cca9e78ce.p1, not unique enough
+-skipping training candidate: 20567da4-1e4c-4819-a73c-8dc62a484cf3.p1, not unique enough
+-skipping training candidate: 40ba1caa-6fb1-414a-ada5-e37f7f055b83.p1, not unique enough
+-skipping training candidate: 16836c2b-9b49-42cd-beec-9c9123e4915b.p1, not unique enough
+-skipping training candidate: 015cfa02-392d-4fc5-abe6-6b8fd76f0b9f.p1, not unique enough
+-skipping training candidate: 56832aef-507a-4747-a026-84f0539da43c.p1, not unique enough
+-skipping training candidate: be9fa5ab-6b8f-44cb-8ba7-6e2f9c2406d6.p1, not unique enough
+-skipping training candidate: add1bd77-714d-4da7-b3c0-45d5f19f0144.p1, not unique enough
+-skipping training candidate: 876d45b6-fead-41ec-896b-0fd33e6884bf.p1, not unique enough
+-skipping training candidate: 4a62c091-4b9f-45d4-bd4a-f1220072987a.p1, not unique enough
+-skipping training candidate: d0718cbf-e59e-4007-96fb-b28737e20354.p1, not unique enough
+-skipping training candidate: 8528b8af-b6a0-4f39-8f7e-8de6d68abe03.p1, not unique enough
+-skipping training candidate: 610354d7-4b47-4087-9eaf-0a870fd49bd8.p1, not unique enough
+-skipping training candidate: 43a8c6d0-0218-465b-9584-9f45c6271efe.p1, not unique enough
+-skipping training candidate: e631b810-e4f1-44bb-8a9c-76e0009680a6.p1, not unique enough
+-skipping training candidate: c92b73b1-93b3-41fc-9c82-3fa8da282059.p1, not unique enough
+-skipping training candidate: 606d1dc3-093e-4b4a-a803-d78518b91334.p1, not unique enough
+-skipping training candidate: 712dc646-a4ef-4aec-bcdd-40b0a425b790.p1, not unique enough
+-skipping training candidate: f3d3c193-8972-489a-b803-4ee444c54b48.p1, not unique enough
+-skipping training candidate: 9a28cb3a-6fe3-4529-ad1d-c08c614bf673.p1, not unique enough
+-skipping training candidate: 5f735cc4-0007-4458-bb19-d87cc2aa8772.p1, not unique enough
+-skipping training candidate: 712cff40-8d53-424d-bcb0-26ff74c670a9.p1, not unique enough
+-skipping training candidate: dfeeb003-252c-4614-bac9-c08f6ae5a979.p1, not unique enough
+-skipping training candidate: a39d0a75-5cda-4c66-90ba-8e7d52b0dbff.p1, not unique enough
+-skipping training candidate: 5f4d8a5d-1347-4e43-990d-25a4aaf0ec4a.p1, not unique enough
+-skipping training candidate: d18d62d9-d155-4940-a2cb-305269325de3.p1, not unique enough
+-skipping training candidate: 20dab3bd-af7a-4230-be8e-97dcc150c9ca.p1, not unique enough
+-skipping training candidate: 33ab2046-e4fe-4f6f-abe4-2ef87d1d836f.p1, not unique enough
+-skipping training candidate: 9f02e70a-8a52-47df-bf96-7561c77f63a7.p1, not unique enough
+-skipping training candidate: 039acfd5-75ae-4734-8d30-abc1a9a20cd1.p1, not unique enough
+-skipping training candidate: 3939695f-b2ac-4bed-8fdd-bd4455f9b9f9.p1, not unique enough
+-skipping training candidate: 62b61729-25b7-427e-a896-2a9be304d4ef.p1, not unique enough
+-skipping training candidate: 09af9e1c-a47d-4a3d-9e57-bf664f1108eb.p1, not unique enough
+-skipping training candidate: 6709fddf-485f-49f9-859e-1ca204e76a7a.p1, not unique enough
+-skipping training candidate: cb4af36f-d0e1-4690-83ab-51ff0b2c5e41.p1, not unique enough
+-skipping training candidate: 7a9a50b9-43d2-49ed-96c7-b5af72334961.p1, not unique enough
+-skipping training candidate: 3047f077-f7d9-4b81-b67c-ecb3d234f5eb.p1, not unique enough
+-skipping training candidate: 2d3933e4-6412-4537-b8e7-f502df6c174d.p1, not unique enough
+-skipping training candidate: 929162ae-2a8e-4eb9-af4d-70b640a139fb.p1, not unique enough
+-skipping training candidate: 6a125d73-594e-4914-a406-b1fa97cd2166.p1, not unique enough
+-skipping training candidate: 6555bb5f-d0b3-442d-81ba-87fa528005e9.p1, not unique enough
+-skipping training candidate: 87b85a06-ad1a-4247-90b2-5a4993b49fbf.p1, not unique enough
+-skipping training candidate: 2332420d-ffc9-46d0-b5a0-f208d85f6cd9.p1, not unique enough
+-skipping training candidate: 0d3665ce-99f0-46d2-8a99-3c91b4ed6611.p1, not unique enough
+-skipping training candidate: 7d8f911c-6cec-4525-a2b2-232721253387.p1, not unique enough
+-skipping training candidate: 919fc688-019c-44ef-b4ad-0d325cda7357.p1, not unique enough
+-skipping training candidate: c60717f1-948f-4327-8f5a-ddc899a641c7.p1, not unique enough
+-skipping training candidate: cff6f21f-4860-48e9-aa01-630faab07bb5.p1, not unique enough
+-skipping training candidate: 05cc6610-bcfb-4bfd-875f-b3558b160000.p1, not unique enough
+-skipping training candidate: 4fa6f723-0a6a-4f93-837a-80f13fc1eeab.p1, not unique enough
+-skipping training candidate: e42e495e-cd2e-4cd2-a63f-b0245ca9f17c.p1, not unique enough
+-skipping training candidate: 79464c18-7fbd-44f2-9184-d57211d66630.p1, not unique enough
+-skipping training candidate: 6856b926-d718-47f8-924c-7d8a8d0b979a.p1, not unique enough
+-skipping training candidate: b62ade6f-9091-4c85-9015-bfba8d983369.p1, not unique enough
+-skipping training candidate: ff26cd8f-a92c-4f47-8a15-07b514b4a712.p1, not unique enough
+-skipping training candidate: ea2ff95f-c8ff-4353-a3b6-0e652cf9fb61.p1, not unique enough
+-skipping training candidate: f4833fe1-9e76-4144-8797-5cd03c4c6145.p1, not unique enough
+-skipping training candidate: cb53d823-2ebd-4387-b8ab-2ed7ee57fb0f.p1, not unique enough
+-skipping training candidate: d2191dde-466f-42ba-a20f-c4bfe79dcda5.p1, not unique enough
+-skipping training candidate: a09b7f7e-dc90-4d92-9818-35cb3a731157.p1, not unique enough
+-skipping training candidate: acf5dfa5-19d2-4edc-b8b0-45fab27c033b.p1, not unique enough
+-skipping training candidate: e325fb38-175c-45dd-8216-bdafec9d554b.p1, not unique enough
+-skipping training candidate: e04df804-0eaa-48a8-ac95-e24a4368fd8f.p1, not unique enough
+-skipping training candidate: 14274c29-6d5f-46b6-999f-976b3d2d51d8.p1, not unique enough
+-skipping training candidate: e9c2d75b-bd3f-427c-87f6-1c9c21972c4c.p1, not unique enough
+-skipping training candidate: 0f6c94c0-0538-4d7c-9a6c-7dec0c7da743.p1, not unique enough
+-skipping training candidate: a88c1864-8471-4f63-9452-abc1043ebc05.p1, not unique enough
+-skipping training candidate: 3a62a8e4-a380-4898-ad63-f998f238f1f0.p1, not unique enough
+-skipping training candidate: 71bf5528-7931-40a0-a9b7-d844cdc03748.p1, not unique enough
+-skipping training candidate: bd35be71-5b24-4c3f-9c42-6d64892b492b.p1, not unique enough
+-skipping training candidate: 0debfb87-cfc2-48d0-996e-0e427ce8a1ac.p1, not unique enough
+-skipping training candidate: 872825c5-0e96-4868-a396-43db62194a21.p1, not unique enough
+-skipping training candidate: 68c2ab81-a1ae-409c-9c0f-ee0803e0ad80.p1, not unique enough
+-skipping training candidate: 990a4e60-d3e2-458d-a48f-f2bfa0d3c347.p1, not unique enough
+-skipping training candidate: 02af8f91-d7ec-40f6-9533-97f7d357db4e.p1, not unique enough
+-skipping training candidate: 38dd4be3-aa9c-4dd6-b0e0-d555db578b04.p1, not unique enough
+-skipping training candidate: c22af5e4-e083-4aeb-b996-bb0894df12a7.p1, not unique enough
+-skipping training candidate: 27306e09-12ab-407f-a28e-2ea7f112acac.p1, not unique enough
+-skipping training candidate: 0c3108d6-8f3f-4cab-9767-8696bbfd874a.p1, not unique enough
+-skipping training candidate: 51cf3dde-404a-4aec-9519-4220198fffb2.p1, not unique enough
+-skipping training candidate: f42a1417-5490-4e61-8b2c-7d38bfabebb6.p1, not unique enough
+-skipping training candidate: 615c7b79-1975-4bfd-a95b-4b78c44fbcad.p1, not unique enough
+-skipping training candidate: e66e1638-ef17-4dcf-9e12-7ebe0cd950a2.p1, not unique enough
+-skipping training candidate: 13ed8c1c-144c-4e58-9b9b-e9df40a4a6bf.p1, not unique enough
+-skipping training candidate: d73fc493-10d6-4dbe-9fdb-38ab7aab02cf.p1, not unique enough
+-skipping training candidate: c30f1a62-901c-45b7-93ec-0963952cf256.p1, not unique enough
+-skipping training candidate: 8a1653c4-764f-4772-9511-6109d365bf2e.p1, not unique enough
+-skipping training candidate: c66fde32-ee9c-4adf-a412-af7c5622cd3c.p1, not unique enough
+-skipping training candidate: b5a6ab0d-f7cb-46da-8ace-ad52f7efc883.p1, not unique enough
+-skipping training candidate: c52add09-1d82-47c3-86a0-dbc2b4b36b84.p1, not unique enough
+-skipping training candidate: 18c40577-8d15-42b8-84b4-e6b8d731821d.p1, not unique enough
+-skipping training candidate: 6c3457bd-4a6b-4c3e-9d2e-14537f00e721.p1, not unique enough
+-skipping training candidate: 764f8228-f6a3-4abc-a0e0-3406ad2d5ec0.p1, not unique enough
+-skipping training candidate: 6c62be82-b80f-4cd8-9adb-78ea5eb61d9f.p1, not unique enough
+-skipping training candidate: e24d870a-09f8-483b-9956-b8e9c82fe1c1.p1, not unique enough
+-skipping training candidate: b401239a-eccc-4a4f-9545-ef3bfaae0b39.p1, not unique enough
+-skipping training candidate: 054f4989-8a36-4009-ab06-aef85efa0542.p1, not unique enough
+-skipping training candidate: 47ed803e-ed24-47b0-82b4-ef4f18d4cf6b.p1, not unique enough
+-skipping training candidate: 6656928f-89aa-4aa5-82de-fa14b1a45794.p1, not unique enough
+-skipping training candidate: 2d98ced1-6a57-4ff0-8d28-05f6833c2b2a.p1, not unique enough
+-skipping training candidate: 58f036b8-6f6a-4f38-b50c-3130f11b5042.p1, not unique enough
+-skipping training candidate: bb464ac5-7678-4b50-b138-6073eb70e96a.p1, not unique enough
+-skipping training candidate: 063ff0b8-90b4-488e-a212-03430749686a.p1, not unique enough
+-skipping training candidate: 38d14aa2-33a7-41ba-b6da-da9975dc135d.p1, not unique enough
+-skipping training candidate: 58cbe012-ce6b-43af-b8b9-7bcdc822f46e.p1, not unique enough
+-skipping training candidate: 93f0b68b-fe7c-4647-96eb-cb28a338eb29.p1, not unique enough
+-skipping training candidate: 6f2abd19-6f5f-4c07-a3d1-b8f0c61e6b09.p1, not unique enough
+-skipping training candidate: 50d866e9-4df7-490f-83f5-fb6366cb4202.p1, not unique enough
+-skipping training candidate: 680241c0-44e0-42ff-9ff2-37977fca7ab9.p1, not unique enough
+-skipping training candidate: 042b2dba-797e-4eca-ab1f-3bdc40176e69.p1, not unique enough
+-skipping training candidate: 5e399571-178f-4828-bd78-8e1e10afd373.p1, not unique enough
+-skipping training candidate: 4fcd2bc3-f9d5-4b59-a332-58955ff42180.p1, not unique enough
+-skipping training candidate: c8203bb6-cceb-4472-b1d1-2a289fb13e2b.p1, not unique enough
+-skipping training candidate: d138ba3a-5bcc-4f00-a661-ce504debe808.p1, not unique enough
+-skipping training candidate: ab11b5f9-0cc7-4664-bcfd-57f06c20a936.p1, not unique enough
+-skipping training candidate: d92e5804-5785-4b81-ac0d-443ae97da28d.p1, not unique enough
+-skipping training candidate: a307e824-a563-4975-a93e-ea1407dfffc4.p1, not unique enough
+-skipping training candidate: e4faa4e1-8a62-4db6-b9b6-2bdecbd6708a.p1, not unique enough
+-skipping training candidate: 1a2adc7e-22ca-4354-88cf-6f944e51639a.p1, not unique enough
+-skipping training candidate: 2f2af3b0-fbb1-4c99-95a6-bea896af9209.p1, not unique enough
+-skipping training candidate: 706ae32a-57cd-495a-91ef-86b98e785578.p1, not unique enough
+-skipping training candidate: 1d85f6f2-8b8c-4934-97e8-a7641433958b.p1, not unique enough
+-skipping training candidate: 18f4bebf-77be-4bb3-af68-55ae070200cb.p1, not unique enough
+-skipping training candidate: 07762cff-2f40-4999-a98c-f56240cc1d86.p1, not unique enough
+-skipping training candidate: 0ca75ea2-ea05-46f8-8760-2b433bcf6c57.p1, not unique enough
+-skipping training candidate: 3e397b20-b484-4891-89c0-82f7fe0d51af.p1, not unique enough
+-skipping training candidate: 9e21f9bf-614b-41ad-b954-cf863ed43fd3.p1, not unique enough
+-skipping training candidate: e6883b71-8939-4439-82ec-e2b64d0395c0.p1, not unique enough
+-skipping training candidate: 729dc4c4-0e60-4e79-94c4-6c828680d89e.p1, not unique enough
+-skipping training candidate: c2a2dd26-2a89-4847-afe5-a773de9b056f.p1, not unique enough
+-skipping training candidate: 8dcb6ef2-50c9-46f1-8601-9f409fb8f880.p1, not unique enough
+-skipping training candidate: 93efbd56-8fb7-484f-b2c9-8cf3597c7e4e.p1, not unique enough
+-skipping training candidate: 7d432bd8-c96c-4c4f-9cc4-9c287e600f4d.p1, not unique enough
+-skipping training candidate: 7a0924cc-18a1-4e4f-9311-00f3954e56ff.p1, not unique enough
+-skipping training candidate: cbc3e5a9-2027-457b-a813-8a8f1125c13f.p1, not unique enough
+-skipping training candidate: bc56a991-5ef8-43ed-bb54-a9d616b75b08.p1, not unique enough
+-skipping training candidate: bf55ace8-117d-4fbf-a47d-74095db8c396.p1, not unique enough
+-skipping training candidate: f3bd0fc8-3ece-4422-99fc-61676481ca6a.p1, not unique enough
+-skipping training candidate: 90855062-19d0-4096-b1df-8c87d55a6988.p1, not unique enough
+-skipping training candidate: bd82aa02-2f0f-49b5-bed1-caec98057158.p1, not unique enough
+-skipping training candidate: 2eee9839-be30-4500-ba92-28827690aec7.p1, not unique enough
+-skipping training candidate: cf762097-9e60-4f24-a30d-6b6aeefc8e96.p1, not unique enough
+-skipping training candidate: 7ab3f812-08f0-4292-8453-aeeae0a22239.p1, not unique enough
+-skipping training candidate: 8b207860-e34e-4aed-a9ba-bef3a054afbc.p1, not unique enough
+-skipping training candidate: 05fd0411-99aa-4961-98b6-e19e6b9fc589.p1, not unique enough
+-skipping training candidate: 50b6e6ed-d3be-4509-bbbf-4c77ca982607.p1, not unique enough
+-skipping training candidate: e2eaefed-68eb-4978-9177-6084bfe05c20.p1, not unique enough
+-skipping training candidate: a41c4ce5-90af-4b10-8961-f0fb5ec66443.p1, not unique enough
+-skipping training candidate: a006cde6-1908-456f-a1ac-ba602f0cf3c3.p1, not unique enough
+-skipping training candidate: 19670bd0-6150-4ec7-9d18-e9811435928b.p1, not unique enough
+-skipping training candidate: 23e0b2a5-ed9c-4d12-a05b-3f08ff191f28.p1, not unique enough
+-skipping training candidate: a4fde377-c4c8-48f1-b71a-c433138df54b.p1, not unique enough
+-skipping training candidate: 538d64f5-f608-4617-bb92-2b4b1cd4b7dc.p1, not unique enough
+-skipping training candidate: b9e00f70-887a-42bc-9a2b-15dc11f4dabc.p1, not unique enough
+-skipping training candidate: a166f981-db41-4792-9028-049dccadd096.p1, not unique enough
+-skipping training candidate: 72a32b17-29af-4ccf-a0b7-e33888e66771.p1, not unique enough
+-skipping training candidate: 8709977a-dfa1-421f-bc8f-494ac7dc62df.p1, not unique enough
+-skipping training candidate: 3b4f5613-8f92-4b29-8c24-bde4ff40cef5.p1, not unique enough
+-skipping training candidate: 80a240e7-8de0-4253-91a3-a3217a8480a3.p1, not unique enough
+-skipping training candidate: f3be5507-6f13-495d-a312-ac6ce335b3b1.p1, not unique enough
+-skipping training candidate: cbab1b3e-4d60-4c4d-ba74-6a563e2b6006.p1, not unique enough
+-skipping training candidate: ac69081b-514e-4d88-bbf8-397d20dcf1d9.p1, not unique enough
+-skipping training candidate: d8c41bfd-384b-4cce-a5e6-2c82af2b7338.p1, not unique enough
+-skipping training candidate: e7fa32db-60f8-4201-ab1f-faee870f96c3.p1, not unique enough
+-skipping training candidate: da1f19ef-1007-46a6-9607-5657098590ef.p1, not unique enough
+-skipping training candidate: 76e5ee8f-edc4-4967-99e6-4195e6f2eb73.p1, not unique enough
+-skipping training candidate: 86da5018-4195-4105-9be3-5d8489831b79.p1, not unique enough
+-skipping training candidate: 4e9f7e10-d34d-443f-ada3-30645f72be35.p1, not unique enough
+-skipping training candidate: 00cdb6d6-efd3-4b64-b3da-e24f70df5ba7.p1, not unique enough
+-skipping training candidate: 1c50aeed-06ed-4b72-b6d3-b46076c7b575.p1, not unique enough
+-skipping training candidate: f37010d7-4a16-417a-8f47-24049a791548.p1, not unique enough
+-skipping training candidate: e83a1485-d80a-4e96-90b1-49ef0f58e307.p1, not unique enough
+-skipping training candidate: 0f72ab1b-9e05-404a-a44f-f3bf8c79d817.p1, not unique enough
+-skipping training candidate: 3fc796e8-e4a4-42d7-87fd-761b6d80989f.p1, not unique enough
+-skipping training candidate: 0cf65c2e-b0c1-4753-b59e-6ed6cebe124f.p1, not unique enough
+-skipping training candidate: a94d673c-cee8-49c3-a6a3-8af5ae4e6c94.p1, not unique enough
+-skipping training candidate: fd414c31-f707-423c-ab40-4025af3d9542.p1, not unique enough
+-skipping training candidate: 3cd254ee-d300-442a-95c7-041df8f1ca3a.p1, not unique enough
+-skipping training candidate: 15c89ad0-a35e-4d84-b388-ea057cabd42e.p1, not unique enough
+-skipping training candidate: d0628d04-5c98-4d61-8587-4560c640dd8c.p1, not unique enough
+-skipping training candidate: bb7dcff9-d02e-4131-b9e8-a6a4d3480ae7.p1, not unique enough
+-skipping training candidate: ec7735ee-d7ec-46c1-a0ec-3dc51524e933.p1, not unique enough
+-skipping training candidate: 8084a249-ca0e-4597-9e64-1a7a7b9a2231.p1, not unique enough
+-skipping training candidate: be72d79d-75e2-4f2d-94bb-4dd08d05267c.p1, not unique enough
+-skipping training candidate: d83c8d4f-b90a-4622-9b72-f51a5ea915b4.p1, not unique enough
+-skipping training candidate: f74d7609-8ea3-4b4f-a901-ce140d6b528e.p1, not unique enough
+-skipping training candidate: fdae5555-8413-4366-a756-dce51a73e89e.p1, not unique enough
+-skipping training candidate: e1f41235-4344-4068-991f-7f33b816652b.p1, not unique enough
+-skipping training candidate: 93d40593-3200-4d1c-a062-5623817b74e3.p1, not unique enough
+-skipping training candidate: c1f3a5ca-8556-4c1c-a2b8-160349d2fe22.p1, not unique enough
+-skipping training candidate: 915295f6-5865-4aff-9ded-a1f2ca349e1f.p1, not unique enough
+-skipping training candidate: 536995ae-3104-4a93-be18-e5a32768b418.p1, not unique enough
+-skipping training candidate: c6daa8b2-28a3-4570-99c6-38df07b8dea2.p1, not unique enough
+-skipping training candidate: d838f5b9-623d-4037-bf3f-11a699f55d9b.p1, not unique enough
+-skipping training candidate: 67ef9000-a481-47f2-a6f4-0fc97d9521ce.p1, not unique enough
+-skipping training candidate: 24f6a970-ea2b-4a0f-9a38-bca3ee9e5bc8.p1, not unique enough
+-skipping training candidate: f758003f-b706-4242-ae3d-06b07621530f.p1, not unique enough
+-skipping training candidate: 35a2af94-43be-4edf-872e-752aec072543.p1, not unique enough
+-skipping training candidate: 7d932fdb-d8cf-4cda-8176-891464a97375.p1, not unique enough
+-skipping training candidate: b05ba8bf-a460-420b-9984-537e7106d77a.p1, not unique enough
+-skipping training candidate: 57e5df57-cab2-41f9-b245-9239fa50ea9b.p1, not unique enough
+-skipping training candidate: 50a62b33-c8b3-4bff-91b2-07e77bde81cd.p1, not unique enough
+-skipping training candidate: 4db6709a-7654-4d25-ad34-3711e39e4de3.p1, not unique enough
+-skipping training candidate: 92959de6-bd78-4b08-82bf-544962862094.p1, not unique enough
+-skipping training candidate: cb86b2a0-f456-4a52-a212-78b1bace258d.p1, not unique enough
+-skipping training candidate: b711b8f4-05dd-4dd5-88b0-ccd250e141e9.p1, not unique enough
+-skipping training candidate: 1ba43158-eadd-45f1-bea3-9387ecb11643.p1, not unique enough
+-skipping training candidate: 4128d7b3-c9b8-4225-878a-3314aaca7051.p1, not unique enough
+-skipping training candidate: 258ae422-12c4-449c-b499-349d143ebac4.p1, not unique enough
+-skipping training candidate: bde26c60-6aa1-4d2d-8475-ae300b7857ba.p1, not unique enough
+-skipping training candidate: 279b51ec-b200-4eba-9922-9be95428899a.p1, not unique enough
+-skipping training candidate: de52bd53-0857-4d25-a3ac-3c01cc0e1d89.p1, not unique enough
+-skipping training candidate: d925622f-fb8f-49f5-b2e0-74cb4690ab02.p1, not unique enough
+-skipping training candidate: 16cfcba7-4e3e-4bbe-8aed-bd43811a635d.p1, not unique enough
+-skipping training candidate: 193b0601-1bd1-4a01-b9a6-1952874e3b3d.p1, not unique enough
+-skipping training candidate: 1e1a8953-eafd-4c05-b00a-03f2aea19fdd.p1, not unique enough
+-skipping training candidate: 28252a7b-b79a-4bed-a1c5-960f9a2d654a.p1, not unique enough
+-skipping training candidate: fac5e3f6-d122-4b79-b9a3-f877e1c68b47.p1, not unique enough
+-skipping training candidate: d970c973-be99-454b-ab42-28f38cef57a9.p1, not unique enough
+-skipping training candidate: 5b91b9dc-016f-4e77-b4fa-a2c4c0482f4d.p1, not unique enough
+-skipping training candidate: 5c928ddc-0a2c-4c37-8373-23058259546b.p1, not unique enough
+-skipping training candidate: 87af16cb-aae1-4e7f-b426-dee2a97260b7.p1, not unique enough
+-skipping training candidate: be5a78ba-5c67-4f93-859d-d85367a4b639.p1, not unique enough
+-skipping training candidate: f2266fd2-294f-4a68-98e7-7005f6b2818a.p1, not unique enough
+-skipping training candidate: 8ffd7213-9d0e-4955-b20f-09e8c53ba7e4.p1, not unique enough
+-skipping training candidate: 7c257f90-9c80-4ad9-966d-bbde538f31a9.p1, not unique enough
+-skipping training candidate: e227daca-630b-4dd1-bd22-95153a6a5479.p1, not unique enough
+-skipping training candidate: d6d55d12-87b5-40f9-8272-fe0827351e8c.p1, not unique enough
+-skipping training candidate: 645c05f1-fdc1-4400-8f08-92dc6aa4a7ff.p1, not unique enough
+-skipping training candidate: 7d964b49-1916-4815-963d-d06d0bb2f23e.p1, not unique enough
+-skipping training candidate: 4cf2ea1c-9cb1-4b68-9747-9d003b089a04.p1, not unique enough
+-skipping training candidate: 9343eeb0-26fa-44d4-ab35-a460b723728b.p1, not unique enough
+-skipping training candidate: 4e78d8ec-d698-4f25-b781-3e2ae9671e02.p1, not unique enough
+-skipping training candidate: 72370c2a-f193-4756-b038-7c93f582564f.p1, not unique enough
+-skipping training candidate: c1b4990a-9fd4-4546-a155-82c6d000e3a0.p1, not unique enough
+-skipping training candidate: 10e6e7e1-5be5-4e38-90bf-d8a3d5821b76.p1, not unique enough
+-skipping training candidate: 4cfdda6f-8eb4-4a11-8a71-e160b7b9aafb.p1, not unique enough
+-skipping training candidate: 4528d611-5f5c-43d6-8ce9-9e1f859bf0e6.p1, not unique enough
+-skipping training candidate: 22bd73cb-f965-400d-b487-fa3f4a3241b6.p1, not unique enough
+-skipping training candidate: 48a985a4-1e5d-441e-8298-62b485e46b25.p1, not unique enough
+-skipping training candidate: b10f2410-9b47-4dfc-af01-86cc8dbfdcf4.p1, not unique enough
+-skipping training candidate: f313250c-7b34-4f5a-ab3b-9b6dedcf433b.p1, not unique enough
+-skipping training candidate: 23c42300-5072-4f55-ada7-6f2c71bf2ed7.p1, not unique enough
+-skipping training candidate: beec4213-daf5-42dd-8799-52af3d4cd656.p1, not unique enough
+-skipping training candidate: 6d3b675f-b4e5-47e9-8597-192c98da2c34.p1, not unique enough
+-skipping training candidate: 8d11b313-2b73-4cea-97ce-8cc3b8e1ae81.p1, not unique enough
+-skipping training candidate: 952cf835-771e-4fa9-b460-b69f547c8478.p1, not unique enough
+-skipping training candidate: 4b35dc03-e73a-4c3f-b712-734a43a47a4a.p1, not unique enough
+-skipping training candidate: e9aa3e35-abf1-4fbc-af7b-bca4f71fc8ec.p1, not unique enough
+-skipping training candidate: 4cdb974f-55f3-4e4f-913f-c29bfbbcaade.p1, not unique enough
+-skipping training candidate: 5cd5a475-1d12-424a-8867-ab983c316d86.p1, not unique enough
+-skipping training candidate: a1086d98-293b-4c6c-b76f-4e2075d4bb92.p1, not unique enough
+-skipping training candidate: f22294a2-1211-455e-9865-b436cdac3e76.p1, not unique enough
+-skipping training candidate: a85ccb9a-b7f4-4188-83c4-55c99034c099.p1, not unique enough
+-skipping training candidate: f289d47f-a269-4067-9c6e-d092ffa9698b.p1, not unique enough
+-skipping training candidate: 8138e30e-54ed-4624-a7a3-ffd4f43b60ad.p1, not unique enough
+-skipping training candidate: a57900b8-232c-47b0-8284-da89b2b0822f.p1, not unique enough
+-skipping training candidate: 3f083a71-f3b0-4519-8652-f959a306dce5.p1, not unique enough
+-skipping training candidate: 77a2fd75-f1f3-49f5-96ea-a9b03940e7e1.p1, not unique enough
+-skipping training candidate: e2e7bd95-4e57-49b1-b87b-0c3ca4d10219.p1, not unique enough
+-skipping training candidate: 8bf1bd16-26b1-445e-aadf-10f811103f43.p1, not unique enough
+-skipping training candidate: ea76be14-f13a-4af5-b153-9b028087d33c.p1, not unique enough
+-skipping training candidate: e9d4240d-45f9-46d4-ae33-00d8f39b4e06.p1, not unique enough
+-skipping training candidate: 8a151b95-edd4-482c-9bbe-8e5e02fa8fa3.p1, not unique enough
+-skipping training candidate: ac45cc9e-9866-4cd8-bc87-481208a44c71.p1, not unique enough
+-skipping training candidate: 3b018496-08da-47ad-badc-00a9838e09aa.p1, not unique enough
+-skipping training candidate: 6832a710-4ec2-4e34-bee2-5e9d75330a6d.p1, not unique enough
+-skipping training candidate: aec397c4-8c1d-4be9-8b2e-0ac827942f79.p1, not unique enough
+-skipping training candidate: 9a805f2b-18cc-415c-844d-92ce30753f7a.p1, not unique enough
+-skipping training candidate: 95caac0a-dde2-4540-a4f3-39fa1a430282.p1, not unique enough
+-skipping training candidate: 21ece54a-db4e-44ff-bbc6-7873b6d6fc5c.p1, not unique enough
+-skipping training candidate: 033a21c6-57b4-449b-97c9-6eb6a376873b.p1, not unique enough
+-skipping training candidate: 062594fb-9fc3-4838-8e3e-9b8607bd8d1b.p1, not unique enough
+-skipping training candidate: dadea319-056d-4f71-808e-44199274582d.p1, not unique enough
+-skipping training candidate: 6727c824-71a7-44db-b098-20ae6e862518.p1, not unique enough
+-skipping training candidate: 380ee629-3e94-48da-987b-280c134a31fe.p1, not unique enough
+-skipping training candidate: 4767c486-00bb-43d3-9881-9413ffca8b02.p1, not unique enough
+-skipping training candidate: 72966b9b-9b46-4f0c-9724-27e1570dd9a3.p1, not unique enough
+-skipping training candidate: 4c874be4-5e18-4a99-b013-0a8f50874d40.p1, not unique enough
+-skipping training candidate: 40216421-ab78-40ff-9b77-4e62f2a32171.p1, not unique enough
+-skipping training candidate: 8b3aa089-a172-4205-abdf-b675f121efbc.p1, not unique enough
+-skipping training candidate: 2ab78925-9898-489d-a965-08e70c56a875.p1, not unique enough
+-skipping training candidate: 0ab441d2-0aa3-49ef-b921-85ffd49649a0.p1, not unique enough
+-skipping training candidate: d02fe534-7058-411d-a80a-6202637611bd.p1, not unique enough
+-skipping training candidate: b317e201-36e1-42f9-9a35-45c669c3a66f.p1, not unique enough
+-skipping training candidate: 8c02d5a7-02b6-45f4-8d50-6f7853cea83c.p1, not unique enough
+-skipping training candidate: 05bc8157-daab-4812-85a6-04c4657daf89.p1, not unique enough
+-skipping training candidate: a7c12438-5651-42d9-a44a-f3ef6688bb00.p1, not unique enough
+-skipping training candidate: f0fa90b1-5578-479a-af96-7884eb2da802.p1, not unique enough
+-skipping training candidate: d837b5c2-cb33-4ec8-80fb-4af1665f87ba.p1, not unique enough
+-skipping training candidate: 25b8cd99-33b1-44bb-a320-7978029e55c1.p1, not unique enough
+-skipping training candidate: b14c1b70-aea6-4899-b46e-c19f4d4c4f83.p1, not unique enough
+-skipping training candidate: c16069f4-d005-43ee-a27e-85945187016d.p1, not unique enough
+-skipping training candidate: 141efe2a-fb36-41e7-bc59-bedd56336d26.p1, not unique enough
+-skipping training candidate: 9025fd45-aa1b-4d6f-aa55-aa50891bd42f.p1, not unique enough
+-skipping training candidate: 1ff55bbd-e5c2-4ffc-ba15-2c901af05509.p1, not unique enough
+-skipping training candidate: b856a002-444e-4356-8f31-5810871d2302.p1, not unique enough
+-skipping training candidate: 55e95733-3280-445c-a2f8-8babdaeba952.p1, not unique enough
+-skipping training candidate: fd16526b-68fe-4912-8dda-5cde093e4cc9.p1, not unique enough
+-skipping training candidate: b4c5721a-b763-4dec-9a63-47b9acb01743.p1, not unique enough
+-skipping training candidate: 1a284575-147a-460b-b40d-057030451939.p1, not unique enough
+-skipping training candidate: ad3a4df6-c9a7-4fb4-9ba2-92ea6a4f9a01.p1, not unique enough
+-skipping training candidate: e4bb7d11-24ab-4f2d-9f73-b08da8f5f67c.p1, not unique enough
+-skipping training candidate: fdc67045-dfc9-4e86-89f1-84d3f7ccf795.p1, not unique enough
+-skipping training candidate: c18ed2be-26c5-43f4-96d3-ff6bba3ee450.p1, not unique enough
+-skipping training candidate: 51eaea06-53be-4a18-ae85-e6dea3068dc4.p1, not unique enough
+-skipping training candidate: c748fedc-8f41-463a-a5bc-8c87af8c78e2.p1, not unique enough
+-skipping training candidate: 5bee7e36-449d-4b5d-a55b-f92a18563fd2.p1, not unique enough
+-skipping training candidate: 0dd8265d-918c-4724-9817-3bf315355396.p1, not unique enough
+-skipping training candidate: 423cacbf-a7e7-4023-9fba-d344e2bb3f8b.p1, not unique enough
+-skipping training candidate: f3a15315-ec23-4c82-9a05-98f2a3d585c5.p1, not unique enough
+-skipping training candidate: 92c5b76e-f35d-40b2-bd53-b3430b81c26c.p1, not unique enough
+-skipping training candidate: 9bef2045-7d06-462e-ab47-8f2e38ffa012.p1, not unique enough
+-skipping training candidate: cf49c73f-ad0f-470c-8b10-77b190ecc10e.p1, not unique enough
+-skipping training candidate: 7615338f-aee4-4800-8f15-61e254d309bc.p1, not unique enough
+-skipping training candidate: e435515c-e633-4e31-b29d-fb0e44fb47b2.p1, not unique enough
+-skipping training candidate: aadddefe-a1c4-407e-be17-687b07ee7f35.p1, not unique enough
+-skipping training candidate: 71c879cc-4479-44f9-bd48-97bfc9ebfcdb.p1, not unique enough
+-skipping training candidate: cf949e72-03fc-49b3-99e6-8fcd3cd5b8b0.p1, not unique enough
+-skipping training candidate: bb9b658a-4212-48d4-999a-38307c8b68db.p1, not unique enough
+-skipping training candidate: fc67ad60-2767-44cc-8856-612b0adabdce.p1, not unique enough
+-skipping training candidate: 14a75d5c-a2ee-43d3-9d15-0ee982772065.p1, not unique enough
+-skipping training candidate: abcab1cc-b6eb-4bd5-9c2c-1170d9ba8697.p1, not unique enough
+-skipping training candidate: 50f9d215-1f09-41de-b380-3bd2521fb377.p1, not unique enough
+-skipping training candidate: 84a4f93e-86ec-4fac-96cd-d2d93201f611.p1, not unique enough
+-skipping training candidate: 2961d5ce-ccbd-4822-99a5-c89e0c9ecb55.p1, not unique enough
+-skipping training candidate: 70221e3a-eed5-42c3-8f08-2f3be90d2315.p1, not unique enough
+-skipping training candidate: f23128ce-5225-493a-89eb-6b7026df4a69.p1, not unique enough
+-skipping training candidate: ff7a65dd-9a15-44e1-987c-d8069ecff13e.p1, not unique enough
+-skipping training candidate: e76c0888-081e-4b74-8a0a-fc326b312570.p1, not unique enough
+-skipping training candidate: 23eb8569-91e5-4a39-8ab3-099aee4f42b4.p1, not unique enough
+-skipping training candidate: 1876ce62-6ddd-46d8-b6c1-7fc2a256eca5.p1, not unique enough
+-skipping training candidate: 5cdb8312-34df-4623-8f85-b9afbd26d7f9.p1, not unique enough
+-skipping training candidate: d37b46d2-b853-42be-b598-4cc039503fe9.p1, not unique enough
+-skipping training candidate: 18a50cc7-2e59-498a-abfb-8a23896ef702.p1, not unique enough
+-skipping training candidate: cfce0f6b-d6a0-466b-a2f9-636ff1a98dd7.p1, not unique enough
+-skipping training candidate: 8be226fa-bfec-45f4-a4d4-6dec2d80c847.p1, not unique enough
+-skipping training candidate: 891235e5-0665-4de4-a2db-ccdc11444f88.p1, not unique enough
+-skipping training candidate: 538dcdb6-d06e-4dbb-b735-d210f6879a15.p1, not unique enough
+-skipping training candidate: 6fdde5c2-011c-4dc6-a7e9-0c1b3f5c1336.p1, not unique enough
+-skipping training candidate: 81196e51-b91e-4d4e-a1aa-00fb3c4da558.p1, not unique enough
+-skipping training candidate: f00c6359-b42c-4095-8ee7-537742e73569.p1, not unique enough
+-skipping training candidate: 753210dd-6969-4a12-9971-11d131e12068.p1, not unique enough
+-skipping training candidate: 30dbf6ac-2463-4668-adf3-2551ff878a14.p1, not unique enough
+-skipping training candidate: b7caa7be-968c-4489-bd89-9c1c23e66cd0.p1, not unique enough
+-skipping training candidate: b537b17f-7ac9-489e-8b60-dd11386018ef.p1, not unique enough
+-skipping training candidate: a7c45661-82b8-4f5d-b231-01f7d4464290.p1, not unique enough
+-skipping training candidate: 943ad700-7e41-45d8-8fe1-1fe600146724.p1, not unique enough
+-skipping training candidate: 90a2f6d9-0117-48ba-8ed3-6f7509c30c37.p1, not unique enough
+-skipping training candidate: 2835b48c-8a9d-44dd-b51f-a855d1c5f550.p1, not unique enough
+-skipping training candidate: 9906e6ab-8fe9-40eb-b952-6ac3086a9369.p1, not unique enough
+-skipping training candidate: 2d6f56b2-7cd0-40b4-b23c-9d2b72fdd36f.p1, not unique enough
+-skipping training candidate: fc2a88bc-ec6c-4aa9-abd1-edd5a5599cc4.p1, not unique enough
+-skipping training candidate: 5608ba3c-af19-45a8-923c-4c2ed3131d3e.p1, not unique enough
+-skipping training candidate: 13589c8a-6a22-4c2b-a859-9a2117ed4881.p1, not unique enough
+-skipping training candidate: b24d27db-ff5a-4c62-81fc-aab7dc76fb1c.p1, not unique enough
+-skipping training candidate: 595d0792-e90a-4640-98a4-ccefac1ba9d7.p1, not unique enough
+-skipping training candidate: 256325cb-7580-4a6e-8645-87badfe48443.p1, not unique enough
+-skipping training candidate: 3ab8ac29-72d2-49ba-ae4d-d505a0ce26bb.p1, not unique enough
+-skipping training candidate: 58013fd5-27b1-44e4-9da4-625ebad433f5.p1, not unique enough
+-skipping training candidate: 861c2b19-d47f-4629-9aaa-0ec3104e7a03.p1, not unique enough
+-skipping training candidate: ec6b13e9-66e7-409d-bad8-950bbbafd21d.p1, not unique enough
+-skipping training candidate: 7149e131-0acf-4336-9020-703f3a2af6e5.p1, not unique enough
+-skipping training candidate: e927851a-ad60-43f9-992e-a160202b9be8.p1, not unique enough
+-skipping training candidate: 03516014-cee8-459c-ad5d-121b7f9aa4d6.p1, not unique enough
+-skipping training candidate: d9fdf0c1-5baf-4f3a-ab00-088765d4704c.p1, not unique enough
+-skipping training candidate: f757dc83-7816-4088-9d81-a2cc191340b2.p1, not unique enough
+-skipping training candidate: acbcd7fe-cd4d-4077-b02e-6ad878411617.p1, not unique enough
+-skipping training candidate: 19f1cabb-e621-4158-90c7-ff6e7dd8a1f8.p1, not unique enough
+-skipping training candidate: 5a3aa7e5-9ee9-45bc-826c-8f462aef8c40.p1, not unique enough
+-skipping training candidate: d899e736-8560-4535-8cc0-4d2b6ca9877c.p1, not unique enough
+-skipping training candidate: e9d3af08-799a-470c-8234-aae8f6623107.p1, not unique enough
+-skipping training candidate: 36cfd15d-b301-4aa6-806e-92422be260fb.p1, not unique enough
+-skipping training candidate: cacc4b35-2da2-425c-9a01-d68969d4e2d8.p1, not unique enough
+-skipping training candidate: 926a9a7e-6301-49c1-9026-631750699827.p1, not unique enough
+-skipping training candidate: eca20bac-5c3e-4a33-a8b2-73b96c36dd8d.p1, not unique enough
+-skipping training candidate: bc457da9-5ad8-4e91-b473-c4f301c72a42.p1, not unique enough
+-skipping training candidate: 52ea23e2-54a1-4f48-952b-026bb248f146.p1, not unique enough
+-skipping training candidate: 56d4a4fe-7a99-4bca-99de-1ffb8f2f510e.p1, not unique enough
+-skipping training candidate: 9106e14c-1be2-414e-a1a4-6f7259af6984.p1, not unique enough
+-skipping training candidate: 9c970c67-103c-4868-8866-1564aab82132.p1, not unique enough
+-skipping training candidate: e71d93f4-74dd-4436-8cc9-5a3df829a720.p1, not unique enough
+-skipping training candidate: 655dd7e6-9b0e-4e77-a617-4fc3ed5ef31b.p1, not unique enough
+-skipping training candidate: 2570f93b-b662-4fa1-ba4b-fdcd00fab87f.p1, not unique enough
+-skipping training candidate: 5d83ffea-7ab7-4ca2-95d1-1ec0c898c801.p1, not unique enough
+-skipping training candidate: 0b69e306-82f4-4893-b335-212486e24379.p1, not unique enough
+-skipping training candidate: d311a641-a7d6-4c4d-82e7-2a76974b76c7.p1, not unique enough
+-skipping training candidate: d0c9bad4-4636-4d9f-b4de-3a234caa4b8f.p1, not unique enough
+-skipping training candidate: 93ecb2ea-32f3-4143-b22d-5366b14027bd.p1, not unique enough
+-skipping training candidate: e6f64843-a443-48c2-991e-08e2d8e402d3.p1, not unique enough
+-skipping training candidate: 87270217-d2c8-4fbf-8231-841f2128617c.p1, not unique enough
+-skipping training candidate: 813c2b23-6981-403d-b6fc-fe6b85b51484.p1, not unique enough
+-skipping training candidate: 56205b40-358d-484d-b043-c04e21d30408.p1, not unique enough
+-skipping training candidate: 1641f6fa-f62c-4a9f-9786-2a655ce893e8.p1, not unique enough
+-skipping training candidate: 67863f74-8904-4291-9d5c-7f698a4e46b5.p1, not unique enough
+-skipping training candidate: 806370ac-9ccc-4086-b6a2-b3125cc23817.p1, not unique enough
+-skipping training candidate: 8e10b857-721a-4064-8adb-cab11870393c.p1, not unique enough
+-skipping training candidate: 681afe65-7639-4a67-ba3c-4111d39a9f92.p1, not unique enough
+-skipping training candidate: 5c9223b5-7632-4dfc-8864-06b4e7b4ba91.p1, not unique enough
+-skipping training candidate: 8b37afe3-0113-42b9-8cf6-e6d5d3d259fc.p1, not unique enough
+-skipping training candidate: e76ca9bb-5fd3-4608-b235-223a18192192.p1, not unique enough
+-skipping training candidate: 4e9688af-a515-4dee-9f11-c84e86f55598.p1, not unique enough
+-skipping training candidate: 7c096316-3669-4be5-9662-f50bb41c5bcc.p1, not unique enough
+-skipping training candidate: bff15c7e-a3c5-4cce-8e0d-284891501b46.p1, not unique enough
+-skipping training candidate: 1283f0c7-4065-43f8-9b9b-9092c0ad590e.p1, not unique enough
+-skipping training candidate: ae713c46-fdf7-48df-b186-5741b11b1520.p1, not unique enough
+-skipping training candidate: 1a87b850-63fe-40ab-8856-615af9cb676c.p1, not unique enough
+-skipping training candidate: fb2a4acf-ec1e-4015-84ff-006c3c228751.p1, not unique enough
+-skipping training candidate: 2415e2de-a257-46b4-9701-84a785a1f222.p1, not unique enough
+-skipping training candidate: 3d7b7a6c-d184-4168-a099-bdcb3846a4eb.p1, not unique enough
+-skipping training candidate: f61f382c-7ad6-424e-ba8e-a2e9fdd4a34f.p1, not unique enough
+-skipping training candidate: 3d83716d-6865-4a61-b312-8b197ed08765.p1, not unique enough
+-skipping training candidate: 60bb6a05-ee8e-4c5e-8ceb-d40ee597eb78.p1, not unique enough
+-skipping training candidate: 5b5ce709-d08c-41b7-bbdb-ddb62e90df42.p1, not unique enough
+-skipping training candidate: b4c8eb05-4be0-4bf7-8a8e-9944a8be5eb7.p1, not unique enough
+-skipping training candidate: 7508952b-ad9d-45ae-96dd-12f64483fcb5.p1, not unique enough
+-skipping training candidate: 69ee1d91-491e-4710-a26c-77ca0073fa8b.p1, not unique enough
+-skipping training candidate: 1d744895-9471-406e-bd41-adde067e2bbf.p1, not unique enough
+-skipping training candidate: 240d24f1-92db-4e1f-ac80-5a82bc23bd01.p1, not unique enough
+-skipping training candidate: 38605245-7d5c-4f46-bd41-29c8d6996e58.p1, not unique enough
+-skipping training candidate: 9db67da2-6a2c-4bf2-aac6-92f70b0f7b10.p1, not unique enough
+-skipping training candidate: faa5d396-eb8c-4b2a-a931-f53faa332265.p1, not unique enough
+-skipping training candidate: 9f5334d1-81ca-4306-9c27-2a150b5ba233.p1, not unique enough
+-skipping training candidate: ba57f1b8-d4f8-4ff0-9f24-a8c25d97ed09.p1, not unique enough
+-skipping training candidate: a1f72d2d-1b6f-4697-817b-dd5a100cf287.p1, not unique enough
+-skipping training candidate: d9f98cc1-41e6-40d7-905c-355f2e0ae4b2.p1, not unique enough
+-skipping training candidate: e2ed00dd-9b16-41e0-98b7-c13d43b984af.p1, not unique enough
+-skipping training candidate: ee70d150-dcdb-4453-bad0-4413bca2db1a.p1, not unique enough
+-skipping training candidate: 4f20adc1-4c21-401d-b236-9a04fef35685.p1, not unique enough
+-skipping training candidate: a49529a4-3b58-42ff-b44a-c69a36026712.p1, not unique enough
+-skipping training candidate: d4c640d5-aa25-41e9-878a-0d9e26b6c4e5.p1, not unique enough
+-skipping training candidate: 923f3385-0ea9-4715-bc15-4529a5cc25dd.p1, not unique enough
+-skipping training candidate: 13c52945-53cb-4766-a171-e81c03503aee.p1, not unique enough
+-skipping training candidate: 3213c58a-594a-4a3d-9829-ef537c8640d2.p1, not unique enough
+-skipping training candidate: d8c34111-2d84-4efc-bbd9-85bbbe2783fb.p1, not unique enough
+-skipping training candidate: aec10a18-daf9-4537-a8ed-078e7dd32b51.p1, not unique enough
+-skipping training candidate: b703818b-c3fc-43dd-be76-6e0668539cf6.p1, not unique enough
+-skipping training candidate: e8829b56-b0af-4021-a4b9-6d381835d0c9.p1, not unique enough
+-skipping training candidate: 7b899a35-e910-42d3-aca8-0be47566dbdd.p1, not unique enough
+-skipping training candidate: fd812633-f105-4c27-984a-4c0c77890c72.p1, not unique enough
+-skipping training candidate: 0cb8ec7a-babe-4322-8820-cf3d21822b72.p1, not unique enough
+-skipping training candidate: 627e7b49-dc30-4d07-b15b-c4343a8870ef.p1, not unique enough
+-skipping training candidate: 0356a838-06b8-488e-8043-2c3d71257b20.p1, not unique enough
+-skipping training candidate: 61935cf3-6f16-40a6-b007-e875f6f0ce36.p1, not unique enough
+-skipping training candidate: 3f71e5fa-75d6-4427-8e98-02a9a9b119c7.p1, not unique enough
+-skipping training candidate: 11b0cc85-5da3-4cdb-aecb-026e4be71c3e.p1, not unique enough
+-skipping training candidate: 46c48a87-dcb2-4bef-9f47-8828f62661f8.p1, not unique enough
+-skipping training candidate: 6e3e9f72-7e02-4e9e-8c5e-033ac022e7bc.p1, not unique enough
+-skipping training candidate: 7e7f1ecb-c084-48ea-9021-e9f52cf5401c.p1, not unique enough
+-skipping training candidate: f83c14de-bf4d-42dd-9b2a-b3cb265035ad.p1, not unique enough
+-skipping training candidate: 18491534-a363-4216-992c-2f0ff558a9e5.p1, not unique enough
+-skipping training candidate: 845c08c0-fade-4f45-a8e7-ef1660ad95d8.p1, not unique enough
+-skipping training candidate: 981a42ca-a36d-4f86-86bc-36a6a68f84c0.p1, not unique enough
+-skipping training candidate: b81a982f-dc34-4d49-b752-65f1ac30b9c1.p1, not unique enough
+-skipping training candidate: 2460c56f-22c9-4f8b-9776-9b8e26167db4.p1, not unique enough
+-skipping training candidate: 16e4a86c-ed26-4b40-b516-8bd40166047b.p1, not unique enough
+-skipping training candidate: 118b120f-a15c-4dab-9f36-d0683f0b9bb1.p1, not unique enough
+-skipping training candidate: 708c8df2-d277-4115-bd65-290763dc8e0d.p1, not unique enough
+-skipping training candidate: 8b95b81d-cf30-4466-b215-8a93ab8d1e5e.p1, not unique enough
+-skipping training candidate: d4b932c4-2895-46ea-96c7-d20366420e82.p1, not unique enough
+-skipping training candidate: 223a0ea6-01a3-4124-a73a-2887886b46ae.p1, not unique enough
+-skipping training candidate: 3a37b1d1-1553-4a98-9f48-13ff55493ff6.p1, not unique enough
+-skipping training candidate: c4b48c39-dda5-4b07-9248-252df52c976a.p1, not unique enough
+-skipping training candidate: d4a312ac-9d9a-4b59-9db9-cb3d51e94693.p1, not unique enough
+-skipping training candidate: 0643a34d-e232-40bd-847f-22b42f4cebf1.p1, not unique enough
+-skipping training candidate: c3ec1fb2-1913-40a8-85d0-4915debb8432.p1, not unique enough
+-skipping training candidate: fbce816d-3045-4832-a7dd-8aec2e5fddc2.p1, not unique enough
+-skipping training candidate: 5961b1c3-b229-4c05-815c-24e968b82616.p1, not unique enough
+-skipping training candidate: 0a2e84eb-46e7-4629-8802-6f825a958e0a.p1, not unique enough
+-skipping training candidate: ea2fff82-110e-4683-ada5-92d55e3ec474.p1, not unique enough
+-skipping training candidate: f8eb2df0-703f-497e-9d83-bc234d6ff09e.p1, not unique enough
+-skipping training candidate: 410c10c5-ff59-4e86-9d13-cc48aa6d644c.p1, not unique enough
+-skipping training candidate: d6704182-34cd-47a6-a366-c0ec4ad30054.p1, not unique enough
+-skipping training candidate: 5c279ed0-d0bb-42e9-a98a-71828673bd27.p1, not unique enough
+-skipping training candidate: a2a12a43-7099-4954-bd38-6ce224ff1c4e.p1, not unique enough
+-skipping training candidate: d8207892-fdd5-4a37-8a28-dff45f11ee95.p1, not unique enough
+-skipping training candidate: 2e1cdf23-86df-4df0-b8a9-021c78e12c3b.p1, not unique enough
+-skipping training candidate: f9c3310f-d049-4c5d-a508-204dad062352.p1, not unique enough
+-skipping training candidate: 56b79698-4943-4adf-ba13-042578832c77.p1, not unique enough
+-skipping training candidate: ed196c38-419f-4f5a-9e7e-68b1a2fe30cd.p1, not unique enough
+-skipping training candidate: 730ecf96-d1e6-4a6d-ba0b-9e16adc8265f.p1, not unique enough
+-skipping training candidate: d2191dde-466f-42ba-a20f-c4bfe79dcda5.p2, not unique enough
+-skipping training candidate: 5ac0ff4e-7298-4c46-8d27-cc3f4c63c3ba.p1, not unique enough
+-skipping training candidate: 9e0f6aea-c726-4362-8ca4-2001b44250c8.p1, not unique enough
+-skipping training candidate: b9102d5e-8ccb-4801-af5e-964bad8595af.p1, not unique enough
+-skipping training candidate: 350452c4-8e58-4b5c-abfd-3f326f38b9d4.p1, not unique enough
+-skipping training candidate: f3867900-d12c-4b23-8c84-3768cc66eb31.p1, not unique enough
+-skipping training candidate: 34e8710d-9c63-491e-ada5-9e02beda8956.p1, not unique enough
+-skipping training candidate: 53a7754f-2125-42f7-9559-199a1473f0b7.p1, not unique enough
+-skipping training candidate: 8fc14dc9-fe36-4c2b-901e-f7d589199a2d.p1, not unique enough
+-skipping training candidate: 1b00fcf1-f296-47f3-bd74-ce0f78e6c333.p1, not unique enough
+-skipping training candidate: 82b57ad3-7001-4e71-b4c8-bbe5b3ae5a0b.p1, not unique enough
+-skipping training candidate: ee228a7c-cf59-493c-9175-4b84e8765ff0.p1, not unique enough
+-skipping training candidate: 684b53d0-52dd-486d-82b8-f59a5305060c.p1, not unique enough
+-skipping training candidate: b1db1f57-3b7c-427f-88d2-07df063dada2.p1, not unique enough
+-skipping training candidate: 1ba0a4ab-9517-4573-bed3-b85626463d32.p1, not unique enough
+-skipping training candidate: bbd9e76c-0ee5-43c0-b518-9545a937d368.p1, not unique enough
+-skipping training candidate: 06af283c-d64e-4bcb-830a-d8f5f733d478.p1, not unique enough
+-skipping training candidate: 3b4726f1-5f63-4508-8c99-7b4189b17c5b.p1, not unique enough
+-skipping training candidate: 02ef66b2-c297-4aca-acfc-8ad1e36f92d2.p1, not unique enough
+-skipping training candidate: d5a47730-5cbd-46ea-8e64-4d6007630809.p1, not unique enough
+-skipping training candidate: 1d590248-ccd3-4103-ad15-69e79a5a1c07.p1, not unique enough
+-skipping training candidate: e3cc7484-577e-4b5b-b437-d4f81f217a5f.p1, not unique enough
+-skipping training candidate: de6f570c-c67d-4282-af7f-489187dd7319.p1, not unique enough
+-skipping training candidate: 7348c5eb-d903-4de8-bee1-04c6bd005bab.p1, not unique enough
+-skipping training candidate: 8b3ab063-73db-42d5-98de-84fa3c060fa1.p1, not unique enough
+-skipping training candidate: 7446b8f9-b08f-471a-a2f6-84eac88147f7.p1, not unique enough
+-skipping training candidate: 81ac726e-3fb2-4c3c-b00e-fb2e1795a4b7.p1, not unique enough
+-skipping training candidate: 05165368-3e94-4f59-9805-11c70626201c.p1, not unique enough
+-skipping training candidate: 6b743de7-108c-4cab-a039-06b828eb14e7.p1, not unique enough
+-skipping training candidate: 7ddb2c00-c578-4a9e-8b3b-fa70065e7aff.p1, not unique enough
+-skipping training candidate: 63aed3c2-a2a1-4517-b461-317d7b55909e.p1, not unique enough
+-skipping training candidate: 53f8a397-c29e-49e2-b422-53781bd7a9bf.p1, not unique enough
+-skipping training candidate: 5582453c-71c5-4dc5-b024-9fc36fa4bbd8.p1, not unique enough
+-skipping training candidate: 4004881b-306e-4e92-a9f1-c61e9f04d9ba.p1, not unique enough
+-skipping training candidate: 22d7bcaa-c908-4aa6-8ba6-ecf1edd2bb1a.p1, not unique enough
+-skipping training candidate: 38ae098f-a7cd-4884-8074-a30a0eca2bb3.p1, not unique enough
+-skipping training candidate: 4b0896bc-6249-480f-ab9e-f2e9636eeb09.p1, not unique enough
+-skipping training candidate: b3ede646-8eea-4b6c-b725-b8bb6b81f42e.p1, not unique enough
+-skipping training candidate: 0f82538b-f8d4-4bc4-8921-9df66bf93971.p1, not unique enough
+-skipping training candidate: 1f167152-df4f-44ad-940a-715cd6335b14.p1, not unique enough
+-skipping training candidate: 52472317-cc14-4134-94e1-2237bfa33777.p1, not unique enough
+-skipping training candidate: f93f6ff6-da5e-4040-9e94-5f20052b0035.p1, not unique enough
+-skipping training candidate: 6bfcd5fc-af68-46c1-9ee4-1265320f89b6.p1, not unique enough
+-skipping training candidate: d52f6403-2297-4189-aece-f3e3b1761d2b.p1, not unique enough
+-skipping training candidate: 5bb21019-aeaa-4f07-9e1a-944937b6f449.p1, not unique enough
+-skipping training candidate: 7bd68aeb-11fe-4f5d-aada-8308865be511.p1, not unique enough
+-skipping training candidate: 765e4104-5ec4-4658-8e6b-a0b7d0fb71d3.p1, not unique enough
+-skipping training candidate: 6b3ba7b4-d6f4-4198-baec-ffa2187a97ba.p1, not unique enough
+-skipping training candidate: dfde3be9-d674-49ba-8f6f-7537aaa8a07a.p1, not unique enough
+-skipping training candidate: d30a7df4-7bab-4b6f-bd75-b31a012099c9.p1, not unique enough
+-skipping training candidate: 169c63ce-ee7e-471f-a968-c77e9f83ead7.p1, not unique enough
+-skipping training candidate: 54add7e0-c086-41d2-a1cc-40241dce1652.p1, not unique enough
+-skipping training candidate: ea0339fb-6649-458c-b1ed-551ef0b0b86f.p1, not unique enough
+-skipping training candidate: 626ca861-5594-4457-b2e4-0e40a49a11c5.p1, not unique enough
+-skipping training candidate: 03f98026-1d17-424c-9d22-3ef9661fd832.p1, not unique enough
+-skipping training candidate: 76cd5b90-e30f-4420-9394-4fde2e3a447c.p1, not unique enough
+-skipping training candidate: 0ca11a4c-62eb-42e8-9723-b2a8bb820763.p1, not unique enough
+-skipping training candidate: db20cfd2-13b6-4a8a-a733-76421df4537a.p1, not unique enough
+-skipping training candidate: f8c6f2cd-e284-43db-9b0a-5c56740e1969.p1, not unique enough
+-skipping training candidate: c4b2afbb-f73c-4487-849c-579f696c24b7.p1, not unique enough
+-skipping training candidate: 9e041e27-2abb-4abc-b498-11429dd2c2da.p1, not unique enough
+-skipping training candidate: 4ffc70c3-667c-4c6a-9137-33a86b90ab50.p1, not unique enough
+-skipping training candidate: 579bccb9-25d1-4f6e-bbd5-fb2047ad2167.p1, not unique enough
+-skipping training candidate: c1ed78a4-3b0e-4b55-ae2f-2720af3a8f35.p1, not unique enough
+-skipping training candidate: c7edf191-f64f-4662-af28-457027495fac.p1, not unique enough
+-skipping training candidate: 40ce1144-8797-4213-a29f-3d4d7814a276.p1, not unique enough
+-skipping training candidate: 33845fc8-f2ae-4ce8-b268-fc77ef9350de.p1, not unique enough
+-skipping training candidate: 20b59df4-97b9-4f4a-a39a-d7a8bd9ebf0d.p1, not unique enough
+-skipping training candidate: ed00ba96-3318-4add-bf5f-d54bf63efac7.p1, not unique enough
+-skipping training candidate: 0671d3c8-52a6-4d81-a6ca-492533de6165.p1, not unique enough
+-skipping training candidate: 7611ea2a-1772-473d-8280-ed8538587dda.p1, not unique enough
+-skipping training candidate: 4d958f24-d766-484d-82d4-8f9e613646b6.p1, not unique enough
+-skipping training candidate: c1720bac-2368-4581-b4e7-a4083ae425e1.p1, not unique enough
+-skipping training candidate: 5bcf2fd4-9f59-4d3a-8b69-6da17218b8e8.p1, not unique enough
+-skipping training candidate: 31fdac31-cd0a-4be2-8f27-a0b1dabc51f2.p1, not unique enough
+-skipping training candidate: 15f4d109-390d-452b-994e-08630e26bf83.p1, not unique enough
+-skipping training candidate: 8dee826c-a443-430d-9162-4931c7b1858a.p1, not unique enough
+-skipping training candidate: c6ab9a10-d1f8-4c45-82c2-f63ed1cd8389.p1, not unique enough
+-skipping training candidate: be9945d4-a959-42e9-96f2-115e202f46b3.p1, not unique enough
+-skipping training candidate: c183e783-3837-4cdc-ad21-392a4dff4c27.p1, not unique enough
+-skipping training candidate: 56a1885c-a7d6-4b14-8c49-2347b11648b8.p1, not unique enough
+-skipping training candidate: 30eb0bfc-c1f8-4872-b284-49aea34d7504.p1, not unique enough
+-skipping training candidate: c77da115-22a1-4c23-9a31-1d658efee76d.p1, not unique enough
+-skipping training candidate: b9da9ebc-1ff3-4d88-88cb-6d6986794c58.p1, not unique enough
+-skipping training candidate: 72cbfd85-896a-4896-ba85-ca39abef3128.p1, not unique enough
+-skipping training candidate: a65eb4c5-f78e-4146-9a8c-519b78a33e22.p1, not unique enough
+-skipping training candidate: 7a66cc3b-0116-4458-8a8b-f0d525d81234.p1, not unique enough
+-skipping training candidate: 3a352981-7e9b-40b6-95b7-d27406167ef0.p1, not unique enough
+-skipping training candidate: c48fc8be-70fb-4d86-8803-1fdfae7e2050.p1, not unique enough
+-skipping training candidate: 8be8680f-6ebd-49e2-bcf0-b2a747733bce.p1, not unique enough
+-skipping training candidate: dd5b0a54-58c1-46f6-8938-6de629d7d007.p1, not unique enough
+-skipping training candidate: be18af4b-1864-4384-b930-355dae892a66.p1, not unique enough
+-skipping training candidate: 4cf9e440-4941-4549-bfe6-7daff05593cd.p1, not unique enough
+-skipping training candidate: ddea13aa-6b3f-480c-9415-05efc34dcc82.p1, not unique enough
+-skipping training candidate: e6d7f60c-aa54-484e-a3d0-d8fd0f5f307e.p1, not unique enough
+-skipping training candidate: 3fb0e96d-72dd-4fee-af0e-938173c8879c.p1, not unique enough
+-skipping training candidate: 253590d3-ac84-475c-be93-affc8b90f3f8.p1, not unique enough
+-skipping training candidate: a8291a2f-7684-4ea2-8c8e-99b898d43f81.p1, not unique enough
+-skipping training candidate: 6a526b38-8712-42e1-a250-87a306f777d0.p1, not unique enough
+-skipping training candidate: b9257652-822f-4c55-8ebc-2fc017cf7d9e.p1, not unique enough
+-skipping training candidate: 54e18476-a0b1-402f-828d-9fd5262448cf.p1, not unique enough
+-skipping training candidate: d0e9b404-4ab5-4fb1-85c8-d759f25895c4.p1, not unique enough
+-skipping training candidate: a59c9f4a-5d76-46c1-8021-170d9eca3b33.p1, not unique enough
+-skipping training candidate: 135f49ff-f2d3-44b0-a53b-fce616719c2c.p1, not unique enough
+-skipping training candidate: 4dfddc65-7136-41e2-8f4f-b226a23af6c7.p1, not unique enough
+-skipping training candidate: 0236f889-746b-45cf-b6f6-0a7749a55387.p1, not unique enough
+-skipping training candidate: 5ec22b28-5e1b-43c8-bc3c-62741622d0b9.p1, not unique enough
+-skipping training candidate: f8eca1da-75cd-4bfb-812f-83902a3e8e6a.p1, not unique enough
+-skipping training candidate: a0b96f2e-ee65-4c10-8f84-74b14ba2026b.p1, not unique enough
+-skipping training candidate: f33d3bcb-a896-4394-ac7d-ccfda8a8d553.p1, not unique enough
+-skipping training candidate: 73809e0f-6ac9-4275-9238-8fceb57aff71.p1, not unique enough
+-skipping training candidate: a795f706-9441-4280-9bf2-46356a68a541.p1, not unique enough
+-skipping training candidate: 109a3b38-dc86-4145-bc0b-7266c1f44d17.p1, not unique enough
+-skipping training candidate: 00246ae4-11e1-4f10-9d9d-69d28cde87db.p1, not unique enough
+-skipping training candidate: ed18fa35-27cf-4b66-9cf9-fa1a5148c2fd.p1, not unique enough
+-skipping training candidate: 41a8208a-eab6-4d0d-82d3-018972baa440.p1, not unique enough
+-skipping training candidate: b0ceea1f-b396-457f-b5f1-02277d543902.p1, not unique enough
+-skipping training candidate: 3eb2f148-da26-4b0f-9d3c-3f6d8f074f9f.p1, not unique enough
+-skipping training candidate: d77da893-8cb0-4fe6-a7f8-241b699ddfef.p1, not unique enough
+-skipping training candidate: 06e6f66b-fe5a-4c60-96af-aea26e55a5a0.p1, not unique enough
+-skipping training candidate: c2cbc4d8-9015-4555-8a2c-5f66d4df77d9.p1, not unique enough
+-skipping training candidate: 1c3b4abb-a615-41b6-9259-aa48ddd9cec6.p1, not unique enough
+-skipping training candidate: 1d24b1ed-e062-453b-80dc-7f59a0c6b7d4.p1, not unique enough
+-skipping training candidate: b720fb9f-c436-4ead-b122-e0578fbea93b.p1, not unique enough
+-skipping training candidate: 7ce506a0-af60-4575-942d-f0f6e2cf8eb5.p1, not unique enough
+-skipping training candidate: 33a003b9-db31-4ad5-8ec0-fc6118e158c0.p1, not unique enough
+-skipping training candidate: 9ac02da1-15ed-41ac-a67c-0f9b93793b56.p1, not unique enough
+-skipping training candidate: 2117d546-8561-475e-9940-f0590897586b.p1, not unique enough
+-skipping training candidate: 3d3cece0-8484-40f5-867f-f8ccabde1cb0.p1, not unique enough
+-skipping training candidate: 3fe0dacf-56e2-4561-a30f-7cc22964e1d9.p1, not unique enough
+-skipping training candidate: 3742d904-d23b-424a-8194-77598bb4fb80.p1, not unique enough
+-skipping training candidate: a02d9fbf-c799-4cfb-94b6-2070c26c46a8.p1, not unique enough
+-skipping training candidate: d7c7f7c2-9f05-402d-bc37-1c9641a07b5b.p1, not unique enough
+-skipping training candidate: 06e78594-236e-4977-b4d2-ce813169cb3d.p1, not unique enough
+-skipping training candidate: c9a58d1b-adff-4d8d-8917-d2c36f6a15cb.p1, not unique enough
+-skipping training candidate: 605a8e10-2335-4abf-8ed5-979c8a300e7b.p1, not unique enough
+-skipping training candidate: 253ddbfe-7959-4ed7-95c9-7e2b72fb4e6c.p1, not unique enough
+-skipping training candidate: 203a31fd-fc3a-4c63-88e9-22c279a1fc83.p1, not unique enough
+-skipping training candidate: f71212eb-d345-4e9c-9f3e-ce275cc4f0f1.p1, not unique enough
+-skipping training candidate: 8e4de33e-a777-4b16-9325-e90029fd0afb.p1, not unique enough
+-skipping training candidate: c9f62e66-d718-4cf3-a548-f29f5880f7f9.p1, not unique enough
+-skipping training candidate: 16bda2ab-2f40-4246-b999-695b515a79a7.p1, not unique enough
+-skipping training candidate: af13d072-2902-40f0-a2cc-06be52ca4728.p1, not unique enough
+-skipping training candidate: 615f784b-3044-4ec3-8dc9-079788e158b1.p1, not unique enough
+-skipping training candidate: 19f33aeb-2ab8-4946-85a6-5a0684224f31.p1, not unique enough
+-skipping training candidate: 509a49e1-4791-49fe-9866-75b58895ac4f.p1, not unique enough
+-skipping training candidate: f1a63b9b-2981-4d83-88e3-f11233556a24.p1, not unique enough
+-skipping training candidate: 4b58d3d5-cec9-4ff5-9377-b0627ac09488.p1, not unique enough
+-skipping training candidate: 5814a559-8743-461c-ac37-3162a96e2737.p1, not unique enough
+-skipping training candidate: cc79eeb5-9421-4fdc-b319-9e34de05b382.p1, not unique enough
+-skipping training candidate: 4e12ce38-6095-44a2-a6e9-6c0642cca287.p1, not unique enough
+-skipping training candidate: 35729e86-ce6d-4554-b34d-d5d521a71c14.p1, not unique enough
+-skipping training candidate: 07ea0a74-10f6-4c04-a510-36a328e4e9d9.p1, not unique enough
+-skipping training candidate: ca03e897-8867-4cd5-922d-ce9455c0bafe.p1, not unique enough
+-skipping training candidate: 27de06e3-2145-4176-aec2-a482101d2e61.p1, not unique enough
+-skipping training candidate: 9be2f88a-ad15-4aad-bc84-9e4f02d3fce8.p1, not unique enough
+-skipping training candidate: 2781c4a7-a692-4fa5-9d83-2b59365a93a4.p1, not unique enough
+-skipping training candidate: ac0c8ec0-10b4-436d-836a-51d1f8a8e57e.p1, not unique enough
+-skipping training candidate: 9154f0f9-66b5-4bda-a702-0999bcddb498.p1, not unique enough
+-skipping training candidate: c500fcac-f3db-4719-b5b9-5d000e454f46.p1, not unique enough
+-skipping training candidate: 5d1e4082-63c0-4a23-a6e0-2e0cefe2af7f.p1, not unique enough
+-skipping training candidate: 8f71ae9c-9dfe-4bc3-b126-2528a1bd26e8.p1, not unique enough
+-skipping training candidate: e68cc08e-aa04-4760-a7b7-86c9b96e0912.p1, not unique enough
+-skipping training candidate: 79a66015-06eb-40f5-b253-b90c6433db5d.p1, not unique enough
+-skipping training candidate: cdbf85a2-1d8b-41e6-89ed-bb6fdf779f4d.p1, not unique enough
+-skipping training candidate: ef8f3027-959b-48c9-b6b8-71dd5ce4f980.p1, not unique enough
+-skipping training candidate: 24237fd9-24bb-462a-a5d1-4f232217d77f.p1, not unique enough
+-skipping training candidate: 2011573f-aaa5-4b11-bcc9-3ccd62dd7bde.p1, not unique enough
+-skipping training candidate: 6d8b3543-0471-4442-ba37-c2bd06da346e.p1, not unique enough
+-skipping training candidate: daf2d49b-b538-45fc-8e0a-8f7633ed42e4.p1, not unique enough
+-skipping training candidate: d73105d4-50f8-4a1a-b111-3e7160ac106c.p1, not unique enough
+-skipping training candidate: a19aadd4-0361-46fb-9f92-a640d7dd2899.p1, not unique enough
+-skipping training candidate: 6d768993-cc4b-4624-a7a6-d100d1ea2e71.p1, not unique enough
+-skipping training candidate: 4a06f892-792e-4be0-b5e0-88a8f85ca7d7.p1, not unique enough
+-skipping training candidate: 587b4f5c-7b8c-41bb-b069-94f7ff53973d.p1, not unique enough
+-skipping training candidate: a2a947a0-7c49-46a4-99f5-ce386bd185f9.p1, not unique enough
+-skipping training candidate: 326a3a10-b975-4d6f-8933-88944e23dba3.p1, not unique enough
+-skipping training candidate: c7e1545d-7d3f-4e7b-a83c-d5f4ade7b588.p1, not unique enough
+-skipping training candidate: f7b9d315-b913-45e3-9d0b-9ef843b9e5bc.p1, not unique enough
+-skipping training candidate: dc409a08-b18d-461a-825a-1ee3a22844d3.p1, not unique enough
+-skipping training candidate: 1516045c-0b6c-4ff7-80b3-d4b4a6cd89a5.p1, not unique enough
+-skipping training candidate: 0b58bfff-a465-467e-b36d-32fdc78a4211.p1, not unique enough
+-skipping training candidate: daf4b65b-6281-49e7-ad20-280bb95311b9.p1, not unique enough
+-skipping training candidate: e388a663-1828-44ea-ba3e-4e96911035b4.p1, not unique enough
+-skipping training candidate: 7e9e7d96-1457-420c-aaa9-14ebfcee2d58.p1, not unique enough
+-skipping training candidate: 1db6036b-e59c-4b59-b236-5ef98db22e70.p1, not unique enough
+-skipping training candidate: edb67c7c-6378-4c5a-9b33-e93969210091.p1, not unique enough
+-skipping training candidate: ade46091-faee-4cc6-813e-4789a645062c.p1, not unique enough
+-skipping training candidate: e4886647-4699-47c4-8378-932c1d54ec79.p1, not unique enough
+-skipping training candidate: 04e4bdca-c165-4929-97b6-8211baebdc9a.p1, not unique enough
+-skipping training candidate: 4d32c09f-2539-4458-8fa6-eee7eb577db3.p1, not unique enough
+-skipping training candidate: 166a0fcb-7753-4e2d-a5ac-3a782b3228f3.p1, not unique enough
+-skipping training candidate: c8462688-d0b2-4f49-9622-7af595426ea7.p1, not unique enough
+-skipping training candidate: e4788d6b-b936-4e0f-87cb-4c4189a3b117.p1, not unique enough
+-skipping training candidate: 99bde475-5c7f-4f10-a422-3fcdde336f8d.p1, not unique enough
+-skipping training candidate: b6a42626-fc58-41a0-83b3-4bfef1f05284.p1, not unique enough
+-skipping training candidate: 1cd54693-ccd8-4630-9d0c-6c9e8204b67d.p1, not unique enough
+-skipping training candidate: 4b7032a2-d454-4d36-9471-5e43c88e6d2d.p1, not unique enough
+-skipping training candidate: 7fa77c04-8806-4c97-be8d-a89072acc8cc.p1, not unique enough
+-skipping training candidate: 087a0f2f-1674-400e-8423-74f743c7757a.p1, not unique enough
+-skipping training candidate: 5f28e722-93a1-42ed-9224-f520c4f18880.p1, not unique enough
+-skipping training candidate: 681688ec-bc3c-42c4-94f4-aa89ce1b382b.p1, not unique enough
+-skipping training candidate: 0ff6aba4-b8a4-492a-b085-7d2013092e56.p1, not unique enough
+-skipping training candidate: c24d7f6b-19c3-43ed-bbcb-eca13865e373.p1, not unique enough
+-skipping training candidate: 62b76551-8381-440f-8fa0-e3d707f8099e.p1, not unique enough
+-skipping training candidate: dc03eb8c-efbf-4e0b-ae8b-217e5f6e3814.p1, not unique enough
+-skipping training candidate: 3abcf4fa-66bb-47de-8c3c-1bf8154af496.p1, not unique enough
+-skipping training candidate: 0ec62559-a050-4623-82fa-cfa4f5f0241d.p1, not unique enough
+-skipping training candidate: ee05b1ae-ca29-419a-b106-9bfdc428ad93.p1, not unique enough
+-skipping training candidate: c0c49bbd-bbce-4799-9e2e-c0d99062a228.p1, not unique enough
+-skipping training candidate: 5f28e722-93a1-42ed-9224-f520c4f18880.p2, not unique enough
+-skipping training candidate: 10e87616-9649-411b-bc61-2a6713094746.p1, not unique enough
+-skipping training candidate: d00bf631-92cc-4311-b63f-0234e7035da7.p1, not unique enough
+-skipping training candidate: b2aa5afa-c544-405e-acdc-e475a2257fe9.p1, not unique enough
+-skipping training candidate: e595781c-f050-4245-8b68-7c2bf174f4bf.p1, not unique enough
+-skipping training candidate: 67338d6d-f164-4b8c-ae48-c3ba7001e6ac.p1, not unique enough
+-skipping training candidate: 90ca6467-df5c-4be1-8ae5-6cc071cc72db.p1, not unique enough
+-skipping training candidate: 98798fd1-79c8-465f-8045-83212d52bd97.p1, not unique enough
+-skipping training candidate: e21e1254-4e33-45ea-b50b-e0ad6870376a.p1, not unique enough
+-skipping training candidate: f2bc5f4c-76b2-4528-9537-e1e26616c946.p1, not unique enough
+-skipping training candidate: c14d2c82-4115-45ab-97d9-6e6941002e66.p1, not unique enough
+-skipping training candidate: 8ae40373-1df3-42ca-9ebe-643f74a3e394.p1, not unique enough
+-skipping training candidate: 11c6bd06-58c7-4096-a6c6-40b1adce4cba.p1, not unique enough
+-skipping training candidate: 6f3cb3c9-eec6-449a-9142-dd17509ad04c.p1, not unique enough
+-skipping training candidate: 6197749c-1657-4a8b-b5ff-1ab3507cedbe.p1, not unique enough
+-skipping training candidate: fe8dc374-5c9d-4a1a-9b70-57116ee7e37d.p1, not unique enough
+-skipping training candidate: 09cbb8b4-8f0d-4b19-9c70-cf5bd7649eb2.p1, not unique enough
+-skipping training candidate: 269d1717-8351-4e11-944c-5054c3630d5b.p1, not unique enough
+-skipping training candidate: 1472b875-5672-4a18-afc6-5979a7b21a23.p1, not unique enough
+-skipping training candidate: f846ff56-29e0-4d5a-a0a9-709a67901179.p1, not unique enough
+-skipping training candidate: d9b40574-562b-483e-be4e-66ffd77a05fa.p1, not unique enough
+-skipping training candidate: 629c87f7-15ee-4612-b801-a258d382591a.p1, not unique enough
+-skipping training candidate: 478a7a39-7a30-402d-9c41-64a5bf10b376.p1, not unique enough
+-skipping training candidate: 474460df-5f75-4c3c-afc4-3bcaa7661395.p1, not unique enough
+-skipping training candidate: 057adf5f-cc19-40c1-9a64-30eeca3be7b8.p1, not unique enough
+-skipping training candidate: a1b6e5d2-8941-41d3-a568-8a9515a5cfc7.p1, not unique enough
+-skipping training candidate: bd713c04-6e36-4946-ab3f-35b7cc2a83cd.p1, not unique enough
+-skipping training candidate: b2ca67db-9615-446f-a602-39c033de1875.p1, not unique enough
+-skipping training candidate: 47d38393-d5ae-49a4-93be-30422041cea9.p1, not unique enough
+-skipping training candidate: 4f9b2a65-4b3e-434c-8ac3-ae126e68221b.p1, not unique enough
+-skipping training candidate: 0334c066-09b1-4d2e-9545-dc828233de5a.p1, not unique enough
+-skipping training candidate: 6fd2315e-31e3-46cd-8b4e-b198abd7eb4d.p1, not unique enough
+-skipping training candidate: d8a25b4f-5a0d-4934-aa1b-78f66ca4bf62.p1, not unique enough
+-skipping training candidate: 5770aac5-cd81-452e-afc1-f34179ac06dc.p1, not unique enough
+-skipping training candidate: 0cba1721-9cbf-4f09-a8bb-8efaacfc4dcb.p1, not unique enough
+-skipping training candidate: 99c463c1-af46-4daa-81cd-1169f274e5c2.p1, not unique enough
+-skipping training candidate: 05eb0bd9-2f5f-4f85-b059-685783abf782.p1, not unique enough
+-skipping training candidate: c72074a2-a32d-4661-b580-8b03fc9fd2f6.p1, not unique enough
+-skipping training candidate: 4b1a999b-d082-4e7c-b629-9845b024a1df.p1, not unique enough
+-skipping training candidate: 72a6e200-5bcf-4a9d-9e61-90283c9b0bc6.p1, not unique enough
+-skipping training candidate: 9dbf4f3e-59cf-469d-9ac1-45cd7d087b06.p1, not unique enough
+-skipping training candidate: 5b01011e-b950-4fe8-a369-ab0d4d2ce1f8.p1, not unique enough
+-skipping training candidate: 7da746cb-102e-466c-9e1a-f3875cd25b66.p1, not unique enough
+-skipping training candidate: 83fb1183-a672-4b98-aef6-dd826070c800.p2, not unique enough
+-skipping training candidate: fb2abe2a-1ad7-4f14-b5ef-9688f7d59e8a.p1, not unique enough
+-skipping training candidate: 17ca8923-7ba5-4dc7-bbe5-05fe3a458f02.p1, not unique enough
+-skipping training candidate: 62c60be3-75be-438c-973e-c95d94d3e0ba.p1, not unique enough
+-skipping training candidate: c81ca877-e5ae-47e0-a048-dc7749c6f69c.p1, not unique enough
+-skipping training candidate: 7a965f0a-9642-43b2-9f19-03d1dc5628a2.p1, not unique enough
+-skipping training candidate: 7ec99830-ff65-41a6-9049-f6681bac0189.p1, not unique enough
+-skipping training candidate: 37a4e1b4-af19-439c-a393-c809a1310de7.p1, not unique enough
+-skipping training candidate: fd0df4a6-431e-4960-8dff-d3f0aa49a875.p1, not unique enough
+-skipping training candidate: a769147a-ee45-46ef-952b-46878b6c5c05.p1, not unique enough
+-skipping training candidate: b98a61b6-14de-40e1-995d-03e9c40460d6.p1, not unique enough
+-skipping training candidate: ec754c81-a123-4921-a2ad-5224008bd8f9.p1, not unique enough
+-skipping training candidate: 9d5296bc-5604-4caf-b61a-ac3f8b0dab3c.p1, not unique enough
+-skipping training candidate: b40c75b6-2d4b-4284-ac25-11e98c295dae.p1, not unique enough
+-skipping training candidate: 4937ca01-0674-46ff-8c83-701b4d7e0af2.p1, not unique enough
+-skipping training candidate: 826c4eab-7859-4fe4-8f45-9d9f2e85ae24.p1, not unique enough
+-skipping training candidate: 35dd9b03-567b-448b-a5e0-735caf6dd84a.p1, not unique enough
+-skipping training candidate: 48084b49-1f80-49c3-9bce-badbf065a2cb.p1, not unique enough
+-skipping training candidate: f8f90bce-586c-4af3-9fb2-3a9bb5ff70c6.p1, not unique enough
+-skipping training candidate: fa9dc02e-cc96-443f-84aa-424cd91008bd.p1, not unique enough
+-skipping training candidate: 0d74f919-2ecd-429d-a4c3-bd706eaab0a0.p1, not unique enough
+-skipping training candidate: 6bf5f78a-bf73-4b56-8bb4-59280474c93c.p1, not unique enough
+-skipping training candidate: 4257d992-d72c-4254-877a-5c0bacea8343.p1, not unique enough
+-skipping training candidate: 5d874c50-3baa-4da5-aa29-7f4db39c6027.p1, not unique enough
+-skipping training candidate: 9017587d-ea49-42f5-a7b6-89d42141b0c0.p1, not unique enough
+-skipping training candidate: 8a30b0f1-ec64-416a-8a51-2021629a0c57.p1, not unique enough
+-skipping training candidate: 82fd6fe3-8469-4997-a07e-bcd9b58718c3.p1, not unique enough
+-skipping training candidate: 35127b28-acaa-4994-9c3f-a51e95d79279.p1, not unique enough
+-skipping training candidate: 1064d227-9dfb-4778-9fe0-eea4125ba469.p1, not unique enough
+-skipping training candidate: c5ab4470-3c7e-4a8e-9e2c-e03d4ad09a75.p1, not unique enough
+-skipping training candidate: f2949c39-311b-44a3-9730-18bc35a746fc.p1, not unique enough
+-skipping training candidate: 23e52a46-67f8-49f6-be55-6f505ee59e0f.p1, not unique enough
+-skipping training candidate: c284c0d5-f644-488a-ae56-b765527d0a1c.p1, not unique enough
+-skipping training candidate: d254e744-c1dc-45ca-8b67-d20ed48accdc.p1, not unique enough
+-skipping training candidate: ff0fc688-4cd6-4bb4-a3d0-24b3bc0e1cfd.p1, not unique enough
+-skipping training candidate: 7444281b-5e76-4424-a1a5-b19c9d454f84.p1, not unique enough
+-skipping training candidate: 2e02d3f9-d992-4ced-87dc-aa87c267b7f7.p1, not unique enough
+-skipping training candidate: 9dbf5ad6-8081-4072-bfb8-18e50b05d9ab.p1, not unique enough
+-skipping training candidate: 65079a4f-5b80-4407-8109-17b534bfa8b6.p1, not unique enough
+-skipping training candidate: ab656d90-5844-42b1-9537-5112386b1488.p1, not unique enough
+-skipping training candidate: 7f0a13f8-8d7e-480b-8400-5477c09a984d.p1, not unique enough
+-skipping training candidate: 55f902fc-9307-457a-9423-ff28f6d6a0be.p1, not unique enough
+-skipping training candidate: b17b35dd-f4d7-4489-b6a9-25a651dcfe96.p1, not unique enough
+-skipping training candidate: ec05bb1e-e4e7-4f74-8825-caa2c0f13e64.p1, not unique enough
+-skipping training candidate: 3df4395a-bf1d-406e-bd46-469cdc682a89.p1, not unique enough
+-skipping training candidate: e9bae4ad-b4b0-42bb-86fb-d430c9a5d509.p1, not unique enough
+-skipping training candidate: 78899883-d6d4-4a46-8247-7981df2216bd.p1, not unique enough
+-skipping training candidate: bb1841f9-abf1-4b98-b78c-e852c6119c4c.p1, not unique enough
+-skipping training candidate: b67e05ff-01fd-4af4-b435-6aa833cd3b52.p1, not unique enough
+-skipping training candidate: 6385051c-4870-4780-858b-dad6f03005f3.p1, not unique enough
+-skipping training candidate: 34d85859-4983-42c5-b907-0b3af49893c6.p1, not unique enough
+-skipping training candidate: 77a1c090-aa98-44bf-81fd-4684fcf3a60d.p1, not unique enough
+-skipping training candidate: e62cfcd4-7b0e-4020-acfd-bf2a4db178eb.p1, not unique enough
+-skipping training candidate: 2f8ae413-e1bf-4e00-b581-ee4f52dbf76c.p1, not unique enough
+-skipping training candidate: c685f157-b513-4582-8e66-cc64f2155db3.p1, not unique enough
+-skipping training candidate: 0de93163-c7f4-4baa-a283-4d63eff188b6.p1, not unique enough
+-skipping training candidate: 11df0ad4-97d4-459d-9255-85ed30d3ee5c.p1, not unique enough
+-skipping training candidate: c361d651-6cfb-43dd-a404-0d495c5ad1f7.p1, not unique enough
+-skipping training candidate: ac67a1fd-5c03-436f-89c9-ef10b18e2566.p1, not unique enough
+-skipping training candidate: ed322a9c-7693-4b10-af05-88fe32ea0589.p1, not unique enough
+-skipping training candidate: 1823fe12-1e97-4de7-a6a0-9c3396ded50a.p1, not unique enough
+-skipping training candidate: 4313d9b0-bab8-43fa-b655-60612cdb8574.p1, not unique enough
+-skipping training candidate: b965b07b-4db8-4e20-a0c0-26c5b7b8b1e6.p1, not unique enough
+-skipping training candidate: 771ac3a4-0446-4d35-82f6-c93966d1e85a.p1, not unique enough
+-skipping training candidate: 4ccec72e-27ca-4cee-90bb-fe65217c11f5.p1, not unique enough
+-skipping training candidate: d7e82b33-7cd6-4abe-a763-f9a7c620670d.p1, not unique enough
+-skipping training candidate: 9c5847a7-f3e1-48df-937b-ed7a87c943e0.p1, not unique enough
+-skipping training candidate: 2c676a0a-6bda-4b21-a7d1-567275013cb6.p1, not unique enough
+-skipping training candidate: 3d99981d-8fc2-46e6-be74-3afb04f161f3.p1, not unique enough
+-skipping training candidate: fda3b7aa-8de4-4a77-a271-d3be1959920b.p1, not unique enough
+-skipping training candidate: 6af8d964-02a1-46bf-85d8-8794a0627b50.p1, not unique enough
+
+	-redundancy-minimized set includes 3719 / 5000 = 74.38%
+
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/get_top_longest_fasta_entries.pl PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.top_longest_5000.nr 500 > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.top_500_longest
+PCT_GC: 43.2
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/seq_n_baseprobs_to_loglikelihood_vals.pl PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.top_500_longest PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/base_freqs.dat > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/hexamer.scores
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/score_CDS_likelihood_all_6_frames.pl PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/hexamer.scores > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.scores
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/select_best_ORFs_per_transcript.pl --gff3_file PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.gff3 --cds_scores PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.scores  --min_length_auto_accept 645  > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.best_candidates.gff3 
+Selecting best orfs
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/train_start_PWM.pl --transcripts PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta --selected_orfs PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.top_500_longest --out_prefix PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement
+Training start codon pattern recognition* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/PWM/build_atgPWM_+-.pl  --transcripts PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta  --selected_orfs PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.top_500_longest  --out_prefix PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement --pwm_left 20 --pwm_right 10 
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGCTCAGACTCG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNATGCTCAGACTCGGCATGTCCAATTCTC contains non-GATC chars... skipping
+Error, feature_seq: AGAGTATCTATGTTAGGATAATGAGNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNCTCTAAACTTTTTGATGACTATTCTTT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNGCCCTGATGGATCTGTTGC contains non-GATC chars... skipping
+Error, feature_seq: CCCCAGCGGTCTCATTTGATATGTTNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: GGCAGTACGAGAACCCCGAAATGGCAAACTTNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGAAGCAGATCC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNATGAAGCAGATCCATGCGGACAGCTT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNGAAGAAGGAAGTCATGAGCTCCGGCA contains non-GATC chars... skipping
+Error, feature_seq: TGGAGCACATGACACCTGACATGATCNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNTGCTTCCATTGATGCAGGTAAGAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNCAAATGAGGGACATTC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGTTCCCCCAAT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNATGTTCCCCCAATGCCCCCTTTTA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNGGTCCAGAGGATGAGCCGGAGTG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNCTGTCAGATGAGGTGCGCCA contains non-GATC chars... skipping
+Error, feature_seq: TACTACTAGCCTCACTCCACATGATTACTCGCN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNTGGCGACCATGCTGCTGGAGC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNACACCTGGTGAATGAGCACCAGCG contains non-GATC chars... skipping
+Error, feature_seq: AATTAAATAACTATTTGATTATGGTGATGTANN contains non-GATC chars... skipping
+Error, feature_seq: ATAACTATTTGATTATGGTGATGTANNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNTGAATATTTTCCAATCCAATGCTTTAAACAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNGCGTCGGGGGTAATGTTTGGCAACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNAGATGTAGTATTTAT contains non-GATC chars... skipping
+Error, feature_seq: GGGACACGAGGGATGAGGAGATGATNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: AGATAATAAGGTTGACATGGATGAGATAGTTNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNGCCAGCGCAAACCTATGCACATTTACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNCTGGAGATGCCCTACGTCC contains non-GATC chars... skipping
+Error, feature_seq: GCAGGAATTGCTATCGGGACATGTTCCTCTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNAATGGAGGGGAAAC contains non-GATC chars... skipping
+Error, feature_seq: NNAATGGAGGGGAAACATAAATGAGTATTTTAG contains non-GATC chars... skipping
+Error, feature_seq: GCCTGAAAANNNNNNNTTGGATGAAGATGGACA contains non-GATC chars... skipping
+Error, feature_seq: AAANNNNNNNTTGGATGAAGATGGACATATCAA contains non-GATC chars... skipping
+Error, feature_seq: TCTACAAATGTCAAAGACAGATGACGCGNNNNN contains non-GATC chars... skipping
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/PWM/feature_scoring.+-.pl  --features_plus PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.+.features  --features_minus PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.-.features  --atg_position 20  > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.feature.scores
+-round: 1
+Error, feature_seq: AAANNNNNNNTTGGATGAAGATGGACATATCAA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNCAAATGAGGGACATTC contains non-GATC chars... skipping
+Error, feature_seq: GCCTGAAAANNNNNNNTTGGATGAAGATGGACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNAGATGTAGTATTTAT contains non-GATC chars... skipping
+Error, feature_seq: TCTACAAATGTCAAAGACAGATGACGCGNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNCTGTCAGATGAGGTGCGCCA contains non-GATC chars... skipping
+Error, feature_seq: NNAATGGAGGGGAAACATAAATGAGTATTTTAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNCTGGAGATGCCCTACGTCC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGTTCCCCCAAT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGCTCAGACTCG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNTGGCGACCATGCTGCTGGAGC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNCTCTAAACTTTTTGATGACTATTCTTT contains non-GATC chars... skipping
+Error, feature_seq: NNTGAATATTTTCCAATCCAATGCTTTAAACAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNGCGTCGGGGGTAATGTTTGGCAACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNATGAAGCAGATCCATGCGGACAGCTT contains non-GATC chars... skipping
+Error, feature_seq: AATTAAATAACTATTTGATTATGGTGATGTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNGGTCCAGAGGATGAGCCGGAGTG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNATGTTCCCCCAATGCCCCCTTTTA contains non-GATC chars... skipping
+Error, feature_seq: CCCCAGCGGTCTCATTTGATATGTTNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNGAAGAAGGAAGTCATGAGCTCCGGCA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNATGCTCAGACTCGGCATGTCCAATTCTC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNGCCCTGATGGATCTGTTGC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNACACCTGGTGAATGAGCACCAGCG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNAATGGAGGGGAAAC contains non-GATC chars... skipping
+Error, feature_seq: ATAACTATTTGATTATGGTGATGTANNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: GCAGGAATTGCTATCGGGACATGTTCCTCTANN contains non-GATC chars... skipping
+Error, feature_seq: TGGAGCACATGACACCTGACATGATCNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNGCCAGCGCAAACCTATGCACATTTACA contains non-GATC chars... skipping
+-round: 2
+Error, feature_seq: NNNNNNNNNNNNNNNNNCAAATGAGGGACATTC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNCTGGAGATGCCCTACGTCC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGAAGCAGATCC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNATGTTCCCCCAATGCCCCCTTTTA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNATGCTCAGACTCGGCATGTCCAATTCTC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNCTCTAAACTTTTTGATGACTATTCTTT contains non-GATC chars... skipping
+Error, feature_seq: GCAGGAATTGCTATCGGGACATGTTCCTCTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNGCGTCGGGGGTAATGTTTGGCAACA contains non-GATC chars... skipping
+Error, feature_seq: ATAACTATTTGATTATGGTGATGTANNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: CCCCAGCGGTCTCATTTGATATGTTNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNCTGTCAGATGAGGTGCGCCA contains non-GATC chars... skipping
+Error, feature_seq: AAANNNNNNNTTGGATGAAGATGGACATATCAA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGCTCAGACTCG contains non-GATC chars... skipping
+Error, feature_seq: TCTACAAATGTCAAAGACAGATGACGCGNNNNN contains non-GATC chars... skipping
+Error, feature_seq: GGGACACGAGGGATGAGGAGATGATNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNGCCAGCGCAAACCTATGCACATTTACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGTTCCCCCAAT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNAATGGAGGGGAAAC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNATGAAGCAGATCCATGCGGACAGCTT contains non-GATC chars... skipping
+Error, feature_seq: AATTAAATAACTATTTGATTATGGTGATGTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNTGCTTCCATTGATGCAGGTAAGAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNAGATGTAGTATTTAT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNGCCCTGATGGATCTGTTGC contains non-GATC chars... skipping
+-round: 3
+Error, feature_seq: NNNNNNCTCTAAACTTTTTGATGACTATTCTTT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNTGCTTCCATTGATGCAGGTAAGAG contains non-GATC chars... skipping
+Error, feature_seq: AAANNNNNNNTTGGATGAAGATGGACATATCAA contains non-GATC chars... skipping
+Error, feature_seq: TACTACTAGCCTCACTCCACATGATTACTCGCN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNTGGCGACCATGCTGCTGGAGC contains non-GATC chars... skipping
+Error, feature_seq: GCCTGAAAANNNNNNNTTGGATGAAGATGGACA contains non-GATC chars... skipping
+Error, feature_seq: NNTGAATATTTTCCAATCCAATGCTTTAAACAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNATGCTCAGACTCGGCATGTCCAATTCTC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNCTGGAGATGCCCTACGTCC contains non-GATC chars... skipping
+Error, feature_seq: NNAATGGAGGGGAAACATAAATGAGTATTTTAG contains non-GATC chars... skipping
+Error, feature_seq: GGCAGTACGAGAACCCCGAAATGGCAAACTTNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNAGATGTAGTATTTAT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGCTCAGACTCG contains non-GATC chars... skipping
+Error, feature_seq: TCTACAAATGTCAAAGACAGATGACGCGNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNGAAGAAGGAAGTCATGAGCTCCGGCA contains non-GATC chars... skipping
+Error, feature_seq: AATTAAATAACTATTTGATTATGGTGATGTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNCTGTCAGATGAGGTGCGCCA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNAATGGAGGGGAAAC contains non-GATC chars... skipping
+Error, feature_seq: CCCCAGCGGTCTCATTTGATATGTTNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: GCAGGAATTGCTATCGGGACATGTTCCTCTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNGCGTCGGGGGTAATGTTTGGCAACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNGGTCCAGAGGATGAGCCGGAGTG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNGCCCTGATGGATCTGTTGC contains non-GATC chars... skipping
+Error, feature_seq: ATAACTATTTGATTATGGTGATGTANNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: GGGACACGAGGGATGAGGAGATGATNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: AGATAATAAGGTTGACATGGATGAGATAGTTNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNCAAATGAGGGACATTC contains non-GATC chars... skipping
+Error, feature_seq: TGGAGCACATGACACCTGACATGATCNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNATGAAGCAGATCCATGCGGACAGCTT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNATGTTCCCCCAATGCCCCCTTTTA contains non-GATC chars... skipping
+-round: 4
+Error, feature_seq: NNNNNNNATGAAGCAGATCCATGCGGACAGCTT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNTGGCGACCATGCTGCTGGAGC contains non-GATC chars... skipping
+Error, feature_seq: AATTAAATAACTATTTGATTATGGTGATGTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGCTCAGACTCG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNACACCTGGTGAATGAGCACCAGCG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNTGCTTCCATTGATGCAGGTAAGAG contains non-GATC chars... skipping
+Error, feature_seq: NNTGAATATTTTCCAATCCAATGCTTTAAACAG contains non-GATC chars... skipping
+Error, feature_seq: TACTACTAGCCTCACTCCACATGATTACTCGCN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGTTCCCCCAAT contains non-GATC chars... skipping
+Error, feature_seq: GGGACACGAGGGATGAGGAGATGATNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNGGTCCAGAGGATGAGCCGGAGTG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNGCGTCGGGGGTAATGTTTGGCAACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNCTCTAAACTTTTTGATGACTATTCTTT contains non-GATC chars... skipping
+Error, feature_seq: TCTACAAATGTCAAAGACAGATGACGCGNNNNN contains non-GATC chars... skipping
+Error, feature_seq: CCCCAGCGGTCTCATTTGATATGTTNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: GCCTGAAAANNNNNNNTTGGATGAAGATGGACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNATGCTCAGACTCGGCATGTCCAATTCTC contains non-GATC chars... skipping
+Error, feature_seq: NNAATGGAGGGGAAACATAAATGAGTATTTTAG contains non-GATC chars... skipping
+Error, feature_seq: TGGAGCACATGACACCTGACATGATCNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNGCCCTGATGGATCTGTTGC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNATGTTCCCCCAATGCCCCCTTTTA contains non-GATC chars... skipping
+-round: 5
+Error, feature_seq: NNNNNNNNNNNNNNNNNCAAATGAGGGACATTC contains non-GATC chars... skipping
+Error, feature_seq: NNTGAATATTTTCCAATCCAATGCTTTAAACAG contains non-GATC chars... skipping
+Error, feature_seq: GGGACACGAGGGATGAGGAGATGATNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNACACCTGGTGAATGAGCACCAGCG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNTGCTTCCATTGATGCAGGTAAGAG contains non-GATC chars... skipping
+Error, feature_seq: AGATAATAAGGTTGACATGGATGAGATAGTTNN contains non-GATC chars... skipping
+Error, feature_seq: TCTACAAATGTCAAAGACAGATGACGCGNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNAATGGAGGGGAAACATAAATGAGTATTTTAG contains non-GATC chars... skipping
+Error, feature_seq: ATAACTATTTGATTATGGTGATGTANNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: GGCAGTACGAGAACCCCGAAATGGCAAACTTNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNGGTCCAGAGGATGAGCCGGAGTG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNAGATGTAGTATTTAT contains non-GATC chars... skipping
+Error, feature_seq: GCCTGAAAANNNNNNNTTGGATGAAGATGGACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNATGCTCAGACTCGGCATGTCCAATTCTC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNCTCTAAACTTTTTGATGACTATTCTTT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGTTCCCCCAAT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGCTCAGACTCG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNAATGGAGGGGAAAC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNGCGTCGGGGGTAATGTTTGGCAACA contains non-GATC chars... skipping
+Error, feature_seq: TACTACTAGCCTCACTCCACATGATTACTCGCN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNCTGTCAGATGAGGTGCGCCA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNATGAAGCAGATCCATGCGGACAGCTT contains non-GATC chars... skipping
+Error, feature_seq: GCAGGAATTGCTATCGGGACATGTTCCTCTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNGCCCTGATGGATCTGTTGC contains non-GATC chars... skipping
+Error, feature_seq: AATTAAATAACTATTTGATTATGGTGATGTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNGAAGAAGGAAGTCATGAGCTCCGGCA contains non-GATC chars... skipping
+Error, feature_seq: AGAGTATCTATGTTAGGATAATGAGNNNNNNNN contains non-GATC chars... skipping
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/PWM/feature_scores_to_ROC.pl PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.feature.scores > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.feature.scores.roc
+-parsing scores
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/PWM/plot_ROC.Rscript PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.feature.scores.roc || :
+Error in library(ggplot2) : there is no package called 'ggplot2'
+Execution halted
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/PWM/compute_AUC.pl PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.feature.scores.roc
+Error in library(ggplot2) : there is no package called 'ggplot2'
+Execution halted
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/PWM/make_seqLogo.Rscript PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.+.pwm || :
+Error in library(seqLogo) : there is no package called 'seqLogo'
+Execution halted
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/PWM/make_seqLogo.Rscript PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.-.pwm || :
+Error in library(seqLogo) : there is no package called 'seqLogo'
+Execution halted
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/PWM/deplete_feature_noise.pl  --features_plus PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.+.features  --pwm_minus PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.-.pwm  --out_prefix PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.enhanced
+num features: 181	num_incorporate: 54
+-feature swap of score: 1.0010922791086 instead of -2.04058293320298
+-feature swap of score: 5.00781397271433 instead of -2.10863536431903
+-feature swap of score: 2.9870102501403 instead of -1.66457057602606
+-feature swap of score: 2.71727239096191 instead of -1.27319053825676
+-feature swap of score: 0.610689017125599 instead of -1.62013357825135
+-feature swap of score: 0.624663209258846 instead of -1.80041460189394
+-feature swap of score: -0.211143639631209 instead of -1.57052122199597
+-feature swap of score: 1.37510476533915 instead of -1.53656973806105
+-feature swap of score: 4.02210726754847 instead of -0.76462574905594
+-feature swap of score: 3.3763067601277 instead of -0.939675281564499
+-feature swap of score: -1.00077909809574 instead of -1.00689148264815
+-feature swap of score: -0.679142747676266 instead of -0.702528663115984
+-feature swap of score: 0.918843126362171 instead of -0.664944231928102
+-feature swap of score: 1.7144446813012 instead of -0.518590263948738
+-feature swap of score: 0.0544649518588268 instead of -0.661698700100604
+-feature swap of score: 1.30181910934423 instead of -0.00928574224464357
+-feature swap of score: 3.38511896654706 instead of -0.615891172500027
+-feature swap of score: 5.98158380548644 instead of -0.148826220486779
+-feature swap of score: 0.555325890473886 instead of 0.0814574560877767
+-feature swap of score: 6.12896019042023 instead of 0.423067695111883
+-feature swap of score: 4.19366246615521 instead of 0.688761742267123
+-feature swap of score: 4.20680673554547 instead of 0.262611689531898
+-feature swap of score: 3.27923054341385 instead of 0.620998264501076
+-feature swap of score: 1.6702746016932 instead of 0.720838746429937
+-feature swap of score: 2.80332883314388 instead of -0.0722579926288566
+-feature swap of score: 2.0635544613798 instead of 0.922985812835589
+-feature swap of score: 4.81210118900731 instead of 0.559159739161124
+-feature swap of score: 2.92446528957996 instead of 0.968877709399928
+-feature swap of score: 2.45744490753725 instead of 0.710749297307676
+-feature swap of score: 2.97494369266549 instead of 1.57785060828014
+-feature swap of score: 1.75435973641703 instead of 1.38437714666338
+-feature swap of score: 3.16606000871137 instead of 1.68242028825666
+-feature swap of score: 3.536033977008 instead of 1.61323991481126
+-feature swap of score: 1.68570464307451 instead of 1.6368649219284
+-feature swap of score: 4.36328796335331 instead of 1.15142824846488
+-feature swap of score: 4.79035591694475 instead of 1.45345507703105
+-feature swap of score: 3.85921405493385 instead of 1.90624901163427
+-feature swap of score: 2.43762253113721 instead of 1.78828278795463
+-feature swap of score: 1.6758275894334 instead of 1.4375040853112
+-num feature swaps: 39
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/PWM/feature_scoring.+-.pl  --features_plus PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.enhanced.+.features  --features_minus PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.-.features  --atg_position 20  > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.enhanced.feature.scores
+-round: 1
+Error, feature_seq: NNNNNNGCCAGCGCAAACCTATGCACATTTACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNCTCTAAACTTTTTGATGACTATTCTTT contains non-GATC chars... skipping
+Error, feature_seq: GGGACACGAGGGATGAGGAGATGATNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: GCAGGAATTGCTATCGGGACATGTTCCTCTANN contains non-GATC chars... skipping
+Error, feature_seq: CCCCAGCGGTCTCATTTGATATGTTNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: TGGAGCACATGACACCTGACATGATCNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNATGAAGCAGATCCATGCGGACAGCTT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNTGCTTCCATTGATGCAGGTAAGAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNCTGTCAGATGAGGTGCGCCA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNACACCTGGTGAATGAGCACCAGCG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGCTCAGACTCG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNAGATGTAGTATTTAT contains non-GATC chars... skipping
+Error, feature_seq: AGAGTATCTATGTTAGGATAATGAGNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNGGTCCAGAGGATGAGCCGGAGTG contains non-GATC chars... skipping
+Error, feature_seq: AGATAATAAGGTTGACATGGATGAGATAGTTNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNGAAGAAGGAAGTCATGAGCTCCGGCA contains non-GATC chars... skipping
+Error, feature_seq: TACTACTAGCCTCACTCCACATGATTACTCGCN contains non-GATC chars... skipping
+Error, feature_seq: AATTAAATAACTATTTGATTATGGTGATGTANN contains non-GATC chars... skipping
+Error, feature_seq: NNAATGGAGGGGAAACATAAATGAGTATTTTAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNCAAATGAGGGACATTC contains non-GATC chars... skipping
+Error, feature_seq: GGCAGTACGAGAACCCCGAAATGGCAAACTTNN contains non-GATC chars... skipping
+-round: 2
+Error, feature_seq: NNNNNNNNNNNNTGGCGACCATGCTGCTGGAGC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNGCCAGCGCAAACCTATGCACATTTACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGTTCCCCCAAT contains non-GATC chars... skipping
+Error, feature_seq: CCCCAGCGGTCTCATTTGATATGTTNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: AAANNNNNNNTTGGATGAAGATGGACATATCAA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGAAGCAGATCC contains non-GATC chars... skipping
+Error, feature_seq: AGATAATAAGGTTGACATGGATGAGATAGTTNN contains non-GATC chars... skipping
+Error, feature_seq: GGCAGTACGAGAACCCCGAAATGGCAAACTTNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNATGCTCAGACTCGGCATGTCCAATTCTC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNGAAGAAGGAAGTCATGAGCTCCGGCA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNTGCTTCCATTGATGCAGGTAAGAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNCTCTAAACTTTTTGATGACTATTCTTT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNCTGTCAGATGAGGTGCGCCA contains non-GATC chars... skipping
+Error, feature_seq: AATTAAATAACTATTTGATTATGGTGATGTANN contains non-GATC chars... skipping
+Error, feature_seq: GCAGGAATTGCTATCGGGACATGTTCCTCTANN contains non-GATC chars... skipping
+Error, feature_seq: GGGACACGAGGGATGAGGAGATGATNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNGCCCTGATGGATCTGTTGC contains non-GATC chars... skipping
+Error, feature_seq: NNAATGGAGGGGAAACATAAATGAGTATTTTAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNATGTTCCCCCAATGCCCCCTTTTA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNACACCTGGTGAATGAGCACCAGCG contains non-GATC chars... skipping
+Error, feature_seq: ATAACTATTTGATTATGGTGATGTANNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNAGATGTAGTATTTAT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNATGAAGCAGATCCATGCGGACAGCTT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNGCGTCGGGGGTAATGTTTGGCAACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGCTCAGACTCG contains non-GATC chars... skipping
+Error, feature_seq: TGGAGCACATGACACCTGACATGATCNNNNNNN contains non-GATC chars... skipping
+-round: 3
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNAATGGAGGGGAAAC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNCTGTCAGATGAGGTGCGCCA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNGAAGAAGGAAGTCATGAGCTCCGGCA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNATGTTCCCCCAATGCCCCCTTTTA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNGCCCTGATGGATCTGTTGC contains non-GATC chars... skipping
+Error, feature_seq: CCCCAGCGGTCTCATTTGATATGTTNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: GGCAGTACGAGAACCCCGAAATGGCAAACTTNN contains non-GATC chars... skipping
+Error, feature_seq: TACTACTAGCCTCACTCCACATGATTACTCGCN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNGGTCCAGAGGATGAGCCGGAGTG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNTGCTTCCATTGATGCAGGTAAGAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGAAGCAGATCC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNCAAATGAGGGACATTC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNATGAAGCAGATCCATGCGGACAGCTT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNACACCTGGTGAATGAGCACCAGCG contains non-GATC chars... skipping
+Error, feature_seq: ATAACTATTTGATTATGGTGATGTANNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: GCAGGAATTGCTATCGGGACATGTTCCTCTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNTGGCGACCATGCTGCTGGAGC contains non-GATC chars... skipping
+Error, feature_seq: AGAGTATCTATGTTAGGATAATGAGNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: TGGAGCACATGACACCTGACATGATCNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: GGGACACGAGGGATGAGGAGATGATNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNTGAATATTTTCCAATCCAATGCTTTAAACAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNCTCTAAACTTTTTGATGACTATTCTTT contains non-GATC chars... skipping
+Error, feature_seq: AATTAAATAACTATTTGATTATGGTGATGTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGCTCAGACTCG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNGCGTCGGGGGTAATGTTTGGCAACA contains non-GATC chars... skipping
+Error, feature_seq: GCCTGAAAANNNNNNNTTGGATGAAGATGGACA contains non-GATC chars... skipping
+-round: 4
+Error, feature_seq: AGAGTATCTATGTTAGGATAATGAGNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: TACTACTAGCCTCACTCCACATGATTACTCGCN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNATGAAGCAGATCCATGCGGACAGCTT contains non-GATC chars... skipping
+Error, feature_seq: NNAATGGAGGGGAAACATAAATGAGTATTTTAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNGCGTCGGGGGTAATGTTTGGCAACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNCAAATGAGGGACATTC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGAAGCAGATCC contains non-GATC chars... skipping
+Error, feature_seq: GCCTGAAAANNNNNNNTTGGATGAAGATGGACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNCTGGAGATGCCCTACGTCC contains non-GATC chars... skipping
+Error, feature_seq: GGGACACGAGGGATGAGGAGATGATNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: TGGAGCACATGACACCTGACATGATCNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNCTCTAAACTTTTTGATGACTATTCTTT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNCTGTCAGATGAGGTGCGCCA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNACACCTGGTGAATGAGCACCAGCG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGCTCAGACTCG contains non-GATC chars... skipping
+Error, feature_seq: GCAGGAATTGCTATCGGGACATGTTCCTCTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNGCCAGCGCAAACCTATGCACATTTACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNGCCCTGATGGATCTGTTGC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNAATGGAGGGGAAAC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNGGTCCAGAGGATGAGCCGGAGTG contains non-GATC chars... skipping
+Error, feature_seq: AATTAAATAACTATTTGATTATGGTGATGTANN contains non-GATC chars... skipping
+Error, feature_seq: GGCAGTACGAGAACCCCGAAATGGCAAACTTNN contains non-GATC chars... skipping
+Error, feature_seq: AGATAATAAGGTTGACATGGATGAGATAGTTNN contains non-GATC chars... skipping
+Error, feature_seq: NNTGAATATTTTCCAATCCAATGCTTTAAACAG contains non-GATC chars... skipping
+-round: 5
+Error, feature_seq: TGGAGCACATGACACCTGACATGATCNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNGCCAGCGCAAACCTATGCACATTTACA contains non-GATC chars... skipping
+Error, feature_seq: AGAGTATCTATGTTAGGATAATGAGNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: AGATAATAAGGTTGACATGGATGAGATAGTTNN contains non-GATC chars... skipping
+Error, feature_seq: GCAGGAATTGCTATCGGGACATGTTCCTCTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNGCCCTGATGGATCTGTTGC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNATGTTCCCCCAATGCCCCCTTTTA contains non-GATC chars... skipping
+Error, feature_seq: TACTACTAGCCTCACTCCACATGATTACTCGCN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNGAAGAAGGAAGTCATGAGCTCCGGCA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNGCGTCGGGGGTAATGTTTGGCAACA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNCTGTCAGATGAGGTGCGCCA contains non-GATC chars... skipping
+Error, feature_seq: GGCAGTACGAGAACCCCGAAATGGCAAACTTNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGTTCCCCCAAT contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNGGTCCAGAGGATGAGCCGGAGTG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGCTCAGACTCG contains non-GATC chars... skipping
+Error, feature_seq: TCTACAAATGTCAAAGACAGATGACGCGNNNNN contains non-GATC chars... skipping
+Error, feature_seq: CCCCAGCGGTCTCATTTGATATGTTNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: AAANNNNNNNTTGGATGAAGATGGACATATCAA contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNAGATGTAGTATTTAT contains non-GATC chars... skipping
+Error, feature_seq: NNAATGGAGGGGAAACATAAATGAGTATTTTAG contains non-GATC chars... skipping
+Error, feature_seq: NNTGAATATTTTCCAATCCAATGCTTTAAACAG contains non-GATC chars... skipping
+Error, feature_seq: GGGACACGAGGGATGAGGAGATGATNNNNNNNN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNNNNNNNNNNNNATGAAGCAGATCC contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNACACCTGGTGAATGAGCACCAGCG contains non-GATC chars... skipping
+Error, feature_seq: AATTAAATAACTATTTGATTATGGTGATGTANN contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNNNTGCTTCCATTGATGCAGGTAAGAG contains non-GATC chars... skipping
+Error, feature_seq: NNNNNNNATGAAGCAGATCCATGCGGACAGCTT contains non-GATC chars... skipping
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/PWM/feature_scores_to_ROC.pl PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.enhanced.feature.scores > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.enhanced.feature.scores.roc
+-parsing scores
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/PWM/plot_ROC.Rscript PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.enhanced.feature.scores.roc || :
+Error in library(ggplot2) : there is no package called 'ggplot2'
+Execution halted
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/PWM/compute_AUC.pl PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.enhanced.feature.scores.roc
+Error in library(ggplot2) : there is no package called 'ggplot2'
+Execution halted
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/PWM/make_seqLogo.Rscript PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/start_refinement.enhanced.+.pwm || :
+Error in library(seqLogo) : there is no package called 'seqLogo'
+Execution halted
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/start_codon_refinement.pl --transcripts PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta --gff3_file PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.best_candidates.gff3 --workdir PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.best_candidates.gff3.revised_starts.gff3
+Refining start codon selections.
+-number of revised start positions: 1849
+* Running CMD: cp PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder_dir/longest_orfs.cds.best_candidates.gff3.revised_starts.gff3 PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder.gff3
+copying output to final output file: PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder.gff3* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/gff3_file_to_bed.pl PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder.gff3 > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder.bed
+Making bed file: PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder.bed
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/gff3_file_to_proteins.pl --gff3 PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder.gff3 --fasta PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta  --genetic_code Universal > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder.pep
+Making pep file: PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder.pep
+* Running CMD: /home/meitel/anaconda3/envs/mappings/opt/transdecoder/util/gff3_file_to_proteins.pl --gff3 PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder.gff3 --fasta PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta --seqType CDS  --genetic_code Universal > PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder.cds
+Making cds file: PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder.cds
+transdecoder is finished.  See output files PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta.transdecoder.*
+
+

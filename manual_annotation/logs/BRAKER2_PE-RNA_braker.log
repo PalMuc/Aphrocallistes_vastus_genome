@@ -1,0 +1,56 @@
+#**********************************************************************************
+#                               BRAKER CONFIGURATION                               
+#**********************************************************************************
+# BRAKER CALL: /home/ubuntu/tools/anaconda3/envs/braker2/bin/braker.pl --workingdir=/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr --cores 20 --AUGUSTUS_ab_initio --species=Aphrocallistes_instagraal_PE-RNA_combi_stranded_unstranded_utr --useexisting --softmasking --gff3 --UTR=on --augustus_args=--protein=on --genome=/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.fasta --bam=/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.PE-RNA_hisat2_stranded.fwd.bam,/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.PE-RNA_hisat2_stranded.rev.bam,/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.PE-RNA_hisat2.sorted.bam --stranded=+,-,. --AUGUSTUS_hints_preds=augustus.hints.gtf
+# Sun Aug 30 17:28:08 2020: braker.pl version 2.1.5
+# Sun Aug 30 17:28:08 2020: Configuring of BRAKER for using external tools...
+# Sun Aug 30 17:28:08 2020: Found environment variable $AUGUSTUS_CONFIG_PATH. Setting $AUGUSTUS_CONFIG_PATH to /home/ubuntu/tools/anaconda3/envs/braker2/config/
+# Sun Aug 30 17:28:08 2020: Found environment variable $AUGUSTUS_BIN_PATH. Setting $AUGUSTUS_BIN_PATH to /home/ubuntu/tools/anaconda3/envs/braker2/bin/
+# Sun Aug 30 17:28:08 2020: Found environment variable $AUGUSTUS_SCRIPTS_PATH. Setting $AUGUSTUS_SCRIPTS_PATH to /home/ubuntu/tools/anaconda3/envs/braker2/bin/
+# Sun Aug 30 17:28:08 2020: Did not find environment variable $PYTHON3_PATH
+# Sun Aug 30 17:28:08 2020: Trying to guess $PYTHON3_PATH from location of python3 executable that is available in your $PATH
+# Sun Aug 30 17:28:08 2020: Setting $PYTHON3_PATH to /home/ubuntu/tools/anaconda3/envs/braker2/bin
+# Sun Aug 30 17:28:08 2020: Did not find environment variable $BAMTOOLS_PATH (either variable does not exist, or the path given in variable does not exist). Will try to set this variable in a different way, later.
+# Sun Aug 30 17:28:08 2020: Trying to guess $BAMTOOLS_BIN_PATH from location of bamtools executable that is available in your $PATH
+# Sun Aug 30 17:28:08 2020: Setting $BAMTOOLS_BIN_PATH to /home/ubuntu/tools/anaconda3/envs/braker2/bin
+# Sun Aug 30 17:28:08 2020: Did not find environment variable $SAMTOOLS_PATH  (either variable does not exist, or the path given in variable doesnot exist). Will try to set this variable in a different way, later.
+# Sun Aug 30 17:28:08 2020: Trying to guess $SAMTOOLS_PATH from location of samtools executable in your $PATH
+# Sun Aug 30 17:28:08 2020: Setting $SAMTOOLS_PATH to /home/ubuntu/tools/anaconda3/envs/braker2/bin
+# Sun Aug 30 17:28:08 2020: Did not find environment variable $DIAMOND_PATH
+# Sun Aug 30 17:28:08 2020: Trying to guess $DIAMOND_PATH from location of diamond executable that is available in your $PATH
+# Sun Aug 30 17:28:08 2020: Setting $DIAMOND_PATH to /home/ubuntu/tools/anaconda3/envs/braker2/bin
+# Sun Aug 30 17:28:08 2020: Did not find environment variable $CDBTOOLS_PATH
+# Sun Aug 30 17:28:08 2020: Trying to guess $CDBTOOLS_PATH from location of cdbfasta executable that is available in your $PATH
+# Sun Aug 30 17:28:08 2020: Setting $CDBTOOLS_PATH to /home/ubuntu/tools/anaconda3/envs/braker2/bin
+#**********************************************************************************
+#                               CREATING DIRECTORY STRUCTURE                       
+#**********************************************************************************
+# Sun Aug 30 17:28:08 2020: creating file that contains citations for this BRAKER run at /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/what-to-cite.txt...
+# Sun Aug 30 17:28:09 2020: changing into working directory /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr
+cd /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr
+# Sun Aug 30 17:28:09 2020: check_fasta_headers(): Checking fasta headers of file /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_softmasked.fasta
+#**********************************************************************************
+#                               PROCESSING HINTS                                   
+#**********************************************************************************
+# Sun Aug 30 17:28:12 2020: Converting bam files to hints
+# Sun Aug 30 17:28:12 2020: Checking bam headers
+# Sun Aug 30 17:28:12 2020: create header file /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/Aphrocallistes_instagraal_l4_n50_c1_N5_header.sam
+/home/ubuntu/tools/anaconda3/envs/braker2/bin/bamtools header -in /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.PE-RNA_hisat2_stranded.fwd.bam > /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/Aphrocallistes_instagraal_l4_n50_c1_N5_header.sam
+# Sun Aug 30 17:28:12 2020: Deleting SAM header file /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/Aphrocallistes_instagraal_l4_n50_c1_N5_header.sam (will not be needed from here on)
+# Sun Aug 30 17:28:12 2020: Deleting /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/Aphrocallistes_instagraal_l4_n50_c1_N5_new_header.sam
+# Sun Aug 30 17:28:12 2020: make hints from BAM file /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.PE-RNA_hisat2_stranded.fwd.bam
+/home/ubuntu/tools/anaconda3/envs/braker2/bin//bam2hints --intronsonly --in=/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.PE-RNA_hisat2_stranded.fwd.bam --out=/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/bam2hints.temp.0.gff 1> /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/errors/bam2hints.0.stdout 2>/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/errors/bam2hints.0.stderr
+# Sun Aug 30 17:28:12 2020: Checking bam headers
+# Sun Aug 30 17:28:12 2020: create header file /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/Aphrocallistes_instagraal_l4_n50_c1_N5_header.sam
+/home/ubuntu/tools/anaconda3/envs/braker2/bin/bamtools header -in /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.PE-RNA_hisat2_stranded.rev.bam > /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/Aphrocallistes_instagraal_l4_n50_c1_N5_header.sam
+# Sun Aug 30 17:28:12 2020: Deleting SAM header file /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/Aphrocallistes_instagraal_l4_n50_c1_N5_header.sam (will not be needed from here on)
+# Sun Aug 30 17:28:12 2020: Deleting /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/Aphrocallistes_instagraal_l4_n50_c1_N5_new_header.sam
+# Sun Aug 30 17:28:12 2020: make hints from BAM file /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.PE-RNA_hisat2_stranded.rev.bam
+/home/ubuntu/tools/anaconda3/envs/braker2/bin//bam2hints --intronsonly --in=/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.PE-RNA_hisat2_stranded.rev.bam --out=/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/bam2hints.temp.1.gff 1> /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/errors/bam2hints.1.stdout 2>/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/errors/bam2hints.1.stderr
+# Sun Aug 30 17:28:12 2020: Checking bam headers
+# Sun Aug 30 17:28:12 2020: create header file /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/Aphrocallistes_instagraal_l4_n50_c1_N5_header.sam
+/home/ubuntu/tools/anaconda3/envs/braker2/bin/bamtools header -in /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.PE-RNA_hisat2.sorted.bam > /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/Aphrocallistes_instagraal_l4_n50_c1_N5_header.sam
+# Sun Aug 30 17:28:12 2020: Deleting SAM header file /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/Aphrocallistes_instagraal_l4_n50_c1_N5_header.sam (will not be needed from here on)
+# Sun Aug 30 17:28:12 2020: Deleting /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/Aphrocallistes_instagraal_l4_n50_c1_N5_new_header.sam
+# Sun Aug 30 17:28:12 2020: make hints from BAM file /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.PE-RNA_hisat2.sorted.bam
+/home/ubuntu/tools/anaconda3/envs/braker2/bin//bam2hints --intronsonly --in=/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.PE-RNA_hisat2.sorted.bam --out=/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/bam2hints.temp.2.gff 1> /home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/errors/bam2hints.2.stdout 2>/home/ubuntu/avas/final_analyses/D_GENE_MODELLING/scaffolded_HiC/01_BRAKER2/PE-RNA_combi_stranded_unstranded_utr/errors/bam2hints.2.stderr

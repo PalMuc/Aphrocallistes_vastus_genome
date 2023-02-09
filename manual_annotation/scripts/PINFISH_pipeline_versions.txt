@@ -1,0 +1,32 @@
+# packages in environment at /home/meitel/data/avas/pinfish/scaffolded_HiC/pipeline/output/.snakemake/conda/9225001f:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                 conda_forge    conda-forge
+_openmp_mutex             4.5                       1_gnu    conda-forge
+bzip2                     1.0.8                h516909a_2    conda-forge
+c-ares                    1.16.1               h516909a_0    conda-forge
+ca-certificates           2020.6.20            hecda079_0    conda-forge
+gffread                   0.12.1               h8b12597_0    bioconda
+htslib                    1.10.2               hd3b49d5_1    bioconda
+k8                        0.2.5                he513fc3_0    bioconda
+krb5                      1.17.1               hfafb76e_2    conda-forge
+libcurl                   7.71.1               hcdd3856_5    conda-forge
+libdeflate                1.6                  h516909a_0    conda-forge
+libedit                   3.1.20191231         h46ee950_2    conda-forge
+libev                     4.33                 h516909a_0    conda-forge
+libgcc-ng                 9.3.0               h24d8f2e_15    conda-forge
+libgomp                   9.3.0               h24d8f2e_15    conda-forge
+libnghttp2                1.41.0               hab1572f_1    conda-forge
+libssh2                   1.9.0                hab1572f_5    conda-forge
+libstdcxx-ng              9.3.0               hdf63c60_15    conda-forge
+minimap2                  2.17                 hed695b0_3    bioconda
+ncurses                   6.1               hf484d3e_1002    conda-forge
+openssl                   1.1.1g               h516909a_1    conda-forge
+samtools                  1.10                 h9402c20_2    bioconda
+tk                        8.6.10               hed695b0_0    conda-forge
+xz                        5.2.5                h516909a_1    conda-forge
+zlib                      1.2.11            h516909a_1007    conda-forge
+pinfish/spliced_bam2gff	 version: 0.1.0 build: 4f2625e0c64730459b0c376496d0e63f58fbba4c
+pinfish/cluster_gff	 version: 0.1.0 build: 4f2625e0c64730459b0c376496d0e63f58fbba4c
+pinfish/collapse_partials version: 0.1.0 build: 4f2625e0c64730459b0c376496d0e63f58fbba4c
+pinfish/polish_clusters version: 0.1.0 build: 8e8d1ae451deb27a9b9746e69f2596fc42059973

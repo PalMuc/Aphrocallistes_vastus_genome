@@ -1,0 +1,30 @@
+GMAP version 2020-06-30 called with args: gmap.sse42 -d Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked PINFISH_stepwise_corrected-reads_clustered_transcripts_collapsed_mRNA.fasta -f 3 -B 4 -t 4 -n 1
+Note: -n 1 will not report chimeric alignments.  If you want a single alignment plus chimeras, use -n 0 instead.
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (30,120,032 bytes, 0.01 sec)
+Looking for genome Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked in directory /home/meitel/anaconda3/envs/mappings/share/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked
+Looking for index files in directory /home/meitel/anaconda3/envs/mappings/share/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked
+  Pointers file is Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.ref153offsets64meta
+  Offsets file is Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.ref153offsets64strm
+  Positions file is Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.07 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (157,811,904 bytes, 0.08 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (105,221,896 bytes, 0.05 sec)
+Starting alignment
+No paths found for 4d997494-d447-4ccf-9c4b-95adfae17037
+No paths found for 8f4e5081-05a1-4378-804d-4a3631f672a1
+No paths found for 3cd1cd2b-3442-4005-b241-eb674d4beec2
+No paths found for ea379a61-a9cb-4372-9829-496cd217fa69
+No paths found for 51052e6f-3c33-442f-8021-6cd36b36a23e
+No paths found for aad8adf4-4ab9-4bdb-8041-c80bf6fb673e
+No paths found for d8c8f528-b763-497f-8cd2-31f8dbf183c5
+No paths found for 7b188053-f330-4f87-ab0a-838d2b8c46dd
+No paths found for cd018444-a3af-49d9-b3d5-342675bca4ac
+No paths found for 40432ff3-a196-47fd-9d03-049a0f041adb
+No paths found for 5d7f0c7d-dfc3-45b3-ab7a-56a3cd538e36
+No paths found for cf660c2d-4925-460f-8b04-66a1a690d034
+Processed 31209 queries in 41.16 seconds (758.24 queries/sec)
