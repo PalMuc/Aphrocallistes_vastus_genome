@@ -1,0 +1,14 @@
+# Parsing sequences from Aphrocallistes-cDNA-guppy-3.4.4-R10-450bps_hac_run2.pychopper2_all_100bp_to_20kb.fasta:  Thu Jan  9 21:55:03 2020
+# Counted 2204051 sequences:  Thu Jan  9 21:55:19 2020
+# Wrote 2204051 sequences:  Thu Jan  9 21:55:19 2020
+# Total input letters is: 1166149787
+# Total output count is: 1166149787
+# Ratio of out/in is: 1.0
+# Sorting sequences:  Thu Jan  9 21:55:19 2020
+# Average length is: 529.09
+# Median length is: 438
+# Shortest sequence is: 100
+# Longest sequence is: 19998
+# n50 length is: 583075004 and n50 is: 662.00
+# n10 length is: 1049535675 and n10 is: 1356.00
+# Done:  Thu Jan  9 21:55:20 2020

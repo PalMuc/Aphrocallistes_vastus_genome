@@ -1,0 +1,14 @@
+# Parsing sequences on <stdin>: Fri Feb 28 08:09:48 2020
+# Counted 629428 sequences:  Fri Feb 28 08:10:37 2020
+# Wrote 629428 sequences:  Fri Feb 28 08:10:37 2020
+# Total input letters is: 6300181414
+# Total output count is: 6300181414
+# Ratio of out/in is: 1.0
+# Sorting sequences:  Fri Feb 28 08:10:37 2020
+# Average length is: 10009.38
+# Median length is: 8207
+# Shortest sequence is: 5000
+# Longest sequence is: 348132
+# n50 length is: 3150100706 and n50 is: 10524.00
+# n10 length is: 5670169224 and n10 is: 24373.00
+# Done:  Fri Feb 28 08:10:37 2020
