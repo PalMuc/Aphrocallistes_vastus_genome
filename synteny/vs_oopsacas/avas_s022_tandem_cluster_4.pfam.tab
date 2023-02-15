@@ -538,5 +538,5 @@ Lactonase            PF10282.9    344 O_minuta|LOD99_8483.mRNA.1 -            27
 # Target file:     /home/wrf/db/Pfam-A.hmm
 # Option settings: hmmscan --domtblout avas_s022_tandem_cluster_4.pfam.tab --cpu 1 /home/wrf/db/Pfam-A.hmm avas_s022_tandem_cluster_4.fasta 
 # Current dir:     /mnt/data/project/genomes/aphrocallistes_vastus_PORI/Aphrocallistes_vastus_genome/synteny/vs_oopsacas
-# Date:            Mon Dec 12 19:54:03 2022
+# Date:            Sun Jan  1 16:28:21 2023
 # [ok]

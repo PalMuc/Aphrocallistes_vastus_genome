@@ -1,0 +1,231 @@
+{
+   "formatVersion" : 1,
+   "names" : {
+      "type" : "Hash",
+      "url" : "names/"
+   },
+   "refSeqs" : "seq/Avas.v1.29_scaffolds.fasta.fai",
+   "tracks" : [
+      {
+         "category" : "Reference sequence",
+         "faiUrlTemplate" : "seq/Avas.v1.29_scaffolds.fasta.fai",
+         "key" : "Reference sequence",
+         "label" : "DNA",
+         "seqType" : "dna",
+         "storeClass" : "JBrowse/Store/SeqFeature/IndexedFasta",
+         "type" : "SequenceTrack",
+         "urlTemplate" : "seq/Avas.v1.29_scaffolds.fasta",
+         "useAsRefSeqStore" : 1
+      },
+      {
+         "category" : "Reference sequence",
+         "compress" : 0,
+         "key" : "N-gaps",
+         "label" : "N-gaps",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "feature",
+            "color" : "#000000",
+            "height" : 5,
+            "label" : "score"
+         },
+         "trackType" : "CanvasFeatures",
+         "type" : "CanvasFeatures",
+         "urlTemplate" : "tracks/N-gaps/{refseq}/trackData.json"
+      },
+      {
+         "category" : "Annotation manual",
+         "compress" : 0,
+         "impliedUTRs" : "true",
+         "key" : "manual-v1.29",
+         "label" : "manual-v1.29",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "feature",
+            "color" : "function(feature) { return feature.get('strand')==1 ?'#0f0f85':'#6baed6'; }",
+            "utrColor" : "#af9979"
+         },
+         "trackType" : "CanvasFeatures",
+         "type" : "CanvasFeatures",
+         "urlTemplate" : "tracks/manual-v1.29/{refseq}/trackData.json"
+      },
+      {
+         "category" : "Gene model tracks",
+         "compress" : 0,
+         "key" : "BRAKER2-ONT",
+         "label" : "BRAKER2-ONT",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "feature",
+            "color" : "function(feature) { return feature.get('strand')==1 ?'#002458':'#66a4c2'; }"
+         },
+         "trackType" : "CanvasFeatures",
+         "type" : "CanvasFeatures",
+         "urlTemplate" : "tracks/BRAKER2-ONT/{refseq}/trackData.json"
+      },
+      {
+         "category" : "Gene model tracks",
+         "compress" : 0,
+         "key" : "Stringtie-ONT",
+         "label" : "Stringtie-ONT",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "feature",
+            "color" : "function(feature) { return feature.get('strand')==1 ?'#005824':'#66c2a4'; }"
+         },
+         "subParts" : "exon",
+         "trackType" : "CanvasFeatures",
+         "type" : "CanvasFeatures",
+         "urlTemplate" : "tracks/Stringtie-ONT/{refseq}/trackData.json"
+      },
+      {
+         "category" : "Gene model tracks",
+         "compress" : 0,
+         "key" : "Pinfish-pipeline",
+         "label" : "Pinfish-pipeline",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "feature",
+            "color" : "function(feature) { return feature.get('strand')==1 ?'#005824':'#66c2a4'; }"
+         },
+         "subParts" : "exon",
+         "trackType" : "CanvasFeatures",
+         "type" : "CanvasFeatures",
+         "urlTemplate" : "tracks/Pinfish-pipeline/{refseq}/trackData.json"
+      },
+      {
+         "category" : "Functional",
+         "compress" : 0,
+         "key" : "blast-vs-models",
+         "label" : "blast-vs-models",
+         "onClick" : {
+            "action" : "newWindow",
+            "label" : "function() { return this.feature.get('score') + ' : ' + this.feature.get('target'); }",
+            "title" : "{name} {type}",
+            "url" : "https://www.uniprot.org/uniprot/{accession}"
+         },
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "feature",
+            "color" : "#40906a",
+            "label" : "target"
+         },
+         "trackType" : "CanvasFeatures",
+         "type" : "CanvasFeatures",
+         "urlTemplate" : "tracks/blast-v-models/{refseq}/trackData.json"
+      },
+      {
+         "category" : "NGS",
+         "label" : "ONT-RNA_minimap2",
+         "storeClass" : "JBrowse/Store/SeqFeature/BAM",
+         "type" : "JBrowse/View/Track/Alignments2",
+         "urlTemplate" : "Avas.v1.29_scaffolds.ONT-RNA_minimap2.bam"
+      },
+      {
+         "category" : "Functional",
+         "compress" : 0,
+         "key" : "blast-vs-oopsacas",
+         "label" : "blast-vs-oopsacas",
+         "onClick" : {
+            "label" : "function() { return this.feature.get('score') + ' : ' + this.feature.get('target'); }"
+         },
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "feature",
+            "color" : "#a0401a",
+            "label" : "target"
+         },
+         "trackType" : "CanvasFeatures",
+         "type" : "CanvasFeatures",
+         "urlTemplate" : "tracks/blast-vs-oopsacas/{refseq}/trackData.json"
+      },
+      {
+         "category" : "NGS",
+         "key" : "DNA-PE-Coverage",
+         "label" : "DNA-PE-Coverage",
+         "max_score" : 200,
+         "min_score" : 0,
+         "storeClass" : "JBrowse/Store/SeqFeature/BigWig",
+         "style" : {
+            "clip_marker_color" : "red",
+            "height" : 60,
+            "pos_color" : "#6aa6d9",
+            "variance_band_color" : "rgba(0,0,0,0.1)"
+         },
+         "type" : "JBrowse/View/Track/Wiggle/XYPlot",
+         "urlTemplate" : "COV_PE-DNA.bw",
+         "variance_band" : true
+      },
+      {
+         "category" : "NGS",
+         "key" : "DNA-ONT-Coverage",
+         "label" : "DNA-ONT-Coverage",
+         "max_score" : 200,
+         "min_score" : 0,
+         "storeClass" : "JBrowse/Store/SeqFeature/BigWig",
+         "style" : {
+            "clip_marker_color" : "red",
+            "height" : 60,
+            "pos_color" : "#6aa6d9",
+            "variance_band_color" : "rgba(0,0,0,0.1)"
+         },
+         "type" : "JBrowse/View/Track/Wiggle/XYPlot",
+         "urlTemplate" : "COV_ONT-DNA.bw",
+         "variance_band" : true
+      },
+      {
+         "category" : "NGS",
+         "key" : "RNAseq-PE-Coverage",
+         "label" : "RNAseq-PE-Coverage",
+         "max_score" : 10000,
+         "min_score" : 0,
+         "scale" : "log",
+         "storeClass" : "JBrowse/Store/SeqFeature/BigWig",
+         "style" : {
+            "clip_marker_color" : "red",
+            "height" : 100,
+            "neg_color" : "#d6604d",
+            "pos_color" : "#a6d96a"
+         },
+         "type" : "JBrowse/View/Track/Wiggle/XYPlot",
+         "urlTemplate" : "COV_PE-RNA.bw",
+         "variance_band" : false
+      },
+      {
+         "category" : "NGS",
+         "key" : "RNAseq-stranded-fwd",
+         "label" : "RNAseq-stranded-fwd",
+         "max_score" : 1000,
+         "min_score" : 0,
+         "scale" : "log",
+         "storeClass" : "JBrowse/Store/SeqFeature/BigWig",
+         "style" : {
+            "clip_marker_color" : "red",
+            "height" : 60,
+            "neg_color" : "#d6604d",
+            "pos_color" : "#00441b"
+         },
+         "type" : "JBrowse/View/Track/Wiggle/XYPlot",
+         "urlTemplate" : "COV_PE-RNA_stranded.fwd.bw",
+         "variance_band" : false
+      },
+      {
+         "category" : "NGS",
+         "key" : "RNAseq-stranded-rev",
+         "label" : "RNAseq-stranded-rev",
+         "max_score" : 1000,
+         "min_score" : 0,
+         "scale" : "log",
+         "storeClass" : "JBrowse/Store/SeqFeature/BigWig",
+         "style" : {
+            "clip_marker_color" : "red",
+            "height" : 60,
+            "neg_color" : "#d6604d",
+            "pos_color" : "#a1d99b"
+         },
+         "type" : "JBrowse/View/Track/Wiggle/XYPlot",
+         "urlTemplate" : "COV_PE-RNA_stranded.rev.bw",
+         "variance_band" : false
+      }
+   ]
+}

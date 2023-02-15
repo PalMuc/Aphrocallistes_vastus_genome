@@ -1,0 +1,1467 @@
+IQ-TREE 1.6.12 built Aug 15 2019
+
+Input file name: /home/svargas/silicases_and_cah.c10trim.aln
+Type of analysis: ModelFinder + tree reconstruction + non-parametric bootstrap (100 replicates)
+Random seed number: 892376
+
+REFERENCES
+----------
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+To cite IQ-TREE please use:
+
+Lam-Tung Nguyen, Heiko A. Schmidt, Arndt von Haeseler, and Bui Quang Minh
+(2015) IQ-TREE: A fast and effective stochastic algorithm for estimating
+maximum likelihood phylogenies. Mol Biol Evol, 32:268-274.
+https://doi.org/10.1093/molbev/msu300
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 321 sequences with 573 amino-acid sites
+Number of constant sites: 4 (= 0.69808% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 4 (= 0.69808% of all sites)
+Number of parsimony informative sites: 560
+Number of distinct site patterns: 573
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: LG+R6
+
+List of models sorted by BIC scores: 
+
+Model             LogL          AIC      w-AIC      AICc     w-AICc       BIC      w-BIC
+LG+R6           -108511.9877 218321.9754 - 0.0000 1062021.9754 - 0.0000 221145.7002 + 0.7463
+WAG+F+R6        -108452.7781 218241.5562 + 0.8751 1112025.5562 - 0.0000 221147.9479 + 0.2426
+WAG+R6          -108516.3818 218330.7636 - 0.0000 1062030.7636 - 0.0000 221154.4884 - 0.0092
+LG+R7           -108511.8765 218325.7530 - 0.0000 1067229.7530 - 0.0000 221158.1796 - 0.0015
+WAG+F+R7        -108452.7250 218245.4500 + 0.1249 1117385.4500 - 0.0000 221160.5434 - 0.0004
+WAG+R7          -108516.1969 218334.3938 - 0.0000 1067238.3938 - 0.0000 221166.8204 - 0.0000
+WAG+F+R5        -108496.8415 218325.6830 - 0.0000 1106769.6830 - 0.0000 221223.3729 - 0.0000
+LG+R5           -108558.7107 218411.4214 - 0.0000 1056923.4214 - 0.0000 221226.4445 - 0.0000
+LG+F+R6         -108492.9227 218321.8454 - 0.0000 1112105.8454 - 0.0000 221228.2371 - 0.0000
+WAG+R5          -108565.5147 218425.0294 - 0.0000 1056937.0294 - 0.0000 221240.0525 - 0.0000
+LG+F+R7         -108492.9115 218325.8230 - 0.0000 1117465.8230 - 0.0000 221240.9164 - 0.0000
+LG+F+R5         -108534.3541 218400.7082 - 0.0000 1106844.7082 - 0.0000 221298.3981 - 0.0000
+LG+R4           -108622.4097 218534.8194 - 0.0000 1051874.8194 - 0.0000 221341.1407 - 0.0000
+WAG+F+R4        -108586.3918 218500.7836 - 0.0000 1101620.7836 - 0.0000 221389.7717 - 0.0000
+WAG+R4          -108659.0727 218608.1454 - 0.0000 1051948.1454 - 0.0000 221414.4667 - 0.0000
+LG+F+R4         -108618.1630 218564.3260 - 0.0000 1101684.3260 - 0.0000 221453.3141 - 0.0000
+WAG+F+R3        -108764.9928 218853.9856 - 0.0000 1096665.9856 - 0.0000 221734.2719 - 0.0000
+WAG+R3          -108841.0674 218968.1348 - 0.0000 1047152.1348 - 0.0000 221765.7543 - 0.0000
+LG+R3           -108849.3626 218984.7252 - 0.0000 1047168.7252 - 0.0000 221782.3447 - 0.0000
+LG+I+G4         -108887.4556 219056.9112 - 0.0000 1042100.9112 - 0.0000 221845.8289 - 0.0000
+LG+G4           -108892.5466 219065.0932 - 0.0000 1039545.0932 + 1.0000 221849.6601 - 0.0000
+WAG+I+G4        -108912.8107 219107.6214 - 0.0000 1042151.6214 - 0.0000 221896.5391 - 0.0000
+WAG+G4          -108917.9379 219115.8758 - 0.0000 1039595.8758 - 0.0000 221900.4427 - 0.0000
+LG+F+R3         -108848.1119 219020.2238 - 0.0000 1096832.2238 - 0.0000 221900.5101 - 0.0000
+WAG+F+I+G4      -108855.2673 219030.5346 - 0.0000 1091550.5346 - 0.0000 221902.1192 - 0.0000
+WAG+F+G4        -108860.6079 219039.2158 - 0.0000 1088919.2158 - 0.0000 221906.4495 - 0.0000
+LG+F+I+G4       -108876.6747 219073.3494 - 0.0000 1091593.3494 - 0.0000 221944.9340 - 0.0000
+LG+F+G4         -108880.6194 219079.2388 - 0.0000 1088959.2388 - 0.0000 221946.4725 - 0.0000
+WAG+R2          -109597.9222 220477.8444 - 0.0000 1043521.8444 - 0.0000 223266.7621 - 0.0000
+WAG+F+R2        -109540.4028 220400.8056 - 0.0000 1092920.8056 - 0.0000 223272.3902 - 0.0000
+LG+R2           -109668.5499 220619.0998 - 0.0000 1043663.0998 - 0.0000 223408.0175 - 0.0000
+LG+F+R2         -109687.5640 220695.1280 - 0.0000 1093215.1280 - 0.0000 223566.7126 - 0.0000
+WAG+I           -112688.3633 226656.7266 - 0.0000 1047136.7266 - 0.0000 229441.2935 - 0.0000
+WAG+F+I         -112659.0281 226636.0562 - 0.0000 1096516.0562 - 0.0000 229503.2899 - 0.0000
+WAG             -112738.6577 226755.3154 - 0.0000 1044675.3154 - 0.0000 229535.5314 - 0.0000
+WAG+F           -112709.3209 226734.6418 - 0.0000 1093978.6418 - 0.0000 229597.5246 - 0.0000
+LG+I            -113219.5833 227719.1666 - 0.0000 1048199.1666 - 0.0000 230503.7335 - 0.0000
+LG              -113275.3778 227828.7556 - 0.0000 1045748.7556 - 0.0000 230608.9716 - 0.0000
+LG+F+I          -113277.5801 227873.1602 - 0.0000 1097753.1602 - 0.0000 230740.3939 - 0.0000
+LG+F            -113335.6665 227987.3330 - 0.0000 1095231.3330 - 0.0000 230850.2158 - 0.0000
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+R6
+
+State frequencies: (model)
+
+Model of rate heterogeneity: FreeRate with 6 categories
+Site proportion and rates:  (0.0484,0.0448) (0.0528,0.1557) (0.1491,0.4214) (0.1781,0.7857) (0.3276,1.1551) (0.2439,1.6743)
+
+ Category  Relative_rate  Proportion
+  1         0.0448         0.0484
+  2         0.1557         0.0528
+  3         0.4214         0.1491
+  4         0.7857         0.1781
+  5         1.1551         0.3276
+  6         1.6743         0.2439
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -107874.7149 (s.e. 3860.3921)
+Unconstrained log-likelihood (without tree): -3639.0575
+Number of free parameters (#branches + #model parameters): 649
+Akaike information criterion (AIC) score: 217047.4299
+Corrected Akaike information criterion (AICc) score: 1060747.4299
+Bayesian information criterion (BIC) score: 219871.1547
+
+**************************** WARNING ****************************
+Number of parameters (K, model parameters and branch lengths): 649
+Sample size (n, alignment length): 573
+
+Given that K>=n, the parameter estimates might be inaccurate.
+Thus, phylogenetic estimates should be interpreted with caution.
+
+Ideally, it is desirable that n >> K. When selecting optimal models,
+1. use AIC or BIC if n > 40K;
+2. use AICc or BIC if 40K >= n > K;
+3. be extremely cautious if n <= K
+
+To improve the situation (3), consider the following options:
+  1. Increase the sample size (n)
+  2. Decrease the number of parameters (K) to be estimated. If
+     possible:
+     a. Remove the least important sequences from the alignment
+     b. Specify some of the parameter values for the substitution
+        model (e.g., the nucleotide or amino acid frequencies)
+     c. Specify some of the parameter values for the rates-across-
+        sites model (e.g., the shape parameter for the discrete
+        Gamma distribution, the proportion of invariable sites, or
+        the rates of change for different rate categories under
+        the FreeRate model)
+
+Reference:
+Burnham KR, Anderson DR (2002). Model Selection and Multimodel
+Inference: A Practical Information-Theoretic Approach. Springer,
+New York.
+************************ END OF WARNING ***********************
+
+Total tree length (sum of branch lengths): 178.5258
+Sum of internal branch lengths: 77.0090 (43.1361% of tree length)
+
+WARNING: 14 near-zero internal branches (<0.0017) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'sp_P94170_CAH_NOSS1' is drawn at root
+Numbers in parentheses are  standard bootstrap support (%)
+
++------------------sp_P94170_CAH_NOSS1
+|
+|                                          +----------------HEX06-EUSP_SPADES.k25.NODE_37007_length_387_cov_4.754144_g28657_i0.p1
+|                                       +--| (14)
+|                                       |  |                +-----SpiCA13_ANJ59773
+|                                       |  |      +---------| (100)
+|                                       |  |      |         +------SpiCA14_ANJ59774
+|                                       |  |   +--| (59)
+|                                       |  |   |  +---------SpiCA12_ANJ59772
+|                                       |  +---| (97)
+|                                       |      +-------SpiCA8_ANJ59768
+|                                    +--| (13)
+|                                    |  |  +-------------SpiCA9_ANJ59769
+|                                    |  +--| (40)
+|                                    |     +-------------SpiCA10_ANJ59770
+|                                 +--| (15)
+|                                 |  |             +------------SpiCA16_ANJ59776
+|                                 |  |       +-----| (70)
+|                                 |  |       |     +-----------------------sp_B8V7P3_CAH_ACRMI
+|                                 |  |  +----| (63)
+|                                 |  |  |    +----------SpiCA2_ACE95141
+|                                 |  +--| (37)
+|                                 |     +--------------------SpiCA15_ANJ59775
+|                              +--| (9)
+|                              |  +----------------------------------SpiCA7_ANJ59767
+|                           +--| (9)
+|                           |  |                     +-----------sp_B3A0P2_CAH1_LOTGI
+|                           |  |      +--------------| (100)
+|                           |  |      |              +-----------------sp_B3A0Q6_CAH2_LOTGI
+|                           |  +------| (70)
+|                           |         |          +---------------sp_P86856_MANL_MYTCA
+|                           |         +----------| (100)
+|                           |                    |             +--sp_Q9NL38_MA66_PINMA
+|                           |                    +-------------| (100)
+|                           |                                  |  +--sp_A0ZSF3_MAM_PINMA
+|                           |                                  +--| (97)
+|                           |                                     |     +**sp_Q27908_MANA_PINFU
+|                           |                                     |  +--| (70)
+|                           |                                     |  |  +--sp_A0ZSF2_MAF_PINFU
+|                           |                                     +**| (63)
+|                           |                                        |  +--sp_A0ZSF7_MAC2_CRANI
+|                           |                                        +--| (64)
+|                           |                                           +--sp_A0ZSF5_MAP2_MIZYE
+|                        +--| (2)
+|                        |  |  +-------------------TADH_g5620.t1__scaffold_5
+|                        |  +--| (20)
+|                        |     |               +----------sp_Q18932_CAH2_CAEEL
+|                        |     |     +---------| (100)
+|                        |     |     |         |            +**CELE_F54D8.4a.1
+|                        |     |     |         +------------| (100)
+|                        |     |     |                      |  +--sp_Q20781_CAH1_CAEEL
+|                        |     |     |                      +**| (57)
+|                        |     |     |                         +**CELE_F54D8.4b.1
+|                        |     +-----| (96)
+|                        |           |  +---------BFLO_BL02807.1
+|                        |           +--| (70)
+|                        |              |  +-----------------Strongylocentrotus_purpuratus_XM_779703_2
+|                        |              +--| (57)
+|                        |                 |            +--sp_A0JN41_CAH10_BOVIN
+|                        |                 |       +----| (100)
+|                        |                 |       |    |  +**sp_Q5R4U0_CAH10_PONAB
+|                        |                 |       |    +**| (97)
+|                        |                 |       |       +**Homo_sapiens_CA10_CCDS32684_1
+|                        |                 +-------| (100)
+|                        |                         |                  +--sp_Q95203_CAH11_SHEEP
+|                        |                         |               +--| (60)
+|                        |                         |               |  +--sp_Q866X7_CAH11_BOVIN
+|                        |                         |            +--| (69)
+|                        |                         |            |  |  +--sp_O70354_CAH11_MOUSE
+|                        |                         |            |  +--| (67)
+|                        |                         |            |     +--sp_Q866X6_CAH11_PIG
+|                        |                         |         +--| (49)
+|                        |                         |         |  +--sp_Q5R665_CAH11_PONAB
+|                        |                         +---------| (100)
+|                        |                                   |  +**sp_O75493_CAH11_HUMAN
+|                        |                                   +**| (91)
+|                        |                                      +**Homo_sapiens_CA11_CCDS12729_1
+|                     +--| (1)
+|                     |  |                +-------Oscarella_m_306267
+|                     |  |  +-------------| (100)
+|                     |  |  |             +--------Oscarella_m_65108
+|                     |  +--| (5)
+|                     |     |                        +-----Leucosolenia_complicata_Lco_CA6_L
+|                     |     |                  +-----| (100)
+|                     |     |                  |     |  +-------Gco_TM_TRINITY_DN34720_c0_g1_i1
+|                     |     |                  |     +--| (96)
+|                     |     |                  |        |  +**SCIL_scict1.003292.1
+|                     |     |                  |        +--| (100)
+|                     |     |                  |           +**Sci_CA9_L
+|                     |     |     +------------| (100)
+|                     |     |     |            |     +---Clw_CA6_c56309_g1_i1
+|                     |     |     |            |  +--| (61)
+|                     |     |     |            |  |  |    +**Por_combi_TRINITY_DN29730_c1_g2_i1
+|                     |     |     |            |  |  +----| (100)
+|                     |     |     |            |  |       +**Por_combi_TRINITY_DN29730_c1_g2_i2
+|                     |     |     |            +--| (97)
+|                     |     |     |               +----Cco_TRINITY_DN34241_c0_g1_i1
+|                     |     |  +--| (15)
+|                     |     |  |  |         +-------------Leucosolenia_complicata_Lco_CA4
+|                     |     |  |  |    +----| (97)
+|                     |     |  |  |    |    +---------------Leucosolenia_complicata_Lco_CA5
+|                     |     |  |  +----| (96)
+|                     |     |  |       |           +---Por_combi_TRINITY_DN34537_c2_g1_i1
+|                     |     |  |       |       +---| (74)
+|                     |     |  |       |       |   |        +**Por_combi_TRINITY_DN33844_c2_g3_i1
+|                     |     |  |       |       |   +--------| (100)
+|                     |     |  |       |       |            +**Por_combi_TRINITY_DN33844_c2_g3_i2
+|                     |     |  |       +-------| (98)
+|                     |     |  |               |  +---------Por_combi_TRINITY_DN20840_c0_g1_i1
+|                     |     |  |               +--| (64)
+|                     |     |  |                  |      +**Clw_CA5a_c63410_g1_i1
+|                     |     |  |                  +------| (100)
+|                     |     |  |                         +**Clw_CA5b_c63410_g1_i2
+|                     |     +--| (35)
+|                     |        |                            +**Clw_CA4a_c71250_g1_i1
+|                     |        |          +-----------------| (100)
+|                     |        |          |                 +**Clw_CA4b_c71250_g1_i2
+|                     |        |       +--| (38)
+|                     |        |       |  |     +-------Clw_CA2_c65033_g1_i1
+|                     |        |       |  |  +--| (68)
+|                     |        |       |  |  |  +----------Cco_TRINITY_DN19708_c0_g2_i1
+|                     |        |       |  +--| (70)
+|                     |        |       |     |         +---------Por_combi_TRINITY_DN30398_c1_g2_i1
+|                     |        |       |     +---------| (100)
+|                     |        |       |               |     +**Por_combi_TRINITY_DN27673_c3_g1_i5
+|                     |        |       |               |  +--| (76)
+|                     |        |       |               |  |  +--Por_combi_TRINITY_DN27673_c3_g1_i4
+|                     |        |       |               +--| (84)
+|                     |        |       |                  |  +**Por_combi_TRINITY_DN27673_c3_g1_i1
+|                     |        |       |                  +--| (71)
+|                     |        |       |                     +--Por_combi_TRINITY_DN27673_c3_g1_i2
+|                     |        |  +----| (99)
+|                     |        |  |    |          +--Por_combi_TRINITY_DN34026_c0_g1_i2
+|                     |        |  |    |    +-----| (100)
+|                     |        |  |    |    |     +--Por_combi_TRINITY_DN34026_c0_g1_i1
+|                     |        |  |    +----| (100)
+|                     |        |  |         |  +-----Cco_TRINITY_DN26519_c6_g1_i1_i4_i5
+|                     |        |  |         +--| (73)
+|                     |        |  |            |     +**Clw_CA3a_c69146_g1_i1
+|                     |        |  |            +-----| (100)
+|                     |        |  |                  +**Clw_CA3b_c69146_g1_i2
+|                     |        +--| (47)
+|                     |           |              +----------Leucosolenia_complicata_Lco_CA2
+|                     |           |           +--| (38)
+|                     |           |           |  +---------------Leucosolenia_complicata_Lco_CA3
+|                     |           |        +--| (35)
+|                     |           |        |  |                   +--SCIL_scict1.011857.1
+|                     |           |        |  |           +-------| (100)
+|                     |           |        |  |           |       +--Sci_CA2
+|                     |           |        |  |  +--------| (100)
+|                     |           |        |  |  |        |   +**Gco_TM_TRINITY_DN28276_c0_g3_i2_g1_i2_i3
+|                     |           |        |  |  |        +---| (100)
+|                     |           |        |  |  |            +--Gco_TM_TRINITY_DN28276_c0_g1_i4
+|                     |           |        |  +--| (45)
+|                     |           |        |     |           +**SCIL_scict1.011854.1
+|                     |           |        |     |  +--------| (100)
+|                     |           |        |     |  |        +--Sci_CA3
+|                     |           |        |     +--| (23)
+|                     |           |        |        |      +--------Gco_TM_TRINITY_DN19387_c0_g1_i1
+|                     |           |        |        +------| (100)
+|                     |           |        |               |  +--Gco_TM_TRINITY_DN31930_c2_g1_i1
+|                     |           |        |               +--| (100)
+|                     |           |        |                  +--Gco_TM_TRINITY_DN31930_c2_g2_i1-i4
+|                     |           +--------| (100)
+|                     |                    |                     +**SCIL_scict1.011831.1
+|                     |                    |     +---------------| (100)
+|                     |                    |     |               +**Sci_CA8
+|                     |                    |  +--| (65)
+|                     |                    |  |  |     +-----Sci_CA4
+|                     |                    |  |  |  +--| (100)
+|                     |                    |  |  |  |  |   +**SCIL_scict1.008561.1
+|                     |                    |  |  |  |  +---| (100)
+|                     |                    |  |  |  |      +**Sci_CA5
+|                     |                    |  |  +--| (78)
+|                     |                    |  |     |  +-------Sci_CA6
+|                     |                    |  |     +--| (100)
+|                     |                    |  |        |  +**SCIL_scict1.008562.1
+|                     |                    |  |        +--| (100)
+|                     |                    |  |           +--Sci_CA7
+|                     |                    +--| (66)
+|                     |                       |                 +**Gco_TM_TRINITY_DN32004_c2_g1_i2
+|                     |                       |              +--| (99)
+|                     |                       |              |  +**Gco_TM_TRINITY_DN32004_c2_g1_i7
+|                     |                       |           +--| (100)
+|                     |                       |           |  |  +--Gco_TM_TRINITY_DN32004_c2_g1_i8
+|                     |                       |           |  +**| (23)
+|                     |                       |           |     +**Gco_TM_TRINITY_DN32004_c2_g1_i10
+|                     |                       +-----------| (100)
+|                     |                                   |  +**Gco_TM_TRINITY_DN30683_c0_g1_i2
+|                     |                                   +--| (83)
+|                     |                                      |     +**Gco_TM_TRINITY_DN30683_c0_g3_i4_10
+|                     |                                      |  +**| (53)
+|                     |                                      |  |  +--Gco_TM_TRINITY_DN30683_c0_g1_i3
+|                     |                                      +--| (53)
+|                     |                                         |  +**Gco_TM_TRINITY_DN30683_c0_g3_i5_8_9_12
+|                     |                                         +**| (59)
+|                     |                                            |  +**Gco_TM_TRINITY_DN30683_c0_g1_i4
+|                     |                                            +--| (70)
+|                     |                                               +**Gco_TM_TRINITY_DN30683_c0_g1_i5
+|                  +--| (0)
+|                  |  |                                   +**AQUE_Aqu2.1.41692_001
+|                  |  |                +------------------| (100)
+|                  |  |                |                  +**Amphimedon_XM_003383369
+|                  |  |            +---| (54)
+|                  |  |            |   +-------------------Suberites_domuncula_DD298191.1
+|                  |  |         +--| (18)
+|                  |  |         |  |          +-------------------EMUE_Em0008g606a
+|                  |  |         |  +----------| (100)
+|                  |  |         |             |            +**EMUE_Em0008g787a
+|                  |  |         |             |     +------| (100)
+|                  |  |         |             |     |      +--Ephydatia_m_68550
+|                  |  |         |             +-----| (99)
+|                  |  |         |                   |   +--EMUE_Em0436g4a
+|                  |  |         |                   +---| (100)
+|                  |  |         |                       +--EMUE_Em0557g4a
+|                  |  |  +------| (95)
+|                  |  |  |      |                       +--AQUE_Aqu2.1.22794_001
+|                  |  |  |      |                   +---| (100)
+|                  |  |  |      |                   |   +**Amphimedon_queenslandica_EF434873
+|                  |  |  |      |     +-------------| (100)
+|                  |  |  |      |     |             |  +-------AQUE_Aqu2.1.22795_001
+|                  |  |  |      |     |             +--| (92)
+|                  |  |  |      |     |                |      +**AQUE_Aqu2.1.22793_001
+|                  |  |  |      |     |                +------| (100)
+|                  |  |  |      |     |                       +**Amphimedon_XM_003388939
+|                  |  |  |      |  +--| (33)
+|                  |  |  |      |  |  |               +**AQUE_Aqu2.1.31900_001
+|                  |  |  |      |  |  +---------------| (100)
+|                  |  |  |      |  |                  +**CA3_Amphimedon_queenslandica_EF434875
+|                  |  |  |      +--| (10)
+|                  |  |  |         |               +--Ephydatia_m_288705
+|                  |  |  |         |  +------------| (100)
+|                  |  |  |         |  |            |     +--EMUE_Em0001g678a
+|                  |  |  |         |  |            +-----| (100)
+|                  |  |  |         |  |                  |  +**EMUE_Em0001g682a
+|                  |  |  |         |  |                  +--| (100)
+|                  |  |  |         |  |                     +**Ephydatia_m_266032
+|                  |  |  |         +--| (37)
+|                  |  |  |            |           +----------EMUE_Em0014g559a
+|                  |  |  |            |   +-------| (97)
+|                  |  |  |            |   |       |           +--EMUE_Em0014g586a
+|                  |  |  |            |   |       +-----------| (100)
+|                  |  |  |            |   |                   +--Ephydatia_m_285462
+|                  |  |  |            +---| (41)
+|                  |  |  |                |               +**EMUE_Em0014g599a
+|                  |  |  |                |  +------------| (100)
+|                  |  |  |                |  |            +--Ephydatia_m_57082
+|                  |  |  |                +--| (66)
+|                  |  |  |                   |       +--Astrosclera_EF434876_Ascl1
+|                  |  |  |                   +-------| (100)
+|                  |  |  |                           |  +--Astrosclera_EF434878_Ascl3
+|                  |  |  |                           +--| (70)
+|                  |  |  |                              +--Astrosclera_EF434877_Ascl2
+|                  |  +--| (21)
+|                  |     |                    +--------------------O_minuta_LOD99_964.mRNA.1
+|                  |     |   +----------------| (100)
+|                  |     |   |                |              +------HEX06-EUSP_SPADES.k25.NODE_18962_length_832_cov_15.434944_g12666_i0.p1
+|                  |     |   |                |           +--| (47)
+|                  |     |   |                |           |  +------HEX07-FOCC_SPADES.k25.NODE_11079_length_1142_cov_12.306177_g7795_i0.p1
+|                  |     |   |                +-----------| (94)
+|                  |     |   |                            +--Avas.s001.g1473.i1
+|                  |     +---| (76)
+|                  |         |                 +-----O_minuta_LOD99_966.mRNA.1
+|                  |         |   +-------------| (100)
+|                  |         |   |             |    +--HEX06-EUSP_SPADES.k33.NODE_875_length_3708_cov_64.309388_g606_i0.p1
+|                  |         |   |             +----| (100)
+|                  |         |   |                  |  +--HEX07-FOCC_TransABySS.k33.J320628.p1
+|                  |         |   |                  +--| (99)
+|                  |         |   |                     |     +**Aphrocallistes_vastus_comp9306_c0_seq2
+|                  |         |   |                     |  +**| (100)
+|                  |         |   |                     |  |  +**Aphrocallistes_vastus_comp9683_c0_seq1
+|                  |         |   |                     +--| (99)
+|                  |         |   |                        |  +--Avas.s001.g1475.i1
+|                  |         |   |                        +--| (99)
+|                  |         |   |                           +**Aphrocallistes_vastus_comp9306_c0_seq1
+|                  |         +---| (88)
+|                  |             |         +--------O_minuta_LOD99_7559.mRNA.1
+|                  |             |   +-----| (100)
+|                  |             |   |     |  +----HEX06-EUSP_SPADES.k33.NODE_716_length_3935_cov_62.104818_g496_i0.p2
+|                  |             |   |     +--| (97)
+|                  |             |   |        |  +---HEX07-FOCC_SPADES.k33.NODE_9398_length_1175_cov_33.884413_g6837_i0.p1
+|                  |             |   |        +--| (99)
+|                  |             |   |           |   +--Avas.s001.g1477.i1
+|                  |             |   |           +---| (100)
+|                  |             |   |               +**Aphrocallistes_vastus_comp22564_c0_seq2
+|                  |             +---| (86)
+|                  |                 |           +--O_minuta_LOD99_7560.mRNA.1
+|                  |                 |      +----| (100)
+|                  |                 |      |    +--O_minuta_LOD99_7562.mRNA.1
+|                  |                 +------| (100)
+|                  |                        |   +------HEX07-FOCC_TRINITY_DN10486_c0_g1_i2.p1
+|                  |                        +---| (98)
+|                  |                            |     +--HEX07-FOCC_TransABySS.k25.S476923.p1
+|                  |                            |  +--| (52)
+|                  |                            |  |  |            +--Avas.s001.g1481.i1
+|                  |                            |  |  |         +--| (63)
+|                  |                            |  |  |         |  +--Aphrocallistes_vastus_comp21870_c0_seq1
+|                  |                            |  |  |      +--| (64)
+|                  |                            |  |  |      |  |     +**Aphrocallistes_vastus_comp22564_c0_seq2_1
+|                  |                            |  |  |      |  |  +**| (46)
+|                  |                            |  |  |      |  |  |  +**Aphrocallistes_vastus_comp22564_c0_seq1
+|                  |                            |  |  |      |  +**| (94)
+|                  |                            |  |  |      |     +**Aphrocallistes_vastus_comp22564_c0_seq3
+|                  |                            |  |  +------| (100)
+|                  |                            |  |         +--Avas.s001.g1480.i1
+|                  |                            +--| (65)
+|                  |                               +----HEX06-EUSP_TransABySS.k37.R134804.p1
+|               +--| (0)
+|               |  |         +-------------------sp_Q10462_CAH5_CAEEL
+|               |  |  +------| (63)
+|               |  |  |      +------------------sp_Q27504_CAH3_CAEEL
+|               |  +--| (4)
+|               |     |                    +--HEX07-FOCC_SPADES.k25.NODE_9577_length_1263_cov_67.324717_g6713_i0.p1
+|               |     |  +-----------------| (100)
+|               |     |  |                 +--HEX06-EUSP_SPADES.k25.NODE_13830_length_1096_cov_72.931839_g4815_i2.p1
+|               |     +--| (10)
+|               |        |           +-------------------HEX07-FOCC_SPADES.k25.NODE_37738_length_332_cov_2.947883_g31191_i0.p1
+|               |        |        +--| (24)
+|               |        |        |  +------------------sp_Q99N23_CAH15_MOUSE
+|               |        |     +--| (20)
+|               |        |     |  |                   +--sp_P48284_CAH4_RAT
+|               |        |     |  |                +--| (100)
+|               |        |     |  |                |  +---sp_Q64444_CAH4_MOUSE
+|               |        |     |  +----------------| (100)
+|               |        |     |                   |  +---sp_P48283_CAH4_RABIT
+|               |        |     |                   +--| (86)
+|               |        |     |                      |  +----sp_Q95323_CAH4_BOVIN
+|               |        |     |                      +--| (95)
+|               |        |     |                         |  +**sp_P22748_CAH4_HUMAN
+|               |        |     |                         +--| (100)
+|               |        |     |                            +**Homo_sapiens_CA4_CCDS11624_1
+|               |        |  +--| (18)
+|               |        |  |  |               +---------sp_P18761_CAH6_MOUSE
+|               |        |  |  |  +------------| (100)
+|               |        |  |  |  |            |     +--sp_P18915_CAH6_BOVIN
+|               |        |  |  |  |            |  +--| (90)
+|               |        |  |  |  |            |  |  +--sp_P08060_CAH6_SHEEP
+|               |        |  |  |  |            +--| (86)
+|               |        |  |  |  |               |  +--sp_Q865C0_CAH6_CANLF
+|               |        |  |  |  |               +--| (81)
+|               |        |  |  |  |                  |  +**sp_P23280_CAH6_HUMAN
+|               |        |  |  |  |                  +--| (100)
+|               |        |  |  |  |                     +**Homo_sapiens_CA6_CCDS30578_1
+|               |        |  |  +--| (54)
+|               |        |  |     |                 +--sp_Q9MZ30_CAH12_RABIT
+|               |        |  |     |     +-----------| (100)
+|               |        |  |     |     |           |  +--sp_Q8CI85_CAH12_MOUSE
+|               |        |  |     |     |           +--| (80)
+|               |        |  |     |     |              |  +**sp_O43570_CAH12_HUMAN
+|               |        |  |     |     |              +--| (100)
+|               |        |  |     |     |                 +**Homo_sapiens_CA12_CCDS10185_1
+|               |        |  |     |  +--| (72)
+|               |        |  |     |  |  |         +--sp_Q9WVT6_CAH14_MOUSE
+|               |        |  |     |  |  +---------| (97)
+|               |        |  |     |  |            |  +**sp_Q9ULX7_CAH14_HUMAN
+|               |        |  |     |  |            +--| (100)
+|               |        |  |     |  |               +**Homo_sapiens_CA14_CCDS947_1
+|               |        |  |     +--| (52)
+|               |        |  |        |                +--sp_Q8VHB5_CAH9_MOUSE
+|               |        |  |        +----------------| (100)
+|               |        |  |                         |  +**sp_Q16790_CAH9_HUMAN
+|               |        |  |                         +--| (100)
+|               |        |  |                            +**Homo_sapiens_CA9_CCDS6585_1
+|               |        +--| (6)
+|               |           |        +---------------BFLO_BL19134.1
+|               |           |     +--| (46)
+|               |           |     |  |  +--------------BFLO_BL21076.1
+|               |           |     |  +--| (64)
+|               |           |     |     |  +--------BFLO_BL04770.1
+|               |           |     |     +--| (85)
+|               |           |     |        +------BFLO_BL04771.1
+|               |           |  +--| (0)
+|               |           |  |  |     +-------------------HEX06-EUSP_SPADES.k25.NODE_16903_length_924_cov_34.490545_g11138_i0.p1
+|               |           |  |  |  +--| (41)
+|               |           |  |  |  |  |  +------------SpiCA6_ANJ59766
+|               |           |  |  |  |  +--| (86)
+|               |           |  |  |  |     |   +-------SpiCA4_ANJ59764
+|               |           |  |  |  |     +---| (91)
+|               |           |  |  |  |         +--------SpiCA5_ANJ59765
+|               |           |  |  +--| (8)
+|               |           |  |     |  +-----------------Strongylocentrotus_purpuratus_XM_779235_2
+|               |           |  |     +--| (22)
+|               |           |  |        |         +----Strongylocentrotus_purpuratus_XM_791432_2
+|               |           |  |        +---------| (100)
+|               |           |  |                  |  +--Strongylocentrotus_purpuratus_XM_789120_1
+|               |           |  |                  +--| (84)
+|               |           |  |                     |  +--Strongylocentrotus_purpuratus_XM_001199034_1
+|               |           |  |                     +--| (98)
+|               |           |  |                        +--Strongylocentrotus_purpuratus_XM_785609_2
+|               |           +--| (3)
+|               |              +----------------Strongylocentrotus_purpuratus_XM_776389_2
+|            +--| (1)
+|            |  |                                  +**sp_Q6RZI9_CAHH_RABPU
+|            |  |        +-------------------------| (100)
+|            |  |        |                         |  +--sp_Q8V4Y0_CAHH_MONPZ
+|            |  |        |                         +--| (41)
+|            |  |        |                            |  +--sp_P20508_CAHH_VACCC
+|            |  |        |                            +--| (60)
+|            |  |        |                               |  +--sp_P33065_CAHH_VAR67
+|            |  |        |                               +--| (69)
+|            |  |        |                                  |  +--sp_O57211_CAHH_VACCA
+|            |  |        |                                  +--| (57)
+|            |  |        |                                     |  +--sp_Q9JFA1_CAHH_VACCT
+|            |  |        |                                     +--| (71)
+|            |  |        |                                        +--sp_P04195_CAHH_VACCW
+|            |  |     +--| (7)
+|            |  |     |  |                     +--Oscarella_m_36524
+|            |  |     |  |     +---------------| (100)
+|            |  |     |  |     |               +----Oscarella_m_36523
+|            |  |     |  |  +--| (3)
+|            |  |     |  |  |  |                  +--Leucosolenia_complicata_Lco_CA1
+|            |  |     |  |  |  |               +--| (65)
+|            |  |     |  |  |  |               |  |  +---SCIL_scict1.004850.1
+|            |  |     |  |  |  |               |  +--| (100)
+|            |  |     |  |  |  |               |     +**Sci_CA1
+|            |  |     |  |  |  |           +---| (93)
+|            |  |     |  |  |  |           |   +---Gco_TM_TRINITY_DN19402_c0_g1_g2_i1
+|            |  |     |  |  |  |  +--------| (100)
+|            |  |     |  |  |  |  |        |     +---Clw_CA1_c74180_g1_i1
+|            |  |     |  |  |  |  |        |  +--| (52)
+|            |  |     |  |  |  |  |        |  |  |        +**Cco_TRINITY_DN21888_c0_g1_i1
+|            |  |     |  |  |  |  |        |  |  |     +**| (99)
+|            |  |     |  |  |  |  |        |  |  |     |  +**Cco_TRINITY_DN21888_c0_g2_i2_i4
+|            |  |     |  |  |  |  |        |  |  +-----| (100)
+|            |  |     |  |  |  |  |        |  |        +--Cco_TRINITY_DN21888_c0_g2_i3
+|            |  |     |  |  |  |  |        +--| (95)
+|            |  |     |  |  |  |  |           +---Por_combi_TRINITY_DN32622_c0_g1_i2
+|            |  |     |  |  |  +--| (9)
+|            |  |     |  |  |     |              +---TADH_g237.t1__scaffold_1
+|            |  |     |  |  |     |       +------| (100)
+|            |  |     |  |  |     |       |      +--HHON_braker1_g08147.t1
+|            |  |     |  |  |     |  +----| (92)
+|            |  |     |  |  |     |  |    |   +----HHON_braker1_g04320.t1
+|            |  |     |  |  |     |  |    +---| (99)
+|            |  |     |  |  |     |  |        +-----TADH_g5193.t1__scaffold_5
+|            |  |     |  |  |     +--| (40)
+|            |  |     |  |  |        |                +--TADH_g4582.t1__scaffold_4
+|            |  |     |  |  |        |   +------------| (100)
+|            |  |     |  |  |        |   |            +---HHON_braker1_g00977.t1
+|            |  |     |  |  |        +---| (81)
+|            |  |     |  |  |            |         +--------Strongylocentrotus_purpuratus_XM_790272_2
+|            |  |     |  |  |            |      +--| (65)
+|            |  |     |  |  |            |      |  |          +**sp_P35219_CAH8_HUMAN
+|            |  |     |  |  |            |      |  |       +**| (86)
+|            |  |     |  |  |            |      |  |       |  +**Homo_sapiens_CA8_CCDS6174_1
+|            |  |     |  |  |            |      |  +-------| (100)
+|            |  |     |  |  |            |      |          |  +--sp_Q5PPN4_CAH8_RAT
+|            |  |     |  |  |            |      |          +--| (73)
+|            |  |     |  |  |            |      |             +--sp_P28651_CAH8_MOUSE
+|            |  |     |  |  |            +------| (98)
+|            |  |     |  |  |                   +-----BFLO_BL05188.1
+|            |  |     |  +--| (6)
+|            |  |     |     |                                         +**CELE_R01E6.3b.1
+|            |  |     |     |                +------------------------| (100)
+|            |  |     |     |                |                        +**CELE_R01E6.3a.1
+|            |  |     |     |           +----| (37)
+|            |  |     |     |           |    +---------------BFLO_BL05330.1
+|            |  |     |     |        +--| (6)
+|            |  |     |     |        |  +-------------Strongylocentrotus_purpuratus_XM_777904_2
+|            |  |     |     |     +--| (13)
+|            |  |     |     |     |  |      +--------BFLO_BL05331.1
+|            |  |     |     |     |  +------| (99)
+|            |  |     |     |     |         |  +--BFLO_BL05332.1
+|            |  |     |     |     |         +--| (96)
+|            |  |     |     |     |            +--BFLO_BL05333.1
+|            |  |     |     |  +--| (0)
+|            |  |     |     |  |  |     +------------SpiCA3_ANJ59763
+|            |  |     |     |  |  |  +--| (45)
+|            |  |     |     |  |  |  |  |             +**HEX07-FOCC_SOAP.k25.C647023.p1
+|            |  |     |     |  |  |  |  +-------------| (100)
+|            |  |     |     |  |  |  |                +--HEX06-EUSP_TransABySS.k25.S56595.p1
+|            |  |     |     |  |  +--| (13)
+|            |  |     |     |  |     +----------------------SpiCA11_ANJ59771
+|            |  |     |     +--| (0)
+|            |  |     |        |            +--sp_Q9ERQ8_CAH7_MOUSE
+|            |  |     |        |   +--------| (100)
+|            |  |     |        |   |        |  +**sp_P43166_CAH7_HUMAN
+|            |  |     |        |   |        +**| (99)
+|            |  |     |        |   |           +**Homo_sapiens_CA7_CCDS10821_1
+|            |  |     |        +---| (70)
+|            |  |     |            |                      +**sp_Q9Y2D0_CAH5B_HUMAN
+|            |  |     |            |                   +--| (100)
+|            |  |     |            |                   |  +**Homo_sapiens_CA5B_CCDS14171_1
+|            |  |     |            |             +-----| (97)
+|            |  |     |            |             |     |  +--sp_Q9QZA0_CAH5B_MOUSE
+|            |  |     |            |             |     +--| (88)
+|            |  |     |            |             |        +--sp_Q66HG6_CAH5B_RAT
+|            |  |     |            |  +----------| (100)
+|            |  |     |            |  |          |      +**sp_P35218_CAH5A_HUMAN
+|            |  |     |            |  |          |   +--| (100)
+|            |  |     |            |  |          |   |  +**Homo_sapiens_CA5A_CCDS10965_1
+|            |  |     |            |  |          +---| (94)
+|            |  |     |            |  |              |   +--sp_P23589_CAH5A_MOUSE
+|            |  |     |            |  |              +---| (99)
+|            |  |     |            |  |                  +--sp_P43165_CAH5A_RAT
+|            |  |     |            +--| (22)
+|            |  |     |               |     +--sp_Q8UWA5_CAH2_TRIHK
+|            |  |     |               |  +--| (94)
+|            |  |     |               |  |  |  +--sp_P83299_CAH1_CHIHA
+|            |  |     |               |  |  +--| (71)
+|            |  |     |               |  |     +--sp_Q92051_CAHZ_DANRE
+|            |  |     |               +--| (79)
+|            |  |     |                  |           +--sp_P00921_CAH2_BOVIN
+|            |  |     |                  |        +--| (100)
+|            |  |     |                  |        |  +--sp_P00922_CAH2_SHEEP
+|            |  |     |                  |     +--| (93)
+|            |  |     |                  |     |  |     +**sp_P00918_CAH2_HUMAN
+|            |  |     |                  |     |  |  +--| (100)
+|            |  |     |                  |     |  |  |  +**Homo_sapiens_CA2_CCDS6239_1
+|            |  |     |                  |     |  +--| (71)
+|            |  |     |                  |     |     |  +--sp_P00919_CAH2_RABIT
+|            |  |     |                  |     |     +--| (37)
+|            |  |     |                  |     |        |  +--sp_P00920_CAH2_MOUSE
+|            |  |     |                  |     |        +--| (100)
+|            |  |     |                  |     |           +--sp_P27139_CAH2_RAT
+|            |  |     |                  |  +--| (61)
+|            |  |     |                  |  |  +----sp_P07630_CAH2_CHICK
+|            |  |     |                  +--| (60)
+|            |  |     |                     |             +--sp_P07450_CAH3_HORSE
+|            |  |     |                     |          +--| (63)
+|            |  |     |                     |          |  |  +--sp_Q5S1S4_CAH3_PIG
+|            |  |     |                     |          |  +--| (84)
+|            |  |     |                     |          |     +--sp_Q3SZX4_CAH3_BOVIN
+|            |  |     |                     |  +-------| (100)
+|            |  |     |                     |  |       |  +--sp_P16015_CAH3_MOUSE
+|            |  |     |                     |  |       +--| (57)
+|            |  |     |                     |  |          |  +--sp_P14141_CAH3_RAT
+|            |  |     |                     |  |          +--| (50)
+|            |  |     |                     |  |             |  +**sp_P07451_CAH3_HUMAN
+|            |  |     |                     |  |             +--| (100)
+|            |  |     |                     |  |                +**Homo_sapiens_CA3_CCDS6238_1
+|            |  |     |                     +--| (35)
+|            |  |     |                        |       +--sp_Q9D6N1_CAH13_MOUSE
+|            |  |     |                        |  +----| (100)
+|            |  |     |                        |  |    |  +**sp_Q8N1Q1_CAH13_HUMAN
+|            |  |     |                        |  |    +--| (100)
+|            |  |     |                        |  |       +**Homo_sapiens_CA13_CCDS6236_1
+|            |  |     |                        +--| (50)
+|            |  |     |                           |  +--sp_Q8HY33_CAH1_MONDO
+|            |  |     |                           +--| (98)
+|            |  |     |                              |           +--sp_P48282_CAH1_SHEEP
+|            |  |     |                              |        +--| (98)
+|            |  |     |                              |        |  +--sp_Q1LZA1_CAH1_BOVIN
+|            |  |     |                              |     +--| (30)
+|            |  |     |                              |     |  |  +--sp_P00917_CAH1_HORSE
+|            |  |     |                              |     |  +--| (52)
+|            |  |     |                              |     |     |     +--sp_P35217_CAH1_MACNE
+|            |  |     |                              |     |     |  +--| (100)
+|            |  |     |                              |     |     |  |  +--sp_P00916_CAH1_MACMU
+|            |  |     |                              |     |     +--| (98)
+|            |  |     |                              |     |        |     +--sp_Q7M317_CAH1_PANTR
+|            |  |     |                              |     |        |  +**| (62)
+|            |  |     |                              |     |        |  |  |  +**sp_P00915_CAH1_HUMAN
+|            |  |     |                              |     |        |  |  +--| (89)
+|            |  |     |                              |     |        |  |     +**Homo_sapiens_CA1_CCDS6237_1
+|            |  |     |                              |     |        +--| (53)
+|            |  |     |                              |     |           +--sp_Q7M316_CAH1_GORGO
+|            |  |     |                              |  +--| (37)
+|            |  |     |                              |  |  +--sp_P07452_CAH1_RABIT
+|            |  |     |                              +--| (90)
+|            |  |     |                                 |  +--sp_B0BNN3_CAH1_RAT
+|            |  |     |                                 +--| (100)
+|            |  |     |                                    +--sp_P13634_CAH1_MOUSE
+|            |  |  +--| (2)
+|            |  |  |  |          +-------Oscarella_m_39771
+|            |  |  |  +----------| (98)
+|            |  |  |             |         +**Oscarella_m_15344
+|            |  |  |             +---------| (100)
+|            |  |  |                       +--Oscarella_m_15341
+|            |  +--| (0)
+|            |     |  +-----------------------SpiCA1_ANJ59762
+|            |     +--| (16)
+|            |        |          +-------HHON_braker1_g05262.t1
+|            |        |  +-------| (100)
+|            |        |  |       +---------TADH_g395.t1__scaffold_1
+|            |        +--| (59)
+|            |           |            +----HHON_braker1_g05254.t1
+|            |           |     +------| (100)
+|            |           |     |      +------TADH_g392.t1__scaffold_1
+|            |           +-----| (99)
+|            |                 |        +------TADH_g394.t1__scaffold_1
+|            |                 |     +--| (99)
+|            |                 |     |  +--------HHON_braker1_g05255.t1
+|            |                 +-----| (98)
+|            |                       |          +--HHON_braker1_g05256.t1
+|            |                       |  +-------| (100)
+|            |                       |  |       +--HHON_braker1_g05257.t1
+|            |                       +--| (80)
+|            |                          |  +---HHON_braker1_g05258.t1
+|            |                          +--| (92)
+|            |                             +--------HHON_braker1_g05260.t1
+|         +--| (18)
+|         |  |   +-----------------------------CELE_T28F2.3.1
+|         |  +---| (8)
+|         |      +---------------------------Mnemiopsis_leidyi_ML044613a
+|      +--| (30)
+|      |  |      +------------------------------Mnemiopsis_leidyi_ML01591a
+|      |  +------| (60)
+|      |         |   +-------------------Mnemiopsis_leidyi_ML009152a
+|      |         +---| (61)
+|      |             |  +-----------------------Mnemiopsis_leidyi_ML36932a
+|      |             +--| (83)
+|      |                +-------------Mnemiopsis_leidyi_ML01323a
+|   +--| (5)
+|   |  |                      +--sp_P24258_CAH2_CHLRE
+|   |  +----------------------| (100)
+|   |                         |  +**sp_P20507_CAH1_CHLRE
+|   |                         +--| (100)
+|   |                            +**Chlamydomonas_reinhardtii_P20507
++---| (58)
+|   |           +--------------sp_O04846_ATCA1_ARATH
+|   |   +-------| (100)
+|   |   |       |        +-------------sp_Q9FYE3_ATCA3_ARATH
+|   |   |       |     +--| (39)
+|   |   |       |     |  |      +--sp_F4JIK2_ATCA4_ARATH
+|   |   |       |     |  +------| (100)
+|   |   |       |     |         +----sp_Q9SUB4_ATCA6_ARATH
+|   |   |       +-----| (81)
+|   |   |             |  +-----------sp_Q84UV8_NEC3_NICLS
+|   |   |             +--| (78)
+|   |   |                |       +---sp_F4HUC4_ATCA5_ARATH
+|   |   |                |  +----| (100)
+|   |   |                |  |    +---sp_Q9FM99_ATCA8_ARATH
+|   |   |                +--| (93)
+|   |   |                   |  +---sp_Q8L817_ATCA7_ARATH
+|   |   |                   +--| (99)
+|   |   |                      +----sp_F4IHR4_ATCA2_ARATH
+|   +---| (19)
+|       +---------------------------sp_P54212_CAH_DUNSA
+|
+|                  +**sp_O52535_CAH_KLEPN
+|      +-----------| (100)
+|      |           +**EB_Klebsiella_pneumoniae_O52535
+|   +--| (64)
+|   |  |         +**sp_O52538_CAH_PECCA
+|   |  +---------| (100)
+|   |            |  +**sp_Q6DAJ6_CAH_PECAS
+|   |            +--| (100)
+|   |               +**EB_Pectobacterium_atrosepticum_Q6DAJ6
++---| (91)
+    +--------------sp_Q50940_CAH_NEIGO
+
+Tree in newick format:
+
+(sp_P94170_CAH_NOSS1:1.1829806967,((((((((((((((HEX06-EUSP_SPADES.k25.NODE_37007_length_387_cov_4.754144_g28657_i0.p1:1.0666365186,(((SpiCA13_ANJ59773:0.3640247870,SpiCA14_ANJ59774:0.4573511876)100:0.6599689621,SpiCA12_ANJ59772:0.6382556055)59:0.0894754026,SpiCA8_ANJ59768:0.4979033685)97:0.2860514365)14:0.1820384254,(SpiCA9_ANJ59769:0.8982215293,SpiCA10_ANJ59770:0.8829272403)40:0.0890783666)13:0.1029537542,(((SpiCA16_ANJ59776:0.8009202859,sp_B8V7P3_CAH_ACRMI:1.4700417808)70:0.3623964155,SpiCA2_ACE95141:0.6810061936)63:0.3038669703,SpiCA15_ANJ59775:1.2980213862)37:0.1224390406)15:0.1582207894,SpiCA7_ANJ59767:2.1532176304)9:0.0844209113,((sp_B3A0P2_CAH1_LOTGI:0.7629866104,sp_B3A0Q6_CAH2_LOTGI:1.0880505565)100:0.9608214175,(sp_P86856_MANL_MYTCA:0.9880422923,(sp_Q9NL38_MA66_PINMA:0.2034141202,(sp_A0ZSF3_MAM_PINMA:0.0121439276,((sp_Q27908_MANA_PINFU:0.0000023601,sp_A0ZSF2_MAF_PINFU:0.0162181649)70:0.0040683532,(sp_A0ZSF7_MAC2_CRANI:0.0040294772,sp_A0ZSF5_MAP2_MIZYE:0.0081318593)64:0.0040478496)63:0.0000029271)97:0.2121641804)100:0.8747681333)100:0.6996367352)70:0.4336806532)9:0.1033327563,(TADH_g5620.t1__scaffold_5:1.2083136171,((sp_Q18932_CAH2_CAEEL:0.7006389338,(CELE_F54D8.4a.1:0.0000028064,(sp_Q20781_CAH1_CAEEL:0.0209412954,CELE_F54D8.4b.1:0.0000028899)57:0.0000023842)100:0.8057355090)100:0.6385367144,(BFLO_BL02807.1:0.6208567020,(Strongylocentrotus_purpuratus_XM_779703_2:1.0856185642,((sp_A0JN41_CAH10_BOVIN:0.0069340806,(sp_Q5R4U0_CAH10_PONAB:0.0000028899,Homo_sapiens_CA10_CCDS32684_1:0.0000010685)97:0.0000022698)100:0.3288901547,((((sp_Q95203_CAH11_SHEEP:0.0194902785,sp_Q866X7_CAH11_BOVIN:0.0038660443)60:0.0038458354,(sp_O70354_CAH11_MOUSE:0.0195169824,sp_Q866X6_CAH11_PIG:0.0155920373)67:0.0038445406)69:0.0154988804,sp_Q5R665_CAH11_PONAB:0.0038369656)49:0.0038174320,(sp_O75493_CAH11_HUMAN:0.0000010685,Homo_sapiens_CA11_CCDS12729_1:0.0000010685)91:0.0000028959)100:0.6310319186)100:0.5326376695)57:0.1553356814)70:0.1794393896)96:0.3676816958)20:0.1515311206)2:0.1166030286,((Oscarella_m_306267:0.5039956353,Oscarella_m_65108:0.5851461029)100:0.8644871810,((((Leucosolenia_complicata_Lco_CA6_L:0.3675771153,(Gco_TM_TRINITY_DN34720_c0_g1_i1:0.5021269229,(SCIL_scict1.003292.1:0.0000010685,Sci_CA9_L:0.0000010685)100:0.2227821476)96:0.1348430695)100:0.4143435913,((Clw_CA6_c56309_g1_i1:0.2776137544,(Por_combi_TRINITY_DN29730_c1_g2_i1:0.0000028915,Por_combi_TRINITY_DN29730_c1_g2_i2:0.0000028899)100:0.3602325879)61:0.1125200426,Cco_TRINITY_DN34241_c0_g1_i1:0.3023831600)97:0.2302375846)100:0.7890058729,((Leucosolenia_complicata_Lco_CA4:0.8797620870,Leucosolenia_complicata_Lco_CA5:1.0237893639)97:0.3331173817,((Por_combi_TRINITY_DN34537_c2_g1_i1:0.2764590806,(Por_combi_TRINITY_DN33844_c2_g3_i1:0.0000022144,Por_combi_TRINITY_DN33844_c2_g3_i2:0.0000028899)100:0.5479590969)74:0.2739866156,(Por_combi_TRINITY_DN20840_c0_g1_i1:0.6563315586,(Clw_CA5a_c63410_g1_i1:0.0000010685,Clw_CA5b_c63410_g1_i2:0.0000010685)100:0.4358896305)64:0.1698922856)98:0.5017514834)96:0.3170201924)15:0.0915815979,((((Clw_CA4a_c71250_g1_i1:0.0000010685,Clw_CA4b_c71250_g1_i2:0.0000010685)100:1.0925664412,((Clw_CA2_c65033_g1_i1:0.4910851086,Cco_TRINITY_DN19708_c0_g2_i1:0.6734121797)68:0.1424294845,(Por_combi_TRINITY_DN30398_c1_g2_i1:0.6340293866,((Por_combi_TRINITY_DN27673_c3_g1_i5:0.0000026358,Por_combi_TRINITY_DN27673_c3_g1_i4:0.0271094267)76:0.0184817459,(Por_combi_TRINITY_DN27673_c3_g1_i1:0.0000026901,Por_combi_TRINITY_DN27673_c3_g1_i2:0.0277195187)71:0.0141109356)84:0.2241328450)100:0.6343200434)70:0.1021532508)38:0.0331516334,((Por_combi_TRINITY_DN34026_c0_g1_i2:0.0017522317,Por_combi_TRINITY_DN34026_c0_g1_i1:0.0083465748)100:0.4092841561,(Cco_TRINITY_DN26519_c6_g1_i1_i4_i5:0.3901670410,(Clw_CA3a_c69146_g1_i1:0.0000010685,Clw_CA3b_c69146_g1_i2:0.0000010685)100:0.3632209693)73:0.1204543128)100:0.3402743954)99:0.3370255148,(((Leucosolenia_complicata_Lco_CA2:0.6645625391,Leucosolenia_complicata_Lco_CA3:0.9706280071)38:0.1049212534,(((SCIL_scict1.011857.1:0.0207305633,Sci_CA2:0.0209436177)100:0.5190313402,(Gco_TM_TRINITY_DN28276_c0_g3_i2_g1_i2_i3:0.0000029062,Gco_TM_TRINITY_DN28276_c0_g1_i4:0.0132110234)100:0.2578343789)100:0.5537133980,((SCIL_scict1.011854.1:0.0000029805,Sci_CA3:0.0070868286)100:0.5623792443,(Gco_TM_TRINITY_DN19387_c0_g1_i1:0.5437957441,(Gco_TM_TRINITY_DN31930_c2_g1_i1:0.0044196240,Gco_TM_TRINITY_DN31930_c2_g2_i1-i4:0.0128245488)100:0.1983993806)100:0.4322371148)23:0.0580845032)45:0.1152635308)35:0.0908689103,(((SCIL_scict1.011831.1:0.0000010685,Sci_CA8:0.0000010685)100:1.0071874660,((Sci_CA4:0.4018460949,(SCIL_scict1.008561.1:0.0000010685,Sci_CA5:0.0000020319)100:0.2997628267)100:0.2280595373,(Sci_CA6:0.5386747029,(SCIL_scict1.008562.1:0.0000021203,Sci_CA7:0.0041635626)100:0.2163322982)100:0.1988352524)78:0.1616688229)65:0.1255156041,(((Gco_TM_TRINITY_DN32004_c2_g1_i2:0.0000026861,Gco_TM_TRINITY_DN32004_c2_g1_i7:0.0000029881)99:0.1184921825,(Gco_TM_TRINITY_DN32004_c2_g1_i8:0.0367028253,Gco_TM_TRINITY_DN32004_c2_g1_i10:0.0000027179)23:0.0001581477)100:0.2392414606,(Gco_TM_TRINITY_DN30683_c0_g1_i2:0.0000026403,((Gco_TM_TRINITY_DN30683_c0_g3_i4_10:0.0000024128,Gco_TM_TRINITY_DN30683_c0_g1_i3:0.0043172015)53:0.0000026852,(Gco_TM_TRINITY_DN30683_c0_g3_i5_8_9_12:0.0000023889,(Gco_TM_TRINITY_DN30683_c0_g1_i4:0.0000024034,Gco_TM_TRINITY_DN30683_c0_g1_i5:0.0000021517)70:0.0107771131)59:0.0000024081)53:0.0130220798)83:0.1446535778)100:0.7304516106)66:0.1493444354)100:0.5818656375)47:0.1409135440)35:0.1621791419)5:0.0428942185)1:0.0575574728,(((((AQUE_Aqu2.1.41692_001:0.0000010685,Amphimedon_XM_003383369:0.0000010685)100:1.2023592597,Suberites_domuncula_DD298191.1:1.2243291376)54:0.2798755648,(EMUE_Em0008g606a:1.2202705837,((EMUE_Em0008g787a:0.0000024516,Ephydatia_m_68550:0.0082838907)100:0.4767735265,(EMUE_Em0436g4a:0.1094125677,EMUE_Em0557g4a:0.1256268683)100:0.2997931191)99:0.3724032065)100:0.6761189811)18:0.1531143033,((((AQUE_Aqu2.1.22794_001:0.0045567370,Amphimedon_queenslandica_EF434873:0.0000021132)100:0.2642835284,(AQUE_Aqu2.1.22795_001:0.5013791615,(AQUE_Aqu2.1.22793_001:0.0000028167,Amphimedon_XM_003388939:0.0000027021)100:0.4348110440)92:0.2248655304)100:0.8912210641,(AQUE_Aqu2.1.31900_001:0.0000024719,CA3_Amphimedon_queenslandica_EF434875:0.0000028899)100:0.9692733938)33:0.1411559147,((Ephydatia_m_288705:0.1614980032,(EMUE_Em0001g678a:0.0190158155,(EMUE_Em0001g682a:0.0000027062,Ephydatia_m_266032:0.0000028899)100:0.0116985116)100:0.3897103393)100:0.8054621069,((EMUE_Em0014g559a:0.7213349270,(EMUE_Em0014g586a:0.0058310594,Ephydatia_m_285462:0.0186347326)100:0.7416601481)97:0.5057914286,((EMUE_Em0014g599a:0.0000030229,Ephydatia_m_57082:0.0044516962)100:0.8058571163,(Astrosclera_EF434876_Ascl1:0.1944863802,(Astrosclera_EF434878_Ascl3:0.0106863720,Astrosclera_EF434877_Ascl2:0.0486137564)70:0.0236990584)100:0.5143649421)66:0.1996803925)41:0.2458142108)37:0.1572824820)10:0.1009479019)95:0.4761679920,((O_minuta_LOD99_964.mRNA.1:1.2739332433,((HEX06-EUSP_SPADES.k25.NODE_18962_length_832_cov_15.434944_g12666_i0.p1:0.4452884161,HEX07-FOCC_SPADES.k25.NODE_11079_length_1142_cov_12.306177_g7795_i0.p1:0.4555663656)47:0.0757669949,Avas.s001.g1473.i1:0.2172147456)94:0.7263514042)100:1.0545064937,((O_minuta_LOD99_966.mRNA.1:0.3773629012,(HEX06-EUSP_SPADES.k33.NODE_875_length_3708_cov_64.309388_g606_i0.p1:0.1768964173,(HEX07-FOCC_TransABySS.k33.J320628.p1:0.1132340800,((Aphrocallistes_vastus_comp9306_c0_seq2:0.0000010685,Aphrocallistes_vastus_comp9683_c0_seq1:0.0000010685)100:0.0000023285,(Avas.s001.g1475.i1:0.0047353471,Aphrocallistes_vastus_comp9306_c0_seq1:0.0000028398)99:0.0194390811)99:0.1697059541)99:0.1508870980)100:0.3186970458)100:0.8503516201,((O_minuta_LOD99_7559.mRNA.1:0.5948035906,(HEX06-EUSP_SPADES.k33.NODE_716_length_3935_cov_62.104818_g496_i0.p2:0.3314253147,(HEX07-FOCC_SPADES.k33.NODE_9398_length_1175_cov_33.884413_g6837_i0.p1:0.2585799354,(Avas.s001.g1477.i1:0.0039756194,Aphrocallistes_vastus_comp22564_c0_seq2:0.0000024726)100:0.2504576749)99:0.1103928370)97:0.2303345552)100:0.3953062826,((O_minuta_LOD99_7560.mRNA.1:0.1455778806,O_minuta_LOD99_7562.mRNA.1:0.1601711070)100:0.3594619869,(HEX07-FOCC_TRINITY_DN10486_c0_g1_i2.p1:0.4625701974,((HEX07-FOCC_TransABySS.k25.S476923.p1:0.1680772117,(((Avas.s001.g1481.i1:0.0036643135,Aphrocallistes_vastus_comp21870_c0_seq1:0.0110721887)63:0.0148563601,((Aphrocallistes_vastus_comp22564_c0_seq2_1:0.0000010685,Aphrocallistes_vastus_comp22564_c0_seq1:0.0000010685)46:0.0000010684,Aphrocallistes_vastus_comp22564_c0_seq3:0.0000010685)94:0.0000029717)64:0.0307875046,Avas.s001.g1480.i1:0.0083646892)100:0.4535295385)52:0.0770161421,HEX06-EUSP_TransABySS.k37.R134804.p1:0.3056646688)65:0.1543681280)98:0.2830775178)100:0.4657745399)86:0.2782262346)88:0.2733083091)76:0.3001845899)21:0.1058229404)0:0.0513443438,((sp_Q10462_CAH5_CAEEL:1.2407651782,sp_Q27504_CAH3_CAEEL:1.1927873675)63:0.4586247196,((HEX07-FOCC_SPADES.k25.NODE_9577_length_1263_cov_67.324717_g6713_i0.p1:0.0485804622,HEX06-EUSP_SPADES.k25.NODE_13830_length_1096_cov_72.931839_g4815_i2.p1:0.0524921145)100:1.1355332674,((((HEX07-FOCC_SPADES.k25.NODE_37738_length_332_cov_2.947883_g31191_i0.p1:1.2396197138,sp_Q99N23_CAH15_MOUSE:1.1694204127)24:0.1097875602,((sp_P48284_CAH4_RAT:0.1514759822,sp_Q64444_CAH4_MOUSE:0.2526329948)100:0.2015158942,(sp_P48283_CAH4_RABIT:0.2467158492,(sp_Q95323_CAH4_BOVIN:0.3196510188,(sp_P22748_CAH4_HUMAN:0.0000010685,Homo_sapiens_CA4_CCDS11624_1:0.0000010685)100:0.2218444748)95:0.1383385196)86:0.1932918720)100:1.0482807785)20:0.2035000973,((sp_P18761_CAH6_MOUSE:0.6321465311,((sp_P18915_CAH6_BOVIN:0.1200949260,sp_P08060_CAH6_SHEEP:0.0909392250)90:0.1757264424,(sp_Q865C0_CAH6_CANLF:0.2384247602,(sp_P23280_CAH6_HUMAN:0.0000010685,Homo_sapiens_CA6_CCDS30578_1:0.0000010685)100:0.1611511973)81:0.0787624865)86:0.1919047619)100:0.8162260788,(((sp_Q9MZ30_CAH12_RABIT:0.1345440489,(sp_Q8CI85_CAH12_MOUSE:0.1310028955,(sp_O43570_CAH12_HUMAN:0.0000010685,Homo_sapiens_CA12_CCDS10185_1:0.0000010685)100:0.1236883499)80:0.0881139738)100:0.7428970526,(sp_Q9WVT6_CAH14_MOUSE:0.1257498954,(sp_Q9ULX7_CAH14_HUMAN:0.0000010685,Homo_sapiens_CA14_CCDS947_1:0.0000010685)100:0.1045257273)97:0.6438677330)72:0.1640924528,(sp_Q8VHB5_CAH9_MOUSE:0.1185213653,(sp_Q16790_CAH9_HUMAN:0.0000024991,Homo_sapiens_CA9_CCDS6585_1:0.0000023508)100:0.2335744274)100:1.0798352052)52:0.1344960298)54:0.1792326097)18:0.1925646075,(((BFLO_BL19134.1:0.9781681404,(BFLO_BL21076.1:0.9642714556,(BFLO_BL04770.1:0.5708130767,BFLO_BL04771.1:0.4527066505)85:0.1876592593)64:0.1547475185)46:0.2196954034,((HEX06-EUSP_SPADES.k25.NODE_16903_length_924_cov_34.490545_g11138_i0.p1:1.2548206524,(SpiCA6_ANJ59766:0.8182761095,(SpiCA4_ANJ59764:0.4930300840,SpiCA5_ANJ59765:0.5967501353)91:0.2763169617)86:0.2096260579)41:0.0683697506,(Strongylocentrotus_purpuratus_XM_779235_2:1.0969228082,(Strongylocentrotus_purpuratus_XM_791432_2:0.3417036385,(Strongylocentrotus_purpuratus_XM_789120_1:0.0899836356,(Strongylocentrotus_purpuratus_XM_001199034_1:0.1307586330,Strongylocentrotus_purpuratus_XM_785609_2:0.1310946823)98:0.1840428140)84:0.1362227282)100:0.6472006246)22:0.1723995171)8:0.0923878846)0:0.0582426519,Strongylocentrotus_purpuratus_XM_776389_2:1.0835801653)3:0.0603437353)6:0.1010204407)10:0.0688715382)4:0.1036894600)0:0.0123286709,((((sp_Q6RZI9_CAHH_RABPU:0.0000020955,(sp_Q8V4Y0_CAHH_MONPZ:0.0511365738,(sp_P20508_CAHH_VACCC:0.0076946663,(sp_P33065_CAHH_VAR67:0.0351808956,(sp_O57211_CAHH_VACCA:0.0115686242,(sp_Q9JFA1_CAHH_VACCT:0.0076966018,sp_P04195_CAHH_VACCW:0.0038522971)71:0.0038618922)57:0.0037925809)69:0.0038942990)60:0.0039454311)41:0.0037276756)100:1.5766682054,(((Oscarella_m_36524:0.0382427938,Oscarella_m_36523:0.3611619554)100:1.0092860391,((((Leucosolenia_complicata_Lco_CA1:0.2075220094,(SCIL_scict1.004850.1:0.2440067268,Sci_CA1:0.0000023744)100:0.1012491501)65:0.1220589988,Gco_TM_TRINITY_DN19402_c0_g1_g2_i1:0.2713292100)93:0.2530560148,((Clw_CA1_c74180_g1_i1:0.2965540587,((Cco_TRINITY_DN21888_c0_g1_i1:0.0000020846,Cco_TRINITY_DN21888_c0_g2_i2_i4:0.0000028899)99:0.0000020676,Cco_TRINITY_DN21888_c0_g2_i3:0.0769673198)100:0.3761284486)52:0.0582855835,Por_combi_TRINITY_DN32622_c0_g1_i2:0.2789276368)95:0.1874951269)100:0.5942009038,(((TADH_g237.t1__scaffold_1:0.2915017037,HHON_braker1_g08147.t1:0.2281510909)100:0.4332388480,(HHON_braker1_g04320.t1:0.3446723134,TADH_g5193.t1__scaffold_5:0.3826558984)99:0.2519850234)92:0.3133972127,((TADH_g4582.t1__scaffold_4:0.1472019215,HHON_braker1_g00977.t1:0.2424411840)100:0.8034166619,((Strongylocentrotus_purpuratus_XM_790272_2:0.5740891371,((sp_P35219_CAH8_HUMAN:0.0000028899,Homo_sapiens_CA8_CCDS6174_1:0.0000010685)86:0.0000021481,(sp_Q5PPN4_CAH8_RAT:0.0045263013,sp_P28651_CAH8_MOUSE:0.0044890150)73:0.0091148888)100:0.5076563921)65:0.1043887701,BFLO_BL05188.1:0.3708608218)98:0.4448823475)81:0.2788333371)40:0.2290727118)9:0.1296766793)3:0.1068811714,((((((CELE_R01E6.3b.1:0.0000024520,CELE_R01E6.3a.1:0.0000024026)100:1.5612769203,BFLO_BL05330.1:0.9840061461)37:0.3592932078,Strongylocentrotus_purpuratus_XM_777904_2:0.8732718528)6:0.0599218756,(BFLO_BL05331.1:0.5693196510,(BFLO_BL05332.1:0.1884660718,BFLO_BL05333.1:0.1862157659)96:0.1510963317)99:0.4667155660)13:0.2170424369,((SpiCA3_ANJ59763:0.8209094168,(HEX07-FOCC_SOAP.k25.C647023.p1:0.0000027523,HEX06-EUSP_TransABySS.k25.S56595.p1:0.0091002433)100:0.8543429263)45:0.0684193027,SpiCA11_ANJ59771:1.4393863511)13:0.1133648614)0:0.0732111795,((sp_Q9ERQ8_CAH7_MOUSE:0.0749413924,(sp_P43166_CAH7_HUMAN:0.0000010685,Homo_sapiens_CA7_CCDS10821_1:0.0000010685)99:0.0000026320)100:0.5739270907,((((sp_Q9Y2D0_CAH5B_HUMAN:0.0000010685,Homo_sapiens_CA5B_CCDS14171_1:0.0000010685)100:0.0583852368,(sp_Q9QZA0_CAH5B_MOUSE:0.0153689418,sp_Q66HG6_CAH5B_RAT:0.0369870403)88:0.0638807551)97:0.3890981529,((sp_P35218_CAH5A_HUMAN:0.0000010685,Homo_sapiens_CA5A_CCDS10965_1:0.0000029584)100:0.1803106630,(sp_P23589_CAH5A_MOUSE:0.0837449052,sp_P43165_CAH5A_RAT:0.1106913567)99:0.2417134479)94:0.2762193379)100:0.6734766673,((sp_Q8UWA5_CAH2_TRIHK:0.1933635480,(sp_P83299_CAH1_CHIHA:0.1871479180,sp_Q92051_CAHZ_DANRE:0.2233866997)71:0.1312086818)94:0.1760075334,((((sp_P00921_CAH2_BOVIN:0.0460114066,sp_P00922_CAH2_SHEEP:0.0744335527)100:0.1541392526,((sp_P00918_CAH2_HUMAN:0.0000010685,Homo_sapiens_CA2_CCDS6239_1:0.0000010685)100:0.0682043923,(sp_P00919_CAH2_RABIT:0.1517402349,(sp_P00920_CAH2_MOUSE:0.0495878437,sp_P27139_CAH2_RAT:0.0470614659)100:0.2059622483)37:0.0268986653)71:0.0861537496)93:0.1611498815,sp_P07630_CAH2_CHICK:0.3246131437)61:0.1233455674,(((sp_P07450_CAH3_HORSE:0.0650089814,(sp_Q5S1S4_CAH3_PIG:0.0261716479,sp_Q3SZX4_CAH3_BOVIN:0.0757267687)84:0.0498425238)63:0.0171755447,(sp_P16015_CAH3_MOUSE:0.0053194391,(sp_P14141_CAH3_RAT:0.0224297321,(sp_P07451_CAH3_HUMAN:0.0000029001,Homo_sapiens_CA3_CCDS6238_1:0.0000020407)100:0.1048459559)50:0.0105468622)57:0.0404293180)100:0.4861920303,((sp_Q9D6N1_CAH13_MOUSE:0.0322805919,(sp_Q8N1Q1_CAH13_HUMAN:0.0000010685,Homo_sapiens_CA13_CCDS6236_1:0.0000010685)100:0.0949229433)100:0.3608694727,(sp_Q8HY33_CAH1_MONDO:0.2137516069,((((sp_P48282_CAH1_SHEEP:0.0781702869,sp_Q1LZA1_CAH1_BOVIN:0.0408111281)98:0.1395692133,(sp_P00917_CAH1_HORSE:0.1725164267,((sp_P35217_CAH1_MACNE:0.0050846368,sp_P00916_CAH1_MACMU:0.0050935885)100:0.0340340514,((sp_Q7M317_CAH1_PANTR:0.0050807722,(sp_P00915_CAH1_HUMAN:0.0000010685,Homo_sapiens_CA1_CCDS6237_1:0.0000010685)89:0.0049953212)62:0.0000023076,sp_Q7M316_CAH1_GORGO:0.0252787011)53:0.0222759444)98:0.0973015457)52:0.0305079675)30:0.0304320078,sp_P07452_CAH1_RABIT:0.1808218958)37:0.0308246850,(sp_B0BNN3_CAH1_RAT:0.0100439986,sp_P13634_CAH1_MOUSE:0.0572203127)100:0.1558201626)90:0.1213830447)98:0.1981414461)50:0.0726180399)35:0.0872596729)60:0.0597010523)79:0.1166820321)22:0.0443907051)70:0.2512325482)0:0.1012350505)6:0.1888542735)7:0.0964986527,(Oscarella_m_39771:0.4906830223,(Oscarella_m_15344:0.0000025582,Oscarella_m_15341:0.0031857700)100:0.6100391270)98:0.6863430432)2:0.0749540062,(SpiCA1_ANJ59762:1.4802691326,((HHON_braker1_g05262.t1:0.5050974935,TADH_g395.t1__scaffold_1:0.6509586538)100:0.5422607706,((HHON_braker1_g05254.t1:0.3192828239,TADH_g392.t1__scaffold_1:0.4397466762)100:0.4430126173,((TADH_g394.t1__scaffold_1:0.4502598654,HHON_braker1_g05255.t1:0.5766506312)99:0.1756600181,((HHON_braker1_g05256.t1:0.1738814065,HHON_braker1_g05257.t1:0.1205594261)100:0.5383200941,(HHON_braker1_g05258.t1:0.2751980732,HHON_braker1_g05260.t1:0.5542601244)92:0.1948237561)80:0.1517968774)98:0.4132944982)99:0.3987497927)59:0.1124803434)16:0.1662841150)0:0.0601332976)1:0.1157677894,(CELE_T28F2.3.1:1.8137957863,Mnemiopsis_leidyi_ML044613a:1.7117748617)8:0.2509381711)18:0.1352202155,(Mnemiopsis_leidyi_ML01591a:1.9159141700,(Mnemiopsis_leidyi_ML009152a:1.2419735048,(Mnemiopsis_leidyi_ML36932a:1.4575403694,Mnemiopsis_leidyi_ML01323a:0.8694132699)83:0.2270580274)61:0.2771413298)60:0.4765610097)30:0.2156082609,(sp_P24258_CAH2_CHLRE:0.0056206044,(sp_P20507_CAH1_CHLRE:0.0000010685,Chlamydomonas_reinhardtii_P20507:0.0000010685)100:0.0799175341)100:1.3911299094)5:0.0455085290,((sp_O04846_ATCA1_ARATH:0.9346603984,((sp_Q9FYE3_ATCA3_ARATH:0.8873040504,(sp_F4JIK2_ATCA4_ARATH:0.1693173456,sp_Q9SUB4_ATCA6_ARATH:0.3327744574)100:0.4446606365)39:0.0956625661,(sp_Q84UV8_NEC3_NICLS:0.7265364625,((sp_F4HUC4_ATCA5_ARATH:0.2949058783,sp_Q9FM99_ATCA8_ARATH:0.2947636937)100:0.3031979393,(sp_Q8L817_ATCA7_ARATH:0.2627086559,sp_F4IHR4_ATCA2_ARATH:0.3407981121)99:0.1632564330)93:0.1739190415)78:0.1670228273)81:0.4220079030)100:0.5075389832,sp_P54212_CAH_DUNSA:1.7155199419)19:0.2620047028)58:0.2627180876,(((sp_O52535_CAH_KLEPN:0.0000022512,EB_Klebsiella_pneumoniae_O52535:0.0000025276)100:0.7637193910,(sp_O52538_CAH_PECCA:0.0000028488,(sp_Q6DAJ6_CAH_PECAS:0.0000010685,EB_Pectobacterium_atrosepticum_Q6DAJ6:0.0000026147)100:0.0640211175)100:0.6576788234)64:0.1506575187,sp_Q50940_CAH_NEIGO:0.9479874279)91:0.2573121932);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 100bootstrap trees
+Log-likelihood of consensus tree: -107896.581842
+Robinson-Foulds distance between ML tree and consensus tree: 83
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++-----------------sp_P94170_CAH_NOSS1
+|
+|                                    +-------------HEX06-EUSP_SPADES.k25.NODE_37007_length_387_cov_4.754144_g28657_i0.p1
+|                                 +--| (33)
+|                                 |  +-------------Strongylocentrotus_purpuratus_XM_779235_2
+|                              +--| (18)
+|                              |  |         +----Strongylocentrotus_purpuratus_XM_791432_2
+|                              |  +---------| (100)
+|                              |            |  +--Strongylocentrotus_purpuratus_XM_789120_1
+|                              |            +--| (84)
+|                              |               |  +--Strongylocentrotus_purpuratus_XM_001199034_1
+|                              |               +--| (98)
+|                              |                  +--Strongylocentrotus_purpuratus_XM_785609_2
+|                           +--| (11)
+|                           |  |  +------------------HEX06-EUSP_SPADES.k25.NODE_16903_length_924_cov_34.490545_g11138_i0.p1
+|                           |  +--| (41)
+|                           |     |  +------------SpiCA6_ANJ59766
+|                           |     +--| (86)
+|                           |        |   +------SpiCA4_ANJ59764
+|                           |        +---| (91)
+|                           |            +--------SpiCA5_ANJ59765
+|                        +--| (5)
+|                        |  +----------------Strongylocentrotus_purpuratus_XM_776389_2
+|                     +--| (4)
+|                     |  |     +---------------------HEX07-FOCC_SPADES.k25.NODE_37738_length_332_cov_2.947883_g31191_i0.p1
+|                     |  |  +--| (21)
+|                     |  |  |  |  +-------------BFLO_BL19134.1
+|                     |  |  |  +--| (46)
+|                     |  |  |     |  +--------------BFLO_BL21076.1
+|                     |  |  |     +--| (64)
+|                     |  |  |        |  +--------BFLO_BL04770.1
+|                     |  |  |        +--| (85)
+|                     |  |  |           +-----BFLO_BL04771.1
+|                     |  +--| (6)
+|                     |     |                 +--------sp_P18761_CAH6_MOUSE
+|                     |     |     +-----------| (100)
+|                     |     |     |           |     +--sp_P18915_CAH6_BOVIN
+|                     |     |     |           |  +--| (90)
+|                     |     |     |           |  |  +--sp_P08060_CAH6_SHEEP
+|                     |     |     |           +--| (86)
+|                     |     |     |              |  +--sp_Q865C0_CAH6_CANLF
+|                     |     |     |              +--| (81)
+|                     |     |     |                 |  +--sp_P23280_CAH6_HUMAN
+|                     |     |     |                 +--| (100)
+|                     |     |     |                    +--Homo_sapiens_CA6_CCDS30578_1
+|                     |     |  +--| (54)
+|                     |     |  |  |                +--sp_Q9MZ30_CAH12_RABIT
+|                     |     |  |  |     +----------| (100)
+|                     |     |  |  |     |          |  +--sp_Q8CI85_CAH12_MOUSE
+|                     |     |  |  |     |          +--| (80)
+|                     |     |  |  |     |             |  +--sp_O43570_CAH12_HUMAN
+|                     |     |  |  |     |             +--| (100)
+|                     |     |  |  |     |                +--Homo_sapiens_CA12_CCDS10185_1
+|                     |     |  |  |  +--| (72)
+|                     |     |  |  |  |  |         +--sp_Q9WVT6_CAH14_MOUSE
+|                     |     |  |  |  |  +---------| (97)
+|                     |     |  |  |  |            |  +--sp_Q9ULX7_CAH14_HUMAN
+|                     |     |  |  |  |            +--| (100)
+|                     |     |  |  |  |               +--Homo_sapiens_CA14_CCDS947_1
+|                     |     |  |  +--| (52)
+|                     |     |  |     |               +--sp_Q8VHB5_CAH9_MOUSE
+|                     |     |  |     +---------------| (100)
+|                     |     |  |                     |  +--sp_Q16790_CAH9_HUMAN
+|                     |     |  |                     +--| (100)
+|                     |     |  |                        +--Homo_sapiens_CA9_CCDS6585_1
+|                     |     +--| (14)
+|                     |        |  +------------------sp_Q99N23_CAH15_MOUSE
+|                     |        +--| (49)
+|                     |           |                  +--sp_P48284_CAH4_RAT
+|                     |           |               +--| (100)
+|                     |           |               |  +---sp_Q64444_CAH4_MOUSE
+|                     |           +---------------| (100)
+|                     |                           |  +--sp_P48283_CAH4_RABIT
+|                     |                           +--| (86)
+|                     |                              |  +----sp_Q95323_CAH4_BOVIN
+|                     |                              +--| (95)
+|                     |                                 |  +--sp_P22748_CAH4_HUMAN
+|                     |                                 +--| (100)
+|                     |                                    +--Homo_sapiens_CA4_CCDS11624_1
+|                  +--| (6)
+|                  |  |       +------------------sp_Q10462_CAH5_CAEEL
+|                  |  |  +----| (63)
+|                  |  |  |    +-----------------sp_Q27504_CAH3_CAEEL
+|                  |  +--| (10)
+|                  |     |                +--HEX07-FOCC_SPADES.k25.NODE_9577_length_1263_cov_67.324717_g6713_i0.p1
+|                  |     +----------------| (100)
+|                  |                      +--HEX06-EUSP_SPADES.k25.NODE_13830_length_1096_cov_72.931839_g4815_i2.p1
+|               +--| (1)
+|               |  |     +---------------------------------CELE_T28F2.3.1
+|               |  |  +--| (8)
+|               |  |  |  |                           +--sp_Q6RZI9_CAHH_RABPU
+|               |  |  |  |  +------------------------| (100)
+|               |  |  |  |  |                        |  +--sp_Q8V4Y0_CAHH_MONPZ
+|               |  |  |  |  |                        +--| (41)
+|               |  |  |  |  |                           |  +--sp_P20508_CAHH_VACCC
+|               |  |  |  |  |                           +--| (60)
+|               |  |  |  |  |                              |  +--sp_P33065_CAHH_VAR67
+|               |  |  |  |  |                              +--| (69)
+|               |  |  |  |  |                                 |  +--sp_O57211_CAHH_VACCA
+|               |  |  |  |  |                                 +--| (57)
+|               |  |  |  |  |                                    |  +--sp_Q9JFA1_CAHH_VACCT
+|               |  |  |  |  |                                    +--| (71)
+|               |  |  |  |  |                                       +--sp_P04195_CAHH_VACCW
+|               |  |  |  +--| (20)
+|               |  |  |     |                     +--Oscarella_m_36524
+|               |  |  |     |     +---------------| (100)
+|               |  |  |     |     |               +----Oscarella_m_36523
+|               |  |  |     |  +--| (6)
+|               |  |  |     |  |  |               +--Leucosolenia_complicata_Lco_CA1
+|               |  |  |     |  |  |            +--| (65)
+|               |  |  |     |  |  |            |  |  +--SCIL_scict1.004850.1
+|               |  |  |     |  |  |            |  +--| (100)
+|               |  |  |     |  |  |            |     +--Sci_CA1
+|               |  |  |     |  |  |         +--| (93)
+|               |  |  |     |  |  |         |  +---Gco_TM_TRINITY_DN19402_c0_g1_g2_i1
+|               |  |  |     |  |  +---------| (100)
+|               |  |  |     |  |            |     +---Clw_CA1_c74180_g1_i1
+|               |  |  |     |  |            |  +--| (52)
+|               |  |  |     |  |            |  |  |       +--Cco_TRINITY_DN21888_c0_g1_i1
+|               |  |  |     |  |            |  |  |    +--| (99)
+|               |  |  |     |  |            |  |  |    |  +--Cco_TRINITY_DN21888_c0_g2_i2_i4
+|               |  |  |     |  |            |  |  +----| (100)
+|               |  |  |     |  |            |  |       +--Cco_TRINITY_DN21888_c0_g2_i3
+|               |  |  |     |  |            +--| (95)
+|               |  |  |     |  |               +---Por_combi_TRINITY_DN32622_c0_g1_i2
+|               |  |  |     +--| (16)
+|               |  |  |        |     +----------------------------Mnemiopsis_leidyi_ML044613a
+|               |  |  |        |  +--| (12)
+|               |  |  |        |  |  |                            +--CELE_R01E6.3b.1
+|               |  |  |        |  |  |   +------------------------| (100)
+|               |  |  |        |  |  |   |                        +--CELE_R01E6.3a.1
+|               |  |  |        |  |  +---| (37)
+|               |  |  |        |  |      +-------------BFLO_BL05330.1
+|               |  |  |        +--| (3)
+|               |  |  |           |        +------------SpiCA3_ANJ59763
+|               |  |  |           |     +--| (45)
+|               |  |  |           |     |  |            +--HEX07-FOCC_SOAP.k25.C647023.p1
+|               |  |  |           |     |  +------------| (100)
+|               |  |  |           |     |               +--HEX06-EUSP_TransABySS.k25.S56595.p1
+|               |  |  |           |  +--| (12)
+|               |  |  |           |  |  |           +-------BFLO_BL05331.1
+|               |  |  |           |  |  |  +--------| (99)
+|               |  |  |           |  |  |  |        |  +--BFLO_BL05332.1
+|               |  |  |           |  |  |  |        +--| (96)
+|               |  |  |           |  |  |  |           +--BFLO_BL05333.1
+|               |  |  |           |  |  +--| (33)
+|               |  |  |           |  |     |              +--sp_Q9ERQ8_CAH7_MOUSE
+|               |  |  |           |  |     |     +--------| (100)
+|               |  |  |           |  |     |     |        |  +--sp_P43166_CAH7_HUMAN
+|               |  |  |           |  |     |     |        +--| (99)
+|               |  |  |           |  |     |     |           +--Homo_sapiens_CA7_CCDS10821_1
+|               |  |  |           |  |     |  +--| (30)
+|               |  |  |           |  |     |  |  |     +--sp_Q8UWA5_CAH2_TRIHK
+|               |  |  |           |  |     |  |  |  +--| (94)
+|               |  |  |           |  |     |  |  |  |  |  +--sp_P83299_CAH1_CHIHA
+|               |  |  |           |  |     |  |  |  |  +--| (71)
+|               |  |  |           |  |     |  |  |  |     +--sp_Q92051_CAHZ_DANRE
+|               |  |  |           |  |     |  |  +--| (79)
+|               |  |  |           |  |     |  |     |              +--sp_P00921_CAH2_BOVIN
+|               |  |  |           |  |     |  |     |           +--| (100)
+|               |  |  |           |  |     |  |     |           |  +--sp_P00922_CAH2_SHEEP
+|               |  |  |           |  |     |  |     |        +--| (93)
+|               |  |  |           |  |     |  |     |        |  |     +--sp_P00918_CAH2_HUMAN
+|               |  |  |           |  |     |  |     |        |  |  +--| (100)
+|               |  |  |           |  |     |  |     |        |  |  |  +--Homo_sapiens_CA2_CCDS6239_1
+|               |  |  |           |  |     |  |     |        |  +--| (71)
+|               |  |  |           |  |     |  |     |        |     |  +--sp_P00919_CAH2_RABIT
+|               |  |  |           |  |     |  |     |        |     +--| (37)
+|               |  |  |           |  |     |  |     |        |        |  +--sp_P00920_CAH2_MOUSE
+|               |  |  |           |  |     |  |     |        |        +--| (100)
+|               |  |  |           |  |     |  |     |        |           +--sp_P27139_CAH2_RAT
+|               |  |  |           |  |     |  |     |     +--| (61)
+|               |  |  |           |  |     |  |     |     |  +---sp_P07630_CAH2_CHICK
+|               |  |  |           |  |     |  |     |  +--| (38)
+|               |  |  |           |  |     |  |     |  |  |          +--sp_P07450_CAH3_HORSE
+|               |  |  |           |  |     |  |     |  |  |       +--| (63)
+|               |  |  |           |  |     |  |     |  |  |       |  |  +--sp_Q5S1S4_CAH3_PIG
+|               |  |  |           |  |     |  |     |  |  |       |  +--| (84)
+|               |  |  |           |  |     |  |     |  |  |       |     +--sp_Q3SZX4_CAH3_BOVIN
+|               |  |  |           |  |     |  |     |  |  +-------| (100)
+|               |  |  |           |  |     |  |     |  |          |  +--sp_P16015_CAH3_MOUSE
+|               |  |  |           |  |     |  |     |  |          +--| (57)
+|               |  |  |           |  |     |  |     |  |             |  +--sp_P14141_CAH3_RAT
+|               |  |  |           |  |     |  |     |  |             +--| (50)
+|               |  |  |           |  |     |  |     |  |                |  +--sp_P07451_CAH3_HUMAN
+|               |  |  |           |  |     |  |     |  |                +--| (100)
+|               |  |  |           |  |     |  |     |  |                   +--Homo_sapiens_CA3_CCDS6238_1
+|               |  |  |           |  |     |  |     +--| (60)
+|               |  |  |           |  |     |  |        |       +--sp_Q9D6N1_CAH13_MOUSE
+|               |  |  |           |  |     |  |        |  +----| (100)
+|               |  |  |           |  |     |  |        |  |    |  +--sp_Q8N1Q1_CAH13_HUMAN
+|               |  |  |           |  |     |  |        |  |    +--| (100)
+|               |  |  |           |  |     |  |        |  |       +--Homo_sapiens_CA13_CCDS6236_1
+|               |  |  |           |  |     |  |        +--| (50)
+|               |  |  |           |  |     |  |           |  +--sp_Q8HY33_CAH1_MONDO
+|               |  |  |           |  |     |  |           +--| (98)
+|               |  |  |           |  |     |  |              |           +--sp_P48282_CAH1_SHEEP
+|               |  |  |           |  |     |  |              |        +--| (98)
+|               |  |  |           |  |     |  |              |        |  +--sp_Q1LZA1_CAH1_BOVIN
+|               |  |  |           |  |     |  |              |     +--| (30)
+|               |  |  |           |  |     |  |              |     |  |  +--sp_P00917_CAH1_HORSE
+|               |  |  |           |  |     |  |              |     |  +--| (52)
+|               |  |  |           |  |     |  |              |     |     |     +--sp_P35217_CAH1_MACNE
+|               |  |  |           |  |     |  |              |     |     |  +--| (100)
+|               |  |  |           |  |     |  |              |     |     |  |  +--sp_P00916_CAH1_MACMU
+|               |  |  |           |  |     |  |              |     |     +--| (98)
+|               |  |  |           |  |     |  |              |     |        |     +--sp_Q7M317_CAH1_PANTR
+|               |  |  |           |  |     |  |              |     |        |  +--| (62)
+|               |  |  |           |  |     |  |              |     |        |  |  |  +--sp_P00915_CAH1_HUMAN
+|               |  |  |           |  |     |  |              |     |        |  |  +--| (89)
+|               |  |  |           |  |     |  |              |     |        |  |     +--Homo_sapiens_CA1_CCDS6237_1
+|               |  |  |           |  |     |  |              |     |        +--| (53)
+|               |  |  |           |  |     |  |              |     |           +--sp_Q7M316_CAH1_GORGO
+|               |  |  |           |  |     |  |              |  +--| (37)
+|               |  |  |           |  |     |  |              |  |  +--sp_P07452_CAH1_RABIT
+|               |  |  |           |  |     |  |              +--| (90)
+|               |  |  |           |  |     |  |                 |  +--sp_B0BNN3_CAH1_RAT
+|               |  |  |           |  |     |  |                 +--| (100)
+|               |  |  |           |  |     |  |                    +--sp_P13634_CAH1_MOUSE
+|               |  |  |           |  |     +--| (70)
+|               |  |  |           |  |        |                  +--sp_Q9Y2D0_CAH5B_HUMAN
+|               |  |  |           |  |        |               +--| (100)
+|               |  |  |           |  |        |               |  +--Homo_sapiens_CA5B_CCDS14171_1
+|               |  |  |           |  |        |         +-----| (97)
+|               |  |  |           |  |        |         |     |  +--sp_Q9QZA0_CAH5B_MOUSE
+|               |  |  |           |  |        |         |     +--| (88)
+|               |  |  |           |  |        |         |        +--sp_Q66HG6_CAH5B_RAT
+|               |  |  |           |  |        +---------| (100)
+|               |  |  |           |  |                  |      +--sp_P35218_CAH5A_HUMAN
+|               |  |  |           |  |                  |   +--| (100)
+|               |  |  |           |  |                  |   |  +--Homo_sapiens_CA5A_CCDS10965_1
+|               |  |  |           |  |                  +---| (94)
+|               |  |  |           |  |                      |  +--sp_P23589_CAH5A_MOUSE
+|               |  |  |           |  |                      +--| (99)
+|               |  |  |           |  |                         +--sp_P43165_CAH5A_RAT
+|               |  |  |           +--| (1)
+|               |  |  |              |     +--------------------SpiCA11_ANJ59771
+|               |  |  |              |  +--| (25)
+|               |  |  |              |  |  |            +---TADH_g237.t1__scaffold_1
+|               |  |  |              |  |  |      +-----| (100)
+|               |  |  |              |  |  |      |     +--HHON_braker1_g08147.t1
+|               |  |  |              |  |  |  +---| (92)
+|               |  |  |              |  |  |  |   |   +----HHON_braker1_g04320.t1
+|               |  |  |              |  |  |  |   +---| (99)
+|               |  |  |              |  |  |  |       +-----TADH_g5193.t1__scaffold_5
+|               |  |  |              |  |  +--| (40)
+|               |  |  |              |  |     |                 +--TADH_g4582.t1__scaffold_4
+|               |  |  |              |  |     |    +------------| (100)
+|               |  |  |              |  |     |    |            +--HHON_braker1_g00977.t1
+|               |  |  |              |  |     +----| (81)
+|               |  |  |              |  |          |        +--------Strongylocentrotus_purpuratus_XM_790272_2
+|               |  |  |              |  |          |     +--| (65)
+|               |  |  |              |  |          |     |  |         +--sp_P35219_CAH8_HUMAN
+|               |  |  |              |  |          |     |  |      +--| (86)
+|               |  |  |              |  |          |     |  |      |  +--Homo_sapiens_CA8_CCDS6174_1
+|               |  |  |              |  |          |     |  +------| (100)
+|               |  |  |              |  |          |     |         |  +--sp_Q5PPN4_CAH8_RAT
+|               |  |  |              |  |          |     |         +--| (73)
+|               |  |  |              |  |          |     |            +--sp_P28651_CAH8_MOUSE
+|               |  |  |              |  |          +-----| (98)
+|               |  |  |              |  |                +-----BFLO_BL05188.1
+|               |  |  |              +--| (17)
+|               |  |  |                 +------------Strongylocentrotus_purpuratus_XM_777904_2
+|               |  +--| (1)
+|               |  |  |  +----------------------SpiCA1_ANJ59762
+|               |  |  +--| (16)
+|               |  |     |          +------HHON_braker1_g05262.t1
+|               |  |     |  +-------| (100)
+|               |  |     |  |       +---------TADH_g395.t1__scaffold_1
+|               |  |     +--| (59)
+|               |  |        |           +----HHON_braker1_g05254.t1
+|               |  |        |     +-----| (100)
+|               |  |        |     |     +-----TADH_g392.t1__scaffold_1
+|               |  |        +-----| (99)
+|               |  |              |        +------TADH_g394.t1__scaffold_1
+|               |  |              |     +--| (99)
+|               |  |              |     |  +--------HHON_braker1_g05255.t1
+|               |  |              +-----| (98)
+|               |  |                    |          +--HHON_braker1_g05256.t1
+|               |  |                    |  +-------| (100)
+|               |  |                    |  |       +--HHON_braker1_g05257.t1
+|               |  |                    +--| (80)
+|               |  |                       |  +---HHON_braker1_g05258.t1
+|               |  |                       +--| (92)
+|               |  |                          +-------HHON_braker1_g05260.t1
+|               |  |
+|               |  |                             +-----------SpiCA16_ANJ59776
+|               |  |                        +----| (70)
+|               |  |                        |    +----------------------sp_B8V7P3_CAH_ACRMI
+|               |  |                    +---| (63)
+|               |  |                    |   +---------SpiCA2_ACE95141
+|               |  |                 +--| (37)
+|               |  |                 |  +-------------------SpiCA15_ANJ59775
+|               |  |              +--| (33)
+|               |  |              |  |     +-------------SpiCA9_ANJ59769
+|               |  |              |  |  +--| (40)
+|               |  |              |  |  |  +------------SpiCA10_ANJ59770
+|               |  |              |  +--| (22)
+|               |  |              |     |                   +----SpiCA13_ANJ59773
+|               |  |              |     |         +---------| (100)
+|               |  |              |     |         |         +------SpiCA14_ANJ59774
+|               |  |              |     |      +--| (59)
+|               |  |              |     |      |  +--------SpiCA12_ANJ59772
+|               |  |              |     +------| (97)
+|               |  |              |            +------SpiCA8_ANJ59768
+|               |  |           +--| (25)
+|               |  |           |  +---------------------------------SpiCA7_ANJ59767
+|               |  |        +--| (18)
+|               |  |        |  |                     +----------sp_B3A0P2_CAH1_LOTGI
+|               |  |        |  |      +--------------| (100)
+|               |  |        |  |      |              +----------------sp_B3A0Q6_CAH2_LOTGI
+|               |  |        |  +------| (70)
+|               |  |        |         |          +--------------sp_P86856_MANL_MYTCA
+|               |  |        |         +----------| (100)
+|               |  |        |                    |             +--sp_Q9NL38_MA66_PINMA
+|               |  |        |                    +-------------| (100)
+|               |  |        |                                  |  +--sp_A0ZSF3_MAM_PINMA
+|               |  |        |                                  +--| (97)
+|               |  |        |                                     |     +--sp_Q27908_MANA_PINFU
+|               |  |        |                                     |  +--| (70)
+|               |  |        |                                     |  |  +--sp_A0ZSF2_MAF_PINFU
+|               |  |        |                                     +--| (63)
+|               |  |        |                                        |  +--sp_A0ZSF7_MAC2_CRANI
+|               |  |        |                                        +--| (64)
+|               |  |        |                                           +--sp_A0ZSF5_MAP2_MIZYE
+|               |  |     +--| (6)
+|               |  |     |  |  +------------------TADH_g5620.t1__scaffold_5
+|               |  |     |  +--| (20)
+|               |  |     |     |              +----------sp_Q18932_CAH2_CAEEL
+|               |  |     |     |    +---------| (100)
+|               |  |     |     |    |         |           +--CELE_F54D8.4a.1
+|               |  |     |     |    |         +-----------| (100)
+|               |  |     |     |    |                     |  +--sp_Q20781_CAH1_CAEEL
+|               |  |     |     |    |                     +--| (57)
+|               |  |     |     |    |                        +--CELE_F54D8.4b.1
+|               |  |     |     +----| (96)
+|               |  |     |          |  +--------BFLO_BL02807.1
+|               |  |     |          +--| (70)
+|               |  |     |             |  +----------------Strongylocentrotus_purpuratus_XM_779703_2
+|               |  |     |             +--| (57)
+|               |  |     |                |            +--sp_A0JN41_CAH10_BOVIN
+|               |  |     |                |       +----| (100)
+|               |  |     |                |       |    |  +--sp_Q5R4U0_CAH10_PONAB
+|               |  |     |                |       |    +--| (97)
+|               |  |     |                |       |       +--Homo_sapiens_CA10_CCDS32684_1
+|               |  |     |                +-------| (100)
+|               |  |     |                        |                 +--sp_Q95203_CAH11_SHEEP
+|               |  |     |                        |              +--| (60)
+|               |  |     |                        |              |  +--sp_Q866X7_CAH11_BOVIN
+|               |  |     |                        |           +--| (69)
+|               |  |     |                        |           |  |  +--sp_O70354_CAH11_MOUSE
+|               |  |     |                        |           |  +--| (67)
+|               |  |     |                        |           |     +--sp_Q866X6_CAH11_PIG
+|               |  |     |                        |        +--| (49)
+|               |  |     |                        |        |  +--sp_Q5R665_CAH11_PONAB
+|               |  |     |                        +--------| (100)
+|               |  |     |                                 |  +--sp_O75493_CAH11_HUMAN
+|               |  |     |                                 +--| (91)
+|               |  |     |                                    +--Homo_sapiens_CA11_CCDS12729_1
+|               |  |  +--| (2)
+|               |  |  |  |               +-------Oscarella_m_306267
+|               |  |  |  |  +------------| (100)
+|               |  |  |  |  |            +--------Oscarella_m_65108
+|               |  |  |  +--| (5)
+|               |  |  |     |                     +----Leucosolenia_complicata_Lco_CA6_L
+|               |  |  |     |               +-----| (100)
+|               |  |  |     |               |     |  +-------Gco_TM_TRINITY_DN34720_c0_g1_i1
+|               |  |  |     |               |     +--| (96)
+|               |  |  |     |               |        |  +--SCIL_scict1.003292.1
+|               |  |  |     |               |        +--| (100)
+|               |  |  |     |               |           +--Sci_CA9_L
+|               |  |  |     |  +------------| (100)
+|               |  |  |     |  |            |     +---Clw_CA6_c56309_g1_i1
+|               |  |  |     |  |            |  +--| (61)
+|               |  |  |     |  |            |  |  |    +--Por_combi_TRINITY_DN29730_c1_g2_i1
+|               |  |  |     |  |            |  |  +----| (100)
+|               |  |  |     |  |            |  |       +--Por_combi_TRINITY_DN29730_c1_g2_i2
+|               |  |  |     |  |            +--| (97)
+|               |  |  |     |  |               +---Cco_TRINITY_DN34241_c0_g1_i1
+|               |  |  |     +--| (35)
+|               |  |  |        |             +-------------Leucosolenia_complicata_Lco_CA4
+|               |  |  |        |        +----| (97)
+|               |  |  |        |        |    +--------------Leucosolenia_complicata_Lco_CA5
+|               |  |  |        |  +-----| (96)
+|               |  |  |        |  |     |           +---Por_combi_TRINITY_DN34537_c2_g1_i1
+|               |  |  |        |  |     |       +---| (74)
+|               |  |  |        |  |     |       |   |       +--Por_combi_TRINITY_DN33844_c2_g3_i1
+|               |  |  |        |  |     |       |   +-------| (100)
+|               |  |  |        |  |     |       |           +--Por_combi_TRINITY_DN33844_c2_g3_i2
+|               |  |  |        |  |     +-------| (98)
+|               |  |  |        |  |             |  +---------Por_combi_TRINITY_DN20840_c0_g1_i1
+|               |  |  |        |  |             +--| (64)
+|               |  |  |        |  |                |      +--Clw_CA5a_c63410_g1_i1
+|               |  |  |        |  |                +------| (100)
+|               |  |  |        |  |                       +--Clw_CA5b_c63410_g1_i2
+|               |  |  |        +--| (61)
+|               |  |  |           |                           +--Clw_CA4a_c71250_g1_i1
+|               |  |  |           |          +----------------| (100)
+|               |  |  |           |          |                +--Clw_CA4b_c71250_g1_i2
+|               |  |  |           |       +--| (38)
+|               |  |  |           |       |  |     +------Clw_CA2_c65033_g1_i1
+|               |  |  |           |       |  |  +--| (68)
+|               |  |  |           |       |  |  |  +---------Cco_TRINITY_DN19708_c0_g2_i1
+|               |  |  |           |       |  +--| (70)
+|               |  |  |           |       |     |        +---------Por_combi_TRINITY_DN30398_c1_g2_i1
+|               |  |  |           |       |     +--------| (100)
+|               |  |  |           |       |              |     +--Por_combi_TRINITY_DN27673_c3_g1_i5
+|               |  |  |           |       |              |  +--| (76)
+|               |  |  |           |       |              |  |  +--Por_combi_TRINITY_DN27673_c3_g1_i4
+|               |  |  |           |       |              +--| (84)
+|               |  |  |           |       |                 |  +--Por_combi_TRINITY_DN27673_c3_g1_i1
+|               |  |  |           |       |                 +--| (71)
+|               |  |  |           |       |                    +--Por_combi_TRINITY_DN27673_c3_g1_i2
+|               |  |  |           |  +----| (99)
+|               |  |  |           |  |    |          +--Por_combi_TRINITY_DN34026_c0_g1_i2
+|               |  |  |           |  |    |    +-----| (100)
+|               |  |  |           |  |    |    |     +--Por_combi_TRINITY_DN34026_c0_g1_i1
+|               |  |  |           |  |    +----| (100)
+|               |  |  |           |  |         |  +-----Cco_TRINITY_DN26519_c6_g1_i1_i4_i5
+|               |  |  |           |  |         +--| (73)
+|               |  |  |           |  |            |    +--Clw_CA3a_c69146_g1_i1
+|               |  |  |           |  |            +----| (100)
+|               |  |  |           |  |                 +--Clw_CA3b_c69146_g1_i2
+|               |  |  |           +--| (47)
+|               |  |  |              |              +---------Leucosolenia_complicata_Lco_CA2
+|               |  |  |              |           +--| (38)
+|               |  |  |              |           |  +--------------Leucosolenia_complicata_Lco_CA3
+|               |  |  |              |        +--| (35)
+|               |  |  |              |        |  |                     +--SCIL_scict1.011857.1
+|               |  |  |              |        |  |             +-------| (100)
+|               |  |  |              |        |  |             |       +--Sci_CA2
+|               |  |  |              |        |  |     +-------| (100)
+|               |  |  |              |        |  |     |       |   +--Gco_TM_TRINITY_DN28276_c0_g3_i2_g1_i2_i3
+|               |  |  |              |        |  |     |       +---| (100)
+|               |  |  |              |        |  |     |           +--Gco_TM_TRINITY_DN28276_c0_g1_i4
+|               |  |  |              |        |  |  +--| (38)
+|               |  |  |              |        |  |  |  |       +--SCIL_scict1.011854.1
+|               |  |  |              |        |  |  |  +-------| (100)
+|               |  |  |              |        |  |  |          +--Sci_CA3
+|               |  |  |              |        |  +--| (45)
+|               |  |  |              |        |     |      +-------Gco_TM_TRINITY_DN19387_c0_g1_i1
+|               |  |  |              |        |     +------| (100)
+|               |  |  |              |        |            |  +--Gco_TM_TRINITY_DN31930_c2_g1_i1
+|               |  |  |              |        |            +--| (100)
+|               |  |  |              |        |               +--Gco_TM_TRINITY_DN31930_c2_g2_i1-i4
+|               |  |  |              +--------| (100)
+|               |  |  |                       |                    +--SCIL_scict1.011831.1
+|               |  |  |                       |     +--------------| (100)
+|               |  |  |                       |     |              +--Sci_CA8
+|               |  |  |                       |  +--| (65)
+|               |  |  |                       |  |  |     +-----Sci_CA4
+|               |  |  |                       |  |  |  +--| (100)
+|               |  |  |                       |  |  |  |  |   +--SCIL_scict1.008561.1
+|               |  |  |                       |  |  |  |  +---| (100)
+|               |  |  |                       |  |  |  |      +--Sci_CA5
+|               |  |  |                       |  |  +--| (78)
+|               |  |  |                       |  |     |  +-------Sci_CA6
+|               |  |  |                       |  |     +--| (100)
+|               |  |  |                       |  |        |  +--SCIL_scict1.008562.1
+|               |  |  |                       |  |        +--| (100)
+|               |  |  |                       |  |           +--Sci_CA7
+|               |  |  |                       +--| (66)
+|               |  |  |                          |                   +--Gco_TM_TRINITY_DN32004_c2_g1_i2
+|               |  |  |                          |                +--| (99)
+|               |  |  |                          |                |  +--Gco_TM_TRINITY_DN32004_c2_g1_i7
+|               |  |  |                          |             +--| (77)
+|               |  |  |                          |             |  +--Gco_TM_TRINITY_DN32004_c2_g1_i8
+|               |  |  |                          |          +--| (100)
+|               |  |  |                          |          |  +--Gco_TM_TRINITY_DN32004_c2_g1_i10
+|               |  |  |                          +----------| (100)
+|               |  |  |                                     |  +--Gco_TM_TRINITY_DN30683_c0_g1_i2
+|               |  |  |                                     +--| (83)
+|               |  |  |                                        |     +--Gco_TM_TRINITY_DN30683_c0_g3_i4_10
+|               |  |  |                                        |  +**| (53)
+|               |  |  |                                        |  |  +--Gco_TM_TRINITY_DN30683_c0_g1_i3
+|               |  |  |                                        +--| (53)
+|               |  |  |                                           |  +--Gco_TM_TRINITY_DN30683_c0_g3_i5_8_9_12
+|               |  |  |                                           +--| (59)
+|               |  |  |                                              |  +--Gco_TM_TRINITY_DN30683_c0_g1_i4
+|               |  |  |                                              +--| (70)
+|               |  |  |                                                 +--Gco_TM_TRINITY_DN30683_c0_g1_i5
+|               |  +--| (9)
+|               |     |          +-------Oscarella_m_39771
+|               |     +----------| (98)
+|               |                |       +--Oscarella_m_15344
+|               |                +-------| (100)
+|               |                        +--Oscarella_m_15341
+|            +--| (18)
+|            |  |                                      +--AQUE_Aqu2.1.41692_001
+|            |  |                    +-----------------| (100)
+|            |  |                    |                 +--Amphimedon_XM_003383369
+|            |  |               +----| (54)
+|            |  |               |    +------------------Suberites_domuncula_DD298191.1
+|            |  |            +--| (12)
+|            |  |            |  |                   +--AQUE_Aqu2.1.22794_001
+|            |  |            |  |               +---| (100)
+|            |  |            |  |               |   +--Amphimedon_queenslandica_EF434873
+|            |  |            |  |  +------------| (100)
+|            |  |            |  |  |            |  +------AQUE_Aqu2.1.22795_001
+|            |  |            |  |  |            +--| (92)
+|            |  |            |  |  |               |     +--AQUE_Aqu2.1.22793_001
+|            |  |            |  |  |               +-----| (100)
+|            |  |            |  |  |                     +--Amphimedon_XM_003388939
+|            |  |            |  +--| (33)
+|            |  |            |     |             +--AQUE_Aqu2.1.31900_001
+|            |  |            |     +-------------| (100)
+|            |  |            |                   +--CA3_Amphimedon_queenslandica_EF434875
+|            |  |         +--| (25)
+|            |  |         |  |              +--Ephydatia_m_288705
+|            |  |         |  |  +-----------| (100)
+|            |  |         |  |  |           |     +--EMUE_Em0001g678a
+|            |  |         |  |  |           +-----| (100)
+|            |  |         |  |  |                 |  +--EMUE_Em0001g682a
+|            |  |         |  |  |                 +--| (100)
+|            |  |         |  |  |                    +--Ephydatia_m_266032
+|            |  |         |  +--| (37)
+|            |  |         |     |          +----------EMUE_Em0014g559a
+|            |  |         |     |  +-------| (97)
+|            |  |         |     |  |       |          +--EMUE_Em0014g586a
+|            |  |         |     |  |       +----------| (100)
+|            |  |         |     |  |                  +--Ephydatia_m_285462
+|            |  |         |     +--| (41)
+|            |  |         |        |              +--EMUE_Em0014g599a
+|            |  |         |        |  +-----------| (100)
+|            |  |         |        |  |           +--Ephydatia_m_57082
+|            |  |         |        +--| (66)
+|            |  |         |           |       +--Astrosclera_EF434876_Ascl1
+|            |  |         |           +-------| (100)
+|            |  |         |                   |  +--Astrosclera_EF434878_Ascl3
+|            |  |         |                   +--| (70)
+|            |  |         |                      +--Astrosclera_EF434877_Ascl2
+|            |  |  +------| (95)
+|            |  |  |      |           +------------------EMUE_Em0008g606a
+|            |  |  |      +-----------| (100)
+|            |  |  |                  |           +--EMUE_Em0008g787a
+|            |  |  |                  |    +------| (100)
+|            |  |  |                  |    |      +--Ephydatia_m_68550
+|            |  |  |                  +----| (99)
+|            |  |  |                       |    +--EMUE_Em0436g4a
+|            |  |  |                       +----| (100)
+|            |  |  |                            +--EMUE_Em0557g4a
+|            |  +--| (21)
+|            |     |                   +-------------------O_minuta_LOD99_964.mRNA.1
+|            |     |   +---------------| (100)
+|            |     |   |               |             +------HEX06-EUSP_SPADES.k25.NODE_18962_length_832_cov_15.434944_g12666_i0.p1
+|            |     |   |               |          +--| (47)
+|            |     |   |               |          |  +------HEX07-FOCC_SPADES.k25.NODE_11079_length_1142_cov_12.306177_g7795_i0.p1
+|            |     |   |               +----------| (94)
+|            |     |   |                          +--Avas.s001.g1473.i1
+|            |     +---| (76)
+|            |         |                +----O_minuta_LOD99_966.mRNA.1
+|            |         |   +------------| (100)
+|            |         |   |            |    +--HEX06-EUSP_SPADES.k33.NODE_875_length_3708_cov_64.309388_g606_i0.p1
+|            |         |   |            +----| (100)
+|            |         |   |                 |  +--HEX07-FOCC_TransABySS.k33.J320628.p1
+|            |         |   |                 +--| (99)
+|            |         |   |                    |     +--Aphrocallistes_vastus_comp9306_c0_seq2
+|            |         |   |                    |  +--| (100)
+|            |         |   |                    |  |  +--Aphrocallistes_vastus_comp9683_c0_seq1
+|            |         |   |                    +--| (99)
+|            |         |   |                       |  +--Avas.s001.g1475.i1
+|            |         |   |                       +--| (99)
+|            |         |   |                          +--Aphrocallistes_vastus_comp9306_c0_seq1
+|            |         +---| (88)
+|            |             |         +--------O_minuta_LOD99_7559.mRNA.1
+|            |             |   +-----| (100)
+|            |             |   |     |  +----HEX06-EUSP_SPADES.k33.NODE_716_length_3935_cov_62.104818_g496_i0.p2
+|            |             |   |     +--| (97)
+|            |             |   |        |  +---HEX07-FOCC_SPADES.k33.NODE_9398_length_1175_cov_33.884413_g6837_i0.p1
+|            |             |   |        +--| (99)
+|            |             |   |           |  +--Avas.s001.g1477.i1
+|            |             |   |           +--| (100)
+|            |             |   |              +--Aphrocallistes_vastus_comp22564_c0_seq2
+|            |             +---| (86)
+|            |                 |           +--O_minuta_LOD99_7560.mRNA.1
+|            |                 |      +----| (100)
+|            |                 |      |    +--O_minuta_LOD99_7562.mRNA.1
+|            |                 +------| (100)
+|            |                        |   +------HEX07-FOCC_TRINITY_DN10486_c0_g1_i2.p1
+|            |                        +---| (98)
+|            |                            |     +--HEX07-FOCC_TransABySS.k25.S476923.p1
+|            |                            |  +--| (52)
+|            |                            |  |  |            +--Avas.s001.g1481.i1
+|            |                            |  |  |         +--| (63)
+|            |                            |  |  |         |  +--Aphrocallistes_vastus_comp21870_c0_seq1
+|            |                            |  |  |      +--| (64)
+|            |                            |  |  |      |  |     +--Aphrocallistes_vastus_comp22564_c0_seq2_1
+|            |                            |  |  |      |  |  +--| (46)
+|            |                            |  |  |      |  |  |  +--Aphrocallistes_vastus_comp22564_c0_seq1
+|            |                            |  |  |      |  +--| (94)
+|            |                            |  |  |      |     +--Aphrocallistes_vastus_comp22564_c0_seq3
+|            |                            |  |  +------| (100)
+|            |                            |  |         +--Avas.s001.g1480.i1
+|            |                            +--| (65)
+|            |                               +---HEX06-EUSP_TransABySS.k37.R134804.p1
+|         +--| (30)
+|         |  |      +-----------------------------Mnemiopsis_leidyi_ML01591a
+|         |  +------| (60)
+|         |         |   +-----------------Mnemiopsis_leidyi_ML009152a
+|         |         +---| (61)
+|         |             |   +----------------------Mnemiopsis_leidyi_ML36932a
+|         |             +---| (83)
+|         |                 +------------Mnemiopsis_leidyi_ML01323a
+|      +--| (46)
+|      |  +----------------------------sp_P54212_CAH_DUNSA
+|   +--| (25)
+|   |  |         +--------------sp_O04846_ATCA1_ARATH
+|   |  +---------| (100)
+|   |            |     +------------sp_Q9FYE3_ATCA3_ARATH
+|   |            +-----| (81)
+|   |                  |         +--sp_F4JIK2_ATCA4_ARATH
+|   |                  |  +------| (100)
+|   |                  |  |      +----sp_Q9SUB4_ATCA6_ARATH
+|   |                  +--| (41)
+|   |                     |  +----------sp_Q84UV8_NEC3_NICLS
+|   |                     +--| (78)
+|   |                        |      +---sp_F4HUC4_ATCA5_ARATH
+|   |                        |  +---| (100)
+|   |                        |  |   +---sp_Q9FM99_ATCA8_ARATH
+|   |                        +--| (93)
+|   |                           |  +---sp_Q8L817_ATCA7_ARATH
+|   |                           +--| (99)
+|   |                              +----sp_F4IHR4_ATCA2_ARATH
++---| (58)
+|   |                    +--sp_P24258_CAH2_CHLRE
+|   +--------------------| (100)
+|                        |  +--sp_P20507_CAH1_CHLRE
+|                        +--| (100)
+|                           +--Chlamydomonas_reinhardtii_P20507
+|
+|                  +--sp_O52535_CAH_KLEPN
+|      +-----------| (100)
+|      |           +--EB_Klebsiella_pneumoniae_O52535
+|   +--| (64)
+|   |  |         +--sp_O52538_CAH_PECCA
+|   |  +---------| (100)
+|   |            |  +--sp_Q6DAJ6_CAH_PECAS
+|   |            +--| (100)
+|   |               +--EB_Pectobacterium_atrosepticum_Q6DAJ6
++---| (91)
+    +-------------sp_Q50940_CAH_NEIGO
+
+
+Consensus tree in newick format: 
+
+(sp_P94170_CAH_NOSS1:1.1701998829,((((((((((((HEX06-EUSP_SPADES.k25.NODE_37007_length_387_cov_4.754144_g28657_i0.p1:0.9106560893,Strongylocentrotus_purpuratus_XM_779235_2:0.9081200535)33:0.1731525634,(Strongylocentrotus_purpuratus_XM_791432_2:0.3541079595,(Strongylocentrotus_purpuratus_XM_789120_1:0.0871131724,(Strongylocentrotus_purpuratus_XM_001199034_1:0.1277174953,Strongylocentrotus_purpuratus_XM_785609_2:0.1324160850)98:0.1807484905)84:0.1325061475)100:0.6943386112)18:0.1548673366,(HEX06-EUSP_SPADES.k25.NODE_16903_length_924_cov_34.490545_g11138_i0.p1:1.2597619203,(SpiCA6_ANJ59766:0.8234316805,(SpiCA4_ANJ59764:0.4883409212,SpiCA5_ANJ59765:0.6004340912)91:0.2748634237)86:0.2099039832)41:0.0807796428)11:0.1071301098,Strongylocentrotus_purpuratus_XM_776389_2:1.0746840826)5:0.0314599268,((HEX07-FOCC_SPADES.k25.NODE_37738_length_332_cov_2.947883_g31191_i0.p1:1.3948641817,(BFLO_BL19134.1:0.9172136690,(BFLO_BL21076.1:0.9796210898,(BFLO_BL04770.1:0.5762771594,BFLO_BL04771.1:0.4408869790)85:0.1861374399)64:0.1965788790)46:0.1122839078)21:0.1258543543,(((sp_P18761_CAH6_MOUSE:0.6254535983,((sp_P18915_CAH6_BOVIN:0.1208735677,sp_P08060_CAH6_SHEEP:0.0903456708)90:0.1748542612,(sp_Q865C0_CAH6_CANLF:0.2374896165,(sp_P23280_CAH6_HUMAN:0.0000025259,Homo_sapiens_CA6_CCDS30578_1:0.0000025259)100:0.1622461280)81:0.0792735055)86:0.1998649878)100:0.8200500372,(((sp_Q9MZ30_CAH12_RABIT:0.1360836373,(sp_Q8CI85_CAH12_MOUSE:0.1312055695,(sp_O43570_CAH12_HUMAN:0.0000025259,Homo_sapiens_CA12_CCDS10185_1:0.0000025259)100:0.1237237039)80:0.0865877083)100:0.7378476793,(sp_Q9WVT6_CAH14_MOUSE:0.1283150990,(sp_Q9ULX7_CAH14_HUMAN:0.0000025259,Homo_sapiens_CA14_CCDS947_1:0.0000025259)100:0.1021692545)97:0.6465952575)72:0.1763961555,(sp_Q8VHB5_CAH9_MOUSE:0.1172020577,(sp_Q16790_CAH9_HUMAN:0.0000025259,Homo_sapiens_CA9_CCDS6585_1:0.0000025259)100:0.2352058972)100:1.0634545034)52:0.1260347413)54:0.1770499431,(sp_Q99N23_CAH15_MOUSE:1.2479874680,((sp_P48284_CAH4_RAT:0.1480749469,sp_Q64444_CAH4_MOUSE:0.2555396732)100:0.2028590401,(sp_P48283_CAH4_RABIT:0.2425455717,(sp_Q95323_CAH4_BOVIN:0.3193128614,(sp_P22748_CAH4_HUMAN:0.0000025259,Homo_sapiens_CA4_CCDS11624_1:0.0000025259)100:0.2228214909)95:0.1426059255)86:0.1933858827)100:1.0491068484)49:0.2260762448)14:0.1462655405)6:0.1366701052)4:0.1328972279,((sp_Q10462_CAH5_CAEEL:1.2547357415,sp_Q27504_CAH3_CAEEL:1.1872906437)63:0.3768794290,(HEX07-FOCC_SPADES.k25.NODE_9577_length_1263_cov_67.324717_g6713_i0.p1:0.0495987232,HEX06-EUSP_SPADES.k25.NODE_13830_length_1096_cov_72.931839_g4815_i2.p1:0.0517798266)100:1.0821382005)10:0.1041272566)6:0.1323345181,((CELE_T28F2.3.1:2.1940363024,((sp_Q6RZI9_CAHH_RABPU:0.0000029732,(sp_Q8V4Y0_CAHH_MONPZ:0.0512053581,(sp_P20508_CAHH_VACCC:0.0077065640,(sp_P33065_CAHH_VAR67:0.0352246341,(sp_O57211_CAHH_VACCA:0.0115840015,(sp_Q9JFA1_CAHH_VACCT:0.0077077189,sp_P04195_CAHH_VACCW:0.0038573345)71:0.0038670632)57:0.0037963995)69:0.0039005073)60:0.0039503308)41:0.0037335451)100:1.6213221105,(((Oscarella_m_36524:0.0420339323,Oscarella_m_36523:0.3584990655)100:1.0225492568,(((Leucosolenia_complicata_Lco_CA1:0.2069469290,(SCIL_scict1.004850.1:0.2452499237,Sci_CA1:0.0000020043)100:0.1027063960)65:0.1152562647,Gco_TM_TRINITY_DN19402_c0_g1_g2_i1:0.2800897264)93:0.2395362176,((Clw_CA1_c74180_g1_i1:0.2937345022,((Cco_TRINITY_DN21888_c0_g1_i1:0.0000025259,Cco_TRINITY_DN21888_c0_g2_i2_i4:0.0000025259)99:0.0000025259,Cco_TRINITY_DN21888_c0_g2_i3:0.0769793822)100:0.3776279547)52:0.0611398619,Por_combi_TRINITY_DN32622_c0_g1_i2:0.2791769487)95:0.2035749405)100:0.6870015215)6:0.0878671111,((Mnemiopsis_leidyi_ML044613a:1.8535783580,((CELE_R01E6.3b.1:0.0000025259,CELE_R01E6.3a.1:0.0000025259)100:1.6086436993,BFLO_BL05330.1:0.9265292407)37:0.2718486076)12:0.2378238673,(((SpiCA3_ANJ59763:0.8400741646,(HEX07-FOCC_SOAP.k25.C647023.p1:0.0000023672,HEX06-EUSP_TransABySS.k25.S56595.p1:0.0091040879)100:0.8499350371)45:0.1915377176,((BFLO_BL05331.1:0.5433125898,(BFLO_BL05332.1:0.1838112061,BFLO_BL05333.1:0.1909409821)96:0.1761700731)99:0.5960253387,(((sp_Q9ERQ8_CAH7_MOUSE:0.0749714710,(sp_P43166_CAH7_HUMAN:0.0000025259,Homo_sapiens_CA7_CCDS10821_1:0.0000025259)99:0.0000025888)100:0.5841616639,((sp_Q8UWA5_CAH2_TRIHK:0.1930209239,(sp_P83299_CAH1_CHIHA:0.1938664641,sp_Q92051_CAHZ_DANRE:0.2167326257)71:0.1331330721)94:0.1710249921,(((((sp_P00921_CAH2_BOVIN:0.0454479944,sp_P00922_CAH2_SHEEP:0.0748745762)100:0.1682625139,((sp_P00918_CAH2_HUMAN:0.0000025259,Homo_sapiens_CA2_CCDS6239_1:0.0000025259)100:0.0668446695,(sp_P00919_CAH2_RABIT:0.1507379625,(sp_P00920_CAH2_MOUSE:0.0495329293,sp_P27139_CAH2_RAT:0.0472268199)100:0.2068264934)37:0.0280412841)71:0.0744865325)93:0.1820967545,sp_P07630_CAH2_CHICK:0.2997421432)61:0.1151058012,((sp_P07450_CAH3_HORSE:0.0663866668,(sp_Q5S1S4_CAH3_PIG:0.0248690763,sp_Q3SZX4_CAH3_BOVIN:0.0771816573)84:0.0498830647)63:0.0218573800,(sp_P16015_CAH3_MOUSE:0.0053887653,(sp_P14141_CAH3_RAT:0.0224543277,(sp_P07451_CAH3_HUMAN:0.0000025259,Homo_sapiens_CA3_CCDS6238_1:0.0000025259)100:0.1049789009)50:0.0104850993)57:0.0343448127)100:0.5084486416)38:0.0610921033,((sp_Q9D6N1_CAH13_MOUSE:0.0317465999,(sp_Q8N1Q1_CAH13_HUMAN:0.0000025259,Homo_sapiens_CA13_CCDS6236_1:0.0000025259)100:0.0956187983)100:0.3553310244,(sp_Q8HY33_CAH1_MONDO:0.2110394098,((((sp_P48282_CAH1_SHEEP:0.0781211860,sp_Q1LZA1_CAH1_BOVIN:0.0408741166)98:0.1396103662,(sp_P00917_CAH1_HORSE:0.1725039580,((sp_P35217_CAH1_MACNE:0.0050899417,sp_P00916_CAH1_MACMU:0.0050991469)100:0.0341056367,((sp_Q7M317_CAH1_PANTR:0.0050856775,(sp_P00915_CAH1_HUMAN:0.0000025259,Homo_sapiens_CA1_CCDS6237_1:0.0000025259)89:0.0049997252)62:0.0000025259,sp_Q7M316_CAH1_GORGO:0.0253005040)53:0.0222580839)98:0.0975703699)52:0.0306077503)30:0.0291312333,sp_P07452_CAH1_RABIT:0.1818445883)37:0.0295250045,(sp_B0BNN3_CAH1_RAT:0.0100790500,sp_P13634_CAH1_MOUSE:0.0572261384)100:0.1574699433)90:0.1217911052)98:0.2114163116)50:0.1081507759)60:0.0712838087)79:0.1341636612)30:0.0676973951,(((sp_Q9Y2D0_CAH5B_HUMAN:0.0000025259,Homo_sapiens_CA5B_CCDS14171_1:0.0000025259)100:0.0596209479,(sp_Q9QZA0_CAH5B_MOUSE:0.0154326946,sp_Q66HG6_CAH5B_RAT:0.0369893500)88:0.0626815309)97:0.4060725854,((sp_P35218_CAH5A_HUMAN:0.0000025259,Homo_sapiens_CA5A_CCDS10965_1:0.0000025259)100:0.1783049813,(sp_P23589_CAH5A_MOUSE:0.0840493807,sp_P43165_CAH5A_RAT:0.1105268219)99:0.2435124525)94:0.2608097536)100:0.6321832678)70:0.1725376223)33:0.0956101466)12:0.0875011854,((SpiCA11_ANJ59771:1.3427259420,(((TADH_g237.t1__scaffold_1:0.3109250056,HHON_braker1_g08147.t1:0.2160027920)100:0.4104163586,(HHON_braker1_g04320.t1:0.3225814212,TADH_g5193.t1__scaffold_5:0.4041303730)99:0.2951833878)92:0.2933990027,((TADH_g4582.t1__scaffold_4:0.1492305281,HHON_braker1_g00977.t1:0.2410781113)100:0.8324772481,((Strongylocentrotus_purpuratus_XM_790272_2:0.5859630641,((sp_P35219_CAH8_HUMAN:0.0000025259,Homo_sapiens_CA8_CCDS6174_1:0.0000025259)86:0.0000020411,(sp_Q5PPN4_CAH8_RAT:0.0045290815,sp_P28651_CAH8_MOUSE:0.0044922226)73:0.0091223660)100:0.4945653954)65:0.0875390405,BFLO_BL05188.1:0.3936484355)98:0.4408359168)81:0.3630158092)40:0.0861528749)25:0.1101593012,Strongylocentrotus_purpuratus_XM_777904_2:0.8696171380)17:0.1914572293)1:0.0007146107)3:0.1021569664)16:0.1580204223)20:0.1059899022)8:0.0778311790,(SpiCA1_ANJ59762:1.4820703958,((HHON_braker1_g05262.t1:0.4992508413,TADH_g395.t1__scaffold_1:0.6582585905)100:0.5301041751,((HHON_braker1_g05254.t1:0.3295882666,TADH_g392.t1__scaffold_1:0.4290084271)100:0.4363617692,((TADH_g394.t1__scaffold_1:0.4502740019,HHON_braker1_g05255.t1:0.5781165742)99:0.1755653582,((HHON_braker1_g05256.t1:0.1740129671,HHON_braker1_g05257.t1:0.1213076741)100:0.5405550040,(HHON_braker1_g05258.t1:0.2762780420,HHON_braker1_g05260.t1:0.5530282419)92:0.1945276871)80:0.1525733403)98:0.4181369236)99:0.4033087768)59:0.1070250429)16:0.1510820893)1:0.0734232743,(((((((((SpiCA16_ANJ59776:0.8030915627,sp_B8V7P3_CAH_ACRMI:1.4656677098)70:0.3548246232,SpiCA2_ACE95141:0.6923467993)63:0.2965880052,SpiCA15_ANJ59775:1.2949606578)37:0.1262896699,((SpiCA9_ANJ59769:0.8868155082,SpiCA10_ANJ59770:0.8747714964)40:0.1008483802,(((SpiCA13_ANJ59773:0.3615521983,SpiCA14_ANJ59774:0.4619105089)100:0.6812074122,SpiCA12_ANJ59772:0.6280109782)59:0.0980153679,SpiCA8_ANJ59768:0.4931391599)97:0.4685505030)22:0.1030862618)33:0.1869964285,SpiCA7_ANJ59767:2.1778547603)25:0.0511249975,((sp_B3A0P2_CAH1_LOTGI:0.7420092088,sp_B3A0Q6_CAH2_LOTGI:1.1142909275)100:0.9633475046,(sp_P86856_MANL_MYTCA:0.9794046510,(sp_Q9NL38_MA66_PINMA:0.2085581990,(sp_A0ZSF3_MAM_PINMA:0.0121635826,((sp_Q27908_MANA_PINFU:0.0000025259,sp_A0ZSF2_MAF_PINFU:0.0162431091)70:0.0040775584,(sp_A0ZSF7_MAC2_CRANI:0.0040365163,sp_A0ZSF5_MAP2_MIZYE:0.0081436917)64:0.0040551053)63:0.0000025259)97:0.2076246922)100:0.8882617503)100:0.7078198143)70:0.4440054360)18:0.1126973281,(TADH_g5620.t1__scaffold_5:1.2212190660,((sp_Q18932_CAH2_CAEEL:0.6967239161,(CELE_F54D8.4a.1:0.0000026965,(sp_Q20781_CAH1_CAEEL:0.0151006548,CELE_F54D8.4b.1:0.0000025259)57:0.0058707614)100:0.8156254151)100:0.6316127731,(BFLO_BL02807.1:0.6166037551,(Strongylocentrotus_purpuratus_XM_779703_2:1.0971892662,((sp_A0JN41_CAH10_BOVIN:0.0069425062,(sp_Q5R4U0_CAH10_PONAB:0.0000025259,Homo_sapiens_CA10_CCDS32684_1:0.0000025259)97:0.0000026308)100:0.3322430891,((((sp_Q95203_CAH11_SHEEP:0.0195199853,sp_Q866X7_CAH11_BOVIN:0.0038727621)60:0.0038521325,(sp_O70354_CAH11_MOUSE:0.0195468106,sp_Q866X6_CAH11_PIG:0.0156151585)67:0.0038506851)69:0.0155221939,sp_Q5R665_CAH11_PONAB:0.0038433161)49:0.0038238798,(sp_O75493_CAH11_HUMAN:0.0000025259,Homo_sapiens_CA11_CCDS12729_1:0.0000025259)91:0.0000027088)100:0.6290101377)100:0.5264587228)57:0.1640687669)70:0.1932367527)96:0.3565007877)20:0.1620653592)6:0.1094045752,((Oscarella_m_306267:0.5054452248,Oscarella_m_65108:0.5836194570)100:0.8802749991,(((Leucosolenia_complicata_Lco_CA6_L:0.3654590060,(Gco_TM_TRINITY_DN34720_c0_g1_i1:0.5076753810,(SCIL_scict1.003292.1:0.0000025259,Sci_CA9_L:0.0000025259)100:0.2213156372)96:0.1387402314)100:0.4130335406,((Clw_CA6_c56309_g1_i1:0.2778803686,(Por_combi_TRINITY_DN29730_c1_g2_i1:0.0000025259,Por_combi_TRINITY_DN29730_c1_g2_i2:0.0000025259)100:0.3642465052)61:0.1131779207,Cco_TRINITY_DN34241_c0_g1_i1:0.3055523795)97:0.2279868524)100:0.8287412646,(((Leucosolenia_complicata_Lco_CA4:0.9141297245,Leucosolenia_complicata_Lco_CA5:1.0008055564)97:0.3390793820,((Por_combi_TRINITY_DN34537_c2_g1_i1:0.2831493025,(Por_combi_TRINITY_DN33844_c2_g3_i1:0.0000025259,Por_combi_TRINITY_DN33844_c2_g3_i2:0.0000025259)100:0.5509956522)74:0.2913569114,(Por_combi_TRINITY_DN20840_c0_g1_i1:0.6491978373,(Clw_CA5a_c63410_g1_i1:0.0000025259,Clw_CA5b_c63410_g1_i2:0.0000025259)100:0.4424994776)64:0.1442560211)98:0.5112720630)96:0.3868433285,((((Clw_CA4a_c71250_g1_i1:0.0000025259,Clw_CA4b_c71250_g1_i2:0.0000025259)100:1.0967738458,((Clw_CA2_c65033_g1_i1:0.5020636100,Cco_TRINITY_DN19708_c0_g2_i1:0.6666409043)68:0.1453758950,(Por_combi_TRINITY_DN30398_c1_g2_i1:0.6387937948,((Por_combi_TRINITY_DN27673_c3_g1_i5:0.0000025259,Por_combi_TRINITY_DN27673_c3_g1_i4:0.0271547928)76:0.0162949180,(Por_combi_TRINITY_DN27673_c3_g1_i1:0.0000025259,Por_combi_TRINITY_DN27673_c3_g1_i2:0.0277664673)71:0.0163727340)84:0.2222542369)100:0.6214417230)70:0.1011251202)38:0.0328142523,((Por_combi_TRINITY_DN34026_c0_g1_i2:0.0017653647,Por_combi_TRINITY_DN34026_c0_g1_i1:0.0083474179)100:0.4122535721,(Cco_TRINITY_DN26519_c6_g1_i1_i4_i5:0.3917916140,(Clw_CA3a_c69146_g1_i1:0.0000025259,Clw_CA3b_c69146_g1_i2:0.0000025259)100:0.3629112979)73:0.1187675962)100:0.3445841874)99:0.3243383157,(((Leucosolenia_complicata_Lco_CA2:0.6619512699,Leucosolenia_complicata_Lco_CA3:0.9729994395)38:0.1089568773,((((SCIL_scict1.011857.1:0.0199796080,Sci_CA2:0.0217738635)100:0.5242340794,(Gco_TM_TRINITY_DN28276_c0_g3_i2_g1_i2_i3:0.0000025259,Gco_TM_TRINITY_DN28276_c0_g1_i4:0.0132261361)100:0.2555414152)100:0.5556568773,(SCIL_scict1.011854.1:0.0000025259,Sci_CA3:0.0071035646)100:0.5672360847)38:0.0338361309,(Gco_TM_TRINITY_DN19387_c0_g1_i1:0.5356623262,(Gco_TM_TRINITY_DN31930_c2_g1_i1:0.0044052102,Gco_TM_TRINITY_DN31930_c2_g2_i1-i4:0.0128777503)100:0.2077161781)100:0.4444054209)45:0.1299318418)35:0.0963728813,(((SCIL_scict1.011831.1:0.0000025259,Sci_CA8:0.0000025259)100:1.0073860658,((Sci_CA4:0.4014475872,(SCIL_scict1.008561.1:0.0000025259,Sci_CA5:0.0000025259)100:0.3006830784)100:0.2280923960,(Sci_CA6:0.5401971151,(SCIL_scict1.008562.1:0.0000025259,Sci_CA7:0.0041726532)100:0.2160065692)100:0.1991819191)78:0.1620449018)65:0.1289793404,((((Gco_TM_TRINITY_DN32004_c2_g1_i2:0.0000025259,Gco_TM_TRINITY_DN32004_c2_g1_i7:0.0000025259)99:0.0911449599,Gco_TM_TRINITY_DN32004_c2_g1_i8:0.0362397764)77:0.0275755592,Gco_TM_TRINITY_DN32004_c2_g1_i10:0.0000253269)100:0.2391028874,(Gco_TM_TRINITY_DN30683_c0_g1_i2:0.0000025259,((Gco_TM_TRINITY_DN30683_c0_g3_i4_10:0.0000025259,Gco_TM_TRINITY_DN30683_c0_g1_i3:0.0043226449)53:0.0000013978,(Gco_TM_TRINITY_DN30683_c0_g3_i5_8_9_12:0.0000025259,(Gco_TM_TRINITY_DN30683_c0_g1_i4:0.0000025259,Gco_TM_TRINITY_DN30683_c0_g1_i5:0.0000025259)70:0.0107926069)59:0.0000025259)53:0.0130272637)83:0.1451948973)100:0.7258562566)66:0.1391500311)100:0.5985460921)47:0.1167438455)61:0.0459373117)35:0.1554899520)5:0.0427709611)2:0.0470148228,(Oscarella_m_39771:0.5576187703,(Oscarella_m_15344:0.0000020703,Oscarella_m_15341:0.0031897376)100:0.5508199169)98:0.7078141944)9:0.0692652975)1:0.0530708854,((((((AQUE_Aqu2.1.41692_001:0.0000025259,Amphimedon_XM_003383369:0.0000025259)100:1.1636592312,Suberites_domuncula_DD298191.1:1.2611676369)54:0.3364264781,(((AQUE_Aqu2.1.22794_001:0.0045616259,Amphimedon_queenslandica_EF434873:0.0000024904)100:0.2657327071,(AQUE_Aqu2.1.22795_001:0.5035681678,(AQUE_Aqu2.1.22793_001:0.0000025259,Amphimedon_XM_003388939:0.0000025259)100:0.4348197647)92:0.2249862711)100:0.8828370105,(AQUE_Aqu2.1.31900_001:0.0000025259,CA3_Amphimedon_queenslandica_EF434875:0.0000025259)100:0.9383405493)33:0.1040415071)12:0.1326347164,((Ephydatia_m_288705:0.1638034332,(EMUE_Em0001g678a:0.0217114510,(EMUE_Em0001g682a:0.0000025259,Ephydatia_m_266032:0.0000025259)100:0.0090135987)100:0.3872145243)100:0.8131502814,((EMUE_Em0014g559a:0.7258337800,(EMUE_Em0014g586a:0.0059631725,Ephydatia_m_285462:0.0185623287)100:0.7483732596)97:0.5200170651,((EMUE_Em0014g599a:0.0000025259,Ephydatia_m_57082:0.0044658601)100:0.7979787692,(Astrosclera_EF434876_Ascl1:0.1941645715,(Astrosclera_EF434878_Ascl3:0.0107558126,Astrosclera_EF434877_Ascl2:0.0486716848)70:0.0248891519)100:0.5173435963)66:0.2092199887)41:0.2309055115)37:0.1609936746)25:0.0966858088,(EMUE_Em0008g606a:1.2360635644,((EMUE_Em0008g787a:0.0000025259,Ephydatia_m_68550:0.0082803884)100:0.4598171156,(EMUE_Em0436g4a:0.1099209997,EMUE_Em0557g4a:0.1257297696)100:0.3157850802)99:0.3438908989)100:0.7729127672)95:0.4585177360,((O_minuta_LOD99_964.mRNA.1:1.2756255696,((HEX06-EUSP_SPADES.k25.NODE_18962_length_832_cov_15.434944_g12666_i0.p1:0.4459992870,HEX07-FOCC_SPADES.k25.NODE_11079_length_1142_cov_12.306177_g7795_i0.p1:0.4563353835)47:0.0757562038,Avas.s001.g1473.i1:0.2177613607)94:0.7342016292)100:1.0477630414,((O_minuta_LOD99_966.mRNA.1:0.3718037203,(HEX06-EUSP_SPADES.k33.NODE_875_length_3708_cov_64.309388_g606_i0.p1:0.1776618446,(HEX07-FOCC_TransABySS.k33.J320628.p1:0.1133372324,((Aphrocallistes_vastus_comp9306_c0_seq2:0.0000025259,Aphrocallistes_vastus_comp9683_c0_seq1:0.0000025259)100:0.0000025259,(Avas.s001.g1475.i1:0.0047441656,Aphrocallistes_vastus_comp9306_c0_seq1:0.0000025259)99:0.0194731187)99:0.1700736564)99:0.1508864975)100:0.3258549892)100:0.8489418403,((O_minuta_LOD99_7559.mRNA.1:0.5946893396,(HEX06-EUSP_SPADES.k33.NODE_716_length_3935_cov_62.104818_g496_i0.p2:0.3322699998,(HEX07-FOCC_SPADES.k33.NODE_9398_length_1175_cov_33.884413_g6837_i0.p1:0.2598969944,(Avas.s001.g1477.i1:0.0039862761,Aphrocallistes_vastus_comp22564_c0_seq2:0.0000025259)100:0.2506689480)99:0.1112268880)97:0.2311188820)100:0.3946960631,((O_minuta_LOD99_7560.mRNA.1:0.1457936704,O_minuta_LOD99_7562.mRNA.1:0.1606613864)100:0.3611770222,(HEX07-FOCC_TRINITY_DN10486_c0_g1_i2.p1:0.4639140780,((HEX07-FOCC_TransABySS.k25.S476923.p1:0.1683566587,(((Avas.s001.g1481.i1:0.0036731744,Aphrocallistes_vastus_comp21870_c0_seq1:0.0110966616)63:0.0148947641,((Aphrocallistes_vastus_comp22564_c0_seq2_1:0.0000025259,Aphrocallistes_vastus_comp22564_c0_seq1:0.0000025259)46:0.0000025259,Aphrocallistes_vastus_comp22564_c0_seq3:0.0000025259)94:0.0000025259)64:0.0308474521,Avas.s001.g1480.i1:0.0084052241)100:0.4547619383)52:0.0767638577,HEX06-EUSP_TransABySS.k37.R134804.p1:0.3069600585)65:0.1538775695)98:0.2831125619)100:0.4702488228)86:0.2772422293)88:0.2533055951)76:0.3112544463)21:0.1133386971)18:0.2170384852,(Mnemiopsis_leidyi_ML01591a:1.9540949739,(Mnemiopsis_leidyi_ML009152a:1.1755320646,(Mnemiopsis_leidyi_ML36932a:1.5019118884,Mnemiopsis_leidyi_ML01323a:0.8553819975)83:0.2660642122)61:0.2543852733)60:0.4870493982)30:0.1318070501,sp_P54212_CAH_DUNSA:1.8493218282)46:0.1922535337,(sp_O04846_ATCA1_ARATH:0.9571787570,(sp_Q9FYE3_ATCA3_ARATH:0.8443619774,((sp_F4JIK2_ATCA4_ARATH:0.1698088130,sp_Q9SUB4_ATCA6_ARATH:0.3305813536)100:0.4806798750,(sp_Q84UV8_NEC3_NICLS:0.7118003983,((sp_F4HUC4_ATCA5_ARATH:0.2952217743,sp_Q9FM99_ATCA8_ARATH:0.2951091504)100:0.3046361883,(sp_Q8L817_ATCA7_ARATH:0.2637781623,sp_F4IHR4_ATCA2_ARATH:0.3386210154)99:0.1617017011)93:0.1829649853)78:0.2006706139)41:0.0967359619)81:0.3940980668)100:0.6698272817)25:0.0718929053,(sp_P24258_CAH2_CHLRE:0.0074621098,(sp_P20507_CAH1_CHLRE:0.0000025259,Chlamydomonas_reinhardtii_P20507:0.0000025259)100:0.0781499050)100:1.3306880778)58:0.2628638506,(((sp_O52535_CAH_KLEPN:0.0000025259,EB_Klebsiella_pneumoniae_O52535:0.0000025259)100:0.7780031966,(sp_O52538_CAH_PECCA:0.0042210764,(sp_Q6DAJ6_CAH_PECAS:0.0000025259,EB_Pectobacterium_atrosepticum_Q6DAJ6:0.0000025259)100:0.0598488480)100:0.6393849561)64:0.1487694137,sp_Q50940_CAH_NEIGO:0.9395767927)91:0.2691755056);
+
+TIME STAMP
+----------
+
+Date and time: Mon Dec 19 07:53:24 2022
+Total CPU time used: 51607.99825 seconds (14h:20m:7s)
+Total wall-clock time used: 3318.566356 seconds (0h:55m:18s)
+

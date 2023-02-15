@@ -39,6 +39,13 @@ Molecular weight of sequences and potential cleavage products assuming a cut at 
 | Rosella_fibulata_TR13145_c0_g2_i1_2 | 50869.66 | 6.110 |
 | R.fibulata_glassin-cut | 28446.33 | 6.340 |
 
+Gene appears to be single copy in Avas. Only hit in the genome is the known locus on scaffold 014:
+
+```
+tblastn -query glassin_euplectella_only.fasta -db ../../v1.29/Avas.v1.29_scaffolds.fasta -outfmt 6 -evalue 1e-1
+Euplectella_curvistellata|BAS21353.1	Aphrocallistes_vastus_HiC-scaffold_014	40.116	172	102	1	121	292	2478578	2478066	2.18e-36	139
+Euplectella_curvistellata|LC012024.1	Aphrocallistes_vastus_HiC-scaffold_014	40.116	172	102	1	121	292	2478578	2478066	2.18e-36	139
+```
 
 ### TIL domain protein ###
 The identification of proteins with compositional bias was done with the script [protein_repeat_finder.py](https://bitbucket.org/wrf/sequences/src/master/protein_repeat_finder.py), making the table output only. Option `-m` restricts proteins with at least 50AAs, avoiding compositional bias flags for very short proteins.
@@ -99,6 +106,19 @@ The structure with sequence identity of carbonic anhydrase-silicase is made usin
 This generates a [PyMol script](https://pymol.org/2/), run as:
 
 `@/home/dummy/git/Aphrocallistes_vastus_genome/biomineralization/AF-A6QR76-F1-model_v4.color_by_identity.pml`
+
+
+### actins ###
+Matching the actin sequence from [Ehrlich 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202105059), three nearly identical actins are found in Avas.
+
+```
+# successive identification of exact motifs
+findmotif.py -m AGFAGDDAPRAVFPSIVGRPR paralogs_holozoa_allprots_v10_00016.fasta > round1
+findmotif.py -m VAPEEHPVLLTEAPLNPK round1 > round2
+findmotif.py -m GYSFTTTAER round2 > round3
+getAinB.py Avas round3 -s > actins_matching_ehrlich2022.fasta
+```
+
 
 ### collagen loci ###
 Schematic is generated using:
@@ -253,6 +273,5 @@ NFTDGLAIGASYLAGHSVGVVTTLTILFHELPHEVGDFAILVQSGYPKRKAILLQLVTAI
 GALAGTLCGLFADSVGVAATAWILPFTAGGFIYIATVSVIPVLLENSSPGQSILEILAMF
 AGIGMMVVIAFVE
 ```
-
 
 

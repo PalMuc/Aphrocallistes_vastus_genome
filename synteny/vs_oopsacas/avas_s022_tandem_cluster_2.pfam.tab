@@ -168,5 +168,5 @@ DUF1768              PF08719.11   161 O_minuta|LOD99_3823.mRNA.1 -            88
 # Target file:     /home/wrf/db/Pfam-A.hmm
 # Option settings: hmmscan --domtblout avas_s022_tandem_cluster_2.pfam.tab --cpu 1 /home/wrf/db/Pfam-A.hmm avas_s022_tandem_cluster_2.fasta 
 # Current dir:     /mnt/data/project/genomes/aphrocallistes_vastus_PORI/Aphrocallistes_vastus_genome/synteny/vs_oopsacas
-# Date:            Mon Dec 12 20:09:32 2022
+# Date:            Sun Jan  1 16:28:07 2023
 # [ok]

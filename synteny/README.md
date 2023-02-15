@@ -54,6 +54,13 @@ cut -f 2 Avas.1.29_vs_oopsacas_gb.scaffold2d_points.scaf22.no_match.tab | grep -
 getAinB.py Avas.1.29_vs_oopsacas_gb.scaffold2d_points.scaf22.no_match.names avas_omin_proteins_combined.fasta > Avas.1.29_vs_oopsacas_gb.scaffold2d_points.scaf22.no_match.fasta
 ```
 
+To check for frequency of breakpoints:
+
+```
+sizecutter.py -t 648965,649112 Avas.s022.nt.fa > Avas.s022.nt.g188-g189_breakpoint.fa
+blastn -query Avas.s022.nt.g188-g189_breakpoint.fa -db Avas.s022.nt.fa
+blastn -query Avas.s022.nt.g188-g189_breakpoint.fa -db Avas.s022.nt.fa -task blastn-short
+```
 
 ### with *Ephydatia muelleri* ###
 This is the [version v1](https://spaces.facsci.ualberta.ca/ephybase/) from the *Ephydatia muelleri* genome paper by [Kenny et al 2020](https://doi.org/10.1038/s41467-020-17397-w)

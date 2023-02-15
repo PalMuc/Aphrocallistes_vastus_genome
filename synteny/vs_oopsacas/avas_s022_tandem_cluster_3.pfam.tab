@@ -74,5 +74,5 @@ Bacteriocin_IIc      PF10439.9     62 Avas.s022.g439.i1    -            473     
 # Target file:     /home/wrf/db/Pfam-A.hmm
 # Option settings: hmmscan --domtblout avas_s022_tandem_cluster_3.pfam.tab --cpu 1 /home/wrf/db/Pfam-A.hmm avas_s022_tandem_cluster_3.fasta 
 # Current dir:     /mnt/data/project/genomes/aphrocallistes_vastus_PORI/Aphrocallistes_vastus_genome/synteny/vs_oopsacas
-# Date:            Mon Dec 12 20:08:50 2022
+# Date:            Sun Jan  1 16:28:12 2023
 # [ok]

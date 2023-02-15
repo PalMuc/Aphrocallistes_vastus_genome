@@ -580,5 +580,5 @@ CPT                  PF07931.12   174 Avas.s032.g8.i1      -            506     
 # Target file:     /home/wrf/db/Pfam-A.hmm
 # Option settings: hmmscan --domtblout avas_s022_tandem_cluster_1.pfam.tab --cpu 1 /home/wrf/db/Pfam-A.hmm avas_s022_tandem_cluster_1.fasta 
 # Current dir:     /mnt/data/project/genomes/aphrocallistes_vastus_PORI/Aphrocallistes_vastus_genome/synteny/vs_oopsacas
-# Date:            Mon Dec 12 16:00:59 2022
+# Date:            Sun Jan  1 16:27:54 2023
 # [ok]

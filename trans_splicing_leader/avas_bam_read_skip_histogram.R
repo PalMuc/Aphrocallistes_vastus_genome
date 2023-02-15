@@ -10,8 +10,9 @@ skipdata = read.table(skipdata_file, sep="\t")
 forward_skips = table(skipdata[,2])
 reverse_skips = table(skipdata[,3])
 
-pdf(file="~/git/Aphrocallistes_vastus_genome/trans_splicing_leader/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.ONT-RNA_minimap2.skip.pdf", 
+pdf(file="~/git/Aphrocallistes_vastus_genome/trans_splicing_leader/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.ONT-RNA_minimap2.skip.a4.pdf", 
     height=7, width=7, paper="a4")
+#pdf(file="~/git/Aphrocallistes_vastus_genome/trans_splicing_leader/Aphrocallistes_instagraal_l4_n50_c1_N5.polished_sorted_hardmasked.ONT-RNA_minimap2.skip.pdf", height=6, width=7 )
 par(mar=c(10,4.5,1,1))
 plot(0,0,type='n', xlim=c(0,100), ylim=c(0,500000), 
      ylab="Count", xlab="S length (bp)", 
