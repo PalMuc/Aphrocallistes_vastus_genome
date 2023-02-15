@@ -38,14 +38,17 @@ dev.off()
 # scaffold overview barplot
 scaf_size_data = read.table("Avas.v1.29_scaffolds.sizes", sep="\t", row.names = 1)
 
-pdf(file="Avas.v1.29_scaffolds.sizes.pdf", width=8, height=5, paper="a4")
-par(mar=c(4.5,4.5,1,1))
+pdf(file="Avas.v1.29_scaffolds.sizes.a4.pdf", width=8, height=7, paper="a4")
+#pdf(file="Avas.v1.29_scaffolds.sizes.pdf", width=8, height=5)
+par(mar=c(10,4.5,1,1))
+#par(mar=c(4.5,4.5,1,1))
 barplot(scaf_size_data$V2[1:50]/1e6, col="#101c98dd", border = NA, xlab="Avas v1.29 scaffold ID",
         ylab="Scaffold size (Mbp)", cex.lab=1.3, axes=FALSE,
         names.arg = gsub("Aphrocallistes_vastus_HiC-scaffold_","",rownames(scaf_size_data))[1:50],
         las=3, cex.names = 0.7 )
 axis(2, at=seq(0,8,1), cex.axis=1.3)
 text(60,8,paste("Showing 50 out of", nrow(scaf_size_data), "scaffolds"), pos=2 )
+mtext("Supplemental Figure 2: Barplot of scaffold lengths, \nshowing only the top 50. \nThe remaining scaffolds are 30kb or less.", 1, line=8, cex = 1.4, font=2)
 dev.off()
 
 
@@ -72,8 +75,6 @@ mtext("Supplemental Figure 1:\nMapping coverage histogram,\nshowing average cove
 dev.off()
 
 
-################################################################################
-
 
 
 ################################################################################
@@ -97,8 +98,8 @@ get_scaffold_stat_from_gff = function(gff_file){
 
 av_genome_gff_file = "Avas.v1.29_annotations.fr.gff"
 av_scaf_stats = get_scaffold_stat_from_gff(av_genome_gff_file)
-om_scaf_stats = get_scaffold_stat_from_gff("JAKMXF01.1.gbff.gff")
-em_scaf_stats = get_scaffold_stat_from_gff("Emu_augustus_vs_nb_sysnames.gff")
+om_scaf_stats = get_scaffold_stat_from_gff("~/genomes/oopsacas_minuta_PORI/JAKMXF01.1.gbff.gff")
+em_scaf_stats = get_scaffold_stat_from_gff("~/genomes/ephydatia_muelleri/Emu_augustus_vs_nb_sysnames.gff")
 nv_scaf_stats = get_scaffold_stat_from_gff("~/genomes/nematostella_vectensis_CNID/NVEC200.20200813.gff")
 ta_scaf_stats = get_scaffold_stat_from_gff("~/genomes/trichoplax_adhaerens/Trichoplax_scaffolds_JGI_AUGUSTUS_no_comment.gff")
 bf_scaf_stats = get_scaffold_stat_from_gff("~/genomes/branchiostoma_floridae/amphioxus_7u5tJ.gtf.gz")
@@ -123,8 +124,9 @@ points( hc_scaf_stats, pch=16, col="#6d18d3aa", cex=2)
 
 
 # log plot
-pdf(file="invert_chr_level_scaf_size_vs_genes.v1.pdf", width=6, height=6, useDingbats = FALSE)
-par(mar=c(5,5,1,1))
+#pdf(file="invert_chr_level_scaf_size_vs_genes.v1.pdf", width=6, height=6, useDingbats = FALSE)
+pdf(file="invert_chr_level_scaf_size_vs_genes.v1.a4.pdf", width=6, height=7, useDingbats = FALSE, paper = "a4")
+par(mar=c(10,5,1,1))
 plot( 1,1, type='n', xlim=c(2e5,1e8), ylim=c(99,5e3),
       xlab="Scaffold size (Mb)", ylab="Number of genes on scaffold", log="xy", frame.plot=FALSE, axes=FALSE, cex.lab=1.3)
 text(2e5,4000,"* keeping all scaffolds\nwith 100 or more genes", pos=4, cex=0.7)
@@ -149,6 +151,7 @@ text(2e6,2e3, "H.californensis", font=3, col="#b42cf7", cex=1.2)
 points( sc_scaf_stats, pch=16, col="#e81500aa", cex=2)
 text(1e7,150, "S.callimorphus", font=3, col="#e81500", cex=1.2)
 #points( hs_scaf_stats, pch=16, col="#3b4effaa", cex=2)
+mtext("Supplemental Figure 3:\nPlot of numbers of genes per scaffold by length\n across several chromosome-scale animal genomes.", 1, line=8, cex = 1.25, font=2)
 dev.off()
 
 
