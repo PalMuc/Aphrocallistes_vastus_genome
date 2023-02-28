@@ -1,0 +1,80 @@
+SeqName	ortholog_cluster_id	KEGG entry	Name	Symbol	WNT pathway part	log2FoldChange	padj
+Avas.s003.g982.i1	homolog_cluster_11657	K02842	frizzled 9/10	Fzd	ALL	-2.10494853216691	0.300660850076216
+Avas.s008.g161.i1	homolog_cluster_12630	K02235,K02432	frizzled 1/7	Fzd	ALL	2.03995596059078	1.08442623463042E-06
+Avas.s013.g491.i1	homolog_cluster_13372	K01691	WNT inhibitory factor 1	Wif1	canonical WNT	2.34632442310461	2.45173719591604E-08
+Avas.s004.g609.i1	homolog_cluster_11812	K02085	adenomatosis polyposis coli protein	APC	canonical WNT	-1.32952545783033	0.246486141058203
+Avas.s005.g1181.i1	homolog_cluster_12198	K02105	catenin beta 1	β-catenin	canonical WNT	-0.333338332197586	0.770601673060706
+Avas.s016.g283.i1	homolog_cluster_13689	K03068	low density lipoprotein receptor-related protein 5/6	LRP5/6	canonical WNT	0.087097014575168	0.966342809450405
+Avas.s005.g888.i1	paralog_cluster_01426	K03083	glycogen synthase kinase 3 beta	GSK-3β	canonical WNT	0.455932507105047	0.57134167344538
+Avas.s019.g124.i1	paralog_cluster_00276	K08957	casein kinase 1, alpha	CKI⍺	canonical WNT	0.92063670658622	0.025157117784699
+Avas.s020.g365.i1	paralog_cluster_00276	K08960	casein kinase 1, epsilon	CKIε	canonical WNT	0.741631229011574	0.071518942304833
+Avas.s021.g179.i1	paralog_cluster_01596	K03097	casein kinase II subunit alpha	CK2	canonical WNT	0.226193530900975	0.794927802429929
+Avas.s007.g807.i1	paralog_cluster_01876	K03115	casein kinase II subunit beta	CK2	canonical WNT	0.149335926943698	0.861709280073903
+Avas.s022.g475.i1	paralog_cluster_00530	K04345	protein kinase A	PKA	canonical WNT	-0.29832869943748	0.803609753219174
+Avas.s006.g799.i1	paralog_cluster_04603	K04496	C-terminal binding protein	CtBP	canonical WNT	0.158162701739296	0.888498130166624
+Avas.s019.g152.i1	homolog_cluster_13883	K04497	groucho	Groucho	canonical WNT	-0.122016353382533	0.95398987327807
+Avas.s015.g135.i1	homolog_cluster_13544	K04498	E1A/CREB-binding protein	CBP	canonical WNT	-0.030730029054768	0.978907299769406
+Avas.s005.g846.i1	paralog_cluster_00455	K04499	RuvB-like protein 1	RUVBL1	canonical WNT	-0.301869038142209	0.788696481842573
+Avas.s001.g2144.i1	paralog_cluster_00415	K23605	mothers against decapentaplegic homolog 3	SMAD3	canonical WNT	0.992581017105315	0.000868334575175
+Avas.s018.g393.i1	paralog_cluster_02210	K04501	mothers against decapentaplegic homolog 4	SMAD4	canonical WNT	0.0217743535984	0.982514030890117
+Avas.s020.g173.i1	paralog_cluster_04642	K23402	protein chibby 1	CBY1	canonical WNT	0.010640662547435	0.996115090205872
+Avas.s005.g451.i1	homolog_cluster_11952	K23491	catenin delta-2	𝜹-catenin	canonical WNT	0.572359055918769	0.2800453313667
+Avas.s003.g566.i1	homolog_cluster_11590	K02620	transcription factor 7	TCF	canonical WNT	0.605768177097821	0.276793158006303
+Avas.s020.g195.i1	homolog_cluster_13982	K02157	Axin	AXIN	canonical WNT	0.439638580367982	0.536817633757654
+Avas.s004.g709.i1	#N/A	K04494	chromodomain helicase DNA binding protein 8	Duplin	canonical WNT	-0.494132911197631	0.881823194254271
+Avas.s016.g284.i1	homolog_cluster_13690	K10152	G1/S-specific cyclin-D3	cycD	canonical WNT	-0.582941801347165	0.456266553122387
+Avas.s001.g932.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	0.551012101321138	0.372312104519678
+Avas.s011.g215.i1	#N/A	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	-0.648519492746415	0.786284080739527
+Avas.s014.g267.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	-0.252510782452549	0.826311735214687
+Avas.s014.g268.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	-0.006052183151209	0.996617996690146
+Avas.s014.g269.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	0.220626928069034	0.925415805240146
+Avas.s014.g271.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	-0.169167052351074	0.965520932663544
+Avas.s014.g272.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	0.097783077259194	0.990778810119638
+Avas.s014.g273.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	-0.445454697896137	0.907800514013477
+Avas.s014.g276.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	0.547613803027603	0.714899991760964
+Avas.s014.g277.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	1.09433571577524	0.703717758792381
+Avas.s014.g277.i2	#N/A	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	-0.759755286289687	#N/A
+Avas.s014.g279.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	0.70929938010707	0.722145293169621
+Avas.s014.g281.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	-0.40458748422453	0.843995603226999
+Avas.s014.g281.i2	#N/A	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	1.08202496097064	0.496079397424806
+Avas.s014.g287.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	-0.478873337136074	0.907800514013477
+Avas.s018.g459.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	-0.40130712515119	0.791771816592519
+Avas.s019.g148.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	0.262283869526069	0.940649508445556
+Avas.s019.g65.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	5.58367448495809	1.95717076450942E-13
+Avas.s020.g196.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	-0.378075582257117	0.503355288790982
+Avas.s020.g196.i2	#N/A	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	1.1637980653528	#N/A
+Avas.s020.g37.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	0.207922691812521	0.954584304645033
+Avas.s020.g37.i2	#N/A	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	1.10150114957231	0.005011813527266
+Avas.s020.g55.i1	paralog_cluster_00049	K04392	Ras-related C3 botulinum toxin substrate	RAC	Planar cell polarity (PCP)	-0.1693527676546	0.954382033695261
+Avas.s001.g1238.i1	homolog_cluster_10966	K04440	mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) 	JNK	Planar cell polarity (PCP)	-0.523088632537995	0.399697880468139
+Avas.s003.g19.i1	paralog_cluster_00121	K04440	mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) 	JNK	Planar cell polarity (PCP)	-0.102456786728992	0.895160822081954
+Avas.s005.g258.i1	paralog_cluster_00121	K04440	mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) 	JNK	Planar cell polarity (PCP)	-0.414671728969306	0.537780117379222
+Avas.s010.g688.i1	paralog_cluster_00121	K04440	mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) 	JNK	Planar cell polarity (PCP)	-0.005082804016976	0.996763067418368
+Avas.s019.g233.i1	homolog_cluster_13903	K04440	mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) 	JNK	Planar cell polarity (PCP)	1.64585373818358	0.01261527936348
+Avas.s019.g234.i1	homolog_cluster_13904	K04440	mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) 	JNK	Planar cell polarity (PCP)	0.645007842477888	0.820713425407402
+Avas.s019.g235.i1	homolog_cluster_13905	K04440	mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) 	JNK	Planar cell polarity (PCP)	2.06765432561462	0.351127799077988
+Avas.s012.g253.i1	paralog_cluster_00545	K04511	prickle	Prickle	Planar cell polarity (PCP)	-0.32119757555563	0.717524717564778
+Avas.s002.g74.i1	paralog_cluster_08515	K04513	Ras homolog gene family, member A	RhoA	Planar cell polarity (PCP)	1.68345832282154	0.122365554450344
+Avas.s002.g75.i1	paralog_cluster_08515	K04513	Ras homolog gene family, member A	RhoA	Planar cell polarity (PCP)	1.08869412142693	0.05476623532823
+Avas.s005.g108.i1	paralog_cluster_00395	K04513	Ras homolog gene family, member A	RhoA	Planar cell polarity (PCP)	0.073290022408468	0.958885771747089
+Avas.s008.g124.i1	paralog_cluster_00395	K04513	Ras homolog gene family, member A	RhoA	Planar cell polarity (PCP)	0.279984751598757	0.71494146271443
+Avas.s003.g767.i2	#N/A	K19626	inversin	INVS	Planar cell polarity (PCP)	-0.300890003181297	0.823968188368707
+Avas.s009.g253.i1	homolog_cluster_12891	K19626	inversin	INVS	Planar cell polarity (PCP)	-0.204731369364958	0.916573064061482
+Avas.s005.g857.i1	homolog_cluster_12091	K08110	glypican 4	Knypek	Planar cell polarity (PCP)	1.09222491811842	0.000387898255909
+Avas.s003.g908.i1	paralog_cluster_01319	K04348	serine/threonine-protein phosphatase 2B catalytic subunit 	CaN	WNT/Ca+	-0.341565783732294	0.474603766240767
+Avas.s023.g268.i1	homolog_cluster_14403	K04348	serine/threonine-protein phosphatase 2B catalytic subunit 	CaN	WNT/Ca+	-0.007233053943204	0.996115090205872
+Avas.s014.g401.i1	paralog_cluster_00558	K06268	serine/threonine-protein phosphatase 2B regulatory subunit	CaN	WNT/Ca+	0.245588188250003	0.855742149090872
+Avas.s004.g71.i1	paralog_cluster_00173	K04515	calcium/calmodulin-dependent protein kinase (CaM kinase) II 	CaMKII	WNT/Ca+	0.331841224538646	0.710616111850263
+Avas.s005.g1151.i1	paralog_cluster_00173	K04515	calcium/calmodulin-dependent protein kinase (CaM kinase) II 	CaMKII	WNT/Ca+	-0.000310321244486	0.999377705126442
+Avas.s018.g129.i1	paralog_cluster_00173	K04515	calcium/calmodulin-dependent protein kinase (CaM kinase) II 	CaMKII	WNT/Ca+	0.238318784529404	0.791822562379458
+Avas.s018.g129.i2	#N/A	K04515	calcium/calmodulin-dependent protein kinase (CaM kinase) II 	CaMKII	WNT/Ca+	-0.944146023504751	0.583118840869153
+Avas.s019.g212.i1	paralog_cluster_00173	K04515	calcium/calmodulin-dependent protein kinase (CaM kinase) II 	CaMKII	WNT/Ca+	-0.992585359662638	0.126217050734165
+Avas.s007.g5.i1	paralog_cluster_06262	K05858	phosphatidylinositol phospholipase C, beta	PLC	WNT/Ca+	0.476955824268346	0.32222189387069
+Avas.s011.g14.i1	paralog_cluster_06262	K05858	phosphatidylinositol phospholipase C, beta	PLC	WNT/Ca+	0.048102681946796	0.983306766139703
+Avas.s022.g317.i1	homolog_cluster_14304	K05858	phosphatidylinositol phospholipase C, beta	PLC	WNT/Ca+	0.05433635681162	0.978045120753904
+Avas.s020.g284.i1	homolog_cluster_14000	K02677	classical protein kinase C alpha type	PKC	WNT/Ca+	1.92977636069553	0.060987130737428
+Avas.s020.g283.i1	paralog_cluster_00168	K02677	classical protein kinase C alpha type	PKC	WNT/Ca+	2.46296922895629	5.55736024537484E-06
+Avas.s014.g32.i1	paralog_cluster_00168	K19662	classical protein kinase C beta type	PKC	WNT/Ca+	0.141212985057266	0.923460265593649
+Avas.s014.g27.i1	paralog_cluster_00168	K19662	classical protein kinase C beta type	PKC	WNT/Ca+	0.577901281179372	0.734610688240831
+Avas.s020.g286.i1	paralog_cluster_00168	K19662	classical protein kinase C beta type	PKC	WNT/Ca+	0.157206229839527	0.923062351357477
+Avas.s009.g449.i1	paralog_cluster_00168	K19663	classical protein kinase C gamma type	PKC	WNT/Ca+	-0.07769089236506	0.955143440334455

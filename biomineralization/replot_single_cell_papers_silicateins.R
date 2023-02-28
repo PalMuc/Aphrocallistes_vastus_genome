@@ -37,7 +37,7 @@ segments( max(which(aque_all_genes_expr>4966)), 0, y1=300000, col="#00000088", l
 segments( 0, 4966, x1=50000, col="#00000088", lty=2 )
 text(650,6000,"Expr > 5000 total", pos=4)
 legend(20000, 15000, legend=c("Silicateins","Cathepsins"), pch=17, col=c("#9ecae1", "#fe9929"), bty="n")
-mtext("Supplemental Figure 11:\nPlot of A. queenslandica body single cell RNAseq\nfrom Sebe-Pedros et al (2018).", 1, line=8, cex = 1.3, font=2)
+mtext("Supplemental Figure 12:\nPlot of A. queenslandica body single cell RNAseq\nfrom Sebe-Pedros et al (2018).", 1, line=8, cex = 1.3, font=2)
 dev.off()
 
 
