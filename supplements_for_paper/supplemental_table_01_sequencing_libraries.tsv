@@ -5,42 +5,42 @@ Oxford Nanopore MinION	Aphrocallistes_20171103_1624_MinION_DNA_guppy-3.4.5_R9.4.
 Oxford Nanopore MinION	Aphrocallistes_20171109_1116_MinION_DNA_guppy-3.4.5_R9.4.1_450bps_hac.fastq.gz	ONT DNA	single	750881	2984.750765	ERR11439697	NA	gDNA-1st_isolation	FLO-MIN106 SQK-LSK108 
 ONT PromethION	Aphrocallistes_20180308_1413_PromethION_DNA_guppy-3.4.5_R9.4.1_450bps_hac.fastq.gz	ONT DNA	single	1689119	6908.963706	ERR11439699	NA	gDNA-2nd_isolation	FLO-PRO001 SQK-LSK108
 Oxford Nanopore MinION	Aphrocallistes_20200221_1309_MinION_DNA_guppy-3.4.5_R9.4.1_450bps_hac.fastq.gz	ONT DNA	single	504866	1519.59843	ERR11439698	NA	3rd DNA isolation	FLO-MIN106 SQK-LSK109 
-Processed ONT reads	Aphrocallistes_DNA_guppy-3.4.5_R9.4.1_450bps_hac_porechopped_lordec_combined_1kb.fasta.gz	ONT DNA	processed	1848600	9372.945014	NA	NA		
-Processed ONT reads	Aphrocallistes_DNA_guppy-3.4.5_R9.4.1_450bps_hac_porechopped_lordec_combined_5kb.fasta.gz	ONT DNA	processed	629428	6300.181414	NA	NA		
-Processed ONT reads	Aphrocallistes_DNA_guppy-3.4.5_R9.4.1_450bps_hac_porechopped_lordec_combined_10kb.fasta.gz	ONT DNA	processed	214971	3380.610623	NA	NA		
-Processed ONT reads	Aphrocallistes_DNA_guppy-3.4.5_R9.4.1_450bps_hac_porechopped_lordec_combined_15kb.fasta.gz	ONT DNA	processed	78474	1736.700412	NA	NA		
-Processed ONT reads	Aphrocallistes_DNA_guppy-3.4.5_R9.4.1_450bps_hac_porechopped_lordec_combined_20kb.fasta.gz	ONT DNA	processed	33548	969.4617	NA	NA		
-Oxford Nanopore MinION	Body tissue run1	ONT RNA	single	6085746	3239.5	ERR11439700	NA	GW32145	
-Oxford Nanopore MinION	Body tissue run2	ONT RNA	single	3438636	2028.8	ERR11439701	NA	GW32145	
-Oxford Nanopore MinION	Body tissue run3	ONT RNA	single	1596755	793.2	ERR11439702	NA	GW32145	
-Processed ONT reads	Aphrocallistes-cDNA-guppy-3.2.4-R9.4.1-450bps_hac_run1.fastq.gz	ONT RNA	processed	10675134	5445.229538	NA	NA		
-Processed ONT reads	Aphrocallistes-cDNA-guppy-3.4.4-R10-450bps_hac_run2.fastq.gz	ONT RNA	processed	2693266	1530.97291	NA	NA		
-Processed ONT reads	Aphrocallistes-cDNA-guppy-3.4.4-R9.4.1-450bps_hac_run3.fastq.gz	ONT RNA	processed	4319531		NA	NA		
-Processed ONT reads	Aphrocallistes_ONT_cDNA_run1-3_lordec_TSL_porechopped.100bp.fasta.gz	ONT RNA	processed	10852114	6061.610851	NA	NA		
-Osculum	AV-20-10_S1_L001_R1_001.fastq.gz	RNAseq non-stranded	paired	14248172			NA	Ind-1	
-Osculum	AV-20-10_S1_L002_R1_001.fastq.gz	RNAseq non-stranded	paired	14335703			NA	Ind-1	
-Osculum	AV-20-10_S1_L003_R1_001.fastq.gz	RNAseq non-stranded	paired	14327529			NA	Ind-1	
-Osculum	AV-20-10_S1_L004_R1_001.fastq.gz	RNAseq non-stranded	paired	14101616			NA	Ind-1	
-Osculum	AV3-0-6_S9_L001_R1_001.fastq.gz	RNAseq non-stranded	paired	11159863			NA	Ind-3	
-Osculum	AV3-0-6_S9_L002_R1_001.fastq.gz	RNAseq non-stranded	paired	11193822			NA	Ind-3	
-Osculum	AV3-0-6_S9_L003_R1_001.fastq.gz	RNAseq non-stranded	paired	11191766			NA	Ind-3	
-Osculum	AV3-0-6_S9_L004_R1_001.fastq.gz	RNAseq non-stranded	paired	11025502			NA	Ind-3	
-Osculum	AV-4-0-6_S12_L001_R1_001.fastq.gz	RNAseq non-stranded	paired	13630754			NA	Ind-2	
-Osculum	AV-4-0-6_S12_L002_R1_001.fastq.gz	RNAseq non-stranded	paired	13705844			NA	Ind-2	
-Osculum	AV-4-0-6_S12_L003_R1_001.fastq.gz	RNAseq non-stranded	paired	13734497			NA	Ind-2	
-Osculum	AV-4-0-6_S12_L004_R1_001.fastq.gz	RNAseq non-stranded	paired	13492075			NA	Ind-2	
-Body tissue	Av2-3-B-2_S7_L001	RNAseq non-stranded	paired	14313784			NA	Ind-1	
-Body tissue	Av2-3-B-2_S7_L002	RNAseq non-stranded	paired	14330295			NA	Ind-1	
-Body tissue	Av2-3-B-2_S7_L003	RNAseq non-stranded	paired	14373013			NA	Ind-1	
-Body tissue	Av2-3-B-2_S7_L004	RNAseq non-stranded	paired	14123324			NA	Ind-1	
-Body tissue	B1-4-2_S10_L001_R1_001.fastq.gz	RNAseq non-stranded	paired	13030893			NA	Ind-4	
-Body tissue	B1-4-2_S10_L002_R1_001.fastq.gz	RNAseq non-stranded	paired	13133777			NA	Ind-4	
-Body tissue	B1-4-2_S10_L003_R1_001.fastq.gz	RNAseq non-stranded	paired	13110180			NA	Ind-4	
-Body tissue	B1-4-2_S10_L004_R1_001.fastq.gz	RNAseq non-stranded	paired	12937674			NA	Ind-4	
-Body tissue	B2-8_S5_L001_R1_001.fastq.gz	RNAseq non-stranded	paired	9808999			NA	Ind-5	
-Body tissue	B2-8_S5_L002_R1_001.fastq.gz	RNAseq non-stranded	paired	9819428			NA	Ind-5	
-Body tissue	B2-8_S5_L003_R1_001.fastq.gz	RNAseq non-stranded	paired	9832730			NA	Ind-5	
-Body tissue	B2-8_S5_L004_R1_001.fastq.gz	RNAseq non-stranded	paired	9657699			NA	Ind-5	
+Processed ONT reads	Aphrocallistes_DNA_guppy-3.4.5_R9.4.1_450bps_hac_porechopped_lordec_combined_1kb.fasta.gz	ONT DNA	processed	1848600	9372.945014		NA		
+Processed ONT reads	Aphrocallistes_DNA_guppy-3.4.5_R9.4.1_450bps_hac_porechopped_lordec_combined_5kb.fasta.gz	ONT DNA	processed	629428	6300.181414		NA		
+Processed ONT reads	Aphrocallistes_DNA_guppy-3.4.5_R9.4.1_450bps_hac_porechopped_lordec_combined_10kb.fasta.gz	ONT DNA	processed	214971	3380.610623		NA		
+Processed ONT reads	Aphrocallistes_DNA_guppy-3.4.5_R9.4.1_450bps_hac_porechopped_lordec_combined_15kb.fasta.gz	ONT DNA	processed	78474	1736.700412		NA		
+Processed ONT reads	Aphrocallistes_DNA_guppy-3.4.5_R9.4.1_450bps_hac_porechopped_lordec_combined_20kb.fasta.gz	ONT DNA	processed	33548	969.4617		NA		
+Oxford Nanopore MinION	Body tissue run1	ONT RNA	single	6085746	3239.5		NA	GW32145	
+Oxford Nanopore MinION	Body tissue run2	ONT RNA	single	3438636	2028.8		NA	GW32145	
+Oxford Nanopore MinION	Body tissue run3	ONT RNA	single	1596755	793.2		NA	GW32145	
+Processed ONT reads	Aphrocallistes-cDNA-guppy-3.2.4-R9.4.1-450bps_hac_run1.fastq.gz	ONT RNA	processed	10675134	5445.229538	ERR11439700	NA		
+Processed ONT reads	Aphrocallistes-cDNA-guppy-3.4.4-R10-450bps_hac_run2.fastq.gz	ONT RNA	processed	2693266	1530.97291	ERR11439701	NA		
+Processed ONT reads	Aphrocallistes-cDNA-guppy-3.4.4-R9.4.1-450bps_hac_run3.fastq.gz	ONT RNA	processed	4319531		ERR11439702	NA		
+Processed ONT reads	Aphrocallistes_ONT_cDNA_run1-3_lordec_TSL_porechopped.100bp.fasta.gz	ONT RNA	processed	10852114	6061.610851		NA		
+Osculum	AV-20-10_S1_L001_R1_001.fastq.gz	RNAseq non-stranded	paired	14248172		ERR11436214	NA	Ind-1	
+Osculum	AV-20-10_S1_L002_R1_001.fastq.gz	RNAseq non-stranded	paired	14335703		ERR11436215	NA	Ind-1	
+Osculum	AV-20-10_S1_L003_R1_001.fastq.gz	RNAseq non-stranded	paired	14327529		ERR11436216	NA	Ind-1	
+Osculum	AV-20-10_S1_L004_R1_001.fastq.gz	RNAseq non-stranded	paired	14101616		ERR11436217	NA	Ind-1	
+Osculum	AV3-0-6_S9_L001_R1_001.fastq.gz	RNAseq non-stranded	paired	11159863		ERR11436218	NA	Ind-3	
+Osculum	AV3-0-6_S9_L002_R1_001.fastq.gz	RNAseq non-stranded	paired	11193822		ERR11436219	NA	Ind-3	
+Osculum	AV3-0-6_S9_L003_R1_001.fastq.gz	RNAseq non-stranded	paired	11191766		ERR11436220	NA	Ind-3	
+Osculum	AV3-0-6_S9_L004_R1_001.fastq.gz	RNAseq non-stranded	paired	11025502		ERR11436221	NA	Ind-3	
+Osculum	AV-4-0-6_S12_L001_R1_001.fastq.gz	RNAseq non-stranded	paired	13630754		ERR11436222	NA	Ind-2	
+Osculum	AV-4-0-6_S12_L002_R1_001.fastq.gz	RNAseq non-stranded	paired	13705844		ERR11436223	NA	Ind-2	
+Osculum	AV-4-0-6_S12_L003_R1_001.fastq.gz	RNAseq non-stranded	paired	13734497		ERR11436224	NA	Ind-2	
+Osculum	AV-4-0-6_S12_L004_R1_001.fastq.gz	RNAseq non-stranded	paired	13492075		ERR11436225	NA	Ind-2	
+Body tissue	Av2-3-B-2_S7_L001	RNAseq non-stranded	paired	14313784		ERR11436226	NA	Ind-1	
+Body tissue	Av2-3-B-2_S7_L002	RNAseq non-stranded	paired	14330295		ERR11436227	NA	Ind-1	
+Body tissue	Av2-3-B-2_S7_L003	RNAseq non-stranded	paired	14373013		ERR11436228	NA	Ind-1	
+Body tissue	Av2-3-B-2_S7_L004	RNAseq non-stranded	paired	14123324		ERR11436229	NA	Ind-1	
+Body tissue	B1-4-2_S10_L001_R1_001.fastq.gz	RNAseq non-stranded	paired	13030893		ERR11436230	NA	Ind-4	
+Body tissue	B1-4-2_S10_L002_R1_001.fastq.gz	RNAseq non-stranded	paired	13133777		ERR11436231	NA	Ind-4	
+Body tissue	B1-4-2_S10_L003_R1_001.fastq.gz	RNAseq non-stranded	paired	13110180		ERR11436232	NA	Ind-4	
+Body tissue	B1-4-2_S10_L004_R1_001.fastq.gz	RNAseq non-stranded	paired	12937674		ERR11436233	NA	Ind-4	
+Body tissue	B2-8_S5_L001_R1_001.fastq.gz	RNAseq non-stranded	paired	9808999		ERR11436234	NA	Ind-5	
+Body tissue	B2-8_S5_L002_R1_001.fastq.gz	RNAseq non-stranded	paired	9819428		ERR11436235	NA	Ind-5	
+Body tissue	B2-8_S5_L003_R1_001.fastq.gz	RNAseq non-stranded	paired	9832730		ERR11436236	NA	Ind-5	
+Body tissue	B2-8_S5_L004_R1_001.fastq.gz	RNAseq non-stranded	paired	9657699		ERR11436237	NA	Ind-5	
 Body tissue	Avastus_100PE_RNAseq_stranded_R1.fastq.gz	RNSseq stranded	paired	66262974		ERR11439694	NA	Ind-8	
 Amphidiscella abyssalis	HEX01_AABY	RNAseq	paired	21578666 a			NIWA126030	GW40030	
 Aulocalyx serialis	HEX02_ASER	RNAseq	paired	36629939 a ; 13008386 b			NIWA126349	GW40349	
