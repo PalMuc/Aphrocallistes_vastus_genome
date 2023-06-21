@@ -1,6 +1,6 @@
 ### ***This is a data repository for***
 
-### Francis, W.; Eitel, M.; Vargas, S.; Garcia-Escudero, C. A.; Conci, N.; Deister, F.; Mah, J. L.; Guiglielmoni, N., Krebs, S.; Blum, H.; Leys, S. P.; Wörheide, G. (2023)
+### Francis, W.; Eitel, M.; Vargas, S.; Garcia-Escudero, C. A.; Conci, N.; Deister, F.; Mah, J. L.; Guiglielmoni, N., Krebs, S.; Blum, H.; Leys, S. P.; Wörheide, G. (2023) The genome of the reef-building glass sponge ***Aphrocallistes vastus*** provides insights into silica biomineralization. [Royal Society Open Science, 10(6), 230423.](https://royalsocietypublishing.org/doi/10.1098/rsos.230423) DOI: 10.1098/rsos.230423
 
 # The genome of the reef-building glass sponge *Aphrocallistes vastus* provides insights into silica biomineralization #
 
