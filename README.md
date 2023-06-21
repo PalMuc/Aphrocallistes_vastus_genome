@@ -41,5 +41,4 @@ Francis, Warren R. 1,§; Eitel, Michael 1,§; Vargas, Sergio 1; Garcia-Escudero,
 
 This work was supported by the European Union's Horizon 2020 research and innovation programme under Marie Skłodowska-Curie grant agreement no. 764840 (ITN IGNITE) and through the LMU Munich's Institutional Strategy LMUexcellent within the framework of the German Excellence Initiative to G.W., as well as through a NSERC Discovery grant (grant no. 2016-05446) to S.P.L.
 
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
