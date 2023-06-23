@@ -33,7 +33,7 @@ An iterative scaffolding was performed:
 Hi-C reads were mapped to the draft assembly using:
 
 * [bowtie2 v2.3.5.1](https://github.com/BenLangmead/bowtie2) by [Langmead and Salzberg 2012](https://doi.org/10.1038/nmeth.1923)
-* [hicstuff v2.3.0](https://github.com/koszullab/hicstuff) by [Matthey-Doret et al 2020](http://doi.org/10.5281/zenodo.4066363) with parameters `-e DpnII,HinfI --iterative`.
+* [hicstuff v2.3.0](https://github.com/koszullab/hicstuff) by [Matthey-Doret et al 2020](https://doi.org/10.1038/s41467-020-19562-7) with parameters `-e DpnII,HinfI --iterative`.
 
 The assembly was then scaffolded using [instaGRAAL v0.1.6](https://github.com/koszullab/instaGRAAL) no-opengl branch by [Baudry et al 2020](https://doi.org/10.1186/s13059-020-02041-z) with parameters `-l 4 -n 50 -c 1 -N 5` and automatically curated using `instaGRAAL-polish`.
 
