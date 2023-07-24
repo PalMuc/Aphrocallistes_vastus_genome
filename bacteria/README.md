@@ -76,4 +76,8 @@ For bin 2, the single scaffold, 987/1589 proteins (62%) could be annotated:
 
 ![blastkoala_bin2_screenshot.png](https://github.com/PalMuc/Aphrocallistes_vastus_genome/blob/main/bacteria/blastkoala_bin2_screenshot.png)
 
+![bin 2 KEGG annotation page 1](https://github.com/PalMuc/Aphrocallistes_vastus_genome/blob/main/bacteria/Aphrocallistes_vastus_bacterial_Bin2.w_kegg.p1.png)
+
+![bin 2 KEGG annotation page 2](https://github.com/PalMuc/Aphrocallistes_vastus_genome/blob/main/bacteria/Aphrocallistes_vastus_bacterial_Bin2.w_kegg.p2.png)
+
 
