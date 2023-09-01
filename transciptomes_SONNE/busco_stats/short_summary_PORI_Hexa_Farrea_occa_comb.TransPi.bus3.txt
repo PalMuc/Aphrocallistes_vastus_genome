@@ -1,0 +1,15 @@
+# BUSCO version is: 3.0.2 
+# The lineage dataset is: metazoa_odb9 (Creation date: 2016-02-13, number of species: 65, number of BUSCOs: 978)
+# To reproduce this run: python /home/cgarcia/anaconda3/envs/TransPi/bin/run_BUSCO.py -i PORI_Hexa_Farrea_occa_comb.combined.okay.fa -o PORI_Hexa_Farrea_occa_comb.TransPi.bus3 -l /home/cgarcia/test/TransPi/DBs/busco_db/metazoa_odb9/ -m transcriptome -c 8
+#
+# Summarized benchmarking in BUSCO notation for file PORI_Hexa_Farrea_occa_comb.combined.okay.fa
+# BUSCO was run in mode: transcriptome
+
+	C:84.7%[S:73.0%,D:11.7%],F:4.9%,M:10.4%,n:978
+
+	828	Complete BUSCOs (C)
+	714	Complete and single-copy BUSCOs (S)
+	114	Complete and duplicated BUSCOs (D)
+	48	Fragmented BUSCOs (F)
+	102	Missing BUSCOs (M)
+	978	Total BUSCO groups searched

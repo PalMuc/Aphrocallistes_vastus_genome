@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.5 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2019-11-20, number of species: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file PORI_Hexa_Regadrella_okinoseana_comb.combined.okay.fa
+# BUSCO was run in mode: transcriptome
+
+	***** Results: *****
+
+	C:81.1%[S:61.6%,D:19.5%],F:4.0%,M:14.9%,n:954	   
+	774	Complete BUSCOs (C)			   
+	588	Complete and single-copy BUSCOs (S)	   
+	186	Complete and duplicated BUSCOs (D)	   
+	38	Fragmented BUSCOs (F)			   
+	142	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   

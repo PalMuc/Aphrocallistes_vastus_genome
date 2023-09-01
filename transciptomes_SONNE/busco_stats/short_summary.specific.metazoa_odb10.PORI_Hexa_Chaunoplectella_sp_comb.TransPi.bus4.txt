@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.5 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2019-11-20, number of species: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file PORI_Hexa_Chaunoplectella_sp_comb.combined.okay.fa
+# BUSCO was run in mode: transcriptome
+
+	***** Results: *****
+
+	C:71.7%[S:45.8%,D:25.9%],F:10.1%,M:18.2%,n:954	   
+	684	Complete BUSCOs (C)			   
+	437	Complete and single-copy BUSCOs (S)	   
+	247	Complete and duplicated BUSCOs (D)	   
+	96	Fragmented BUSCOs (F)			   
+	174	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   

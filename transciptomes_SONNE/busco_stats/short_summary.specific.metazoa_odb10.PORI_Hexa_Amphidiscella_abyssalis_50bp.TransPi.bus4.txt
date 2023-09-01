@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.5 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2019-11-20, number of species: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file PORI_Hexa_Amphidiscella_abyssalis_50bp.combined.okay.fa
+# BUSCO was run in mode: transcriptome
+
+	***** Results: *****
+
+	C:37.9%[S:34.7%,D:3.2%],F:20.4%,M:41.7%,n:954	   
+	362	Complete BUSCOs (C)			   
+	331	Complete and single-copy BUSCOs (S)	   
+	31	Complete and duplicated BUSCOs (D)	   
+	195	Fragmented BUSCOs (F)			   
+	397	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   

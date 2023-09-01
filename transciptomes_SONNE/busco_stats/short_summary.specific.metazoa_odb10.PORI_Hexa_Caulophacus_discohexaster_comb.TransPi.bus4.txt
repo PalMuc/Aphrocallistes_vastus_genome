@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.5 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2019-11-20, number of species: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file PORI_Hexa_Caulophacus_discohexaster_comb.combined.okay.fa
+# BUSCO was run in mode: transcriptome
+
+	***** Results: *****
+
+	C:74.2%[S:54.1%,D:20.1%],F:7.0%,M:18.8%,n:954	   
+	708	Complete BUSCOs (C)			   
+	516	Complete and single-copy BUSCOs (S)	   
+	192	Complete and duplicated BUSCOs (D)	   
+	67	Fragmented BUSCOs (F)			   
+	179	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   

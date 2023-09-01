@@ -1,0 +1,15 @@
+# BUSCO version is: 3.0.2 
+# The lineage dataset is: metazoa_odb9 (Creation date: 2016-02-13, number of species: 65, number of BUSCOs: 978)
+# To reproduce this run: python /home/cgarcia/anaconda3/envs/TransPi/bin/run_BUSCO.py -i PORI_Hexa_Amphidiscella_abyssalis_50bp.combined.okay.fa -o PORI_Hexa_Amphidiscella_abyssalis_50bp.TransPi.bus3 -l /home/cgarcia/test/TransPi/DBs/busco_db/metazoa_odb9/ -m transcriptome -c 8
+#
+# Summarized benchmarking in BUSCO notation for file PORI_Hexa_Amphidiscella_abyssalis_50bp.combined.okay.fa
+# BUSCO was run in mode: transcriptome
+
+	C:49.4%[S:45.1%,D:4.3%],F:21.7%,M:28.9%,n:978
+
+	483	Complete BUSCOs (C)
+	441	Complete and single-copy BUSCOs (S)
+	42	Complete and duplicated BUSCOs (D)
+	212	Fragmented BUSCOs (F)
+	283	Missing BUSCOs (M)
+	978	Total BUSCO groups searched

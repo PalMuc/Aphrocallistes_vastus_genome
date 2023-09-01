@@ -1,0 +1,15 @@
+# BUSCO version is: 3.0.2 
+# The lineage dataset is: metazoa_odb9 (Creation date: 2016-02-13, number of species: 65, number of BUSCOs: 978)
+# To reproduce this run: python /home/cgarcia/anaconda3/envs/TransPi/bin/run_BUSCO.py -i PORI_Hexa_Chaunoplectella_sp_comb.combined.okay.fa -o PORI_Hexa_Chaunoplectella_sp_comb.TransPi.bus3 -l /home/cgarcia/test/TransPi/DBs/busco_db/metazoa_odb9/ -m transcriptome -c 8
+#
+# Summarized benchmarking in BUSCO notation for file PORI_Hexa_Chaunoplectella_sp_comb.combined.okay.fa
+# BUSCO was run in mode: transcriptome
+
+	C:78.7%[S:48.2%,D:30.5%],F:10.3%,M:11.0%,n:978
+
+	769	Complete BUSCOs (C)
+	471	Complete and single-copy BUSCOs (S)
+	298	Complete and duplicated BUSCOs (D)
+	101	Fragmented BUSCOs (F)
+	108	Missing BUSCOs (M)
+	978	Total BUSCO groups searched

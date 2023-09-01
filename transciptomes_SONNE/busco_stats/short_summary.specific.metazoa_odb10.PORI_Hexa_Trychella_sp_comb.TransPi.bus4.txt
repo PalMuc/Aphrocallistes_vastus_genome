@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.5 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2019-11-20, number of species: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file PORI_Hexa_Trychella_sp_comb.combined.okay.fa
+# BUSCO was run in mode: transcriptome
+
+	***** Results: *****
+
+	C:76.2%[S:65.1%,D:11.1%],F:5.8%,M:18.0%,n:954	   
+	727	Complete BUSCOs (C)			   
+	621	Complete and single-copy BUSCOs (S)	   
+	106	Complete and duplicated BUSCOs (D)	   
+	55	Fragmented BUSCOs (F)			   
+	172	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   

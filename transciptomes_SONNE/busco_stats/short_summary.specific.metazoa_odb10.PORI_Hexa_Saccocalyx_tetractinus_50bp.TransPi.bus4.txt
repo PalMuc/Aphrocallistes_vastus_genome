@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.5 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2019-11-20, number of species: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file PORI_Hexa_Saccocalyx_tetractinus_50bp.combined.okay.fa
+# BUSCO was run in mode: transcriptome
+
+	***** Results: *****
+
+	C:40.9%[S:37.9%,D:3.0%],F:19.2%,M:39.9%,n:954	   
+	391	Complete BUSCOs (C)			   
+	362	Complete and single-copy BUSCOs (S)	   
+	29	Complete and duplicated BUSCOs (D)	   
+	183	Fragmented BUSCOs (F)			   
+	380	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   

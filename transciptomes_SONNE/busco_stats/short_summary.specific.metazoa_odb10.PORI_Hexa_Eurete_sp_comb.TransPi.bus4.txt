@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.5 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2019-11-20, number of species: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file PORI_Hexa_Eurete_sp_comb.combined.okay.fa
+# BUSCO was run in mode: transcriptome
+
+	***** Results: *****
+
+	C:80.4%[S:69.2%,D:11.2%],F:3.4%,M:16.2%,n:954	   
+	767	Complete BUSCOs (C)			   
+	660	Complete and single-copy BUSCOs (S)	   
+	107	Complete and duplicated BUSCOs (D)	   
+	32	Fragmented BUSCOs (F)			   
+	155	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   
