@@ -152,14 +152,14 @@ manhplot_target_names = c("Avas.s006.g1066.i1", "Avas.s006.g1068.i1", "Avas.s001
                           "Avas.s019.g225.i1", "Avas.s019.g227.i1", # DUOX and DUOXA
                           "Avas.s001.g868.i1", # bZIP TF
                           "Avas.s005.g703.i1", # the one actin out of 43
-                          "Avas.s007.g465.i1", # cluster_00633
+                          "Avas.s007.g465.i1", # cluster_00633, now hexaxilin
                           "Avas.s014.g646.i1", #protease
-                          "Avas.s015.g491.i1" ) # cluster_00633
+                          "Avas.s015.g491.i1" ) # cluster_00633, now hexaxilin
 
 avas_scaf_dge_df_short = filter(avas_scaf_dge_df, SeqName %in% manhplot_target_names)
 avas_scaf_dge_df_short
 show_functions = c("bZIP", "protease", "COL", "COL", "P4H", "TIL", "actin", "protease", "COL", "COL", 
-                   "aquaporin-9", "cluster_00633", "P3H", "glassin", "protease", "PLOD", "cluster_00633", "DUOX", "DUOXA")
+                   "aquaporin-9", "hexaxilin", "P3H", "glassin", "protease", "PLOD", "hexaxilin", "DUOX", "DUOXA")
 
 point_color = rep("#00000011", length(avas_scaf_dge_df$padj))
 is_pos_deg = avas_scaf_dge_df$padj > 4 & avas_scaf_dge_df$log2foldchange > 0
