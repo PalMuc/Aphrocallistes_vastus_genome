@@ -6,7 +6,7 @@ This repository includes all the code used to analyze the genome of *Aphrocallis
 
 **Most relevant files for download are in the [Releases tab](https://github.com/PalMuc/Aphrocallistes_vastus_genome/releases), including the assembly, gene annotation as GFF, transcripts, and proteins.** These files can also be found individually in the [assembly folder](https://github.com/PalMuc/Aphrocallistes_vastus_genome/tree/main/assembly).
 
-**Predicted proteins of the 14 additional Hexactinellid transcriptomes are in the [transciptomes_SONNE folder](https://github.com/PalMuc/Aphrocallistes_vastus_genome/tree/main/transciptomes_SONNE).**
+**Bulk downloads of the nucleotides or predicted proteins of the 14 additional Hexactinellid transcriptomes are in the [Releases tab](https://github.com/PalMuc/Aphrocallistes_vastus_genome/releases).** Individual files for the predicted proteins of the 14 additional Hexactinellid transcriptomes are in the [transciptomes_SONNE folder](https://github.com/PalMuc/Aphrocallistes_vastus_genome/tree/main/transciptomes_SONNE).
 
 ### Other folders include: ###
 
