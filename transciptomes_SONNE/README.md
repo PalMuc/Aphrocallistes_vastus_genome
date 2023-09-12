@@ -1,5 +1,7 @@
 # Additional hexactinellida transcriptomes #
 
+Species are identified by [Dohrmann et al 2023](https://peerj.com/articles/15017/), phylogenetic data of that study are available [at the repo here](https://github.com/PalMuc/SONNE_Hexactinellida).
+
 | Species | Abbreviation | N reads | voucher | sample ID |
 | :--- | :--- | --- | --- | --- |
 | *Amphidiscella abyssalis* | HEX01_AABY | 21578666 a | NIWA126030 | GW40030 | 
